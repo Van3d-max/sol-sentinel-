@@ -6,3 +6,11 @@
 01/11 19:46:18 INFO       (-0.5 r0.7 lessico) Suspected Binance Hacker Moves $46.4 Million in Solana, Swaps It for Bitcoin - bloomingbit
 01/11 19:46:18 INFO    -> ATTENDI: trend giornaliero non rialzista
 01/11 19:46:18 INFO    Agente fermato.
+01/11 20:01:26 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+01/11 20:01:27 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+01/11 20:01:27 INFO    Prezzo 84.2500 | medie 89.5420/95.4823 trend GIU | notizie +0.04 su 60 (60 nuove, 0 da Claude) | 0.5s
+01/11 20:01:27 INFO       (+0.7 r0.6 lessico) Ondo Launches BlackRock-Developed Tokenized Portfolios on Solana - KuCoin
+01/11 20:01:27 INFO       (-0.3 r0.8 lessico) Solana falls below $107 amid heavy ETF outflows and weak trading volume, risking further decline. - Pluang
+01/11 20:01:27 INFO       (+0.5 r0.8 lessico) ZetaChain Reveals Solana’s Alpenglow Upgrade - Cryptonews.net
+01/11 20:01:27 INFO    -> ATTENDI: trend giornaliero non rialzista
+01/11 20:01:27 INFO    Agente fermato.
