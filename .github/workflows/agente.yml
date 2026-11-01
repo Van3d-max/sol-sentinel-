@@ -26,7 +26,7 @@ jobs:
         run: |
           git config user.name "agente-bot"
           git config user.email "agente-bot@users.noreply.github.com"
-          git add -f decisioni_agente.csv operazioni_agente.csv stato_lenta_paper.json cache_notizie.json agente.log 2>/dev/null || true
+          for f in decisioni_agente.csv operazioni_agente.csv stato_lenta_paper.json cache_notizie.json agente.log; do if [ -f "$f" ]; then git add -f "$f"; fi; done
           git commit -m "Controllo $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
           git pull --rebase
           git push
