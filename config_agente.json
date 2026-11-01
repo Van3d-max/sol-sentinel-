@@ -25,13 +25,14 @@
       "\\bSOL\\b"
     ],
     "query_gdelt": "solana",
-    "gdelt": true,
+    "gdelt": false,
     "feed_rss": [
       "https://www.coindesk.com/arc/outboundfeeds/rss/",
       "https://cointelegraph.com/rss",
       "https://decrypt.co/feed",
       "https://bitcoinmagazine.com/.rss/full/",
-      "https://cryptoslate.com/feed/"
+      "https://cryptoslate.com/feed/",
+      "https://news.google.com/rss/search?q=solana&hl=en-US&gl=US&ceid=US:en"
     ],
     "finestra_ore": 48,
     "emivita_ore": 8,
