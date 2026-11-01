@@ -1,0 +1,8 @@
+01/11 22:56:33 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+01/11 22:56:34 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+01/11 22:56:34 INFO    Prezzo 84.2000 | medie 84.4300/84.4314 trend GIU | notizie +0.05 su 30 (9 nuove, 0 da Claude) | 0.7s
+01/11 22:56:34 INFO       (+0.3 r0.6 lessico) Pump.fun Adds Polygon Support as Memecoin Platform Widens Multichain Push Beyond Solana - Cryptonews.net
+01/11 22:56:34 INFO       (+0.7 r0.6 lessico) Ondo Launches BlackRock-Developed Tokenized Portfolios on Solana - KuCoin
+01/11 22:56:34 INFO       (+0.1 r0.8 lessico) Solana Price Prediction: SOL Holds $94 as Traders Target $120 and Pepeto Presale Gains Momentum - TechBullion
+01/11 22:56:34 INFO    -> ATTENDI: trend giornaliero non rialzista
+01/11 22:56:34 INFO    Agente fermato.
