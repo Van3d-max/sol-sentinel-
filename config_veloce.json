@@ -1,0 +1,58 @@
+{
+  "nome": "veloce",
+  "coppia": "SOL-EUR",
+  "puntata_eur": 100.0,
+  "commissione_taker": 0.006,
+  "trend": {
+    "candela": "FIFTEEN_MINUTE",
+    "secondi": 900,
+    "media_veloce": 9,
+    "media_lenta": 21,
+    "stop_atr": 2.0,
+    "take_profit_atr": 3.0,
+    "atr_periodo": 14
+  },
+  "regole": {
+    "soglia_ingresso": 0.0,
+    "soglia_uscita": -0.5,
+    "max_ingressi_giorno": 4,
+    "pausa_dopo_uscita_ore": 1,
+    "max_perdita_giornaliera_eur": 10.0
+  },
+  "notizie": {
+    "moneta": "Solana (SOL)",
+    "parole_chiave": [
+      "solana",
+      "\\bSOL\\b"
+    ],
+    "query_gdelt": "solana",
+    "gdelt": true,
+    "feed_rss": [
+      "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "https://cointelegraph.com/rss",
+      "https://decrypt.co/feed",
+      "https://bitcoinmagazine.com/.rss/full/",
+      "https://cryptoslate.com/feed/"
+    ],
+    "finestra_ore": 24,
+    "emivita_ore": 3,
+    "prudenza": 0.5,
+    "shock_ore": 3,
+    "shock_rilevanza": 0.6,
+    "shock_punteggio": -0.7,
+    "usa_claude": true,
+    "modello": "claude-haiku-5-5"
+  },
+  "dibattito": {
+    "attivo": true,
+    "modello": "claude-haiku-5-5"
+  },
+  "intervallo_minuti": 15,
+  "sl_offset_limite_pct": 1.0,
+  "fuso_orario": "Europe/Rome",
+  "file_decisioni": "decisioni_veloce.csv",
+  "file_operazioni": "operazioni_veloce.csv",
+  "file_log": "agente_veloce.log",
+  "file_cache": "cache_notizie.json",
+  "file_chiave_api": "cdp_api_key.json"
+}

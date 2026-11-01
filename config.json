@@ -1,0 +1,30 @@
+{
+  "coppie": ["BTC-EUR", "ETH-EUR", "SOL-EUR"],
+
+  "puntata_eur": 6.0,
+  "max_posizioni_aperte": 1,
+  "max_operazioni_giorno": 3,
+  "max_perdita_giornaliera_eur": 1.0,
+
+  "strategia": {
+    "sma_lunga": 200,
+    "sma_veloce": 20,
+    "sma_media": 50,
+    "rsi_periodo": 14,
+    "rsi_soglia": 40,
+    "atr_periodo": 14,
+    "sl_atr": 1.5,
+    "tp_atr": 3.0,
+    "min_tp_su_commissioni": 0
+  },
+
+  "commissione_taker": 0.006,
+  "commissione_maker": 0.004,
+  "sl_offset_limite_pct": 0.5,
+
+  "intervallo_controllo_sec": 20,
+  "fuso_orario": "Europe/Rome",
+  "file_operazioni": "operazioni.csv",
+  "file_log": "bot.log",
+  "file_chiave_api": "cdp_api_key.json"
+}
