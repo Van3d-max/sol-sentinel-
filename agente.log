@@ -1,0 +1,8 @@
+01/11 19:46:18 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+01/11 19:46:18 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+01/11 19:46:18 INFO    Prezzo 84.0600 | medie 89.5420/95.4823 trend GIU | notizie +0.01 su 40 (40 nuove, 0 da Claude) | 0.6s
+01/11 19:46:18 INFO       (-1.0 r0.7 lessico) Binance Hacker Moves $96M in Stolen Solana to Bitcoin as Laundering Efforts Continue - Brave New Coin
+01/11 19:46:18 INFO       (+1.0 r0.7 lessico) Ondo Launches BlackRock-Developed Tokenized Portfolios on Solana - KuCoin
+01/11 19:46:18 INFO       (-0.5 r0.7 lessico) Suspected Binance Hacker Moves $46.4 Million in Solana, Swaps It for Bitcoin - bloomingbit
+01/11 19:46:18 INFO    -> ATTENDI: trend giornaliero non rialzista
+01/11 19:46:18 INFO    Agente fermato.
