@@ -171,6 +171,7 @@ class Agente:
         self.nuovo_giorno()
         t0 = time.time()
         voci, fonti = nz.raccogli(cfg, log.info)
+        log.info("Fonti: %s", ", ".join("%s=%s" % (k, v) for k, v in fonti.items()))
         voci, nuove, da_claude = nz.valuta(voci, cfg, self.cache, log.info)
         agg = nz.aggrega(voci, cfg)
         tr = cfg["trend"]
