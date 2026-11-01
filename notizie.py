@@ -26,15 +26,66 @@ import requests
 UA = {"User-Agent": "Mozilla/5.0 (agente-notizie)"}
 ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
 
-POSITIVE = ["approve", "approval", "approved", "etf", "partnership", "partners", "upgrade",
-            "record", "all-time high", "ath", "surge", "surges", "soar", "soars", "rally",
-            "rallies", "inflow", "inflows", "adoption", "adopts", "launch", "launches",
-            "bullish", "breakout", "gains", "jumps", "integrat", "institutional", "buys"]
-NEGATIVE = ["hack", "hacked", "exploit", "outage", "halt", "halted", "down for", "lawsuit",
-            "sues", "sued", "ban", "bans", "crash", "crashes", "plunge", "plunges", "dump",
-            "outflow", "outflows", "bearish", "delist", "vulnerability", "liquidation",
-            "liquidations", "fraud", "scam", "drain", "drained", "stolen", "investigation",
-            "falls", "drops", "slump", "sell-off", "selloff", "rejects", "rejected", "delay"]
+# ------------------------------------------------------------------ dizionario (versione 2)
+LESSICO_VERSIONE = 2
+
+# parola o frase -> peso. "*" alla fine = vale anche per le parole che iniziano cosi'.
+POSITIVE = {
+    "etf approval": 1.0, "approves": 0.9, "approved": 0.9, "approval": 0.7, "greenlight*": 0.8,
+    "staking etf": 0.8, "spot etf": 0.6, "etf": 0.3, "inflow*": 0.6, "partnership": 0.6,
+    "partners with": 0.6, "integrat*": 0.5, "adopt*": 0.6, "launches on": 0.5, "listing": 0.4,
+    "lists": 0.4, "upgrade": 0.5, "firedancer": 0.5, "mainnet": 0.4, "treasury": 0.5,
+    "accumulat*": 0.5, "buys": 0.4, "bought": 0.4, "institutional": 0.4, "record": 0.3,
+    "all-time high": 0.4, "milestone": 0.3, "wins": 0.4, "settle*": 0.4, "dismiss*": 0.5,
+    "launch*": 0.3, "tokeniz*": 0.35, "adds": 0.3, "expands": 0.3, "backs": 0.3, "invests": 0.4,
+}
+NEGATIVE = {
+    "outage": 1.0, "halt*": 1.0, "goes down": 0.8, "went down": 0.8, "exploit*": 0.9,
+    "hack": 0.8, "hacked": 0.9, "drained": 0.9, "rug pull": 0.8, "vulnerabilit*": 0.7,
+    "bug": 0.4, "lawsuit": 0.6, "sues": 0.6, "sued": 0.6, "charges": 0.6, "fraud": 0.7,
+    "delist*": 0.9, "ban": 0.7, "bans": 0.7, "banned": 0.7, "investigat*": 0.5,
+    "outflow*": 0.5, "rejects": 0.7, "rejected": 0.7, "rejection": 0.7, "delay*": 0.4,
+    "postpone*": 0.4, "congestion": 0.5, "unlock": 0.4, "sell pressure": 0.4,
+}
+# movimenti di prezzo gia' avvenuti: notizia "vecchia" per il mercato, peso basso
+PREZZO = {
+    "surge*": 0.25, "soar*": 0.25, "rall*": 0.25, "jump*": 0.2, "gain*": 0.15, "climb*": 0.15,
+    "plunge*": -0.25, "crash*": -0.3, "tumbl*": -0.25, "drop*": -0.15, "fall*": -0.15,
+    "slump*": -0.25, "dump*": -0.25, "sell-off": -0.25, "selloff": -0.25,
+}
+# la notizia parla d'altro: Solana e' solo citata
+ALTRI_SOGGETTI = ["binance", "coinbase", "bybit", "kraken", "okx", "ftx", "bitcoin", "btc",
+                  "ethereum", "eth", "xrp", "ripple", "tether", "usdt", "circle", "dogecoin",
+                  "north korea", "lazarus", "hacker", "hackers", "scammer", "exploiter"]
+RICICLAGGIO = ["launder*", "moves", "moved", "swaps", "swapped", "bridges", "bridged",
+               "transfers", "transferred", "funnel*", "converts"]
+RECUPERO = ["restored", "resumes", "resumed", "back online", "recover*", "denies", "denied",
+            "no evidence", "unaffected", "not affected", "fixed", "patched", "returns"]
+# problema di un'app o di un progetto SU Solana, non della rete Solana
+ECOSISTEMA = ["protocol", "dex", "wallet", "app", "project", "memecoin", "meme coin", "token",
+              "defi", "platform", "exchange", "bridge"]
+SPECULATIVO = ["could", "may", "might", "prediction", "forecast", "will ", "can ", "should",
+               "analyst says", "opinion", "price analysis", "here's why", "what's next"]
+
+
+def _re(termini):
+    parti = []
+    for t in termini:
+        stella = t.endswith("*")
+        t = re.escape(t.rstrip("*"))
+        parti.append(r"\b" + t + (r"\w*" if stella else r"\b"))
+    return re.compile("|".join(parti), re.I)
+
+
+_RE_POS = {k: _re([k]) for k in POSITIVE}
+_RE_NEG = {k: _re([k]) for k in NEGATIVE}
+_RE_PREZZO = {k: _re([k]) for k in PREZZO}
+_RE_ALTRI = _re(ALTRI_SOGGETTI)
+_RE_RICICLAGGIO = _re(RICICLAGGIO)
+_RE_RECUPERO = _re(RECUPERO)
+_RE_ECOSISTEMA = _re(ECOSISTEMA)
+_RE_FONTE = re.compile(r"\s+[-|]\s+[^-|]{2,40}$")       # " - CoinDesk" alla fine del titolo
+_RE_SPEC = re.compile("|".join(re.escape(x) for x in SPECULATIVO), re.I)
 
 
 def _testo(el):
@@ -143,12 +194,41 @@ def raccogli(cfg, log=print):
 # ------------------------------------------------------------------ valutazione
 
 def punteggio_lessico(titolo, testo, coin_re):
-    t = (titolo + " " + testo).lower()
-    p = sum(1 for w in POSITIVE if w in t)
-    m = sum(1 for w in NEGATIVE if w in t)
-    s = max(-1.0, min(1.0, (p - m) / 2.0))
-    r = 0.7 if coin_re.search(titolo) else 0.35
-    return {"s": round(s, 2), "r": r, "m": "lessico"}
+    """Dizionario v2: pesa le parole, capisce chi e' il soggetto, i recuperi e il riciclaggio."""
+    t = _RE_FONTE.sub("", titolo)
+    pos = sum(w for k, w in POSITIVE.items() if _RE_POS[k].search(t))
+    neg = sum(w for k, w in NEGATIVE.items() if _RE_NEG[k].search(t))
+    prezzo = sum(w for k, w in PREZZO.items() if _RE_PREZZO[k].search(t))
+    if not (pos or neg or prezzo) and testo:            # niente nel titolo: guarda il sommario, piano
+        pos = 0.5 * sum(w for k, w in POSITIVE.items() if _RE_POS[k].search(testo))
+        neg = 0.5 * sum(w for k, w in NEGATIVE.items() if _RE_NEG[k].search(testo))
+
+    # rilevanza: Solana e' il soggetto del titolo?
+    m = coin_re.search(t)
+    altro = _RE_ALTRI.search(t)
+    if not m:
+        r = 0.3
+    elif altro and altro.start() < m.start():
+        r = 0.35                                         # prima si parla di altro (es. "Binance hacker ... Solana")
+    elif m.start() <= len(t) * 0.6:
+        r = 0.8
+    else:
+        r = 0.55
+
+    if neg and _RE_RECUPERO.search(t):                   # "rete ripristinata dopo l'outage"
+        neg, pos = 0.0, pos + 0.2
+    if neg and altro and _RE_RICICLAGGIO.search(t):      # fondi rubati altrove che passano su Solana
+        neg *= 0.2
+    elif neg and altro and (not m or altro.start() < m.start()):
+        neg *= 0.4                                       # il problema e' di un altro
+    elif neg and _RE_ECOSISTEMA.search(t):
+        neg = min(neg, 1.0) * 0.6                        # colpito un progetto su Solana, non la rete
+
+    s = pos - neg + prezzo
+    if t.strip().endswith("?") or _RE_SPEC.search(t):
+        s *= 0.5                                         # ipotesi, previsioni, opinioni
+    s = max(-1.0, min(1.0, s))
+    return {"s": round(s, 2), "r": r, "m": "lessico", "v": LESSICO_VERSIONE}
 
 
 def chiedi_claude(chiave, modello, sistema, utente, max_tokens=1500, timeout=45):
@@ -208,10 +288,20 @@ def valuta(voci, cfg, cache, log=print):
     """Aggiunge s (sentiment) e r (rilevanza) a ogni voce, chiamando Claude solo per le nuove."""
     n = cfg["notizie"]
     coin_re = re.compile("|".join(n["parole_chiave"]), re.I)
-    nuove = [v for v in voci if v["id"] not in cache.d]
     chiave = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+    usa_claude = bool(chiave) and n.get("usa_claude", True)
+
+    def da_valutare(v):
+        c = cache.d.get(v["id"])
+        if c is None:
+            return True
+        if c.get("m") == "lessico":                      # rivaluta: dizionario nuovo o Claude ora disponibile
+            return usa_claude or c.get("v") != LESSICO_VERSIONE
+        return False
+
+    nuove = [v for v in voci if da_valutare(v)]
     risultati = {}
-    if nuove and chiave and n.get("usa_claude", True):
+    if nuove and usa_claude:
         for i in range(0, len(nuove), 40):  # al massimo 40 titoli per chiamata
             blocco = nuove[i:i + 40]
             try:
