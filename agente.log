@@ -30,3 +30,11 @@
 02/11 05:49:57 INFO       (+0.1 r0.8 lessico) Where is Solana heading next after the highest weekly withdrawals since their launch? - FXStreet
 02/11 05:49:57 INFO    -> ATTENDI: trend giornaliero non rialzista
 02/11 05:49:57 INFO    Agente fermato.
+02/11 15:35:17 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+02/11 15:35:18 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=40, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+02/11 15:35:18 INFO    Prezzo 83.8200 | medie 88.7830/94.7893 trend GIU | notizie -0.01 su 80 (25 nuove, 0 da Claude) | 0.6s
+02/11 15:35:18 INFO       (-0.8 r0.8 lessico) Solana marks 1,000 days without a network halt as activity climbs - Crypto Briefing
+02/11 15:35:18 INFO       (+0.7 r0.8 lessico) Solana price pressured as spot ETF outflows hit record - ad-hoc-news.de
+02/11 15:35:18 INFO       (-0.7 r0.8 lessico) Solana validators told to act immediately as critical Linux vulnerability emerges
+02/11 15:35:18 INFO    -> ATTENDI: trend giornaliero non rialzista
+02/11 15:35:18 INFO    Agente fermato.
