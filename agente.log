@@ -38,3 +38,11 @@
 02/11 15:35:18 INFO       (-0.7 r0.8 lessico) Solana validators told to act immediately as critical Linux vulnerability emerges
 02/11 15:35:18 INFO    -> ATTENDI: trend giornaliero non rialzista
 02/11 15:35:18 INFO    Agente fermato.
+02/11 23:25:18 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+02/11 23:25:19 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+02/11 23:25:19 INFO    Prezzo 82.0000 | medie 88.7830/94.7893 trend GIU | notizie -0.03 su 82 (21 nuove, 0 da Claude) | 0.7s
+02/11 23:25:19 INFO       (-0.9 r0.8 lessico) Solana validators hacked, $135K stolen and laun... - Pluang
+02/11 23:25:19 INFO       (-1.0 r0.8 lessico) Solana Hits 1,000 Days Without a Network Halt, Erasing Its Outage Reputation - BigGo Finance
+02/11 23:25:19 INFO       (+0.9 r0.6 lessico) Securitize Launches 13 New Tokenized Stocks on Solana, Expands Offering to 25 - Cryptonews.net
+02/11 23:25:19 INFO    -> ATTENDI: trend giornaliero non rialzista
+02/11 23:25:19 INFO    Agente fermato.
