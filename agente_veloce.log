@@ -6,3 +6,11 @@
 01/11 22:56:34 INFO       (+0.1 r0.8 lessico) Solana Price Prediction: SOL Holds $94 as Traders Target $120 and Pepeto Presale Gains Momentum - TechBullion
 01/11 22:56:34 INFO    -> ATTENDI: trend giornaliero non rialzista
 01/11 22:56:34 INFO    Agente fermato.
+02/11 02:06:37 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+02/11 02:06:37 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+02/11 02:06:37 INFO    Prezzo 84.9600 | medie 84.6778/84.5076 trend SU | notizie -0.06 su 52 (8 nuove, 0 da Claude) | 0.8s
+02/11 02:06:37 INFO       (-0.7 r0.8 lessico) JUST IN: Anza urges Solana $Solana (SOL.CC)$ validators to act on a critical Linux kernel vulnerability - Moom
+02/11 02:06:37 INFO       (-0.3 r0.3 lessico) THORChain halts swaps after block reorg bug, slowing Binance hackers
+02/11 02:06:37 INFO       (-0.3 r0.3 lessico) Binance hack funds worth 670 billion won move to Solana after 1,000 wallets, 3,000 deposits - 디지털투데이
+02/11 02:06:37 INFO    -> ATTENDI: notizia shock: JUST IN: Anza urges Solana $Solana (SOL.CC)$ validators to act on a critical Lin
+02/11 02:06:37 INFO    Agente fermato.
