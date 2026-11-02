@@ -22,3 +22,11 @@
 01/11 23:29:41 INFO       (-0.3 r0.8 lessico) Solana falls below $107 amid heavy ETF outflows and weak trading volume, risking further decline. - Pluang
 01/11 23:29:41 INFO    -> ATTENDI: trend giornaliero non rialzista
 01/11 23:29:41 INFO    Agente fermato.
+02/11 05:49:56 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+02/11 05:49:56 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=59, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+02/11 05:49:57 INFO    Prezzo 84.9300 | medie 88.7830/94.7893 trend GIU | notizie +0.04 su 47 (4 nuove, 0 da Claude) | 0.9s
+02/11 05:49:57 INFO       (+0.6 r0.8 lessico) Base/Solana Smart Money memecoin inflows, last 24h: Collecte - KuCoin
+02/11 05:49:57 INFO       (-0.7 r0.8 lessico) JUST IN: Anza urges Solana $Solana (SOL.CC)$ validators to act on a critical Linux kernel vulnerability - Moom
+02/11 05:49:57 INFO       (+0.1 r0.8 lessico) Where is Solana heading next after the highest weekly withdrawals since their launch? - FXStreet
+02/11 05:49:57 INFO    -> ATTENDI: trend giornaliero non rialzista
+02/11 05:49:57 INFO    Agente fermato.
