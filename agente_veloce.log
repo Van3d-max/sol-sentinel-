@@ -22,3 +22,11 @@
 02/11 09:26:45 INFO       (+0.3 r0.8 lessico) Solana price stays under pressure as payments infrastructure expands - ad-hoc-news.de
 02/11 09:26:45 INFO    -> ATTENDI: trend giornaliero non rialzista
 02/11 09:26:45 INFO    Agente fermato.
+02/11 19:40:47 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+02/11 19:40:47 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+02/11 19:40:47 INFO    Prezzo 81.1800 | medie 82.2167/83.0405 trend GIU | notizie -0.01 su 60 (22 nuove, 0 da Claude) | 0.7s
+02/11 19:40:47 INFO       (-0.8 r0.8 lessico) Solana Validator Hack Exposes Five Operators as $135,000 in Crypto Flows Into Tornado Cash - CryptoRank
+02/11 19:40:47 INFO       (-0.9 r0.8 lessico) Solana validators hacked, $135K stolen and laun... - Pluang
+02/11 19:40:47 INFO       (+1.0 r0.8 lessico) Solana price pressured as spot ETF outflows reach post-launch record - ad-hoc-news.de
+02/11 19:40:47 INFO    -> ATTENDI: trend giornaliero non rialzista
+02/11 19:40:47 INFO    Agente fermato.
