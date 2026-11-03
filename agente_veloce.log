@@ -55,3 +55,11 @@
 03/11 16:48:02 INFO       (+0.3 r0.8 lessico) 1win launches $1WIN token on Solana after $61 million public sale - Finbold
 03/11 16:48:02 INFO    -> COMPRA: trend su + notizie +0.04; dibattito disattivato
 03/11 16:48:02 INFO    Agente fermato.
+03/11 22:10:55 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+03/11 22:10:56 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+03/11 22:10:56 INFO    Prezzo 83.5600 | medie 83.5133/83.4429 trend SU | notizie +0.09 su 53 (21 nuove, 0 da Claude) | 0.8s
+03/11 22:10:56 INFO       (+0.3 r0.8 lessico) Aptos joins Solana and Ethereum in Bullish’s tokenized stock plan - roundtable.io
+03/11 22:10:56 INFO       (+0.3 r0.8 lessico) Seeker: Solana Mobile launches daily SKR buy and burn program - 03 Nov 2026 - TradingView
+03/11 22:10:56 INFO       (+0.3 r0.8 lessico) Bullish Picks Solana, Aptos and Ethereum for Tokenized Shares - The Defiant
+03/11 22:10:56 INFO    -> TIENI: trend su, notizie +0.09, stop 82.4157
+03/11 22:10:56 INFO    Agente fermato.
