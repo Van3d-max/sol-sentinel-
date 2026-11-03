@@ -46,3 +46,11 @@
 02/11 23:25:19 INFO       (+0.9 r0.6 lessico) Securitize Launches 13 New Tokenized Stocks on Solana, Expands Offering to 25 - Cryptonews.net
 02/11 23:25:19 INFO    -> ATTENDI: trend giornaliero non rialzista
 02/11 23:25:19 INFO    Agente fermato.
+03/11 06:31:57 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+03/11 06:31:58 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+03/11 06:31:58 INFO    Prezzo 81.9800 | medie 87.8130/93.9803 trend GIU | notizie +0.01 su 75 (3 nuove, 0 da Claude) | 0.8s
+03/11 06:31:58 INFO       (+0.9 r0.8 lessico) Akash Approves Chain Migration to Solana! 97% Community Vote in Favor, Two-Year Decentralized Compute Relocati
+03/11 06:31:58 INFO       (-1.0 r0.8 lessico) Solana Hits 1,000 Days Without a Network Halt, Erasing Its Outage Reputation - BigGo Finance
+03/11 06:31:58 INFO       (-0.6 r0.8 lessico) Solana Mainnet Beta Reaches 1,000 Days Without a Full Halt - www.tokenpost.com
+03/11 06:31:58 INFO    -> ATTENDI: trend giornaliero non rialzista
+03/11 06:31:58 INFO    Agente fermato.
