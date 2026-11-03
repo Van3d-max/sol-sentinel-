@@ -54,6 +54,6 @@
   "file_decisioni": "decisioni_veloce.csv",
   "file_operazioni": "operazioni_veloce.csv",
   "file_log": "agente_veloce.log",
-  "file_cache": "cache_notizie.json",
+  "file_cache": "cache_notizie_veloce.json",
   "file_chiave_api": "cdp_api_key.json"
 }
