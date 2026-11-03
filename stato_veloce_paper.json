@@ -1,23 +1,8 @@
 {
-  "pos": {
-    "apertura": "2026-11-03T02:47:27+01:00",
-    "quantita": 1.205725376031053,
-    "entrata": 82.44,
-    "costo": 99.99999999999999,
-    "comm": 0.6,
-    "sl": 81.7840831293186,
-    "sl_limite": 80.96624229802542,
-    "id_stop": null,
-    "tp": 83.4238753060221,
-    "ordini": [
-      "paper-daa598b1"
-    ],
-    "notizie": 0.039,
-    "dibattito": "dibattito disattivato"
-  },
+  "pos": null,
   "giorno": "2026-11-03",
   "ingressi_oggi": 1,
-  "pnl_oggi": 0.0,
-  "ultima_uscita": 0,
+  "pnl_oggi": -1.6997662299854284,
+  "ultima_uscita": 1793696124.2424114,
   "bloccato": null
 }

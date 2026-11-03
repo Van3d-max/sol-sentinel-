@@ -38,3 +38,12 @@
 03/11 01:47:27 INFO       (+0.9 r0.6 lessico) Securitize Launches 13 New Tokenized Stocks on Solana, Expands Offering to 25 - Cryptonews.net
 03/11 01:47:27 INFO    -> COMPRA: trend su + notizie +0.04; dibattito disattivato
 03/11 01:47:27 INFO    Agente fermato.
+03/11 08:55:23 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+03/11 08:55:24 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+03/11 08:55:24 INFO    Prezzo 82.0200 | medie 81.9711/82.0395 trend GIU | notizie +0.04 su 69 (13 nuove, 0 da Claude) | 0.6s
+03/11 08:55:24 INFO       (+0.8 r0.3 lessico) Tap Global Expands Cryptocurrency Treasury to £800,000 Following Further Bitcoin, Ethereum and Solana Purchase
+03/11 08:55:24 INFO       (+0.3 r0.8 lessico) Solana's real-world asset value hits $5.12B, up 17.65% in 30 days but below Oct 29 record - Pluang
+03/11 08:55:24 INFO       (-0.5 r0.8 lessico) Solana ETFs see no net flows Monday, continuing $63.4M outflows over five days - Pluang
+03/11 08:55:24 INFO    POSIZIONE CHIUSA (trend finito): -1.70 EUR
+03/11 08:55:24 INFO    -> VENDUTO: trend finito
+03/11 08:55:24 INFO    Agente fermato.
