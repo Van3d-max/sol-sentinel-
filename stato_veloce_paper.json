@@ -1,7 +1,22 @@
 {
-  "pos": null,
+  "pos": {
+    "apertura": "2026-11-03T17:48:02+01:00",
+    "quantita": 1.1957175508240108,
+    "entrata": 83.13,
+    "costo": 100.0,
+    "comm": 0.6,
+    "sl": 82.4156898965802,
+    "sl_limite": 81.59153299761441,
+    "id_stop": null,
+    "tp": 84.2014651551297,
+    "ordini": [
+      "paper-0ac1d3f0"
+    ],
+    "notizie": 0.041,
+    "dibattito": "dibattito disattivato"
+  },
   "giorno": "2026-11-03",
-  "ingressi_oggi": 1,
+  "ingressi_oggi": 2,
   "pnl_oggi": -1.6997662299854284,
   "ultima_uscita": 1793696124.2424114,
   "bloccato": null

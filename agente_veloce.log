@@ -47,3 +47,11 @@
 03/11 08:55:24 INFO    POSIZIONE CHIUSA (trend finito): -1.70 EUR
 03/11 08:55:24 INFO    -> VENDUTO: trend finito
 03/11 08:55:24 INFO    Agente fermato.
+03/11 16:48:01 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+03/11 16:48:02 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+03/11 16:48:02 INFO    Prezzo 83.1300 | medie 83.3744/83.1748 trend SU | notizie +0.04 su 63 (63 nuove, 0 da Claude) | 0.8s
+03/11 16:48:02 INFO       (-0.5 r0.8 lessico) Key facts: Solana ETFs log $71.47M outflows; Solmate holds 1.26M SOL - TradingView
+03/11 16:48:02 INFO       (+0.3 r0.8 lessico) Solana Records 3.3 Billion Successful Transactions in October, Sixth Monthly Record - Altcoin Buzz
+03/11 16:48:02 INFO       (+0.3 r0.8 lessico) 1win launches $1WIN token on Solana after $61 million public sale - Finbold
+03/11 16:48:02 INFO    -> COMPRA: trend su + notizie +0.04; dibattito disattivato
+03/11 16:48:02 INFO    Agente fermato.
