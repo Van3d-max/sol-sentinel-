@@ -30,3 +30,11 @@
 02/11 19:40:47 INFO       (+1.0 r0.8 lessico) Solana price pressured as spot ETF outflows reach post-launch record - ad-hoc-news.de
 02/11 19:40:47 INFO    -> ATTENDI: trend giornaliero non rialzista
 02/11 19:40:47 INFO    Agente fermato.
+03/11 01:47:26 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+03/11 01:47:27 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+03/11 01:47:27 INFO    Prezzo 82.4400 | medie 82.3667/82.1467 trend SU | notizie +0.04 su 62 (11 nuove, 0 da Claude) | 0.7s
+03/11 01:47:27 INFO       (+0.9 r0.8 lessico) Akash Approves Chain Migration to Solana! 97% Community Vote in Favor, Two-Year Decentralized Compute Relocati
+03/11 01:47:27 INFO       (-0.6 r0.8 lessico) Solana Mainnet Beta Reaches 1,000 Days Without a Full Halt - www.tokenpost.com
+03/11 01:47:27 INFO       (+0.9 r0.6 lessico) Securitize Launches 13 New Tokenized Stocks on Solana, Expands Offering to 25 - Cryptonews.net
+03/11 01:47:27 INFO    -> COMPRA: trend su + notizie +0.04; dibattito disattivato
+03/11 01:47:27 INFO    Agente fermato.
