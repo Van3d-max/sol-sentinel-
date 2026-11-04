@@ -78,3 +78,11 @@
 04/11 01:13:38 INFO       (+0.3 r0.8 lessico) Seeker: Solana Mobile launches daily SKR buy and burn program - 03 Nov 2026 - TradingView
 04/11 01:13:38 INFO    -> ATTENDI: trend giornaliero non rialzista
 04/11 01:13:38 INFO    Agente fermato.
+04/11 08:58:42 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+04/11 08:58:43 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+04/11 08:58:43 INFO    Prezzo 82.8300 | medie 86.9500/93.1363 trend GIU | notizie +0.07 su 85 (16 nuove, 0 da Claude) | 0.7s
+04/11 08:58:43 INFO       (-1.0 r0.8 lessico) Solana Price Sits Near $92 After 1,000 Days Without a Network Halt as Early Buyers Back Pepeto - StreetInsider
+04/11 08:58:43 INFO       (+0.8 r0.8 lessico) xZEC Launches on Solana’s Blockchain Network Through Hylo - www.tokenpost.com
+04/11 08:58:43 INFO       (+0.6 r0.6 lessico) 'A Game Changer': Main Event Champ Jamie Gold on WSOP's Partnership with Solana - PokerNews
+04/11 08:58:43 INFO    -> ATTENDI: trend giornaliero non rialzista
+04/11 08:58:43 INFO    Agente fermato.
