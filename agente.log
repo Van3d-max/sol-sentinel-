@@ -94,3 +94,11 @@
 04/11 17:05:25 INFO       (+0.3 r0.8 lessico) U.S. Spot Solana ETFs Record No Flows for Second Straight Day - www.tokenpost.com
 04/11 17:05:25 INFO    -> ATTENDI: trend giornaliero non rialzista
 04/11 17:05:25 INFO    Agente fermato.
+04/11 22:34:43 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+04/11 22:34:44 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=36, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+04/11 22:34:44 INFO    Prezzo 85.1600 | medie 86.9500/93.1363 trend GIU | notizie +0.14 su 84 (24 nuove, 0 da Claude) | 0.4s
+04/11 22:34:44 INFO       (+0.6 r0.8 lessico) Solana’s Tokenized Trading Surges with Unprecedented Volume - OneSafe
+04/11 22:34:44 INFO       (+0.9 r0.8 lessico) Solana Tokenized Stock Trading Hits $657 Million Record as Backpack Leads the Surge - Altcoin Buzz
+04/11 22:34:44 INFO       (+0.5 r0.8 lessico) USDC Treasury mints another $250 million as Solana minting streak continues - Crypto Briefing
+04/11 22:34:44 INFO    -> ATTENDI: trend giornaliero non rialzista
+04/11 22:34:44 INFO    Agente fermato.
