@@ -70,3 +70,11 @@
 03/11 20:53:38 INFO       (+0.3 r0.8 lessico) Aptos joins Solana and Ethereum in Bullish’s tokenized stock plan - TheStreet
 03/11 20:53:38 INFO    -> ATTENDI: trend giornaliero non rialzista
 03/11 20:53:38 INFO    Agente fermato.
+04/11 01:13:37 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+04/11 01:13:38 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+04/11 01:13:38 INFO    Prezzo 81.7100 | medie 86.9500/93.1363 trend GIU | notizie +0.08 su 80 (11 nuove, 0 da Claude) | 0.9s
+04/11 01:13:38 INFO       (+0.7 r0.8 lessico) Bullish Expands Stock Tokenization to Solana, Aptos and Ethereum - CryptoRank
+04/11 01:13:38 INFO       (+0.3 r0.8 lessico) Aptos joins Solana and Ethereum in Bullish’s tokenized stock plan - roundtable.io
+04/11 01:13:38 INFO       (+0.3 r0.8 lessico) Seeker: Solana Mobile launches daily SKR buy and burn program - 03 Nov 2026 - TradingView
+04/11 01:13:38 INFO    -> ATTENDI: trend giornaliero non rialzista
+04/11 01:13:38 INFO    Agente fermato.
