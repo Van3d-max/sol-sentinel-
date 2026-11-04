@@ -72,3 +72,11 @@
 04/11 02:19:39 INFO    POSIZIONE CHIUSA (stop loss): -3.12 EUR
 04/11 02:19:39 INFO    -> VENDUTO: stop loss (simulato)
 04/11 02:19:39 INFO    Agente fermato.
+04/11 09:36:20 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+04/11 09:36:21 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+04/11 09:36:21 INFO    Prezzo 82.5400 | medie 82.7911/82.4990 trend SU | notizie +0.02 su 51 (19 nuove, 0 da Claude) | 0.8s
+04/11 09:36:21 INFO       (-1.0 r0.8 lessico) Solana Price Sits Near $92 After 1,000 Days Without a Network Halt as Early Buyers Back Pepeto - StreetInsider
+04/11 09:36:21 INFO       (+0.8 r0.8 lessico) xZEC Launches on Solana’s Blockchain Network Through Hylo - www.tokenpost.com
+04/11 09:36:21 INFO       (+0.6 r0.6 lessico) 'A Game Changer': Main Event Champ Jamie Gold on WSOP's Partnership with Solana - PokerNews
+04/11 09:36:21 INFO    -> COMPRA: trend su + notizie +0.02; dibattito disattivato
+04/11 09:36:21 INFO    Agente fermato.
