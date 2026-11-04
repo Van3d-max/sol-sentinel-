@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sol Sentinel · Controllo</title>
+<style>
+:root { --acid:#AAFF00; --rosso:#FF5C5C; --nero:#07090A; --pannello:#0F130C; --linea:#232A1C; --carta:#F2F5EC; --grigio:#8E9785; }
+* { box-sizing:border-box; margin:0; padding:0; }
+body { background:var(--nero); color:var(--carta); font:15px/1.4 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; padding:16px; max-width:980px; margin:0 auto; }
+header { display:flex; justify-content:space-between; align-items:flex-end; gap:12px; flex-wrap:wrap; margin:8px 0 18px; }
+h1 { font-size:30px; letter-spacing:.5px; line-height:1; } h1 span { color:var(--acid); }
+.sub { color:var(--grigio); font-size:13px; margin-top:6px; }
+button { background:transparent; color:var(--acid); border:1.5px solid var(--acid); border-radius:30px; padding:8px 16px; font-weight:600; cursor:pointer; }
+.avviso { border:1px solid #5a4a12; background:#1d1907; color:#f3d36b; border-radius:12px; padding:10px 14px; margin-bottom:14px; font-size:13px; }
+.griglia { display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:14px; }
+.agente { background:var(--pannello); border:1px solid var(--linea); border-left:4px solid var(--acid); border-radius:14px; padding:16px; }
+.agente h2 { font-size:19px; display:flex; justify-content:space-between; align-items:center; }
+.tag { font-size:11px; font-family:ui-monospace,monospace; border:1px solid var(--acid); color:var(--acid); padding:2px 8px; border-radius:20px; }
+.kpi { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin:14px 0 10px; }
+.kpi div { background:#0A0D08; border:1px solid var(--linea); border-radius:10px; padding:8px 10px; }
+.kpi b { display:block; font-size:20px; font-variant-numeric:tabular-nums; }
+.kpi small { color:var(--grigio); font-size:11px; text-transform:uppercase; letter-spacing:.5px; }
+.pos { color:var(--acid); } .neg { color:var(--rosso); }
+.righe { font-size:13px; color:#cfd5c6; } .righe p { display:flex; justify-content:space-between; gap:10px; padding:5px 0; border-bottom:1px dashed var(--linea); }
+.righe p span:first-child { color:var(--grigio); }
+.spia { display:inline-block; width:9px; height:9px; border-radius:50%; margin-right:6px; vertical-align:middle; }
+svg { width:100%; height:120px; display:block; margin-top:10px; }
+section { margin-top:22px; }
+section h3 { font-size:16px; margin-bottom:10px; }
+.tabella { overflow-x:auto; border:1px solid var(--linea); border-radius:12px; }
+table { border-collapse:collapse; width:100%; font-size:12.5px; min-width:640px; }
+th, td { padding:8px 10px; text-align:left; border-bottom:1px solid var(--linea); white-space:nowrap; }
+th { color:var(--grigio); font-weight:600; background:#0A0D08; position:sticky; top:0; }
+td.lunga { white-space:normal; min-width:240px; color:#b9c0b0; }
+footer { color:var(--grigio); font-size:12px; margin:26px 0 10px; }
+</style>
+</head>
+<body>
+<header>
+  <div><h1>SOL <span>SENTINEL</span></h1><div class="sub" id="aggiornato">Carico i dati…</div></div>
+  <button onclick="carica()">Aggiorna</button>
+</header>
+<div id="avvisi"></div>
+<div class="griglia" id="agenti"></div>
+<section><h3>Operazioni chiuse</h3><div class="tabella"><table id="t-op"></table></div></section>
+<section><h3>Ultime decisioni</h3><div class="tabella"><table id="t-dec"></table></div></section>
+<footer>Solo lettura: la pagina legge i file del repository pubblico e non tocca il bot. Modalità simulazione, nessun soldo reale.</footer>
+
+<script>
+const REPO = "Van3d-max/sol-sentinel-", RAMO = "main";
+const BASE = new URLSearchParams(location.search).get("base") || `https://raw.githubusercontent.com/${REPO}/${RAMO}/`;
+const AGENTI = [
+  { id: "veloce", nome: "Agente veloce", tag: "15 MIN", dec: "decisioni_veloce.csv", op: "operazioni_veloce.csv", ogni: 15 },
+  { id: "lenta",  nome: "Agente lento",  tag: "GIORNALIERO", dec: "decisioni_agente.csv", op: "operazioni_agente.csv", ogni: 60 },
+];
+
+async function csv(nome) {
+  try {
+    const r = await fetch(BASE + nome + "?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) return [];
+    const testo = (await r.text()).trim(); if (!testo) return [];
+    const righe = testo.split(/\r?\n/).map(dividi);
+    const intest = righe.shift();
+    return righe.filter(r => r.length > 1).map(r => Object.fromEntries(intest.map((k, i) => [k, r[i] ?? ""])));
+  } catch { return []; }
+}
+function dividi(riga) {           // separatore ";" con campi tra virgolette
+  const out = []; let cur = "", q = false;
+  for (let i = 0; i < riga.length; i++) {
+    const c = riga[i];
+    if (c === '"') { if (q && riga[i + 1] === '"') { cur += '"'; i++; } else q = !q; }
+    else if (c === ";" && !q) { out.push(cur); cur = ""; }
+    else cur += c;
+  }
+  out.push(cur); return out;
+}
+const num = v => parseFloat(String(v).replace(",", "."));
+const eur = v => (v >= 0 ? "+" : "−") + Math.abs(v).toFixed(2) + " €";
+const cls = v => v >= 0 ? "pos" : "neg";
+const quando = s => new Date(s).toLocaleString("it-IT", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" });
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function grafico(dec, ops) {
+  const pts = dec.map(d => [new Date(d.data).getTime(), num(d.prezzo)]).filter(p => !isNaN(p[1]));
+  if (pts.length < 2) return '<div class="sub">Servono almeno 2 controlli per il grafico.</div>';
+  const xs = pts.map(p => p[0]), ys = pts.map(p => p[1]);
+  const x0 = Math.min(...xs), x1 = Math.max(...xs), y0 = Math.min(...ys) * .995, y1 = Math.max(...ys) * 1.005;
+  const X = x => 4 + (x - x0) / (x1 - x0 || 1) * 292, Y = y => 112 - (y - y0) / (y1 - y0 || 1) * 104;
+  let s = `<svg viewBox="0 0 300 120" preserveAspectRatio="none"><polyline fill="none" stroke="#AAFF00" stroke-width="1.6" vector-effect="non-scaling-stroke" points="${pts.map(p => X(p[0]) + "," + Y(p[1])).join(" ")}"/>`;
+  for (const o of ops) {
+    const a = new Date(o.data_apertura).getTime(), b = new Date(o.data_chiusura).getTime();
+    if (a >= x0) s += `<circle cx="${X(a)}" cy="${Y(num(o.prezzo_entrata))}" r="3" fill="#3DF5FF"/>`;
+    if (b >= x0 && b <= x1 + 1) s += `<circle cx="${X(b)}" cy="${Y(num(o.prezzo_uscita))}" r="3" fill="${num(o.risultato_netto_eur) >= 0 ? "#AAFF00" : "#FF5C5C"}"/>`;
+  }
+  return s + `</svg><div class="sub">Prezzo SOL ai controlli · <span style="color:#3DF5FF">●</span> acquisto · <span style="color:#FF5C5C">●</span>/<span style="color:#AAFF00">●</span> vendita</div>`;
+}
+
+async function carica() {
+  document.getElementById("aggiornato").textContent = "Carico i dati…";
+  const dati = await Promise.all(AGENTI.map(async a => ({ ...a, d: await csv(a.dec), o: await csv(a.op) })));
+  const avvisi = [], schede = [], tutteOp = [], tutteDec = [];
+  for (const a of dati) {
+    const pnl = a.o.reduce((s, o) => s + num(o.risultato_netto_eur), 0);
+    const vinte = a.o.filter(o => num(o.risultato_netto_eur) > 0).length;
+    const comm = a.o.reduce((s, o) => s + num(o.commissioni_eur), 0);
+    const ult = a.d[a.d.length - 1];
+    const minuti = ult ? (Date.now() - new Date(ult.data)) / 60000 : Infinity;
+    const claude = a.d.reduce((s, d) => s + (num(d.valutate_claude) || 0), 0);
+    const aperta = ult && ult.posizione === "si";
+    // regolarità: controlli nelle ultime 24 ore rispetto a quelli attesi
+    const giorno = a.d.filter(d => Date.now() - new Date(d.data) < 864e5).length;
+    const attesi = Math.round(1440 / a.ogni);
+    const spia = minuti < a.ogni * 3 ? "#AAFF00" : minuti < a.ogni * 8 ? "#f3d36b" : "#FF5C5C";
+    if (ult && minuti > a.ogni * 8) avvisi.push(`${a.nome}: ultimo controllo ${Math.round(minuti / 60)} ore fa. GitHub lo sta facendo girare poco.`);
+    schede.push(`<div class="agente"><h2>${a.nome}<span class="tag">${a.tag}</span></h2>
+      <div class="kpi">
+        <div><small>Risultato</small><b class="${cls(pnl)}">${a.o.length ? eur(pnl) : "—"}</b></div>
+        <div><small>Operazioni</small><b>${a.o.length}</b></div>
+        <div><small>Vinte</small><b>${a.o.length ? Math.round(vinte / a.o.length * 100) + "%" : "—"}</b></div>
+      </div>
+      <div class="righe">
+        <p><span>Ultimo controllo</span><span><i class="spia" style="background:${spia}"></i>${ult ? quando(ult.data) : "nessuno"}</span></p>
+        <p><span>Controlli ultime 24 h</span><span>${giorno} su ~${attesi}</span></p>
+        <p><span>Posizione</span><span>${aperta ? '<b class="pos">APERTA</b>' : "nessuna"}</span></p>
+        <p><span>Trend · notizie</span><span>${ult ? `${ult.trend === "su" ? "▲ su" : "▼ giù"} · ${ult.punteggio_notizie}` : "—"}</span></p>
+        <p><span>Ultima azione</span><span>${ult ? esc(ult.azione) : "—"}</span></p>
+        <p><span>Commissioni pagate</span><span>${comm.toFixed(2)} €</span></p>
+        <p><span>Titoli letti da Claude</span><span>${claude ? claude : '<span class="neg">0 · chiave non attiva</span>'}</span></p>
+      </div>${grafico(a.d, a.o)}</div>`);
+    a.o.forEach(o => tutteOp.push({ ...o, agente: a.nome }));
+    a.d.forEach(d => tutteDec.push({ ...d, agente: a.nome }));
+  }
+  document.getElementById("agenti").innerHTML = schede.join("");
+  document.getElementById("avvisi").innerHTML = avvisi.map(t => `<div class="avviso">⚠ ${esc(t)}</div>`).join("");
+  tutteOp.sort((x, y) => new Date(y.data_chiusura) - new Date(x.data_chiusura));
+  document.getElementById("t-op").innerHTML = "<tr><th>Agente</th><th>Aperta</th><th>Chiusa</th><th>Entrata</th><th>Uscita</th><th>Commissioni</th><th>Risultato</th><th>Motivo</th></tr>" +
+    (tutteOp.length ? tutteOp.map(o => `<tr><td>${esc(o.agente)}</td><td>${quando(o.data_apertura)}</td><td>${quando(o.data_chiusura)}</td><td>${num(o.prezzo_entrata).toFixed(2)}</td><td>${num(o.prezzo_uscita).toFixed(2)}</td><td>${num(o.commissioni_eur).toFixed(2)} €</td><td class="${cls(num(o.risultato_netto_eur))}"><b>${eur(num(o.risultato_netto_eur))}</b></td><td>${esc(o.motivo_uscita)}</td></tr>`).join("")
+      : `<tr><td colspan="8">Ancora nessuna operazione chiusa.</td></tr>`);
+  tutteDec.sort((x, y) => new Date(y.data) - new Date(x.data));
+  document.getElementById("t-dec").innerHTML = "<tr><th>Quando</th><th>Agente</th><th>Prezzo</th><th>Trend</th><th>Notizie</th><th>Azione</th><th>Perché</th><th>Notizia principale</th></tr>" +
+    tutteDec.slice(0, 30).map(d => `<tr><td>${quando(d.data)}</td><td>${esc(d.agente)}</td><td>${num(d.prezzo).toFixed(2)}</td><td>${d.trend === "su" ? "▲" : "▼"}</td><td>${esc(d.punteggio_notizie)}${d.shock === "1" ? " ⚡" : ""}</td><td><b>${esc(d.azione)}</b></td><td class="lunga">${esc(d.motivo)}</td><td class="lunga">${esc(d.notizia_principale)}</td></tr>`).join("");
+  document.getElementById("aggiornato").textContent = "Aggiornato alle " + new Date().toLocaleTimeString("it-IT", { hour: "2-digit", minute: "2-digit" }) + " · si aggiorna da solo ogni 5 minuti";
+}
+carica(); setInterval(carica, 5 * 60 * 1000);
+</script>
+</body>
+</html>
