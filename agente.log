@@ -86,3 +86,11 @@
 04/11 08:58:43 INFO       (+0.6 r0.6 lessico) 'A Game Changer': Main Event Champ Jamie Gold on WSOP's Partnership with Solana - PokerNews
 04/11 08:58:43 INFO    -> ATTENDI: trend giornaliero non rialzista
 04/11 08:58:43 INFO    Agente fermato.
+04/11 17:05:24 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+04/11 17:05:24 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=35, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+04/11 17:05:25 INFO    Prezzo 85.6700 | medie 86.9500/93.1363 trend GIU | notizie +0.12 su 86 (26 nuove, 0 da Claude) | 0.9s
+04/11 17:05:25 INFO       (+0.9 r0.8 lessico) Solana Tokenized Stock Trading Hits $657 Million Record as Backpack Leads the Surge - Altcoin Buzz
+04/11 17:05:25 INFO       (+0.7 r0.6 lessico) Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge - The Block
+04/11 17:05:25 INFO       (+0.3 r0.8 lessico) U.S. Spot Solana ETFs Record No Flows for Second Straight Day - www.tokenpost.com
+04/11 17:05:25 INFO    -> ATTENDI: trend giornaliero non rialzista
+04/11 17:05:25 INFO    Agente fermato.
