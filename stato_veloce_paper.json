@@ -1,23 +1,8 @@
 {
-  "pos": {
-    "apertura": "2026-11-04T10:36:21+01:00",
-    "quantita": 1.2042645989823115,
-    "entrata": 82.54,
-    "costo": 100.0,
-    "comm": 0.6,
-    "sl": 81.80500581191563,
-    "sl_limite": 80.98695575379648,
-    "id_stop": null,
-    "tp": 83.64249128212656,
-    "ordini": [
-      "paper-592191b4"
-    ],
-    "notizie": 0.021,
-    "dibattito": "dibattito disattivato"
-  },
+  "pos": null,
   "giorno": "2026-11-04",
   "ingressi_oggi": 1,
-  "pnl_oggi": -3.1218400577408687,
-  "ultima_uscita": 1793758779.1020825,
+  "pnl_oggi": -1.110175507219921,
+  "ultima_uscita": 1793813512.3742967,
   "bloccato": null
 }

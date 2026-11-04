@@ -1,3 +1,4 @@
 data_apertura;data_chiusura;modalita;coppia;quantita;prezzo_entrata;prezzo_uscita;acquisto_eur;vendita_eur;commissioni_eur;risultato_netto_eur;motivo_uscita;notizie_ingresso;dibattito;id_ordini
 2026-11-03T02:47:27+01:00;2026-11-03T09:55:24+01:00;paper;SOL-EUR;1.20572538;82.4400;82.0200;100.0000;98.3002;1.1934;-1.6998;trend finito;+0.039;dibattito disattivato;paper-daa598b1,paper-bbdf200d
 2026-11-03T17:48:02+01:00;2026-11-04T03:19:39+01:00;paper;SOL-EUR;1.19571755;83.1300;81.5100;100.0000;96.8782;1.1848;-3.1218;stop loss;+0.041;dibattito disattivato;paper-0ac1d3f0,paper-45362d83
+2026-11-04T10:36:21+01:00;2026-11-04T18:31:52+01:00;paper;SOL-EUR;1.20426460;82.5400;85.2200;100.0000;102.0117;1.2158;2.0117;take profit;+0.021;dibattito disattivato;paper-592191b4,paper-e1beaa0e
