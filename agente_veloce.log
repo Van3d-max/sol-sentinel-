@@ -89,3 +89,11 @@
 04/11 17:31:52 INFO    POSIZIONE CHIUSA (take profit): +2.01 EUR
 04/11 17:31:52 INFO    -> VENDUTO: take profit
 04/11 17:31:52 INFO    Agente fermato.
+04/11 22:53:07 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+04/11 22:53:08 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=36, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+04/11 22:53:08 INFO    Prezzo 85.5100 | medie 84.5889/84.7429 trend GIU | notizie +0.14 su 59 (23 nuove, 0 da Claude) | 0.8s
+04/11 22:53:08 INFO       (+0.6 r0.8 lessico) Solana’s Tokenized Trading Surges with Unprecedented Volume - OneSafe
+04/11 22:53:08 INFO       (+0.3 r0.8 lessico) 23%: Dflow’s Share of Solana Aggregator Volume Hits Record - Cryptonews.net
+04/11 22:53:08 INFO       (+0.5 r0.8 lessico) USDC Treasury mints another $250 million as Solana minting streak continues - Crypto Briefing
+04/11 22:53:08 INFO    -> ATTENDI: trend giornaliero non rialzista
+04/11 22:53:08 INFO    Agente fermato.
