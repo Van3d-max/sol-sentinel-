@@ -118,3 +118,12 @@
 05/11 10:49:29 INFO       ribassista: Il prezzo è praticamente fermo sulla media a 10 periodi (85,99), l'ATR giornaliero è basso (0,29, circa lo 0,3%), il punteggio notizie è quasi neutro (0,063) e un furto da 96 milioni in SOL è un rischio reputazionale non trascurabile.
 05/11 10:49:29 INFO    -> BLOCCATO DAL DIBATTITO: I segnali sono deboli e contrastanti: il trend è piatto, il sentiment è quasi neutro e il rischio di notizie negative non è escluso, quindi non c'è un'evidenza sufficiente per giustificare un acquisto spot.
 05/11 10:49:29 INFO    Agente fermato.
+05/11 15:45:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+05/11 15:45:41 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=36, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+05/11 15:45:47 INFO    Claude non disponibile (ValueError): uso il dizionario
+05/11 15:45:48 INFO    Prezzo 80.8300 | medie 83.2122/84.5467 trend GIU | notizie +0.06 su 53 (53 nuove, 0 da Claude) | 7.4s
+05/11 15:45:48 INFO       (-1.0 r0.8 lessico) ZetaChain proposes Solana migration, L1 halt on December 9 - Crypto News
+05/11 15:45:48 INFO       (+0.8 r0.6 lessico) OpenWorld lists its Nasdaq stock as tokenized asset on Solana - StreetInsider
+05/11 15:45:48 INFO       (+0.3 r0.8 lessico) Samsung Wallet Adds Solana-Based USDC Support in US - bloomingbit
+05/11 15:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista
+05/11 15:45:48 INFO    Agente fermato.
