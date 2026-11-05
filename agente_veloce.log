@@ -302,3 +302,11 @@
 05/11 20:45:49 INFO       (+0.5 r0.7 claude) Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana
 05/11 20:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista
 05/11 20:45:49 INFO    Agente fermato.
+05/11 21:01:06 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+05/11 21:01:06 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+05/11 21:01:06 INFO    Prezzo 79.9700 | medie 80.0156/80.0624 trend GIU | notizie +0.07 su 58 (0 nuove, 0 da Claude) | 0.8s
+05/11 21:01:06 INFO       (-0.6 r0.9 claude) As Solana Falls 4.43% in Four Hours to $89.52 on Nov. 5 - www.tokenpost.com
+05/11 21:01:06 INFO       (-0.4 r1.0 claude) Solana validators urged to upgrade by Nov. 6 to avoid network fork - Crypto Briefing
+05/11 21:01:06 INFO       (-0.3 r1.0 claude) Solana price falls below $90: Can oversold RSI bring relief? - Crypto News
+05/11 21:01:06 INFO    -> ATTENDI: trend giornaliero non rialzista
+05/11 21:01:06 INFO    Agente fermato.
