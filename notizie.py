@@ -247,20 +247,38 @@ def _json(testo, apre, chiude):
     return json.loads(testo[a:b + 1])
 
 
+def _oggetti(testo):
+    """Legge gli oggetti {...} uno per uno: se la risposta e' tagliata, tiene quelli completi."""
+    out = []
+    for m in re.finditer(r"\{[^{}]*\}", testo):
+        try:
+            out.append(json.loads(m.group(0)))
+        except ValueError:
+            continue
+    return out
+
+
 def punteggio_claude(voci, moneta, chiave, modello):
     righe = "\n".join("%d. [%s] %s" % (i + 1, v["fonte"], v["titolo"]) for i, v in enumerate(voci))
     sistema = ("You are a crypto news analyst. For each headline, judge its likely short-term "
-               "price impact (next 24h) on %s. Reply ONLY with a JSON array." % moneta)
-    utente = ("Headlines:\n%s\n\nFor each one return {\"n\": number, \"rilevanza\": 0..1 "
-              "(how much it concerns %s specifically), \"punteggio\": -1..1 (negative = bearish, "
-              "positive = bullish, 0 = neutral or old news)}. JSON array only." % (righe, moneta))
-    dati = _json(chiedi_claude(chiave, modello, sistema, utente), "[", "]")
+               "price impact (next 24h) on %s. Reply ONLY with compact JSON, no markdown, no spaces." % moneta)
+    utente = ("Headlines:\n%s\n\nReturn a JSON array with one object per headline: "
+              "{\"n\":number,\"r\":0..1 (how much it concerns %s specifically),"
+              "\"s\":-1..1 (negative = bearish, positive = bullish, 0 = neutral or old news)}. "
+              "Compact JSON array only." % (righe, moneta))
+    testo = chiedi_claude(chiave, modello, sistema, utente, max_tokens=60 + 40 * len(voci))
     out = {}
-    for d in dati:
-        i = int(d["n"]) - 1
+    for d in _oggetti(testo):
+        try:
+            i = int(d["n"]) - 1
+            s = float(d.get("s", d.get("punteggio")))
+            r = float(d.get("r", d.get("rilevanza")))
+        except (KeyError, TypeError, ValueError):
+            continue
         if 0 <= i < len(voci):
-            out[voci[i]["id"]] = {"s": max(-1.0, min(1.0, float(d["punteggio"]))),
-                                  "r": max(0.0, min(1.0, float(d["rilevanza"]))), "m": "claude"}
+            out[voci[i]["id"]] = {"s": max(-1.0, min(1.0, s)), "r": max(0.0, min(1.0, r)), "m": "claude"}
+    if not out:
+        raise ValueError("risposta non leggibile: %r" % testo[:160])
     return out
 
 
@@ -302,12 +320,17 @@ def valuta(voci, cfg, cache, log=print):
     nuove = [v for v in voci if da_valutare(v)]
     risultati = {}
     if nuove and usa_claude:
-        for i in range(0, len(nuove), 40):  # al massimo 40 titoli per chiamata
-            blocco = nuove[i:i + 40]
+        for i in range(0, len(nuove), 15):  # al massimo 15 titoli per chiamata
+            blocco = nuove[i:i + 15]
             try:
                 risultati.update(punteggio_claude(blocco, n["moneta"], chiave, n["modello"]))
+            except requests.HTTPError as e:
+                corpo = e.response.text[:200] if e.response is not None else ""
+                log("Claude non disponibile (HTTP %s %s): uso il dizionario" % (
+                    getattr(e.response, "status_code", "?"), corpo))
+                break
             except Exception as e:
-                log("Claude non disponibile (%s): uso il dizionario" % type(e).__name__)
+                log("Claude non disponibile (%s: %s): uso il dizionario" % (type(e).__name__, str(e)[:200]))
                 break
     for v in nuove:
         p = risultati.get(v["id"]) or punteggio_lessico(v["titolo"], v["testo"], coin_re)
