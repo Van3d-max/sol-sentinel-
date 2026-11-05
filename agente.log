@@ -102,3 +102,12 @@
 04/11 22:34:44 INFO       (+0.5 r0.8 lessico) USDC Treasury mints another $250 million as Solana minting streak continues - Crypto Briefing
 04/11 22:34:44 INFO    -> ATTENDI: trend giornaliero non rialzista
 04/11 22:34:44 INFO    Agente fermato.
+05/11 03:25:28 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+05/11 03:25:29 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=36, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+05/11 03:25:35 INFO    Claude non disponibile (ValueError): uso il dizionario
+05/11 03:25:35 INFO    Prezzo 85.8700 | medie 86.4260/92.3817 trend GIU | notizie +0.13 su 80 (80 nuove, 0 da Claude) | 6.6s
+05/11 03:25:35 INFO       (+0.7 r0.8 lessico) Tokenized Credit Supply on Solana Reaches a New Record - www.tokenpost.com
+05/11 03:25:35 INFO       (+0.6 r0.8 lessico) Solana’s Tokenized Trading Surges with Unprecedented Volume - OneSafe
+05/11 03:25:35 INFO       (+0.5 r0.8 lessico) USDC Treasury mints another $250 million as Solana minting streak continues - Crypto Briefing
+05/11 03:25:35 INFO    -> ATTENDI: trend giornaliero non rialzista
+05/11 03:25:35 INFO    Agente fermato.
