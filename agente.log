@@ -120,3 +120,12 @@
 05/11 12:09:46 INFO       (+0.7 r0.8 lessico) Tokenized Credit Supply on Solana Reaches a New Record - www.tokenpost.com
 05/11 12:09:46 INFO    -> ATTENDI: trend giornaliero non rialzista
 05/11 12:09:46 INFO    Agente fermato.
+05/11 19:07:50 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+05/11 19:07:51 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+05/11 19:08:08 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r'): uso il dizionario
+05/11 19:08:08 INFO    Prezzo 79.5400 | medie 86.4260/92.3817 trend GIU | notizie +0.19 su 85 (85 nuove, 25 da Claude) | 17.7s
+05/11 19:08:08 INFO       (-0.5 r1.0 claude) As Solana Falls 4.43% in Four Hours to $89.52 on Nov. 5 - www.tokenpost.com
+05/11 19:08:08 INFO       (-1.0 r0.8 lessico) ZetaChain proposes Solana migration, L1 halt on December 9 - Crypto News
+05/11 19:08:08 INFO       (+0.7 r0.8 claude) Alpenglow Goes Live, Samsung Picks Solana for USDC, and J.P. Morgan Funds Arrive: Solana Intelligence Report -
+05/11 19:08:08 INFO    -> ATTENDI: trend giornaliero non rialzista
+05/11 19:08:08 INFO    Agente fermato.
