@@ -228,3 +228,11 @@
 05/11 18:30:59 INFO       (+0.6 r0.9 claude) Samsung Wallet Rolls Out Solana USDC to 82M Galaxy Devices - FinanceFeeds
 05/11 18:30:59 INFO    -> ATTENDI: trend giornaliero non rialzista
 05/11 18:30:59 INFO    Agente fermato.
+05/11 18:45:39 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+05/11 18:45:39 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+05/11 18:45:41 INFO    Prezzo 79.7300 | medie 79.8722/81.4324 trend GIU | notizie +0.27 su 56 (7 nuove, 2 da Claude) | 2.7s
+05/11 18:45:41 INFO       (+0.7 r0.9 claude) Alpenglow Goes Live, Samsung Picks Solana for USDC, and J.P. Morgan Funds Arrive: Solana Intelligence Report -
+05/11 18:45:41 INFO       (+0.5 r0.8 claude) Samsung Brings Solana-Based USDC Transfers to Galaxy Smartphones - SammyGuru
+05/11 18:45:41 INFO       (+0.6 r0.9 claude) Samsung Wallet Rolls Out Solana USDC to 82M Galaxy Devices - FinanceFeeds
+05/11 18:45:41 INFO    -> ATTENDI: trend giornaliero non rialzista
+05/11 18:45:41 INFO    Agente fermato.
