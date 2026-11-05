@@ -195,3 +195,11 @@
 05/11 17:45:45 INFO       (+0.5 r0.8 claude) Solana Tokenized Stock Trading Hits $657M in One Day as Backpack Accounts for 91% - CryptoRank
 05/11 17:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista
 05/11 17:45:45 INFO    Agente fermato.
+05/11 18:01:07 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+05/11 18:01:09 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+05/11 18:01:14 INFO    Prezzo 79.0900 | medie 80.2378/82.1862 trend GIU | notizie +0.31 su 57 (23 nuove, 8 da Claude) | 6.8s
+05/11 18:01:14 INFO       (+0.7 r0.9 claude) Alpenglow Goes Live, Samsung Picks Solana for USDC, and J.P. Morgan Funds Arrive: Solana Intelligence Report -
+05/11 18:01:14 INFO       (+0.5 r0.8 claude) Samsung Brings Solana-Based USDC Transfers to Galaxy Smartphones - SammyGuru
+05/11 18:01:14 INFO       (+0.6 r0.9 claude) Samsung Wallet Rolls Out Solana USDC to 82M Galaxy Devices - FinanceFeeds
+05/11 18:01:14 INFO    -> ATTENDI: trend giornaliero non rialzista
+05/11 18:01:14 INFO    Agente fermato.
