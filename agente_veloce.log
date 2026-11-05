@@ -394,3 +394,14 @@
 05/11 23:01:14 INFO       ribassista: Il prezzo è sotto entrambe le medie mobili, il sentiment resta quasi neutro, e i titoli negativi su un possibile fork di rete e su un calo del 4,43% pesano sulla fiducia nel breve periodo.
 05/11 23:01:14 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: prezzo sotto le medie, sentiment quasi neutro, rischio di fork non risolto e incoerenza tra il prezzo di mercato (79,8) e quello citato nei titoli (89,52), quindi non ci sono prove sufficienti per un acquisto spot.
 05/11 23:01:14 INFO    Agente fermato.
+05/11 23:15:37 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+05/11 23:15:37 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+05/11 23:15:39 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+05/11 23:15:39 INFO    Prezzo 79.0300 | medie 79.9478/79.9381 trend SU | notizie +0.09 su 59 (7 nuove, 0 da Claude) | 2.8s
+05/11 23:15:39 INFO       (+0.3 r0.8 lessico) Solana Labs Launches Leap App With Plans to Burn SOL From Fees - CryptoRank
+05/11 23:15:39 INFO       (-0.6 r0.9 claude) As Solana Falls 4.43% in Four Hours to $89.52 on Nov. 5 - www.tokenpost.com
+05/11 23:15:39 INFO       (-0.4 r1.0 claude) Solana validators urged to upgrade by Nov. 6 to avoid network fork - Crypto Briefing
+05/11 23:15:42 INFO       rialzista: Il prezzo a 79,03 è vicino alle medie mobili e il punteggio notizie è leggermente positivo, con il piano di burn delle commissioni di Leap come possibile catalizzatore.
+05/11 23:15:42 INFO       ribassista: Il prezzo è sotto sia la media a 10 periodi (79,95) sia quella a 30 (79,94), il sentiment dei titoli è negativo e l'avviso di aggiornamento urgente dei validatori per evitare un fork aggiunge rischio operativo.
+05/11 23:15:42 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo è sotto entrambe le medie, le notizie sono contrastanti e include un rischio di fork di rete, quindi l'evidenza è debole rispetto al rischio, e il titolo sul calo del 4,43% a 89,52 non è coerente con il prezzo attuale, che rende i dati poco affidabili.
+05/11 23:15:42 INFO    Agente fermato.
