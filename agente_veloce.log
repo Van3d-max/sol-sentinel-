@@ -179,3 +179,11 @@
 05/11 17:15:46 INFO       (+0.4 r0.7 claude) USDC Treasury Mints 250 Million USDC Worth About $250 Million on Solana - www.tokenpost.com
 05/11 17:15:46 INFO    -> ATTENDI: trend giornaliero non rialzista
 05/11 17:15:46 INFO    Agente fermato.
+05/11 17:30:55 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+05/11 17:30:56 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+05/11 17:31:04 INFO    Prezzo 79.8600 | medie 80.5578/82.7219 trend GIU | notizie +0.29 su 54 (30 nuove, 5 da Claude) | 9.1s
+05/11 17:31:04 INFO       (+0.6 r1.0 claude) Alpenglow Goes Live, Samsung Picks Solana for USDC, and J.P. Morgan Funds Arrive: Solana Intelligence Report -
+05/11 17:31:04 INFO       (+0.6 r0.9 claude) Samsung Wallet Rolls Out Solana USDC to 82M Galaxy Devices - FinanceFeeds
+05/11 17:31:04 INFO       (+0.5 r0.8 claude) Solana Tokenized Stock Trading Hits $657M in One Day as Backpack Accounts for 91% - CryptoRank
+05/11 17:31:04 INFO    -> ATTENDI: trend giornaliero non rialzista
+05/11 17:31:04 INFO    Agente fermato.
