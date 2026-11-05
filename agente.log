@@ -164,3 +164,11 @@
 05/11 22:01:11 INFO       (-0.4 r1.0 claude) Solana Price at $89: First 200-Day Line Test Since August - CryptoTicker.io
 05/11 22:01:11 INFO    -> ATTENDI: trend giornaliero non rialzista
 05/11 22:01:11 INFO    Agente fermato.
+05/11 23:01:06 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+05/11 23:01:07 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+05/11 23:01:12 INFO    Prezzo 79.8200 | medie 86.4260/92.3817 trend GIU | notizie +0.07 su 84 (24 nuove, 7 da Claude) | 5.8s
+05/11 23:01:12 INFO       (-0.5 r1.0 claude) As Solana Falls 4.43% in Four Hours to $89.52 on Nov. 5 - www.tokenpost.com
+05/11 23:01:12 INFO       (-0.4 r1.0 claude) Solana Price at $89: First 200-Day Line Test Since August - CryptoTicker.io
+05/11 23:01:12 INFO       (+0.7 r0.8 claude) Alpenglow Goes Live, Samsung Picks Solana for USDC, and J.P. Morgan Funds Arrive: Solana Intelligence Report -
+05/11 23:01:12 INFO    -> ATTENDI: trend giornaliero non rialzista
+05/11 23:01:12 INFO    Agente fermato.
