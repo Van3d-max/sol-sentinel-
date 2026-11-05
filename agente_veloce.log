@@ -362,3 +362,13 @@
 05/11 22:15:43 INFO       ribassista: Il punteggio delle notizie è quasi neutro (0,072), il rischio di fork legato all'aggiornamento dei validatori pesa negativamente e il vantaggio rispetto alle medie è minimo, quindi il segnale non è abbastanza solido.
 05/11 22:15:43 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è debole (prezzo appena sopra le medie con scarto minimo), il sentiment è neutro e il rischio operativo di fork sulla rete non è ancora risolto, quindi non si giustifica un ingresso spot.
 05/11 22:15:43 INFO    Agente fermato.
+05/11 22:30:55 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+05/11 22:30:56 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+05/11 22:30:58 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+05/11 22:30:58 INFO    Prezzo 80.1700 | medie 80.1400/79.9329 trend SU | notizie +0.07 su 59 (6 nuove, 0 da Claude) | 2.6s
+05/11 22:30:58 INFO       (-0.6 r0.9 claude) As Solana Falls 4.43% in Four Hours to $89.52 on Nov. 5 - www.tokenpost.com
+05/11 22:30:58 INFO       (-0.4 r1.0 claude) Solana validators urged to upgrade by Nov. 6 to avoid network fork - Crypto Briefing
+05/11 22:30:58 INFO       (+0.3 r0.8 lessico) Solana: Samsung Wallet adds USDC through its Stablecoin Account - 05 Nov 2026 - TradingView
+05/11 22:31:01 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
+05/11 22:31:01 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
+05/11 22:31:01 INFO    Agente fermato.
