@@ -262,3 +262,12 @@
 05/11 19:30:57 INFO       (+0.5 r0.8 claude) Samsung Brings Solana-Based USDC Transfers to Galaxy Smartphones - SammyGuru
 05/11 19:30:57 INFO    -> ATTENDI: trend giornaliero non rialzista
 05/11 19:30:57 INFO    Agente fermato.
+05/11 19:45:39 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+05/11 19:45:40 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+05/11 19:45:42 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+05/11 19:45:42 INFO    Prezzo 80.1500 | medie 79.6944/80.4567 trend GIU | notizie +0.14 su 60 (8 nuove, 0 da Claude) | 3.0s
+05/11 19:45:42 INFO       (+0.5 r0.8 lessico) Anza Urges Solana Validators to Upgrade Agave Before Epoch 1079 - The Defiant
+05/11 19:45:42 INFO       (-0.4 r1.0 claude) Solana validators urged to upgrade by Nov. 6 to avoid network fork - Crypto Briefing
+05/11 19:45:42 INFO       (+0.7 r0.9 claude) Alpenglow Goes Live, Samsung Picks Solana for USDC, and J.P. Morgan Funds Arrive: Solana Intelligence Report -
+05/11 19:45:42 INFO    -> ATTENDI: trend giornaliero non rialzista
+05/11 19:45:42 INFO    Agente fermato.
