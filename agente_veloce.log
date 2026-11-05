@@ -154,3 +154,12 @@
 05/11 16:31:02 INFO       (+0.3 r0.8 lessico) Samsung Wallet Adds Solana-Based USDC Support in US - bloomingbit
 05/11 16:31:02 INFO    -> ATTENDI: trend giornaliero non rialzista
 05/11 16:31:02 INFO    Agente fermato.
+05/11 16:45:41 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+05/11 16:45:42 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+05/11 16:45:47 INFO    Claude non disponibile (ValueError): uso il dizionario
+05/11 16:45:48 INFO    Prezzo 80.4900 | medie 81.3367/83.5467 trend GIU | notizie +0.05 su 48 (48 nuove, 0 da Claude) | 6.7s
+05/11 16:45:48 INFO       (-1.0 r0.8 lessico) ZetaChain proposes Solana migration, L1 halt on December 9 - Crypto News
+05/11 16:45:48 INFO       (+0.8 r0.6 lessico) OpenWorld lists its Nasdaq stock as tokenized asset on Solana - StreetInsider
+05/11 16:45:48 INFO       (+0.3 r0.8 lessico) Samsung Wallet Adds Solana-Based USDC Support in US - bloomingbit
+05/11 16:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista
+05/11 16:45:48 INFO    Agente fermato.
