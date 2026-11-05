@@ -295,3 +295,10 @@
 05/11 20:30:57 INFO       (-0.3 r1.0 claude) Solana price falls below $90: Can oversold RSI bring relief? - Crypto News
 05/11 20:30:57 INFO    -> ATTENDI: trend giornaliero non rialzista
 05/11 20:30:57 INFO    Agente fermato.
+05/11 20:45:39 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+05/11 20:45:48 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=errore: HTTPError
+05/11 20:45:49 INFO    Prezzo 80.2800 | medie 79.9600/80.0986 trend GIU | notizie +0.15 su 2 (0 nuove, 0 da Claude) | 9.7s
+05/11 20:45:49 INFO       (+0.3 r0.6 claude) Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto
+05/11 20:45:49 INFO       (+0.5 r0.7 claude) Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana
+05/11 20:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista
+05/11 20:45:49 INFO    Agente fermato.
