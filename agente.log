@@ -129,3 +129,12 @@
 05/11 19:08:08 INFO       (+0.7 r0.8 claude) Alpenglow Goes Live, Samsung Picks Solana for USDC, and J.P. Morgan Funds Arrive: Solana Intelligence Report -
 05/11 19:08:08 INFO    -> ATTENDI: trend giornaliero non rialzista
 05/11 19:08:08 INFO    Agente fermato.
+05/11 20:01:00 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+05/11 20:01:00 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+05/11 20:01:15 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{'): uso il dizionario
+05/11 20:01:15 INFO    Prezzo 80.1200 | medie 86.4260/92.3817 trend GIU | notizie +0.13 su 87 (63 nuove, 21 da Claude) | 15.2s
+05/11 20:01:15 INFO       (-0.5 r1.0 claude) As Solana Falls 4.43% in Four Hours to $89.52 on Nov. 5 - www.tokenpost.com
+05/11 20:01:15 INFO       (-1.0 r0.8 lessico) ZetaChain proposes Solana migration, L1 halt on December 9 - Crypto News
+05/11 20:01:15 INFO       (+0.7 r0.8 claude) Alpenglow Goes Live, Samsung Picks Solana for USDC, and J.P. Morgan Funds Arrive: Solana Intelligence Report -
+05/11 20:01:15 INFO    -> ATTENDI: trend giornaliero non rialzista
+05/11 20:01:15 INFO    Agente fermato.
