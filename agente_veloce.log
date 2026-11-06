@@ -1204,3 +1204,11 @@
 06/11 20:30:58 INFO       (+0.7 r0.6 lessico) Centrifuge launches tokenized Schroders emerging market bond fund on Solana - Ledger Insights
 06/11 20:30:58 INFO    -> ATTENDI: trend giornaliero non rialzista
 06/11 20:30:58 INFO    Agente fermato.
+06/11 20:45:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 20:45:40 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 20:45:43 INFO    Prezzo 80.7300 | medie 80.8200/80.9048 trend GIU | notizie -0.17 su 47 (11 nuove, 1 da Claude) | 3.0s
+06/11 20:45:43 INFO       (-1.0 r0.8 lessico) China Investigates Solana’s Shanghai Promotions After Halting Event - CryptoRank
+06/11 20:45:43 INFO       (-1.0 r0.8 lessico) People’s Bank of China Halts Solana Shanghai Event Over Unauthorized Crypto Promotion: 7 outlets compared - Ne
+06/11 20:45:43 INFO       (-0.4 r1.0 claude) The Price of Solana Just Dropped Below $100. Time to Buy the Dip? - The Motley Fool
+06/11 20:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista
+06/11 20:45:43 INFO    Agente fermato.
