@@ -537,3 +537,13 @@
 06/11 02:31:03 INFO       ribassista: Il prezzo supera le medie di appena lo 0,05% e lo 0,4%, quindi il segnale di trend è debole, mentre due dei tre titoli sono promozionali (uno cita un token shill) e non forniscono evidenza di domanda reale o di flussi ETF, che sono piatti.
 06/11 02:31:03 INFO    -> BLOCCATO DAL DIBATTITO: L'evidenza a favore è marginale e basata su titoli promozionali, senza un vantaggio chiaro né un livello di stop definito in relazione all'ATR giornaliero di 0,471, quindi il rischio non è giustificato.
 06/11 02:31:03 INFO    Agente fermato.
+06/11 02:45:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 02:45:40 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 02:45:43 INFO    Prezzo 80.4900 | medie 80.3633/80.0490 trend SU | notizie +0.14 su 59 (12 nuove, 4 da Claude) | 3.1s
+06/11 02:45:43 INFO       (+0.5 r0.8 claude) Samsung launches Solana-based USDC accounts in Wallet - grafa.com
+06/11 02:45:43 INFO       (+0.2 r0.9 claude) Solana Price Prediction: Record 3.4 Billion October Transactions Meet Flat ETF Flows as Traders Fund Pepeto - 
+06/11 02:45:43 INFO       (+0.4 r0.9 claude) Solana Labs Launches Leap App With Plans to Burn SOL From Fees - CryptoRank
+06/11 02:45:46 INFO       rialzista: Il prezzo (80,49) è sopra la media mobile a 10 periodi (80,36) e a 30 periodi (80,05), con notizie complessivamente positive (punteggio 0,14) tra cui l'integrazione di Samsung con USDC su Solana.
+06/11 02:45:46 INFO       ribassista: Il vantaggio sulle medie è minimo (circa lo 0,1% sopra la MA10), la volatilità giornaliera è bassa (ATR 0,46, circa lo 0,6%) e una delle notizie è promozionale e non dà un segnale affidabile.
+06/11 02:45:46 INFO    -> BLOCCATO DAL DIBATTITO: L'evidenza tecnica e di sentiment è troppo debole per giustificare l'ingresso: il segnale di trend è marginale, il punteggio delle notizie è modesto e in parte promozionale, quindi il rischio non è compensato da un vantaggio chiaro.
+06/11 02:45:46 INFO    Agente fermato.
