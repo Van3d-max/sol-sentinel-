@@ -1273,3 +1273,11 @@
 06/11 22:30:59 INFO       (-1.0 r0.8 lessico) People’s Bank of China Halts Solana Shanghai Event Over Unauthorized Crypto Promotion: 7 outlets compared - Ne
 06/11 22:30:59 INFO    -> ATTENDI: trend giornaliero non rialzista
 06/11 22:30:59 INFO    Agente fermato.
+06/11 22:45:39 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 22:45:39 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 22:45:42 INFO    Prezzo 80.8700 | medie 80.8111/80.8186 trend GIU | notizie -0.12 su 50 (12 nuove, 2 da Claude) | 3.4s
+06/11 22:45:42 INFO       (-0.5 r0.9 claude) Solana Price Outlook as BTC Slips Below $76K: How Much Lower Could SOL Go? - Cryptonews.net
+06/11 22:45:42 INFO       (+0.6 r0.8 claude) Samsung adds USDC support on Solana for 82M Galaxy devices in US - Crypto Briefing
+06/11 22:45:42 INFO       (-1.0 r0.8 lessico) China Investigates Solana’s Shanghai Promotions After Halting Event - CryptoRank
+06/11 22:45:42 INFO    -> ATTENDI: trend giornaliero non rialzista
+06/11 22:45:42 INFO    Agente fermato.
