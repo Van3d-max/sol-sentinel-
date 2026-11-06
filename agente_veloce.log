@@ -558,3 +558,12 @@
 06/11 03:01:16 INFO       ribassista: Il prezzo supera le medie solo di pochi centesimi, il sentiment è debole e uno dei titoli è promozionale, mentre il flusso degli ETF è piatto.
 06/11 03:01:16 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è marginale (prezzo appena sopra le medie con ATR bassa), il sentiment è debole e parte delle notizie è promozionale, quindi le prove non giustificano l'acquisto.
 06/11 03:01:16 INFO    Agente fermato.
+06/11 03:15:38 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 03:15:38 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 03:15:41 INFO    Prezzo 80.3500 | medie 80.3456/80.0767 trend SU | notizie +0.14 su 59 (8 nuove, 1 da Claude) | 2.9s
+06/11 03:15:41 INFO       (+0.5 r0.8 claude) Samsung launches Solana-based USDC accounts in Wallet - grafa.com
+06/11 03:15:41 INFO       (+0.2 r0.9 claude) Solana Price Prediction: Record 3.4 Billion October Transactions Meet Flat ETF Flows as Traders Fund Pepeto - 
+06/11 03:15:41 INFO       (+0.4 r0.9 claude) Solana Labs Launches Leap App With Plans to Burn SOL From Fees - CryptoRank
+06/11 03:15:44 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
+06/11 03:15:44 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
+06/11 03:15:44 INFO    Agente fermato.
