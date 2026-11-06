@@ -925,3 +925,12 @@
 06/11 12:45:42 INFO       (+0.5 r0.9 claude) Crypto heavyweight Solana eyes Hong Kong expansion to tap growing tokenisation demand - South China Morning Po
 06/11 12:45:42 INFO    -> ATTENDI: notizia shock: China's Central Bank Opens Probe Into Solana's Shanghai Ad Blitz, Halts Promotio
 06/11 12:45:42 INFO    Agente fermato.
+06/11 13:01:08 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 13:01:08 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 13:01:10 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+06/11 13:01:11 INFO    Prezzo 80.6200 | medie 80.8233/80.5943 trend SU | notizie -0.27 su 63 (7 nuove, 0 da Claude) | 2.6s
+06/11 13:01:11 INFO       (-1.0 r0.8 lessico) China's Central Bank Opens Probe Into Solana's Shanghai Ad Blitz, Halts Promotional Events - BigGo Finance
+06/11 13:01:11 INFO       (-1.0 r0.8 lessico) China’s Authorities Have Halted Solana’s Advertising Campaign in Shanghai and Are Preparing an Investigation -
+06/11 13:01:11 INFO       (-0.5 r0.9 claude) Solana’s Shanghai event halted over unauthorized promotion: Report
+06/11 13:01:11 INFO    -> ATTENDI: notizia shock: China's Central Bank Opens Probe Into Solana's Shanghai Ad Blitz, Halts Promotio
+06/11 13:01:11 INFO    Agente fermato.
