@@ -710,3 +710,11 @@
 06/11 06:45:42 INFO       (+0.5 r0.8 claude) Samsung launches Solana-based USDC accounts in Wallet - grafa.com
 06/11 06:45:42 INFO    -> ATTENDI: trend giornaliero non rialzista
 06/11 06:45:42 INFO    Agente fermato.
+06/11 07:01:08 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 07:01:09 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 07:01:12 INFO    Prezzo 80.0700 | medie 79.8267/80.0314 trend GIU | notizie -0.04 su 58 (11 nuove, 1 da Claude) | 3.6s
+06/11 07:01:12 INFO       (-0.5 r1.0 claude) Solana Price Forecast: Warning signs emerge as SOL's long-term trendline comes under pressure - www.tmgm.com
+06/11 07:01:12 INFO       (-0.7 r1.0 claude) Solana gave up 6.62% in a single day to $89.20, erasing the recent climb back toward triple digits and… - 24/7
+06/11 07:01:12 INFO       (+0.4 r0.9 claude) Solana Leads Meme-Market Volume as Trading Climbs 26.6% to $203 Million - www.tokenpost.com
+06/11 07:01:12 INFO    -> ATTENDI: trend giornaliero non rialzista
+06/11 07:01:12 INFO    Agente fermato.
