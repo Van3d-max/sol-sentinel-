@@ -873,3 +873,12 @@
 06/11 11:31:00 INFO       (-0.7 r1.0 claude) U.S. tech sell-off spills into crypto: Solana slides to $89.63 as AI spending fears mount - AMBCrypto
 06/11 11:31:00 INFO    -> ATTENDI: notizia shock: China Halts Solana Event in Shanghai Over Crypto Ban - CoinGape
 06/11 11:31:00 INFO    Agente fermato.
+06/11 11:45:39 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 11:45:40 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 11:45:42 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":0.'): uso il dizionario
+06/11 11:45:42 INFO    Prezzo 80.8900 | medie 80.6322/80.3733 trend SU | notizie -0.24 su 64 (10 nuove, 0 da Claude) | 2.9s
+06/11 11:45:42 INFO       (-1.0 r0.8 lessico) China Halts Solana Event in Shanghai Over Crypto Ban - CoinGape
+06/11 11:45:42 INFO       (-0.6 r0.9 claude) China central bank targets Solana over Shanghai advertising and canceled event - Crypto News
+06/11 11:45:42 INFO       (-0.7 r1.0 claude) U.S. tech sell-off spills into crypto: Solana slides to $89.63 as AI spending fears mount - AMBCrypto
+06/11 11:45:42 INFO    -> ATTENDI: notizia shock: China Halts Solana Event in Shanghai Over Crypto Ban - CoinGape
+06/11 11:45:42 INFO    Agente fermato.
