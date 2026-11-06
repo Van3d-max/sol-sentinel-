@@ -476,3 +476,12 @@
 06/11 01:01:09 INFO       (-0.4 r1.0 claude) Solana validators urged to upgrade by Nov. 6 to avoid network fork - Crypto Briefing
 06/11 01:01:09 INFO    -> ATTENDI: trend giornaliero non rialzista
 06/11 01:01:09 INFO    Agente fermato.
+06/11 01:15:36 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 01:15:37 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 01:15:40 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+06/11 01:15:40 INFO    Prezzo 80.4700 | medie 79.8733/79.9948 trend GIU | notizie +0.08 su 62 (12 nuove, 0 da Claude) | 3.9s
+06/11 01:15:40 INFO       (+0.3 r0.8 lessico) Solana Labs Launches Leap App With Plans to Burn SOL From Fees - CryptoRank
+06/11 01:15:40 INFO       (-0.6 r0.9 claude) As Solana Falls 4.43% in Four Hours to $89.52 on Nov. 5 - www.tokenpost.com
+06/11 01:15:40 INFO       (-0.4 r1.0 claude) Solana validators urged to upgrade by Nov. 6 to avoid network fork - Crypto Briefing
+06/11 01:15:40 INFO    -> ATTENDI: trend giornaliero non rialzista
+06/11 01:15:40 INFO    Agente fermato.
