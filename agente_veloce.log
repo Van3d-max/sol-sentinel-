@@ -839,3 +839,12 @@
 06/11 10:30:57 INFO       (-0.7 r1.0 claude) Solana gave up 6.62% in a single day to $89.20, erasing the recent climb back toward triple digits and… - 24/7
 06/11 10:30:57 INFO    -> ATTENDI: notizia shock: U.S. tech sell-off spills into crypto: Solana slides to $89.63 as AI spending fe
 06/11 10:30:57 INFO    Agente fermato.
+06/11 10:45:42 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 10:45:43 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 10:45:44 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"'): uso il dizionario
+06/11 10:45:45 INFO    Prezzo 80.6400 | medie 80.5067/80.2114 trend SU | notizie -0.12 su 60 (6 nuove, 0 da Claude) | 2.5s
+06/11 10:45:45 INFO       (-0.7 r1.0 claude) U.S. tech sell-off spills into crypto: Solana slides to $89.63 as AI spending fears mount - AMBCrypto
+06/11 10:45:45 INFO       (-0.4 r1.0 claude) Solana Price Forecast: Is the bullish structure finally cracking? - FXStreet
+06/11 10:45:45 INFO       (-0.7 r1.0 claude) Solana gave up 6.62% in a single day to $89.20, erasing the recent climb back toward triple digits and… - 24/7
+06/11 10:45:45 INFO    -> ATTENDI: notizia shock: U.S. tech sell-off spills into crypto: Solana slides to $89.63 as AI spending fe
+06/11 10:45:45 INFO    Agente fermato.
