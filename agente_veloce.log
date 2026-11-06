@@ -1212,3 +1212,11 @@
 06/11 20:45:43 INFO       (-0.4 r1.0 claude) The Price of Solana Just Dropped Below $100. Time to Buy the Dip? - The Motley Fool
 06/11 20:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista
 06/11 20:45:43 INFO    Agente fermato.
+06/11 21:01:09 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 21:01:10 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 21:01:13 INFO    Prezzo 80.6600 | medie 80.7811/80.8833 trend GIU | notizie -0.17 su 49 (12 nuove, 3 da Claude) | 3.3s
+06/11 21:01:13 INFO       (+0.6 r0.8 claude) Samsung adds USDC support on Solana for 82M Galaxy devices in US - Crypto Briefing
+06/11 21:01:13 INFO       (-1.0 r0.8 lessico) China Investigates Solana’s Shanghai Promotions After Halting Event - CryptoRank
+06/11 21:01:13 INFO       (-1.0 r0.8 lessico) People’s Bank of China Halts Solana Shanghai Event Over Unauthorized Crypto Promotion: 7 outlets compared - Ne
+06/11 21:01:13 INFO    -> ATTENDI: trend giornaliero non rialzista
+06/11 21:01:13 INFO    Agente fermato.
