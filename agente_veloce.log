@@ -526,3 +526,14 @@
 06/11 02:15:46 INFO       ribassista: Il prezzo è quasi fermo sulla media a 10 periodi (80,26), il titolo che riporta un calo a 89,52 è incoerente con il prezzo attuale, e l'avviso sull'aggiornamento dei validator entro il 6 novembre introduce un rischio di fork di rete.
 06/11 02:15:46 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono contraddittorie e deboli: il segnale di trend è neutro, le notizie sono miste con un rischio operativo concreto legato al possibile fork, e i dati sono incoerenti, quindi il rischio non è giustificato.
 06/11 02:15:46 INFO    Agente fermato.
+06/11 02:30:56 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 02:30:57 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 02:31:00 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{'): uso il dizionario
+06/11 02:31:00 INFO    Prezzo 80.3800 | medie 80.3289/80.0343 trend SU | notizie +0.15 su 59 (12 nuove, 0 da Claude) | 3.8s
+06/11 02:31:00 INFO       (+0.3 r0.8 lessico) Samsung launches Solana-based USDC accounts in Wallet - grafa.com
+06/11 02:31:00 INFO       (+0.3 r0.8 lessico) Solana Price Prediction: Record 3.4 Billion October Transactions Meet Flat ETF Flows as Traders Fund Pepeto - 
+06/11 02:31:00 INFO       (+0.4 r0.9 claude) Solana Labs Launches Leap App With Plans to Burn SOL From Fees - CryptoRank
+06/11 02:31:03 INFO       rialzista: Il prezzo (80.38) è sopra sia la media mobile a 10 periodi (80.33) sia quella a 30 (80.03), e il sentiment delle notizie è leggermente positivo (0.147) con segnali di adozione come l'integrazione USDC su Samsung Wallet.
+06/11 02:31:03 INFO       ribassista: Il prezzo supera le medie di appena lo 0,05% e lo 0,4%, quindi il segnale di trend è debole, mentre due dei tre titoli sono promozionali (uno cita un token shill) e non forniscono evidenza di domanda reale o di flussi ETF, che sono piatti.
+06/11 02:31:03 INFO    -> BLOCCATO DAL DIBATTITO: L'evidenza a favore è marginale e basata su titoli promozionali, senza un vantaggio chiaro né un livello di stop definito in relazione all'ATR giornaliero di 0,471, quindi il rischio non è giustificato.
+06/11 02:31:03 INFO    Agente fermato.
