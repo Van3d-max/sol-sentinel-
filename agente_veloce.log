@@ -504,3 +504,14 @@
 06/11 01:45:43 INFO       ribassista: Il prezzo è appena sopra le medie, il segnale di trend è debole, e il rischio di fork di rete legato all'aggiornamento obbligatorio dei validatori entro il 6 novembre pesa sul sentiment.
 06/11 01:45:43 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale di trend è troppo debole (prezzo quasi coincidente con le medie) e il rischio di fork di rete con le notizie contrastanti non giustifica l'ingresso spot senza una conferma più solida.
 06/11 01:45:43 INFO    Agente fermato.
+06/11 02:01:06 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 02:01:07 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 02:01:09 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+06/11 02:01:10 INFO    Prezzo 80.4100 | medie 80.1767/80.0052 trend SU | notizie +0.11 su 59 (9 nuove, 0 da Claude) | 3.3s
+06/11 02:01:10 INFO       (+0.4 r0.9 claude) Solana Labs Launches Leap App With Plans to Burn SOL From Fees - CryptoRank
+06/11 02:01:10 INFO       (-0.6 r0.9 claude) As Solana Falls 4.43% in Four Hours to $89.52 on Nov. 5 - www.tokenpost.com
+06/11 02:01:10 INFO       (-0.4 r1.0 claude) Solana validators urged to upgrade by Nov. 6 to avoid network fork - Crypto Briefing
+06/11 02:01:13 INFO       rialzista: Il prezzo (80,41) si trova sopra sia la media mobile a 10 periodi (80,18) sia quella a 30 periodi (80,01), e il punteggio delle notizie è leggermente positivo (0,106), con il piano di bruciatura delle commissioni di Solana Labs come catalizzatore di medio periodo.
+06/11 02:01:13 INFO       ribassista: Il margine sopra le medie è minimo (circa 0,3%), i titoli sono contrastanti e alcuni sono datati o incoerenti con il prezzo attuale, e l'avviso di possibile fork di rete per i validatori introduce un rischio operativo che potrebbe pesare sul prezzo.
+06/11 02:01:13 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono deboli: il segnale di trend è marginale, le notizie sono contrastanti e in parte non aggiornate (il titolo che cita 89,52 non corrisponde al prezzo di 80,41), e il rischio di fork di rete non è quantificato, quindi non si giustifica l'acquisto spot.
+06/11 02:01:13 INFO    Agente fermato.
