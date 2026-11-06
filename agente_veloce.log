@@ -779,3 +779,12 @@
 06/11 08:45:42 INFO       (+0.4 r0.9 claude) Solana Leads Meme-Market Volume as Trading Climbs 26.6% to $203 Million - www.tokenpost.com
 06/11 08:45:42 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
 06/11 08:45:42 INFO    Agente fermato.
+06/11 09:01:08 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 09:01:09 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 09:01:11 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+06/11 09:01:11 INFO    Prezzo 80.1200 | medie 80.0811/79.9329 trend SU | notizie -0.01 su 59 (8 nuove, 0 da Claude) | 2.9s
+06/11 09:01:11 INFO       (-0.4 r1.0 claude) Solana Price Forecast: Is the bullish structure finally cracking? - FXStreet
+06/11 09:01:11 INFO       (-0.7 r1.0 claude) Solana gave up 6.62% in a single day to $89.20, erasing the recent climb back toward triple digits and… - 24/7
+06/11 09:01:11 INFO       (+0.4 r0.9 claude) Solana Leads Meme-Market Volume as Trading Climbs 26.6% to $203 Million - www.tokenpost.com
+06/11 09:01:11 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
+06/11 09:01:11 INFO    Agente fermato.
