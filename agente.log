@@ -206,3 +206,11 @@
 06/11 02:01:05 INFO       (+0.4 r0.8 claude) Solana Labs Launches Leap App With Plans to Burn SOL From Fees - CryptoRank
 06/11 02:01:05 INFO    -> ATTENDI: trend giornaliero non rialzista
 06/11 02:01:05 INFO    Agente fermato.
+06/11 03:01:03 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+06/11 03:01:03 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 03:01:06 INFO    Prezzo 80.4900 | medie 85.3630/91.4563 trend GIU | notizie +0.12 su 87 (12 nuove, 3 da Claude) | 3.3s
+06/11 03:01:06 INFO       (+0.5 r0.8 claude) Samsung launches Solana-based USDC accounts in Wallet - grafa.com
+06/11 03:01:06 INFO       (-0.6 r1.0 claude) Solana Price Slides to $89, First Test of the 200-Day Line Since August - CryptoTicker.io
+06/11 03:01:06 INFO       (-0.5 r1.0 claude) As Solana Falls 4.43% in Four Hours to $89.52 on Nov. 5 - www.tokenpost.com
+06/11 03:01:06 INFO    -> ATTENDI: trend giornaliero non rialzista
+06/11 03:01:06 INFO    Agente fermato.
