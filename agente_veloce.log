@@ -578,3 +578,14 @@
 06/11 03:31:00 INFO       ribassista: Il prezzo è sotto la media a 10 giorni (80,32), i flussi ETF sono piatti, la volatilità è bassa e buona parte dei titoli è promozionale, con un punteggio notizie modesto (0,144).
 06/11 03:31:00 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo oscilla attorno alle medie senza una tendenza chiara, il sentiment è solo leggermente positivo e diversi titoli sono promozionali, quindi non giustifica un acquisto spot.
 06/11 03:31:00 INFO    Agente fermato.
+06/11 03:45:36 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 03:45:36 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 03:45:38 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1'): uso il dizionario
+06/11 03:45:38 INFO    Prezzo 80.1400 | medie 80.3322/80.0748 trend SU | notizie +0.14 su 59 (8 nuove, 0 da Claude) | 2.7s
+06/11 03:45:38 INFO       (+0.5 r0.8 claude) Samsung launches Solana-based USDC accounts in Wallet - grafa.com
+06/11 03:45:38 INFO       (+0.2 r0.9 claude) Solana Price Prediction: Record 3.4 Billion October Transactions Meet Flat ETF Flows as Traders Fund Pepeto - 
+06/11 03:45:38 INFO       (+0.4 r0.9 claude) Solana Labs Launches Leap App With Plans to Burn SOL From Fees - CryptoRank
+06/11 03:45:41 INFO       rialzista: Il prezzo (80,14) è sopra la media mobile a 30 periodi (80,07) e le notizie sono moderatamente positive, con l'integrazione di Samsung e il possibile burn di SOL da Leap come catalizzatori.
+06/11 03:45:41 INFO       ribassista: Il prezzo è sotto la media a 10 periodi (80,33), i flussi ETF sono piatti, uno dei titoli è un contenuto promozionale di bassa qualità e il punteggio di sentiment (0,143) è debole.
+06/11 03:45:41 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto la media a 10 periodi, il sentiment è modesto e in parte basato su fonti promozionali, quindi il rischio non è giustificato dalle evidenze disponibili.
+06/11 03:45:41 INFO    Agente fermato.
