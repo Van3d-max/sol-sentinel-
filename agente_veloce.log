@@ -1011,3 +1011,11 @@
 06/11 15:15:41 INFO       (-0.6 r1.0 claude) China's Central Bank Opens Probe Into Solana's Shanghai Ad Blitz, Halts Promotional Events - BigGo Finance
 06/11 15:15:41 INFO    -> ATTENDI: notizia shock: China Halts Solana Crypto Event over Marketing Violations - The Cryptonomist
 06/11 15:15:41 INFO    Agente fermato.
+06/11 15:30:58 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 15:30:58 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 15:31:00 INFO    Prezzo 80.9100 | medie 81.1044/80.9148 trend SU | notizie -0.31 su 57 (7 nuove, 1 da Claude) | 2.8s
+06/11 15:31:00 INFO       (-1.0 r0.8 lessico) China Halts Solana Crypto Event over Marketing Violations - The Cryptonomist
+06/11 15:31:00 INFO       (-1.0 r0.8 lessico) Solana’s Shanghai event halted over unauthorized promotion: Report - TradingView
+06/11 15:31:00 INFO       (-0.6 r1.0 claude) China's Central Bank Opens Probe Into Solana's Shanghai Ad Blitz, Halts Promotional Events - BigGo Finance
+06/11 15:31:00 INFO    -> ATTENDI: notizia shock: China Halts Solana Crypto Event over Marketing Violations - The Cryptonomist
+06/11 15:31:00 INFO    Agente fermato.
