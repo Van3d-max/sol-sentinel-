@@ -610,3 +610,14 @@
 06/11 04:15:47 INFO       ribassista: Il prezzo è sotto sia la media a 10 giorni (80,25) sia quella a 30 giorni (80,09), il punteggio notizie è debole (0,114) e uno dei titoli è di tipo promozionale.
 06/11 04:15:47 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo è sotto entrambe le medie mobili e il sentiment è debole e in parte promozionale, quindi le prove a favore dell'acquisto sono insufficienti per un ingresso spot.
 06/11 04:15:47 INFO    Agente fermato.
+06/11 04:30:54 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 04:30:55 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 04:30:57 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+06/11 04:30:57 INFO    Prezzo 79.7600 | medie 80.1944/80.1167 trend SU | notizie +0.11 su 62 (12 nuove, 0 da Claude) | 3.3s
+06/11 04:30:57 INFO       (+0.5 r0.8 claude) Samsung launches Solana-based USDC accounts in Wallet - grafa.com
+06/11 04:30:57 INFO       (+0.2 r0.9 claude) Solana Price Prediction: Record 3.4 Billion October Transactions Meet Flat ETF Flows as Traders Fund Pepeto - 
+06/11 04:30:57 INFO       (+0.4 r0.9 claude) Solana Labs Launches Leap App With Plans to Burn SOL From Fees - CryptoRank
+06/11 04:31:00 INFO       rialzista: Le notizie sono nel complesso positive, con l'integrazione di Samsung, il record di transazioni su Solana e il piano di burn delle commissioni di Solana Labs, e il prezzo potrebbe rimbalzare verso le medie mobili.
+06/11 04:31:00 INFO       ribassista: Il prezzo (79,76) è sotto sia la media a 10 periodi (80,19) sia quella a 30 (80,12), il sentiment è appena positivo (0,114), i titoli sono in parte promozionali e i flussi ETF sono piatti.
+06/11 04:31:00 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto entrambe le medie mobili, il sentiment è quasi neutro e le notizie sono in parte promozionali, quindi non ci sono prove sufficienti per un acquisto spot.
+06/11 04:31:00 INFO    Agente fermato.
