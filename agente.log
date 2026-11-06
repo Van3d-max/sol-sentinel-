@@ -332,3 +332,11 @@
 06/11 16:01:08 INFO       (-0.8 r1.0 claude) U.S. tech sell-off spills into crypto: Solana slides to $89.63 as AI spending fears mount - AMBCrypto
 06/11 16:01:08 INFO    -> ATTENDI: trend giornaliero non rialzista
 06/11 16:01:08 INFO    Agente fermato.
+06/11 17:01:04 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+06/11 17:01:05 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 17:01:08 INFO    Prezzo 81.1800 | medie 85.3630/91.4563 trend GIU | notizie -0.15 su 80 (15 nuove, 3 da Claude) | 3.9s
+06/11 17:01:08 INFO       (-0.7 r1.0 claude) Solana Price Prediction: SOL Eyes Drop to $80 as ETFs Book First Major Net Outflow in 12 Months - FXEmpire
+06/11 17:01:08 INFO       (-1.0 r0.8 lessico) China Halts Solana Event in Shanghai Over Crypto Ban - CoinGape
+06/11 17:01:08 INFO       (-0.8 r1.0 claude) U.S. tech sell-off spills into crypto: Solana slides to $89.63 as AI spending fears mount - AMBCrypto
+06/11 17:01:08 INFO    -> ATTENDI: trend giornaliero non rialzista
+06/11 17:01:08 INFO    Agente fermato.
