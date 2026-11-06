@@ -315,3 +315,11 @@
 06/11 14:01:08 INFO       (-0.5 r0.9 claude) Solana's Shanghai Event Halted Over Unauthorized Promotions - KuCoin
 06/11 14:01:08 INFO    -> ATTENDI: trend giornaliero non rialzista
 06/11 14:01:08 INFO    Agente fermato.
+06/11 15:01:22 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+06/11 15:01:22 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 15:01:27 INFO    Prezzo 81.5100 | medie 85.3630/91.4563 trend GIU | notizie -0.20 su 82 (14 nuove, 3 da Claude) | 5.4s
+06/11 15:01:27 INFO       (-0.7 r1.0 claude) Solana Price Prediction: SOL Eyes Drop to $80 as ETFs Book First Major Net Outflow in 12 Months - FXEmpire
+06/11 15:01:27 INFO       (-1.0 r0.8 lessico) China Halts Solana Event in Shanghai Over Crypto Ban - CoinGape
+06/11 15:01:27 INFO       (-0.8 r1.0 claude) U.S. tech sell-off spills into crypto: Solana slides to $89.63 as AI spending fears mount - AMBCrypto
+06/11 15:01:27 INFO    -> ATTENDI: trend giornaliero non rialzista
+06/11 15:01:27 INFO    Agente fermato.
