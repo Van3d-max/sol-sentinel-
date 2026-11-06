@@ -599,3 +599,14 @@
 06/11 04:01:14 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 06/11 04:01:14 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 06/11 04:01:14 INFO    Agente fermato.
+06/11 04:15:41 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 04:15:42 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 04:15:44 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+06/11 04:15:45 INFO    Prezzo 79.8200 | medie 80.2533/80.0852 trend SU | notizie +0.11 su 63 (12 nuove, 0 da Claude) | 3.4s
+06/11 04:15:45 INFO       (+0.5 r0.8 claude) Samsung launches Solana-based USDC accounts in Wallet - grafa.com
+06/11 04:15:45 INFO       (+0.2 r0.9 claude) Solana Price Prediction: Record 3.4 Billion October Transactions Meet Flat ETF Flows as Traders Fund Pepeto - 
+06/11 04:15:45 INFO       (+0.4 r0.9 claude) Solana Labs Launches Leap App With Plans to Burn SOL From Fees - CryptoRank
+06/11 04:15:47 INFO       rialzista: Il prezzo è vicino alle medie mobili e le notizie sono moderatamente positive (adozione di Samsung, record di transazioni, piano di burn SOL), quindi un rimbalzo è plausibile.
+06/11 04:15:47 INFO       ribassista: Il prezzo è sotto sia la media a 10 giorni (80,25) sia quella a 30 giorni (80,09), il punteggio notizie è debole (0,114) e uno dei titoli è di tipo promozionale.
+06/11 04:15:47 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo è sotto entrambe le medie mobili e il sentiment è debole e in parte promozionale, quindi le prove a favore dell'acquisto sono insufficienti per un ingresso spot.
+06/11 04:15:47 INFO    Agente fermato.
