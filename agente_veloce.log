@@ -975,3 +975,12 @@
 06/11 14:15:45 INFO       (+0.3 r0.6 claude) Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto
 06/11 14:15:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.26)
 06/11 14:15:45 INFO    Agente fermato.
+06/11 14:30:56 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 14:30:56 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 14:30:58 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+06/11 14:30:59 INFO    Prezzo 81.1700 | medie 80.8656/80.7571 trend SU | notizie -0.32 su 57 (3 nuove, 0 da Claude) | 2.6s
+06/11 14:30:59 INFO       (-1.0 r0.8 lessico) Solana’s Shanghai event halted over unauthorized promotion: Report - TradingView
+06/11 14:30:59 INFO       (-0.6 r1.0 claude) China's Central Bank Opens Probe Into Solana's Shanghai Ad Blitz, Halts Promotional Events - BigGo Finance
+06/11 14:30:59 INFO       (-0.6 r1.0 claude) China’s Authorities Have Halted Solana’s Advertising Campaign in Shanghai and Are Preparing an Investigation -
+06/11 14:30:59 INFO    -> ATTENDI: notizia shock: Solana’s Shanghai event halted over unauthorized promotion: Report - TradingView
+06/11 14:30:59 INFO    Agente fermato.
