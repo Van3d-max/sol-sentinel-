@@ -1063,3 +1063,11 @@
 06/11 16:45:46 INFO       (-0.6 r1.0 claude) China's Central Bank Opens Probe Into Solana's Shanghai Ad Blitz, Halts Promotional Events - BigGo Finance
 06/11 16:45:46 INFO    -> ATTENDI: notizie sotto la soglia (-0.23)
 06/11 16:45:46 INFO    Agente fermato.
+06/11 17:01:11 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 17:01:11 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 17:01:12 INFO    Prezzo 81.1800 | medie 81.1744/81.0305 trend SU | notizie -0.28 su 50 (6 nuove, 6 da Claude) | 1.7s
+06/11 17:01:12 INFO       (-0.7 r0.9 claude) Solana Price Prediction: SOL Eyes Drop to $80 as ETFs Book First Major Net Outflow in 12 Months - FXEmpire
+06/11 17:01:12 INFO       (-0.5 r0.9 claude) China Halts Solana Crypto Event over Marketing Violations - The Cryptonomist
+06/11 17:01:12 INFO       (-0.6 r0.8 claude) China central bank probes Solana after Shanghai shutdown, report - Protos | Informed crypto news
+06/11 17:01:12 INFO    -> ATTENDI: notizia shock: Solana Price Prediction: SOL Eyes Drop to $80 as ETFs Book First Major Net Outfl
+06/11 17:01:12 INFO    Agente fermato.
