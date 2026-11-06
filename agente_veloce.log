@@ -547,3 +547,14 @@
 06/11 02:45:46 INFO       ribassista: Il vantaggio sulle medie è minimo (circa lo 0,1% sopra la MA10), la volatilità giornaliera è bassa (ATR 0,46, circa lo 0,6%) e una delle notizie è promozionale e non dà un segnale affidabile.
 06/11 02:45:46 INFO    -> BLOCCATO DAL DIBATTITO: L'evidenza tecnica e di sentiment è troppo debole per giustificare l'ingresso: il segnale di trend è marginale, il punteggio delle notizie è modesto e in parte promozionale, quindi il rischio non è compensato da un vantaggio chiaro.
 06/11 02:45:46 INFO    Agente fermato.
+06/11 03:01:10 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 03:01:10 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 03:01:12 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+06/11 03:01:12 INFO    Prezzo 80.4900 | medie 80.3567/80.0638 trend SU | notizie +0.14 su 59 (8 nuove, 0 da Claude) | 2.5s
+06/11 03:01:12 INFO       (+0.5 r0.8 claude) Samsung launches Solana-based USDC accounts in Wallet - grafa.com
+06/11 03:01:12 INFO       (+0.2 r0.9 claude) Solana Price Prediction: Record 3.4 Billion October Transactions Meet Flat ETF Flows as Traders Fund Pepeto - 
+06/11 03:01:12 INFO       (+0.4 r0.9 claude) Solana Labs Launches Leap App With Plans to Burn SOL From Fees - CryptoRank
+06/11 03:01:16 INFO       rialzista: Il prezzo (80,49) è sopra le medie mobili a 10 e 30 periodi, con un sentiment di notizie positivo (0,139) sostenuto da partnership come quella con Samsung.
+06/11 03:01:16 INFO       ribassista: Il prezzo supera le medie solo di pochi centesimi, il sentiment è debole e uno dei titoli è promozionale, mentre il flusso degli ETF è piatto.
+06/11 03:01:16 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è marginale (prezzo appena sopra le medie con ATR bassa), il sentiment è debole e parte delle notizie è promozionale, quindi le prove non giustificano l'acquisto.
+06/11 03:01:16 INFO    Agente fermato.
