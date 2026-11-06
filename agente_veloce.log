@@ -1307,3 +1307,11 @@
 06/11 23:30:59 INFO       (+0.6 r0.8 claude) Samsung adds USDC support on Solana for 82M Galaxy devices in US - Crypto Briefing
 06/11 23:30:59 INFO    -> ATTENDI: notizie sotto la soglia (-0.15)
 06/11 23:30:59 INFO    Agente fermato.
+06/11 23:49:50 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 23:49:50 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 23:49:53 INFO    Prezzo 80.9600 | medie 80.8711/80.8190 trend SU | notizie -0.15 su 50 (12 nuove, 4 da Claude) | 3.7s
+06/11 23:49:53 INFO       (-0.6 r0.9 claude) Solana Long Liquidations Reach $10.83 Million in One Hour - www.tokenpost.com
+06/11 23:49:53 INFO       (-0.6 r1.0 claude) China Opens Solana Investigation After Police Stop Shanghai Event - BeInCrypto
+06/11 23:49:53 INFO       (-0.5 r0.9 claude) Solana Price Outlook as BTC Slips Below $76K: How Much Lower Could SOL Go? - Cryptonews.net
+06/11 23:49:53 INFO    -> ATTENDI: notizie sotto la soglia (-0.15)
+06/11 23:49:53 INFO    Agente fermato.
