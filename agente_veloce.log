@@ -968,3 +968,10 @@
 06/11 14:01:11 INFO       (-0.6 r1.0 claude) China’s Authorities Have Halted Solana’s Advertising Campaign in Shanghai and Are Preparing an Investigation -
 06/11 14:01:11 INFO    -> ATTENDI: notizia shock: Solana’s Shanghai event halted over unauthorized promotion: Report - TradingView
 06/11 14:01:11 INFO    Agente fermato.
+06/11 14:15:38 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 14:15:45 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=errore: HTTPError
+06/11 14:15:45 INFO    Prezzo 80.7100 | medie 80.8533/80.7367 trend SU | notizie -0.26 su 2 (0 nuove, 0 da Claude) | 6.9s
+06/11 14:15:45 INFO       (-0.5 r0.9 claude) Solana’s Shanghai event halted over unauthorized promotion: Report
+06/11 14:15:45 INFO       (+0.3 r0.6 claude) Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto
+06/11 14:15:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.26)
+06/11 14:15:45 INFO    Agente fermato.
