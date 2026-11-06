@@ -631,3 +631,12 @@
 06/11 04:44:25 INFO       ribassista: Il prezzo (79.76) è sotto sia la media mobile a 10 periodi (80.19) sia quella a 30 periodi (80.12), segnale di debole momentum di breve termine, e i flussi ETF sono piatti.
 06/11 04:44:25 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo è sotto entrambe le medie mobili, il segnale delle notizie è debole e in parte promozionale, e non c'è una tesi di ingresso con livelli di stop chiari, quindi il rischio non è giustificato.
 06/11 04:44:25 INFO    Agente fermato.
+06/11 04:45:41 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 04:45:41 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 04:45:43 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+06/11 04:45:44 INFO    Prezzo 79.7900 | medie 80.1289/80.1395 trend GIU | notizie +0.14 su 62 (11 nuove, 0 da Claude) | 3.0s
+06/11 04:45:44 INFO       (+0.4 r0.9 claude) Solana Leads Meme-Market Volume as Trading Climbs 26.6% to $203 Million - www.tokenpost.com
+06/11 04:45:44 INFO       (+0.5 r0.8 claude) Samsung launches Solana-based USDC accounts in Wallet - grafa.com
+06/11 04:45:44 INFO       (+0.2 r0.9 claude) Solana Price Prediction: Record 3.4 Billion October Transactions Meet Flat ETF Flows as Traders Fund Pepeto - 
+06/11 04:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista
+06/11 04:45:44 INFO    Agente fermato.
