@@ -223,3 +223,11 @@
 06/11 04:01:04 INFO       (-0.5 r1.0 claude) As Solana Falls 4.43% in Four Hours to $89.52 on Nov. 5 - www.tokenpost.com
 06/11 04:01:04 INFO    -> ATTENDI: trend giornaliero non rialzista
 06/11 04:01:04 INFO    Agente fermato.
+06/11 05:01:05 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+06/11 05:01:05 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 05:01:09 INFO    Prezzo 79.8900 | medie 85.3630/91.4563 trend GIU | notizie +0.13 su 87 (15 nuove, 2 da Claude) | 3.8s
+06/11 05:01:09 INFO       (+0.5 r0.8 claude) Samsung launches Solana-based USDC accounts in Wallet - grafa.com
+06/11 05:01:09 INFO       (+0.4 r0.9 claude) Solana Leads Meme-Market Volume as Trading Climbs 26.6% to $203 Million - www.tokenpost.com
+06/11 05:01:09 INFO       (-0.6 r1.0 claude) Solana Price Slides to $89, First Test of the 200-Day Line Since August - CryptoTicker.io
+06/11 05:01:09 INFO    -> ATTENDI: trend giornaliero non rialzista
+06/11 05:01:09 INFO    Agente fermato.
