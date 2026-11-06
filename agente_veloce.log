@@ -640,3 +640,12 @@
 06/11 04:45:44 INFO       (+0.2 r0.9 claude) Solana Price Prediction: Record 3.4 Billion October Transactions Meet Flat ETF Flows as Traders Fund Pepeto - 
 06/11 04:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista
 06/11 04:45:44 INFO    Agente fermato.
+06/11 05:01:10 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 05:01:10 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 05:01:13 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":0.8,'): uso il dizionario
+06/11 05:01:13 INFO    Prezzo 79.8900 | medie 80.0678/80.1567 trend GIU | notizie +0.16 su 62 (12 nuove, 0 da Claude) | 3.0s
+06/11 05:01:13 INFO       (+0.4 r0.9 claude) Solana Leads Meme-Market Volume as Trading Climbs 26.6% to $203 Million - www.tokenpost.com
+06/11 05:01:13 INFO       (+0.3 r0.8 lessico) Leap launches Solana app for tokenised markets - grafa.com
+06/11 05:01:13 INFO       (+0.5 r0.8 claude) Samsung launches Solana-based USDC accounts in Wallet - grafa.com
+06/11 05:01:13 INFO    -> ATTENDI: trend giornaliero non rialzista
+06/11 05:01:13 INFO    Agente fermato.
