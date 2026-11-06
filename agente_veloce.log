@@ -899,3 +899,11 @@
 06/11 12:15:43 INFO       (-0.7 r1.0 claude) U.S. tech sell-off spills into crypto: Solana slides to $89.63 as AI spending fears mount - AMBCrypto
 06/11 12:15:43 INFO    -> ATTENDI: notizie sotto la soglia (-0.07)
 06/11 12:15:43 INFO    Agente fermato.
+06/11 12:30:57 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 12:30:58 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 12:31:00 INFO    Prezzo 81.2300 | medie 80.7644/80.5095 trend SU | notizie -0.13 su 65 (9 nuove, 3 da Claude) | 2.6s
+06/11 12:31:00 INFO       (-0.5 r0.9 claude) Solana’s Shanghai event halted over unauthorized promotion: Report
+06/11 12:31:00 INFO       (+0.5 r0.9 claude) Crypto heavyweight Solana eyes Hong Kong expansion to tap growing tokenisation demand - South China Morning Po
+06/11 12:31:00 INFO       (-0.6 r0.9 claude) China central bank targets Solana over Shanghai advertising and canceled event - Crypto News
+06/11 12:31:00 INFO    -> ATTENDI: notizie sotto la soglia (-0.13)
+06/11 12:31:00 INFO    Agente fermato.
