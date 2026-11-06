@@ -649,3 +649,11 @@
 06/11 05:01:13 INFO       (+0.5 r0.8 claude) Samsung launches Solana-based USDC accounts in Wallet - grafa.com
 06/11 05:01:13 INFO    -> ATTENDI: trend giornaliero non rialzista
 06/11 05:01:13 INFO    Agente fermato.
+06/11 05:15:37 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+06/11 05:15:37 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+06/11 05:15:40 INFO    Prezzo 79.5300 | medie 79.9611/80.1576 trend GIU | notizie +0.16 su 60 (12 nuove, 1 da Claude) | 2.8s
+06/11 05:15:40 INFO       (+0.4 r0.9 claude) Solana Leads Meme-Market Volume as Trading Climbs 26.6% to $203 Million - www.tokenpost.com
+06/11 05:15:40 INFO       (+0.4 r0.6 claude) Leap launches Solana app for tokenised markets - grafa.com
+06/11 05:15:40 INFO       (+0.5 r0.8 claude) Samsung launches Solana-based USDC accounts in Wallet - grafa.com
+06/11 05:15:40 INFO    -> ATTENDI: trend giornaliero non rialzista
+06/11 05:15:40 INFO    Agente fermato.
