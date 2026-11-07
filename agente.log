@@ -640,3 +640,12 @@
 07/11 22:01:00 INFO       (+0.3 r0.8 lessico) Why Solana’s Bearish Bias Remains Despite ETF Investors Refusing to Sell at a Loss - TechBullion
 07/11 22:01:00 INFO    -> ATTENDI: trend giornaliero non rialzista
 07/11 22:01:00 INFO    Agente fermato.
+07/11 23:01:01 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+07/11 23:01:01 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+07/11 23:01:04 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":1,"s":-0.'): uso il dizionario
+07/11 23:01:04 INFO    Prezzo 80.0300 | medie 84.3490/90.6903 trend GIU | notizie -0.04 su 57 (13 nuove, 0 da Claude) | 3.5s
+07/11 23:01:04 INFO       (-0.8 r1.0 claude) Solana Price Loses Key Support as ETF Outflows Surge Following the Alpenglow Upgrade - Benzinga
+07/11 23:01:04 INFO       (+0.4 r0.9 claude) Solana’s October Upgrade Review Puts 200ms Slots and $5B in Tokenized Assets in Focus - TradingView
+07/11 23:01:04 INFO       (+0.3 r0.8 lessico) Why Solana’s Bearish Bias Remains Despite ETF Investors Refusing to Sell at a Loss - TechBullion
+07/11 23:01:04 INFO    -> ATTENDI: trend giornaliero non rialzista
+07/11 23:01:04 INFO    Agente fermato.
