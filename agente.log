@@ -588,3 +588,11 @@
 07/11 17:01:06 INFO       (-0.6 r0.3 claude) Bitcoin, Ethereum, XRP and Solana Fall as Crypto Liquidations Top $1 Billion - JournalArta
 07/11 17:01:06 INFO    -> ATTENDI: trend giornaliero non rialzista
 07/11 17:01:06 INFO    Agente fermato.
+07/11 18:01:00 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+07/11 18:01:01 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+07/11 18:01:03 INFO    Prezzo 80.5100 | medie 84.3490/90.6903 trend GIU | notizie -0.13 su 61 (12 nuove, 3 da Claude) | 3.3s
+07/11 18:01:03 INFO       (-0.8 r1.0 claude) Solana Price Loses Key Support as ETF Outflows Surge Following the Alpenglow Upgrade - Benzinga
+07/11 18:01:03 INFO       (+0.9 r0.6 lessico) ZetaChain: ZETA Approved as Native Solana Token - blockchain.news
+07/11 18:01:03 INFO       (+0.4 r0.6 claude) Samsung Wallet’s USDC on Solana Is Live — Here’s What the Rollout Actually Covers - TradingView
+07/11 18:01:03 INFO    -> ATTENDI: trend giornaliero non rialzista
+07/11 18:01:03 INFO    Agente fermato.
