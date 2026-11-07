@@ -1750,3 +1750,11 @@
 07/11 11:30:59 INFO       (-0.6 r0.9 claude) Solana Long Liquidations Reach $10.83 Million in One Hour - www.tokenpost.com
 07/11 11:30:59 INFO    -> ATTENDI: trend giornaliero non rialzista
 07/11 11:30:59 INFO    Agente fermato.
+07/11 11:45:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+07/11 11:45:41 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+07/11 11:45:43 INFO    Prezzo 80.7500 | medie 80.6911/80.8048 trend GIU | notizie -0.19 su 39 (8 nuove, 2 da Claude) | 2.7s
+07/11 11:45:43 INFO       (-0.6 r0.3 claude) Bitcoin, Ethereum, XRP and Solana Fall as Crypto Liquidations Top $1 Billion - JournalArta
+07/11 11:45:43 INFO       (-0.6 r0.3 claude) Crypto Crash: Why Bitcoin, ETH, XRP and SOL Fell - CryptoTicker.io
+07/11 11:45:43 INFO       (+0.5 r0.8 claude) Green Field 89 — Solana Real World Asset Tokens (RWA) Snaps - KuCoin
+07/11 11:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista
+07/11 11:45:43 INFO    Agente fermato.
