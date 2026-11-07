@@ -1456,3 +1456,12 @@
 07/11 03:45:42 INFO       (-0.5 r0.9 claude) Solana Price Outlook as BTC Slips Below $76K: How Much Lower Could SOL Go? - Cryptonews.net
 07/11 03:45:42 INFO    -> ATTENDI: notizie sotto la soglia (-0.10)
 07/11 03:45:42 INFO    Agente fermato.
+07/11 04:01:12 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+07/11 04:01:12 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+07/11 04:01:15 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+07/11 04:01:15 INFO    Prezzo 80.6800 | medie 80.9722/80.9257 trend SU | notizie -0.09 su 50 (10 nuove, 0 da Claude) | 3.0s
+07/11 04:01:15 INFO       (-0.6 r0.9 claude) Solana Long Liquidations Reach $10.83 Million in One Hour - www.tokenpost.com
+07/11 04:01:15 INFO       (-0.6 r1.0 claude) China Opens Solana Investigation After Police Stop Shanghai Event - BeInCrypto
+07/11 04:01:15 INFO       (-0.5 r0.9 claude) Solana Price Outlook as BTC Slips Below $76K: How Much Lower Could SOL Go? - Cryptonews.net
+07/11 04:01:15 INFO    -> ATTENDI: notizie sotto la soglia (-0.09)
+07/11 04:01:15 INFO    Agente fermato.
