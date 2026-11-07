@@ -33,6 +33,8 @@ table { border-collapse:collapse; width:100%; font-size:12.5px; min-width:640px;
 th, td { padding:8px 10px; text-align:left; border-bottom:1px solid var(--linea); white-space:nowrap; }
 th { color:var(--grigio); font-weight:600; background:#0A0D08; position:sticky; top:0; }
 td.lunga { white-space:normal; min-width:240px; color:#b9c0b0; }
+.agente.kronos { border-left-color:#3DF5FF; } .agente.kronos .tag { border-color:#3DF5FF; color:#3DF5FF; }
+.barra { height:8px; border-radius:8px; background:#2a1414; overflow:hidden; margin-top:6px; } .barra i { display:block; height:100%; background:var(--acid); }
 footer { color:var(--grigio); font-size:12px; margin:26px 0 10px; }
 </style>
 </head>
@@ -43,6 +45,7 @@ footer { color:var(--grigio); font-size:12px; margin:26px 0 10px; }
 </header>
 <div id="avvisi"></div>
 <div class="griglia" id="agenti"></div>
+<section><h3>Previsioni Kronos <span class="sub">· solo test, non influenzano gli agenti</span></h3><div class="tabella"><table id="t-kr"></table></div></section>
 <section><h3>Operazioni chiuse</h3><div class="tabella"><table id="t-op"></table></div></section>
 <section><h3>Ultime decisioni</h3><div class="tabella"><table id="t-dec"></table></div></section>
 <footer>Solo lettura: la pagina legge i file del repository pubblico e non tocca il bot. Modalità simulazione, nessun soldo reale.</footer>
@@ -131,6 +134,9 @@ async function carica() {
     a.o.forEach(o => tutteOp.push({ ...o, agente: a.nome }));
     a.d.forEach(d => tutteDec.push({ ...d, agente: a.nome }));
   }
+  const kr = await csv("kronos_previsioni.csv");
+  schede.push(schedaKronos(kr));
+  tabellaKronos(kr);
   document.getElementById("agenti").innerHTML = schede.join("");
   document.getElementById("avvisi").innerHTML = avvisi.map(t => `<div class="avviso">⚠ ${esc(t)}</div>`).join("");
   tutteOp.sort((x, y) => new Date(y.data_chiusura) - new Date(x.data_chiusura));
@@ -141,6 +147,38 @@ async function carica() {
   document.getElementById("t-dec").innerHTML = "<tr><th>Quando</th><th>Agente</th><th>Prezzo</th><th>Trend</th><th>Notizie</th><th>Azione</th><th>Perché</th><th>Notizia principale</th></tr>" +
     tutteDec.slice(0, 30).map(d => `<tr><td>${quando(d.data)}</td><td>${esc(d.agente)}</td><td>${num(d.prezzo).toFixed(2)}</td><td>${d.trend === "su" ? "▲" : "▼"}</td><td>${esc(d.punteggio_notizie)}${d.shock === "1" ? " ⚡" : ""}</td><td><b>${esc(d.azione)}</b></td><td class="lunga">${esc(d.motivo)}</td><td class="lunga">${esc(d.notizia_principale)}</td></tr>`).join("");
   document.getElementById("aggiornato").textContent = "Aggiornato alle " + new Date().toLocaleTimeString("it-IT", { hour: "2-digit", minute: "2-digit" }) + " · si aggiorna da solo ogni 5 minuti";
+}
+function schedaKronos(kr) {
+  const ult = kr[kr.length - 1];
+  const chiuse = kr.filter(r => r.esito === "giusta" || r.esito === "sbagliata");
+  const giuste = chiuse.filter(r => r.esito === "giusta").length;
+  const attesa = kr.filter(r => !r.esito).length;
+  const prec = chiuse.length ? Math.round(giuste / chiuse.length * 100) : null;
+  const pr = ult ? Math.round(num(ult.prob_rialzo) * 100) : null;
+  const v = ult ? num(ult.variazione_pct) : 0;
+  return `<div class="agente kronos"><h2>Kronos<span class="tag">SOLO TEST · 24 H</span></h2>
+    <div class="kpi">
+      <div><small>Prob. rialzo</small><b class="${pr === null ? "" : pr >= 50 ? "pos" : "neg"}">${pr === null ? "—" : pr + "%"}</b></div>
+      <div><small>Azzeccate</small><b>${prec === null ? "—" : prec + "%"}</b></div>
+      <div><small>Verificate</small><b>${chiuse.length}</b></div>
+    </div>
+    ${pr === null ? "" : `<div class="barra"><i style="width:${pr}%"></i></div>`}
+    <div class="righe" style="margin-top:8px">
+      <p><span>Ultima previsione</span><span>${ult ? quando(ult.data) : "nessuna ancora"}</span></p>
+      <p><span>Prezzo → previsto</span><span>${ult ? `${num(ult.prezzo).toFixed(2)} → ${num(ult.previsto_medio).toFixed(2)} <b class="${cls(v)}">(${ult.variazione_pct}%)</b>` : "—"}</span></p>
+      <p><span>Range 80% scenari</span><span>${ult ? `${num(ult.p10).toFixed(2)} – ${num(ult.p90).toFixed(2)}` : "—"}</span></p>
+      <p><span>Volatilità sopra media</span><span>${ult ? Math.round(num(ult.prob_volatilita) * 100) + "%" : "—"}</span></p>
+      <p><span>Scadenza</span><span>${ult ? quando(ult.scadenza) : "—"}</span></p>
+      <p><span>Giuste · sbagliate · in attesa</span><span>${giuste} · ${chiuse.length - giuste} · ${attesa}</span></p>
+    </div>
+    <div class="sub" style="margin-top:8px">Una previsione è "giusta" se la direzione a 24 ore (su/giù) coincide col prezzo reale.</div></div>`;
+}
+function tabellaKronos(kr) {
+  const r = [...kr].reverse().slice(0, 20);
+  const es = e => e === "giusta" ? '<b class="pos">✓ giusta</b>' : e === "sbagliata" ? '<b class="neg">✗ sbagliata</b>' : e === "neutra" ? "neutra" : '<span class="sub">in attesa</span>';
+  document.getElementById("t-kr").innerHTML = "<tr><th>Fatta</th><th>Prezzo</th><th>Prob. rialzo</th><th>Previsto 24 h</th><th>Range 80%</th><th>Reale</th><th>Esito</th></tr>" +
+    (r.length ? r.map(x => `<tr><td>${quando(x.data)}</td><td>${num(x.prezzo).toFixed(2)}</td><td>${Math.round(num(x.prob_rialzo) * 100)}%</td><td>${num(x.previsto_medio).toFixed(2)} (${esc(x.variazione_pct)}%)</td><td>${num(x.p10).toFixed(2)} – ${num(x.p90).toFixed(2)}</td><td>${x.prezzo_reale ? `${num(x.prezzo_reale).toFixed(2)} (${esc(x.variazione_reale_pct)}%)` : "—"}</td><td>${es(x.esito)}</td></tr>`).join("")
+      : `<tr><td colspan="7">Ancora nessuna previsione: la prima arriva al prossimo giro (ogni 4 ore).</td></tr>`);
 }
 carica(); setInterval(carica, 5 * 60 * 1000);
 </script>
