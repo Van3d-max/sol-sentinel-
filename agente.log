@@ -614,3 +614,12 @@
 07/11 20:00:59 INFO       (+0.9 r0.6 lessico) ZetaChain: ZETA Approved as Native Solana Token - blockchain.news
 07/11 20:00:59 INFO    -> ATTENDI: trend giornaliero non rialzista
 07/11 20:00:59 INFO    Agente fermato.
+07/11 20:48:24 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+07/11 20:48:25 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+07/11 20:48:27 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":0.6,"s":'): uso il dizionario
+07/11 20:48:28 INFO    Prezzo 79.9800 | medie 84.3490/90.6903 trend GIU | notizie -0.06 su 56 (12 nuove, 0 da Claude) | 3.4s
+07/11 20:48:28 INFO       (-0.8 r1.0 claude) Solana Price Loses Key Support as ETF Outflows Surge Following the Alpenglow Upgrade - Benzinga
+07/11 20:48:28 INFO       (+0.8 r0.8 lessico) Solana’s October Upgrade Review Puts 200ms Slots and $5B in Tokenized Assets in Focus - TradingView
+07/11 20:48:28 INFO       (+0.9 r0.6 lessico) ZetaChain: ZETA Approved as Native Solana Token - blockchain.news
+07/11 20:48:28 INFO    -> ATTENDI: trend giornaliero non rialzista
+07/11 20:48:28 INFO    Agente fermato.
