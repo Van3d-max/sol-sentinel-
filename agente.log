@@ -562,3 +562,12 @@
 07/11 15:01:07 INFO       (-0.6 r0.3 claude) Bitcoin, Ethereum, XRP and Solana Fall as Crypto Liquidations Top $1 Billion - JournalArta
 07/11 15:01:07 INFO    -> ATTENDI: trend giornaliero non rialzista
 07/11 15:01:07 INFO    Agente fermato.
+07/11 16:01:00 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+07/11 16:01:01 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+07/11 16:01:03 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"'): uso il dizionario
+07/11 16:01:04 INFO    Prezzo 80.3000 | medie 84.3490/90.6903 trend GIU | notizie -0.12 su 68 (9 nuove, 0 da Claude) | 3.3s
+07/11 16:01:04 INFO       (-0.2 r0.9 claude) Solana Price Struggles Below $90: Is a Bullish Reversal Taking Shape? - Coinpedia
+07/11 16:01:04 INFO       (-0.6 r0.9 claude) Solana Long Liquidations Reach $10.83 Million in One Hour - www.tokenpost.com
+07/11 16:01:04 INFO       (-0.6 r0.3 claude) Bitcoin, Ethereum, XRP and Solana Fall as Crypto Liquidations Top $1 Billion - JournalArta
+07/11 16:01:04 INFO    -> ATTENDI: trend giornaliero non rialzista
+07/11 16:01:04 INFO    Agente fermato.
