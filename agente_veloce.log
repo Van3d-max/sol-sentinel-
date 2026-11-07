@@ -1968,3 +1968,12 @@
 07/11 17:30:58 INFO       (+0.3 r0.5 claude) Samsung Wallet’s USDC on Solana Is Live — Here’s What the Rollout Actually Covers - TradingView
 07/11 17:30:58 INFO    -> ATTENDI: trend giornaliero non rialzista
 07/11 17:30:58 INFO    Agente fermato.
+07/11 17:45:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+07/11 17:45:41 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+07/11 17:45:42 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+07/11 17:45:42 INFO    Prezzo 80.5000 | medie 80.3400/80.4890 trend GIU | notizie -0.14 su 29 (4 nuove, 0 da Claude) | 2.0s
+07/11 17:45:42 INFO       (-0.7 r0.9 claude) Solana Price Loses Key Support as ETF Outflows Surge Following the Alpenglow Upgrade - Benzinga
+07/11 17:45:42 INFO       (-0.5 r0.9 claude) Solana Price Prediction: China's Central Bank Steps In - CryptoTicker.io
+07/11 17:45:42 INFO       (+0.3 r0.5 claude) Samsung Wallet’s USDC on Solana Is Live — Here’s What the Rollout Actually Covers - TradingView
+07/11 17:45:42 INFO    -> ATTENDI: trend giornaliero non rialzista
+07/11 17:45:42 INFO    Agente fermato.
