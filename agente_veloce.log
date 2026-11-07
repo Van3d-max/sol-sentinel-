@@ -2155,3 +2155,12 @@
 07/11 22:45:41 INFO       (+0.3 r0.9 claude) Solana’s October Upgrade Review Puts 200ms Slots and $5B in Tokenized Assets in Focus - TradingView
 07/11 22:45:41 INFO    -> ATTENDI: trend giornaliero non rialzista
 07/11 22:45:41 INFO    Agente fermato.
+07/11 23:01:09 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+07/11 23:01:10 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+07/11 23:01:11 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+07/11 23:01:11 INFO    Prezzo 80.0300 | medie 79.9300/80.2124 trend GIU | notizie +0.01 su 23 (3 nuove, 0 da Claude) | 2.0s
+07/11 23:01:11 INFO       (-0.7 r0.9 claude) Solana Price Loses Key Support as ETF Outflows Surge Following the Alpenglow Upgrade - Benzinga
+07/11 23:01:11 INFO       (+0.3 r0.8 lessico) Why Solana’s Bearish Bias Remains Despite ETF Investors Refusing to Sell at a Loss - TechBullion
+07/11 23:01:11 INFO       (+0.3 r0.9 claude) Solana’s October Upgrade Review Puts 200ms Slots and $5B in Tokenized Assets in Focus - TradingView
+07/11 23:01:11 INFO    -> ATTENDI: trend giornaliero non rialzista
+07/11 23:01:11 INFO    Agente fermato.
