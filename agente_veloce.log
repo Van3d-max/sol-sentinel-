@@ -1527,3 +1527,12 @@
 07/11 05:30:58 INFO       (-0.6 r1.0 claude) China Opens Solana Investigation After Police Stop Shanghai Event - BeInCrypto
 07/11 05:30:58 INFO    -> ATTENDI: trend giornaliero non rialzista
 07/11 05:30:58 INFO    Agente fermato.
+07/11 05:45:41 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+07/11 05:45:41 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+07/11 05:45:44 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+07/11 05:45:44 INFO    Prezzo 80.8200 | medie 80.6667/80.8771 trend GIU | notizie -0.04 su 50 (9 nuove, 0 da Claude) | 3.0s
+07/11 05:45:44 INFO       (+0.5 r0.8 claude) Green Field 89 — Solana Real World Asset Tokens (RWA) Snaps - KuCoin
+07/11 05:45:44 INFO       (-0.6 r0.9 claude) Solana Long Liquidations Reach $10.83 Million in One Hour - www.tokenpost.com
+07/11 05:45:44 INFO       (-0.6 r1.0 claude) China Opens Solana Investigation After Police Stop Shanghai Event - BeInCrypto
+07/11 05:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista
+07/11 05:45:44 INFO    Agente fermato.
