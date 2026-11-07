@@ -2067,3 +2067,12 @@
 07/11 20:30:57 INFO       (-0.5 r0.9 claude) Solana Price Prediction: China's Central Bank Steps In - CryptoTicker.io
 07/11 20:30:57 INFO    -> ATTENDI: notizie sotto la soglia (-0.08)
 07/11 20:30:57 INFO    Agente fermato.
+07/11 20:38:46 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+07/11 20:38:46 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+07/11 20:38:48 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+07/11 20:38:48 INFO    Prezzo 80.2400 | medie 80.4244/80.4038 trend SU | notizie -0.06 su 25 (2 nuove, 0 da Claude) | 2.5s
+07/11 20:38:48 INFO       (-0.7 r0.9 claude) Solana Price Loses Key Support as ETF Outflows Surge Following the Alpenglow Upgrade - Benzinga
+07/11 20:38:48 INFO       (+0.3 r0.9 claude) Solana’s October Upgrade Review Puts 200ms Slots and $5B in Tokenized Assets in Focus - TradingView
+07/11 20:38:48 INFO       (-0.5 r0.9 claude) Solana Price Prediction: China's Central Bank Steps In - CryptoTicker.io
+07/11 20:38:48 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
+07/11 20:38:48 INFO    Agente fermato.
