@@ -1,0 +1,49 @@
+name: Kronos osservatore (solo test)
+# Previsione SOL-EUR a 24 ore ogni 4 ore. Non tocca gli agenti: scrive solo kronos_previsioni.csv.
+on:
+  schedule:
+    - cron: "23 */4 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: kronos
+  cancel-in-progress: false
+env:
+  KRONOS_COMMIT: 67b630e67f6a18c9e9be918d9b4337c960db1e9a
+jobs:
+  previsione:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: .github/workflows/kronos.yml
+      - name: Scarica il codice di Kronos (versione fissa)
+        run: |
+          git init -q kronos_lib && cd kronos_lib
+          git remote add origin https://github.com/shiyu-coder/Kronos.git
+          git fetch -q --depth 1 origin "$KRONOS_COMMIT" && git checkout -q FETCH_HEAD
+      - name: Dipendenze (torch solo CPU)
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install numpy pandas requests tzdata einops==0.8.1 huggingface_hub==0.33.1 safetensors==0.6.2 tqdm
+      - name: Cache modello Hugging Face
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: kronos-hf-small-v1
+      - name: Previsione
+        env:
+          KRONOS_DIR: ${{ github.workspace }}/kronos_lib
+        run: python kronos_osservatore.py --modello small --scenari 20
+      - name: Salva risultati
+        run: |
+          git config user.name "kronos-bot"
+          git config user.email "kronos-bot@users.noreply.github.com"
+          git add -f kronos_previsioni.csv
+          git commit -m "Kronos $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase && git push && break; sleep $((i*5)); done
