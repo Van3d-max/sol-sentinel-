@@ -510,3 +510,12 @@
 07/11 09:55:10 INFO       (-0.5 r0.9 claude) China Opens Solana Investigation After Police Stop Shanghai Event - BeInCrypto
 07/11 09:55:10 INFO    -> ATTENDI: trend giornaliero non rialzista
 07/11 09:55:10 INFO    Agente fermato.
+07/11 10:00:59 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+07/11 10:00:59 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+07/11 10:01:01 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":0.4'): uso il dizionario
+07/11 10:01:01 INFO    Prezzo 80.7500 | medie 84.3490/90.6903 trend GIU | notizie -0.13 su 80 (9 nuove, 0 da Claude) | 2.9s
+07/11 10:01:01 INFO       (-0.6 r0.9 claude) Solana Long Liquidations Reach $10.83 Million in One Hour - www.tokenpost.com
+07/11 10:01:01 INFO       (-0.6 r0.9 claude) Solana Price Outlook as BTC Slips Below $76K: How Much Lower Could SOL Go? - Cryptonews.net
+07/11 10:01:01 INFO       (-0.5 r0.9 claude) China Opens Solana Investigation After Police Stop Shanghai Event - BeInCrypto
+07/11 10:01:01 INFO    -> ATTENDI: trend giornaliero non rialzista
+07/11 10:01:01 INFO    Agente fermato.
