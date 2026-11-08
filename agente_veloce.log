@@ -2597,3 +2597,13 @@
 08/11 10:45:44 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 08/11 10:45:44 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 08/11 10:45:44 INFO    Agente fermato.
+08/11 11:01:11 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 11:01:11 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 11:01:13 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":0.5,'): uso il dizionario
+08/11 11:01:13 INFO    Prezzo 80.0200 | medie 80.0278/79.9890 trend SU | notizie +0.03 su 26 (5 nuove, 0 da Claude) | 2.4s
+08/11 11:01:13 INFO       (+0.1 r0.8 lessico) Asia's weekly TOP10 crypto news: PBOC to Probe Solana's Lujiazui Ad Campaign, South Korea Pushes Crypto Gains 
+08/11 11:01:13 INFO       (-0.4 r0.9 claude) China's Central Bank Blocks Solana Shanghai Event, Rules Outdoor Ad Violated Regulations - BigGo Finance
+08/11 11:01:13 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 11:01:16 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
+08/11 11:01:16 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
+08/11 11:01:16 INFO    Agente fermato.
