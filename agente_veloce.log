@@ -2651,3 +2651,14 @@
 08/11 11:45:47 INFO       ribassista: Lo scarto dalle medie è minimo (circa 0,3%), il punteggio notizie è quasi neutro (0,023), l'avviso della banca centrale cinese pesa negativamente e l'ATR giornaliero di 0,16 appare implausibilmente basso per SOL, quindi il segnale è debole o i dati sono imprecisi.
 08/11 11:45:47 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è troppo debole (prezzo quasi uguale alle medie), il sentiment è neutro con un rischio regolamentare cinese in evidenza, e la volatilità riportata sembra inaffidabile, quindi il rischio non giustifica un acquisto spot.
 08/11 11:45:47 INFO    Agente fermato.
+08/11 12:01:05 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 12:01:05 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 12:01:07 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":0.9,"s'): uso il dizionario
+08/11 12:01:07 INFO    Prezzo 80.4200 | medie 80.1444/80.0610 trend SU | notizie +0.02 su 27 (6 nuove, 0 da Claude) | 2.2s
+08/11 12:01:07 INFO       (+0.1 r0.8 lessico) Asia's weekly TOP10 crypto news: PBOC to Probe Solana's Lujiazui Ad Campaign, South Korea Pushes Crypto Gains 
+08/11 12:01:07 INFO       (-0.4 r0.9 claude) China's Central Bank Blocks Solana Shanghai Event, Rules Outdoor Ad Violated Regulations - BigGo Finance
+08/11 12:01:07 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 12:01:11 INFO       rialzista: Il prezzo (80,42) si trova sopra la media mobile a 10 periodi (80,14) e a quella a 30 (80,06), indicando un lieve momentum positivo, e le notizie tecniche sull'ecosistema Solana (200ms slot, Alpenglow, 5 miliardi di dollari in RWA) sono favorevoli.
+08/11 12:01:11 INFO       ribassista: Il vantaggio rispetto alle medie è minimo (circa lo 0,35%), il punteggio delle notizie è sostanzialmente neutro (0,016) e il blocco da parte della banca centrale cinese di un evento Solana a Shanghai è un segnale regolamentare negativo.
+08/11 12:01:11 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono deboli, con un segnale di trend marginale, notizie neutre e un rischio normativo concreto in Cina, quindi non si giustifica l'esposizione spot senza un segnale più chiaro.
+08/11 12:01:11 INFO    Agente fermato.
