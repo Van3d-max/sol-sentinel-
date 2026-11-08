@@ -2533,3 +2533,14 @@
 08/11 09:15:44 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 08/11 09:15:44 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 08/11 09:15:44 INFO    Agente fermato.
+08/11 09:30:56 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 09:30:56 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 09:30:58 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+08/11 09:30:59 INFO    Prezzo 80.0500 | medie 80.0100/79.9833 trend SU | notizie +0.03 su 28 (5 nuove, 0 da Claude) | 2.5s
+08/11 09:30:59 INFO       (+0.1 r0.8 lessico) Asia's weekly TOP10 crypto news: PBOC to Probe Solana's Lujiazui Ad Campaign, South Korea Pushes Crypto Gains 
+08/11 09:30:59 INFO       (-0.4 r0.9 claude) China's Central Bank Blocks Solana Shanghai Event, Rules Outdoor Ad Violated Regulations - BigGo Finance
+08/11 09:30:59 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 09:31:01 INFO       rialzista: Il prezzo (80,05) è sopra sia la media a 10 periodi (80,01) sia quella a 30 (79,98), e il titolo Alpenglow con 5 miliardi di RWA suggerisce fondamentali in crescita.
+08/11 09:31:01 INFO       ribassista: Il punteggio delle notizie è quasi neutro (0,026), l'ATR giornaliero è molto basso (0,1466) e l'indagine della PBOC sulla campagna pubblicitaria di Solana aggiunge un rischio regolatorio negativo.
+08/11 09:31:01 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è debole (prezzo a meno di 0,1% sopra le medie mobili, senza trend chiaro), le notizie sono neutre con un evento regolatorio negativo, e il rischio non è giustificato dall'evidenza disponibile.
+08/11 09:31:01 INFO    Agente fermato.
