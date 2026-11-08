@@ -802,3 +802,12 @@
 08/11 15:00:04 INFO       (-0.8 r1.0 claude) Solana Price Loses Key Support as ETF Outflows Surge Following the Alpenglow Upgrade - Benzinga
 08/11 15:00:04 INFO    -> ATTENDI: trend giornaliero non rialzista
 08/11 15:00:04 INFO    Agente fermato.
+08/11 15:01:01 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+08/11 15:01:02 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 15:01:03 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+08/11 15:01:04 INFO    Prezzo 80.3300 | medie 83.2320/90.1213 trend GIU | notizie +0.03 su 45 (5 nuove, 0 da Claude) | 2.6s
+08/11 15:01:04 INFO       (+0.5 r0.7 claude) Solana Labs-Backed Leap Launches Beta App for Tokenized Stocks and Crypto - TradingView
+08/11 15:01:04 INFO       (+0.3 r0.6 claude) Akash migration proposal passes, bringing Solana’s DePIN puz - KuCoin
+08/11 15:01:04 INFO       (-0.8 r1.0 claude) Solana Price Loses Key Support as ETF Outflows Surge Following the Alpenglow Upgrade - Benzinga
+08/11 15:01:04 INFO    -> ATTENDI: trend giornaliero non rialzista
+08/11 15:01:04 INFO    Agente fermato.
