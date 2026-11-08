@@ -2453,3 +2453,11 @@
 08/11 06:45:45 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
 08/11 06:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista
 08/11 06:45:45 INFO    Agente fermato.
+08/11 07:15:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 07:15:41 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 07:15:42 INFO    Prezzo 79.9500 | medie 79.9689/79.9710 trend GIU | notizie -0.02 su 27 (4 nuove, 1 da Claude) | 2.3s
+08/11 07:15:42 INFO       (-0.4 r0.9 claude) China's Central Bank Blocks Solana Shanghai Event, Rules Outdoor Ad Violated Regulations - BigGo Finance
+08/11 07:15:42 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 07:15:42 INFO       (+0.2 r0.4 claude) Solana Labs-Backed Leap Launches Beta App for Tokenized Stocks and Crypto - TradingView
+08/11 07:15:42 INFO    -> ATTENDI: trend giornaliero non rialzista
+08/11 07:15:42 INFO    Agente fermato.
