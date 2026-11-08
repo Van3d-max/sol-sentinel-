@@ -3027,3 +3027,14 @@
 08/11 21:01:14 INFO       ribassista: Il prezzo (79,97) resta sotto entrambe le medie mobili (80,22 e 80,17), il sentiment è sostanzialmente neutro (0,039) e il titolo ha già perso circa il 19% secondo i titoli recenti, quindi il trend non conferma un ingresso.
 08/11 21:01:14 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo è sotto le medie mobili, il sentiment è neutro e le notizie sono contrastanti, quindi non ci sono prove sufficienti per giustificare un acquisto spot senza leva.
 08/11 21:01:14 INFO    Agente fermato.
+08/11 21:13:18 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 21:13:19 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 21:13:20 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+08/11 21:13:21 INFO    Prezzo 79.9000 | medie 80.2156/80.1667 trend SU | notizie +0.03 su 19 (4 nuove, 0 da Claude) | 2.3s
+08/11 21:13:21 INFO       (-0.3 r1.0 claude) Solana staking yield of 5.2% vs a 19% price drop - CryptoTicker.io
+08/11 21:13:21 INFO       (+0.2 r0.6 claude) $200 billion lost, but here’s why Solana’s tokenized RWA market could be silver lining - AMBCrypto
+08/11 21:13:21 INFO       (+0.4 r0.9 claude) Solana briefly surpasses NYSE in weekly trades, Fidelity finds - Crypto News
+08/11 21:13:23 INFO       rialzista: Il prezzo di SOL è scambiato vicino alle medie mobili e le notizie recenti includono segnali positivi come la crescita del mercato RWA tokenizzato e l'attività di trading.
+08/11 21:13:23 INFO       ribassista: Il prezzo si trova sotto entrambe le medie mobili (10 e 30 periodi), il sentiment è quasi neutro (0,027) e i titoli negativi su un calo del 19% e sul rendimento di staking inferiore al ribasso indicano un rischio di ulteriori perdite.
+08/11 21:13:23 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto entrambe le medie, il sentiment è sostanzialmente neutro e le notizie sono contrastanti, quindi non c'è evidenza sufficiente per giustificare un acquisto spot.
+08/11 21:13:23 INFO    Agente fermato.
