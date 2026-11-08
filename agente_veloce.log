@@ -3093,3 +3093,12 @@
 08/11 22:30:59 INFO       (-0.5 r0.5 claude) Bitcoin, Ethereum, and Solana ETF Outflows Jump as Key Fear Gauge Drops After Midterms - Benzinga
 08/11 22:30:59 INFO    -> ATTENDI: trend giornaliero non rialzista
 08/11 22:30:59 INFO    Agente fermato.
+08/11 22:45:38 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 22:45:39 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 22:45:40 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+08/11 22:45:41 INFO    Prezzo 77.0900 | medie 78.7644/79.5967 trend GIU | notizie -0.19 su 23 (1 nuove, 0 da Claude) | 2.2s
+08/11 22:45:41 INFO       (-0.4 r0.8 claude) XRP and Solana Both Hit 30-Day Lows This Week. Is It Better to Buy XRP or SOL Right Now? - Yahoo Finance
+08/11 22:45:41 INFO       (-0.3 r0.8 claude) XRP and Solana Both Hit 30-Day Lows This Week. Is It Better to Buy XRP or SOL Right Now? - 24/7 Wall St.
+08/11 22:45:41 INFO       (-0.5 r0.5 claude) Bitcoin, Ethereum, and Solana ETF Outflows Jump as Key Fear Gauge Drops After Midterms - Benzinga
+08/11 22:45:41 INFO    -> ATTENDI: trend giornaliero non rialzista
+08/11 22:45:41 INFO    Agente fermato.
