@@ -2629,3 +2629,14 @@
 08/11 11:31:03 INFO       ribassista: Il punteggio delle notizie è quasi neutro (0,024), la Banca centrale cinese ha bloccato un evento di Solana e ha avviato un'indagine sulla sua campagna pubblicitaria, e il prezzo sta appena sopra le medie mobili, quindi il segnale di trend è debole.
 08/11 11:31:03 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole e contraddittorio (trend appena sopra le medie, notizie neutre con un rischio regolamentare cinese concreto) e l'ATR giornaliero di 0,1676 (circa lo 0,2% del prezzo) appare anomalo per SOL, quindi i dati di volatilità vanno verificati prima di esporsi.
 08/11 11:31:03 INFO    Agente fermato.
+08/11 11:38:26 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 11:38:26 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 11:38:28 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":0.4,"s":-0'): uso il dizionario
+08/11 11:38:28 INFO    Prezzo 80.3600 | medie 80.0700/80.0095 trend SU | notizie +0.02 su 26 (5 nuove, 0 da Claude) | 2.4s
+08/11 11:38:28 INFO       (+0.1 r0.8 lessico) Asia's weekly TOP10 crypto news: PBOC to Probe Solana's Lujiazui Ad Campaign, South Korea Pushes Crypto Gains 
+08/11 11:38:28 INFO       (-0.4 r0.9 claude) China's Central Bank Blocks Solana Shanghai Event, Rules Outdoor Ad Violated Regulations - BigGo Finance
+08/11 11:38:28 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 11:38:31 INFO       rialzista: Il prezzo (80.36) sta sopra sia la media a 10 periodi (80.07) sia quella a 30 (80.01), e i titoli positivi su 200ms slot, Alpenglow e 5 miliardi di dollari in RWA sostengono una narrativa di crescita dell'ecosistema.
+08/11 11:38:31 INFO       ribassista: Il titolo sulla Banca centrale cinese che blocca l'evento Solana a Shanghai e il probe PBOC sulla campagna pubblicitaria a Lujiazui pesano sul sentiment, mentre il punteggio aggregato delle notizie è quasi neutro (0.023) e il vantaggio sulle medie è minimo.
+08/11 11:38:31 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è appena sopra le medie mobili, il sentiment delle notizie è neutro con un evento regolamentare cinese negativo, e l'ATR giornaliero indicato (0.17) è insolitamente basso, quindi non ci sono sufficienti evidenze per giustificare un acquisto spot.
+08/11 11:38:31 INFO    Agente fermato.
