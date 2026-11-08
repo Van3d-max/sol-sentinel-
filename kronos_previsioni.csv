@@ -1,3 +1,4 @@
 data;scadenza;modello;scenari;prezzo;previsto_medio;variazione_pct;p10;p90;prob_rialzo;prob_volatilita;direzione;prezzo_reale;variazione_reale_pct;esito
 2026-11-07T22:00:00+01:00;2026-11-08T22:00:00+01:00;Kronos-small;20;79.8600;88.4786;+10.79;86.2720;90.7970;1.00;0.65;su;;;
 2026-11-08T07:00:00+01:00;2026-11-09T07:00:00+01:00;Kronos-small;20;79.9900;88.1129;+10.15;85.9256;89.5978;1.00;0.70;su;;;
+2026-11-08T16:00:00+01:00;2026-11-09T16:00:00+01:00;Kronos-small;20;80.3100;87.9700;+9.54;86.5680;89.2931;1.00;0.70;su;;;
