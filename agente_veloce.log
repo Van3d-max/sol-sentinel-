@@ -2496,3 +2496,12 @@
 08/11 08:15:42 INFO       (+0.2 r0.4 claude) Solana Labs-Backed Leap Launches Beta App for Tokenized Stocks and Crypto - TradingView
 08/11 08:15:42 INFO    -> ATTENDI: trend giornaliero non rialzista
 08/11 08:15:42 INFO    Agente fermato.
+08/11 08:30:57 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 08:30:57 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 08:30:58 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":0'): uso il dizionario
+08/11 08:30:59 INFO    Prezzo 79.9600 | medie 79.9400/79.9933 trend GIU | notizie -0.01 su 28 (3 nuove, 0 da Claude) | 2.0s
+08/11 08:30:59 INFO       (-0.4 r0.9 claude) China's Central Bank Blocks Solana Shanghai Event, Rules Outdoor Ad Violated Regulations - BigGo Finance
+08/11 08:30:59 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 08:30:59 INFO       (+0.2 r0.4 claude) Solana Labs-Backed Leap Launches Beta App for Tokenized Stocks and Crypto - TradingView
+08/11 08:30:59 INFO    -> ATTENDI: trend giornaliero non rialzista
+08/11 08:30:59 INFO    Agente fermato.
