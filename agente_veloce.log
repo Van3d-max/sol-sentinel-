@@ -3060,3 +3060,11 @@
 08/11 21:31:04 INFO       ribassista: Il prezzo è sotto sia la media a 10 che quella a 30 giorni, il punteggio delle notizie è quasi neutro (0,027) e un titolo riporta un calo del 19%, quindi il trend resta debole.
 08/11 21:31:04 INFO    -> BLOCCATO DAL DIBATTITO: Con il prezzo sotto entrambe le medie, sentiment neutro e un recente calo del 19% senza un segnale di inversione chiaro, le prove sono deboli e il rischio di ulteriori ribassi supera il potenziale di rialzo.
 08/11 21:31:04 INFO    Agente fermato.
+08/11 21:45:42 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 21:45:43 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 21:45:45 INFO    Prezzo 79.4200 | medie 80.0544/80.0757 trend GIU | notizie -0.06 su 21 (6 nuove, 6 da Claude) | 2.6s
+08/11 21:45:45 INFO       (-0.5 r0.5 claude) Bitcoin, Ethereum, and Solana ETF Outflows Jump as Key Fear Gauge Drops After Midterms - Benzinga
+08/11 21:45:45 INFO       (-0.3 r1.0 claude) Solana staking yield of 5.2% vs a 19% price drop - CryptoTicker.io
+08/11 21:45:45 INFO       (+0.2 r0.6 claude) $200 billion lost, but here’s why Solana’s tokenized RWA market could be silver lining - AMBCrypto
+08/11 21:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista
+08/11 21:45:45 INFO    Agente fermato.
