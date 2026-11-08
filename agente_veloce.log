@@ -2640,3 +2640,14 @@
 08/11 11:38:31 INFO       ribassista: Il titolo sulla Banca centrale cinese che blocca l'evento Solana a Shanghai e il probe PBOC sulla campagna pubblicitaria a Lujiazui pesano sul sentiment, mentre il punteggio aggregato delle notizie è quasi neutro (0.023) e il vantaggio sulle medie è minimo.
 08/11 11:38:31 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è appena sopra le medie mobili, il sentiment delle notizie è neutro con un evento regolamentare cinese negativo, e l'ATR giornaliero indicato (0.17) è insolitamente basso, quindi non ci sono sufficienti evidenze per giustificare un acquisto spot.
 08/11 11:38:31 INFO    Agente fermato.
+08/11 11:45:41 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 11:45:42 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 11:45:43 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+08/11 11:45:44 INFO    Prezzo 80.3700 | medie 80.1067/80.0290 trend SU | notizie +0.02 su 26 (5 nuove, 0 da Claude) | 2.6s
+08/11 11:45:44 INFO       (+0.1 r0.8 lessico) Asia's weekly TOP10 crypto news: PBOC to Probe Solana's Lujiazui Ad Campaign, South Korea Pushes Crypto Gains 
+08/11 11:45:44 INFO       (-0.4 r0.9 claude) China's Central Bank Blocks Solana Shanghai Event, Rules Outdoor Ad Violated Regulations - BigGo Finance
+08/11 11:45:44 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 11:45:47 INFO       rialzista: Il prezzo (80,37) è sopra sia la media mobile a 10 periodi (80,11) sia quella a 30 (80,03), con un leggero trend positivo e notizie tecniche come 200ms slot e 5 miliardi in RWA a sostegno.
+08/11 11:45:47 INFO       ribassista: Lo scarto dalle medie è minimo (circa 0,3%), il punteggio notizie è quasi neutro (0,023), l'avviso della banca centrale cinese pesa negativamente e l'ATR giornaliero di 0,16 appare implausibilmente basso per SOL, quindi il segnale è debole o i dati sono imprecisi.
+08/11 11:45:47 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è troppo debole (prezzo quasi uguale alle medie), il sentiment è neutro con un rischio regolamentare cinese in evidenza, e la volatilità riportata sembra inaffidabile, quindi il rischio non giustifica un acquisto spot.
+08/11 11:45:47 INFO    Agente fermato.
