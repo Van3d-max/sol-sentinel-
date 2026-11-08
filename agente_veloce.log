@@ -2789,3 +2789,12 @@
 08/11 15:01:14 INFO       ribassista: Il vantaggio rispetto alle medie è minimo (circa lo 0,2%), il punteggio delle notizie è sostanzialmente neutro (0,011) e l'indagine della PBOC sulla campagna pubblicitaria di Solana a Shanghai è un rischio regolatorio concreto in Cina.
 08/11 15:01:14 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è troppo debole per giustificare un acquisto spot, le notizie sono contrastanti con un sentiment neutro e il rischio regolatorio legato alla Cina non è compensato da evidenze sufficienti.
 08/11 15:01:14 INFO    Agente fermato.
+08/11 15:15:38 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 15:15:39 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 15:15:41 INFO    Prezzo 80.3500 | medie 80.2122/80.2043 trend SU | notizie +0.13 su 24 (7 nuove, 3 da Claude) | 2.4s
+08/11 15:15:41 INFO       (+0.4 r0.9 claude) Solana briefly surpasses NYSE in weekly trades, Fidelity finds - Crypto News
+08/11 15:15:41 INFO       (+0.3 r0.6 claude) Akash migration proposal passes, bringing Solana’s DePIN puz - KuCoin
+08/11 15:15:41 INFO       (-0.2 r0.6 claude) Asia's weekly TOP10 crypto news: PBOC to Probe Solana's Lujiazui Ad Campaign, South Korea Pushes Crypto Gains 
+08/11 15:15:44 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
+08/11 15:15:44 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
+08/11 15:15:44 INFO    Agente fermato.
