@@ -2995,3 +2995,13 @@
 08/11 20:15:44 INFO       ribassista: Un titolo cita un calo del 19% con un rendimento di staking del 5,2% che non lo compensa, il punteggio delle notizie è quasi neutro (0,041) e il prezzo non mostra alcun trend chiaro.
 08/11 20:15:44 INFO    -> BLOCCATO DAL DIBATTITO: Le evidenze sono deboli: prezzo piatto sulle medie, sentiment quasi neutro e un titolo che segnala un forte ribasso recente, quindi il rischio non è giustificato per un acquisto spot.
 08/11 20:15:44 INFO    Agente fermato.
+08/11 20:30:57 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 20:30:57 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 20:30:59 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":'): uso il dizionario
+08/11 20:30:59 INFO    Prezzo 80.3000 | medie 80.2900/80.2057 trend SU | notizie +0.04 su 19 (3 nuove, 0 da Claude) | 2.3s
+08/11 20:30:59 INFO       (-0.3 r1.0 claude) Solana staking yield of 5.2% vs a 19% price drop - CryptoTicker.io
+08/11 20:30:59 INFO       (+0.2 r0.6 claude) $200 billion lost, but here’s why Solana’s tokenized RWA market could be silver lining - AMBCrypto
+08/11 20:30:59 INFO       (+0.4 r0.9 claude) Solana briefly surpasses NYSE in weekly trades, Fidelity finds - Crypto News
+08/11 20:31:02 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
+08/11 20:31:02 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
+08/11 20:31:02 INFO    Agente fermato.
