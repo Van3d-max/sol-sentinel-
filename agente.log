@@ -873,3 +873,12 @@
 08/11 21:01:02 INFO       (+0.2 r0.6 claude) $200 billion lost, but here’s why Solana’s tokenized RWA market could be silver lining - AMBCrypto
 08/11 21:01:02 INFO    -> ATTENDI: trend giornaliero non rialzista
 08/11 21:01:02 INFO    Agente fermato.
+08/11 22:01:01 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+08/11 22:01:01 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 22:01:04 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n'): uso il dizionario
+08/11 22:01:04 INFO    Prezzo 77.3400 | medie 83.2320/90.1213 trend GIU | notizie +0.12 su 39 (10 nuove, 0 da Claude) | 3.4s
+08/11 22:01:04 INFO       (+0.9 r0.8 lessico) Solana Beach council approves healthy city resolution - San Diego Union-Tribune
+08/11 22:01:04 INFO       (+0.5 r0.7 claude) Solana Labs-Backed Leap Launches Beta App for Tokenized Stocks and Crypto - TradingView
+08/11 22:01:04 INFO       (+0.3 r0.6 claude) Akash migration proposal passes, bringing Solana’s DePIN puz - KuCoin
+08/11 22:01:04 INFO    -> ATTENDI: trend giornaliero non rialzista
+08/11 22:01:04 INFO    Agente fermato.
