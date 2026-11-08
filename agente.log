@@ -741,3 +741,11 @@
 08/11 08:01:02 INFO       (-0.5 r0.9 claude) Solana Price Prediction: Can SOL Hold $90 After $25M in Outflows as Buyers Back Pepeto? - TechBullion
 08/11 08:01:02 INFO    -> ATTENDI: trend giornaliero non rialzista
 08/11 08:01:02 INFO    Agente fermato.
+08/11 09:01:02 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+08/11 09:01:02 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 09:01:05 INFO    Prezzo 80.0700 | medie 83.2320/90.1213 trend GIU | notizie -0.02 su 57 (9 nuove, 3 da Claude) | 3.1s
+08/11 09:01:05 INFO       (+0.5 r0.7 claude) Solana Labs-Backed Leap Launches Beta App for Tokenized Stocks and Crypto - TradingView
+08/11 09:01:05 INFO       (-0.8 r1.0 claude) Solana Price Loses Key Support as ETF Outflows Surge Following the Alpenglow Upgrade - Benzinga
+08/11 09:01:05 INFO       (-0.5 r0.9 claude) Solana Price Prediction: Can SOL Hold $90 After $25M in Outflows as Buyers Back Pepeto? - TechBullion
+08/11 09:01:05 INFO    -> ATTENDI: trend giornaliero non rialzista
+08/11 09:01:05 INFO    Agente fermato.
