@@ -847,3 +847,11 @@
 08/11 19:01:03 INFO       (+0.3 r0.6 claude) Akash migration proposal passes, bringing Solana’s DePIN puz - KuCoin
 08/11 19:01:03 INFO    -> ATTENDI: trend giornaliero non rialzista
 08/11 19:01:03 INFO    Agente fermato.
+08/11 19:30:02 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+08/11 19:30:02 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 19:30:04 INFO    Prezzo 80.2800 | medie 83.2320/90.1213 trend GIU | notizie +0.02 su 42 (8 nuove, 2 da Claude) | 2.8s
+08/11 19:30:04 INFO       (+0.5 r0.7 claude) Solana Labs-Backed Leap Launches Beta App for Tokenized Stocks and Crypto - TradingView
+08/11 19:30:04 INFO       (+0.3 r0.6 claude) Akash migration proposal passes, bringing Solana’s DePIN puz - KuCoin
+08/11 19:30:04 INFO       (+0.2 r0.6 claude) $200 billion lost, but here’s why Solana’s tokenized RWA market could be silver lining - AMBCrypto
+08/11 19:30:04 INFO    -> ATTENDI: trend giornaliero non rialzista
+08/11 19:30:04 INFO    Agente fermato.
