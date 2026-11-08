@@ -2274,3 +2274,13 @@
 08/11 02:01:09 INFO       (+0.2 r0.8 claude) Solana Labs Launches Leap App for Solana Assets and Network Performance - TOKENPOST
 08/11 02:01:09 INFO    -> ATTENDI: notizie sotto la soglia (-0.09)
 08/11 02:01:09 INFO    Agente fermato.
+08/11 02:15:39 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 02:15:40 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 02:15:41 INFO    Prezzo 79.7400 | medie 80.1389/80.1048 trend SU | notizie +0.05 su 23 (2 nuove, 2 da Claude) | 1.8s
+08/11 02:15:41 INFO       (+0.4 r0.8 claude) Stablecoin Payments Land on 82M Samsung Phones via Solana - OneSafe
+08/11 02:15:41 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 02:15:41 INFO       (-0.4 r0.9 claude) Solana Price Prediction: Can SOL Hold $90 After $25M in Outflows as Buyers Back Pepeto? - TechBullion
+08/11 02:15:44 INFO       rialzista: I fondamentali di Solana restano solidi, con l'integrazione dei pagamenti stablecoin su 82M di dispositivi Samsung, i progressi tecnici e circa 5 miliardi di dollari in RWA, che potrebbero spingere il prezzo verso l'alto.
+08/11 02:15:44 INFO       ribassista: Il prezzo (79,74) è sotto la media mobile a 10 periodi (80,14) e a 30 periodi (80,10), il sentiment è quasi neutro (0,047) e un articolo cita 25 milioni di dollari di deflussi, quindi il trend a breve è debole.
+08/11 02:15:44 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: prezzo sotto entrambe le medie, sentiment neutro, notizie contrastanti e un ATR giornaliero di 0,1574 che appare incoerente con la volatilità reale di SOL e quindi non affidabile per dimensionare il rischio.
+08/11 02:15:44 INFO    Agente fermato.
