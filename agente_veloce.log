@@ -2901,3 +2901,12 @@
 08/11 17:45:42 INFO       (+0.4 r0.9 claude) Solana briefly surpasses NYSE in weekly trades, Fidelity finds - Crypto News
 08/11 17:45:42 INFO    -> ATTENDI: trend giornaliero non rialzista
 08/11 17:45:42 INFO    Agente fermato.
+08/11 18:01:09 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 18:01:09 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 18:01:10 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":'): uso il dizionario
+08/11 18:01:11 INFO    Prezzo 79.9500 | medie 80.0711/80.1776 trend GIU | notizie +0.03 su 20 (3 nuove, 0 da Claude) | 2.0s
+08/11 18:01:11 INFO       (-0.3 r1.0 claude) Solana staking yield of 5.2% vs a 19% price drop - CryptoTicker.io
+08/11 18:01:11 INFO       (+0.2 r0.6 claude) $200 billion lost, but here’s why Solana’s tokenized RWA market could be silver lining - AMBCrypto
+08/11 18:01:11 INFO       (+0.4 r0.9 claude) Solana briefly surpasses NYSE in weekly trades, Fidelity finds - Crypto News
+08/11 18:01:11 INFO    -> ATTENDI: trend giornaliero non rialzista
+08/11 18:01:11 INFO    Agente fermato.
