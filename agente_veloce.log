@@ -2206,3 +2206,11 @@
 08/11 00:01:12 INFO       (-0.7 r0.9 claude) Solana Price Loses Key Support as ETF Outflows Surge Following the Alpenglow Upgrade - Benzinga
 08/11 00:01:12 INFO    -> ATTENDI: notizie sotto la soglia (-0.15)
 08/11 00:01:12 INFO    Agente fermato.
+08/11 00:15:44 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 00:15:44 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 00:15:45 INFO    Prezzo 80.4300 | medie 80.2289/80.1767 trend SU | notizie -0.17 su 21 (1 nuove, 1 da Claude) | 1.3s
+08/11 00:15:45 INFO       (-0.4 r0.9 claude) Solana Price Prediction: Can SOL Hold $90 After $25M in Outflows as Buyers Back Pepeto? - TechBullion
+08/11 00:15:45 INFO       (-0.3 r0.6 claude) Coinbase's Base Now Holds More DeFi Money Than Solana. Is Ethereum Winning Back Ground From Solana? - 24/7 Wal
+08/11 00:15:45 INFO       (-0.4 r0.9 claude) Why Solana’s Bearish Bias Remains Despite ETF Investors Refusing to Sell at a Loss - TechBullion
+08/11 00:15:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.17)
+08/11 00:15:45 INFO    Agente fermato.
