@@ -2607,3 +2607,14 @@
 08/11 11:01:16 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 08/11 11:01:16 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 08/11 11:01:16 INFO    Agente fermato.
+08/11 11:15:39 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 11:15:39 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 11:15:41 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+08/11 11:15:41 INFO    Prezzo 80.1000 | medie 80.0256/79.9924 trend SU | notizie +0.02 su 26 (5 nuove, 0 da Claude) | 2.3s
+08/11 11:15:41 INFO       (+0.1 r0.8 lessico) Asia's weekly TOP10 crypto news: PBOC to Probe Solana's Lujiazui Ad Campaign, South Korea Pushes Crypto Gains 
+08/11 11:15:41 INFO       (-0.4 r0.9 claude) China's Central Bank Blocks Solana Shanghai Event, Rules Outdoor Ad Violated Regulations - BigGo Finance
+08/11 11:15:41 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 11:15:45 INFO       rialzista: Il prezzo (80,1) si trova sopra sia la media a 10 periodi (80,03) sia quella a 30 periodi (79,99), e alcune notizie sono positive, come l'aggiornamento Alpenglow e i 5 miliardi di dollari in RWA.
+08/11 11:15:45 INFO       ribassista: Il punteggio delle notizie è quasi neutro (0,024), la probe della PBOC e il blocco dell'evento a Shanghai pesano negativamente, e il prezzo è sopra la media a 10 periodi di appena 0,07, meno della metà dell'ATR giornaliero di 0,14.
+08/11 11:15:45 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è troppo debole, con il prezzo a meno di un ATR dalla media mobile, il sentiment complessivo neutro e un rischio regolatorio cinese non trascurabile, quindi non si giustifica un acquisto spot.
+08/11 11:15:45 INFO    Agente fermato.
