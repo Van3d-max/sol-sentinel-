@@ -2379,3 +2379,12 @@
 08/11 04:53:47 INFO       (-0.4 r0.9 claude) Solana Price Prediction: Can SOL Hold $90 After $25M in Outflows as Buyers Back Pepeto? - TechBullion
 08/11 04:53:47 INFO    -> ATTENDI: trend giornaliero non rialzista
 08/11 04:53:47 INFO    Agente fermato.
+08/11 05:01:08 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 05:01:09 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 05:01:10 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+08/11 05:01:10 INFO    Prezzo 79.9100 | medie 80.0322/80.0781 trend GIU | notizie +0.03 su 26 (2 nuove, 0 da Claude) | 1.8s
+08/11 05:01:10 INFO       (+0.6 r0.9 claude) Stablecoin Payments: Why Samsung’s Solana Move Matters - OneSafe
+08/11 05:01:10 INFO       (-0.4 r0.9 claude) China's Central Bank Blocks Solana Shanghai Event, Rules Outdoor Ad Violated Regulations - BigGo Finance
+08/11 05:01:10 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 05:01:10 INFO    -> ATTENDI: trend giornaliero non rialzista
+08/11 05:01:10 INFO    Agente fermato.
