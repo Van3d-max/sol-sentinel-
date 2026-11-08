@@ -3049,3 +3049,14 @@
 08/11 21:15:44 INFO       ribassista: Il prezzo è sotto entrambe le medie, il sentiment è quasi neutro (0.027) e i titoli segnalano un calo del 19% e una perdita di 200 miliardi, senza un catalizzatore chiaro al rialzo.
 08/11 21:15:44 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: prezzo sotto le medie, sentiment neutro, titoli contrastanti e un ATR giornaliero di 0.22 (circa lo 0.3% del prezzo) che sembra anomalo per SOL e rende poco affidabile la stima del rischio.
 08/11 21:15:44 INFO    Agente fermato.
+08/11 21:30:58 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 21:30:59 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 21:31:00 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":0,"s":'): uso il dizionario
+08/11 21:31:01 INFO    Prezzo 79.8500 | medie 80.1511/80.1176 trend SU | notizie +0.03 su 19 (4 nuove, 0 da Claude) | 2.3s
+08/11 21:31:01 INFO       (-0.3 r1.0 claude) Solana staking yield of 5.2% vs a 19% price drop - CryptoTicker.io
+08/11 21:31:01 INFO       (+0.2 r0.6 claude) $200 billion lost, but here’s why Solana’s tokenized RWA market could be silver lining - AMBCrypto
+08/11 21:31:01 INFO       (+0.4 r0.9 claude) Solana briefly surpasses NYSE in weekly trades, Fidelity finds - Crypto News
+08/11 21:31:04 INFO       rialzista: Il prezzo di 79,85 è leggermente sotto le medie mobili, quindi un rimbalzo verso 80,1 potrebbe offrire un ingresso a sconto, e le notizie sulla tokenizzazione RWA e sull'attività di rete restano costruttive.
+08/11 21:31:04 INFO       ribassista: Il prezzo è sotto sia la media a 10 che quella a 30 giorni, il punteggio delle notizie è quasi neutro (0,027) e un titolo riporta un calo del 19%, quindi il trend resta debole.
+08/11 21:31:04 INFO    -> BLOCCATO DAL DIBATTITO: Con il prezzo sotto entrambe le medie, sentiment neutro e un recente calo del 19% senza un segnale di inversione chiaro, le prove sono deboli e il rischio di ulteriori ribassi supera il potenziale di rialzo.
+08/11 21:31:04 INFO    Agente fermato.
