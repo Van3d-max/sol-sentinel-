@@ -649,3 +649,11 @@
 07/11 23:01:04 INFO       (+0.3 r0.8 lessico) Why Solana’s Bearish Bias Remains Despite ETF Investors Refusing to Sell at a Loss - TechBullion
 07/11 23:01:04 INFO    -> ATTENDI: trend giornaliero non rialzista
 07/11 23:01:04 INFO    Agente fermato.
+08/11 00:01:01 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+08/11 00:01:02 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 00:01:05 INFO    Prezzo 80.5000 | medie 83.2320/90.1213 trend GIU | notizie -0.12 su 57 (14 nuove, 5 da Claude) | 3.5s
+08/11 00:01:05 INFO       (-0.8 r1.0 claude) Solana Price Loses Key Support as ETF Outflows Surge Following the Alpenglow Upgrade - Benzinga
+08/11 00:01:05 INFO       (-0.5 r0.9 claude) Solana Price Prediction: Can SOL Hold $90 After $25M in Outflows as Buyers Back Pepeto? - TechBullion
+08/11 00:01:05 INFO       (-0.5 r0.9 claude) Why Solana’s Bearish Bias Remains Despite ETF Investors Refusing to Sell at a Loss - TechBullion
+08/11 00:01:05 INFO    -> ATTENDI: trend giornaliero non rialzista
+08/11 00:01:05 INFO    Agente fermato.
