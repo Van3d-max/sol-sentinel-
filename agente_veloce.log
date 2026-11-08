@@ -2672,3 +2672,14 @@
 08/11 12:15:48 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 08/11 12:15:48 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 08/11 12:15:48 INFO    Agente fermato.
+08/11 12:30:58 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 12:30:58 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 12:31:00 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,'): uso il dizionario
+08/11 12:31:00 INFO    Prezzo 80.3400 | medie 80.2111/80.1033 trend SU | notizie +0.02 su 26 (6 nuove, 0 da Claude) | 2.8s
+08/11 12:31:00 INFO       (+0.1 r0.8 lessico) Asia's weekly TOP10 crypto news: PBOC to Probe Solana's Lujiazui Ad Campaign, South Korea Pushes Crypto Gains 
+08/11 12:31:00 INFO       (-0.4 r0.9 claude) China's Central Bank Blocks Solana Shanghai Event, Rules Outdoor Ad Violated Regulations - BigGo Finance
+08/11 12:31:00 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 12:31:04 INFO       rialzista: Il prezzo (80.34) si colloca sopra la media mobile a 10 periodi (80.21) e a 30 periodi (80.10), indicando un lieve momentum rialzista di breve termine.
+08/11 12:31:04 INFO       ribassista: Il margine sopra le medie è minimo, l'ATR giornaliero di 0.15 (circa lo 0.2% del prezzo) segnala volatilità quasi nulla, e il sentiment mostra un titolo negativo sulla probe della PBOC che pesa sulle prospettive.
+08/11 12:31:04 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è troppo debole (scostamento minimo dalle medie e volatilità quasi nulla), il punteggio delle notizie è sostanzialmente neutro (0.016) con titoli contrastanti, quindi l'evidenza non giustifica l'acquisto spot.
+08/11 12:31:04 INFO    Agente fermato.
