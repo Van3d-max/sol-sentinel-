@@ -673,3 +673,11 @@
 08/11 01:01:03 INFO       (-0.5 r0.7 claude) Coinbase's Base Now Holds More DeFi Money Than Solana. Is Ethereum Winning Back Ground From Solana? - 24/7 Wal
 08/11 01:01:03 INFO    -> ATTENDI: trend giornaliero non rialzista
 08/11 01:01:03 INFO    Agente fermato.
+08/11 02:01:02 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+08/11 02:01:02 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 02:01:04 INFO    Prezzo 79.8900 | medie 83.2320/90.1213 trend GIU | notizie -0.08 su 57 (9 nuove, 1 da Claude) | 2.7s
+08/11 02:01:04 INFO       (-0.8 r1.0 claude) Solana Price Loses Key Support as ETF Outflows Surge Following the Alpenglow Upgrade - Benzinga
+08/11 02:01:04 INFO       (-0.5 r0.9 claude) Solana Price Prediction: Can SOL Hold $90 After $25M in Outflows as Buyers Back Pepeto? - TechBullion
+08/11 02:01:04 INFO       (-0.5 r0.7 claude) Coinbase's Base Now Holds More DeFi Money Than Solana. Is Ethereum Winning Back Ground From Solana? - 24/7 Wal
+08/11 02:01:04 INFO    -> ATTENDI: trend giornaliero non rialzista
+08/11 02:01:04 INFO    Agente fermato.
