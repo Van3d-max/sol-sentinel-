@@ -2576,3 +2576,14 @@
 08/11 10:15:47 INFO       ribassista: Il punteggio delle notizie è quasi neutro (0,025), la mossa sopra le medie è minima e la stretta regolamentare cinese (PBOC, evento a Shanghai bloccato) pesa come rischio concreto.
 08/11 10:15:47 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è appena sopra medie quasi piatte, le notizie si annullano a vicenda con un pesante elemento regolamentare negativo, e l'ATR basso non giustifica un'entrata spot senza un vantaggio chiaro.
 08/11 10:15:47 INFO    Agente fermato.
+08/11 10:30:57 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 10:30:57 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 10:30:59 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":'): uso il dizionario
+08/11 10:30:59 INFO    Prezzo 79.9100 | medie 80.0256/79.9910 trend SU | notizie +0.03 su 26 (5 nuove, 0 da Claude) | 2.4s
+08/11 10:30:59 INFO       (+0.1 r0.8 lessico) Asia's weekly TOP10 crypto news: PBOC to Probe Solana's Lujiazui Ad Campaign, South Korea Pushes Crypto Gains 
+08/11 10:30:59 INFO       (-0.4 r0.9 claude) China's Central Bank Blocks Solana Shanghai Event, Rules Outdoor Ad Violated Regulations - BigGo Finance
+08/11 10:30:59 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 10:31:02 INFO       rialzista: Il prezzo di 79,91 è vicino alle medie mobili e le notizie positive su Alpenglow, sui 200ms per slot e sui 5 miliardi di dollari in RWA potrebbero sostenere un recupero.
+08/11 10:31:02 INFO       ribassista: Il prezzo è sotto entrambe le medie mobili (10 e 30 periodi), il sentiment netto è quasi neutro (0,025) e la notizia sulla possibile indagine della PBOC e sul blocco dell'evento a Shanghai pesa negativamente.
+08/11 10:31:02 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: prezzo sotto le medie, sentiment neutro e un ATR giornaliero di 0,14 così basso da far dubitare della qualità dei dati, quindi il rischio non è giustificato.
+08/11 10:31:02 INFO    Agente fermato.
