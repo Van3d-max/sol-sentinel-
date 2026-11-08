@@ -2683,3 +2683,14 @@
 08/11 12:31:04 INFO       ribassista: Il margine sopra le medie è minimo, l'ATR giornaliero di 0.15 (circa lo 0.2% del prezzo) segnala volatilità quasi nulla, e il sentiment mostra un titolo negativo sulla probe della PBOC che pesa sulle prospettive.
 08/11 12:31:04 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è troppo debole (scostamento minimo dalle medie e volatilità quasi nulla), il punteggio delle notizie è sostanzialmente neutro (0.016) con titoli contrastanti, quindi l'evidenza non giustifica l'acquisto spot.
 08/11 12:31:04 INFO    Agente fermato.
+08/11 12:45:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 12:45:40 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 12:45:42 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+08/11 12:45:42 INFO    Prezzo 80.2100 | medie 80.2356/80.1157 trend SU | notizie +0.02 su 26 (6 nuove, 0 da Claude) | 2.4s
+08/11 12:45:42 INFO       (+0.1 r0.8 lessico) Asia's weekly TOP10 crypto news: PBOC to Probe Solana's Lujiazui Ad Campaign, South Korea Pushes Crypto Gains 
+08/11 12:45:42 INFO       (-0.4 r0.9 claude) China's Central Bank Blocks Solana Shanghai Event, Rules Outdoor Ad Violated Regulations - BigGo Finance
+08/11 12:45:42 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 12:45:46 INFO       rialzista: Il prezzo (80,21) è sopra la media mobile a 30 periodi (80,12) e le notizie positive su RWA, Alpenglow e aggiornamenti di rete offrono uno spunto di crescita.
+08/11 12:45:46 INFO       ribassista: Il prezzo è già sotto la media a 10 periodi (80,24), il sentiment complessivo è quasi neutro (0,016) e la probe della PBOC sulla campagna pubblicitaria di Solana in Cina aggiunge un rischio regolatorio concreto.
+08/11 12:45:46 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è debole e oscilla attorno alle medie mobili, il sentiment è neutro e la notizia regolatoria negativa introduce un rischio non quantificato, quindi l'acquisto spot non è giustificato.
+08/11 12:45:46 INFO    Agente fermato.
