@@ -2444,3 +2444,12 @@
 08/11 06:31:03 INFO       ribassista: Il prezzo resta sotto entrambe le medie mobili, il punteggio delle notizie è quasi neutro (0,092) e il titolo di censura cinese pesa negativamente, quindi non c'è un trend rialzista confermato.
 08/11 06:31:03 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono deboli: il prezzo è piatto sulle medie senza una direzione chiara, le notizie sono contrastanti con un punteggio quasi neutro, e l'ATR giornaliero di 0,1453 appare anomalmente basso per SOL, suggerendo un possibile problema nei dati di mercato.
 08/11 06:31:03 INFO    Agente fermato.
+08/11 06:45:42 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 06:45:43 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 06:45:44 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1'): uso il dizionario
+08/11 06:45:45 INFO    Prezzo 79.7600 | medie 79.9633/79.9743 trend GIU | notizie +0.09 su 27 (4 nuove, 0 da Claude) | 2.1s
+08/11 06:45:45 INFO       (+0.7 r0.8 lessico) Solana Labs-Backed Leap Launches Beta App for Tokenized Stocks and Crypto - TradingView
+08/11 06:45:45 INFO       (-0.4 r0.9 claude) China's Central Bank Blocks Solana Shanghai Event, Rules Outdoor Ad Violated Regulations - BigGo Finance
+08/11 06:45:45 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 06:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista
+08/11 06:45:45 INFO    Agente fermato.
