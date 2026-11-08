@@ -2544,3 +2544,14 @@
 08/11 09:31:01 INFO       ribassista: Il punteggio delle notizie è quasi neutro (0,026), l'ATR giornaliero è molto basso (0,1466) e l'indagine della PBOC sulla campagna pubblicitaria di Solana aggiunge un rischio regolatorio negativo.
 08/11 09:31:01 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è debole (prezzo a meno di 0,1% sopra le medie mobili, senza trend chiaro), le notizie sono neutre con un evento regolatorio negativo, e il rischio non è giustificato dall'evidenza disponibile.
 08/11 09:31:01 INFO    Agente fermato.
+08/11 09:45:39 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 09:45:39 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 09:45:41 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+08/11 09:45:42 INFO    Prezzo 80.0600 | medie 80.0300/79.9833 trend SU | notizie +0.03 su 28 (5 nuove, 0 da Claude) | 2.8s
+08/11 09:45:42 INFO       (+0.1 r0.8 lessico) Asia's weekly TOP10 crypto news: PBOC to Probe Solana's Lujiazui Ad Campaign, South Korea Pushes Crypto Gains 
+08/11 09:45:42 INFO       (-0.4 r0.9 claude) China's Central Bank Blocks Solana Shanghai Event, Rules Outdoor Ad Violated Regulations - BigGo Finance
+08/11 09:45:42 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 09:45:45 INFO       rialzista: Il prezzo (80,06) è sopra la media mobile a 10 periodi (80,03) e a 30 periodi (79,98), e alcune notizie recenti sono positive, come i progressi tecnici di Solana e i 5 miliardi di dollari in RWA.
+08/11 09:45:45 INFO       ribassista: Il prezzo è quasi sulle medie mobili, lo scarto è minimo, lo sentiment delle notizie è sostanzialmente neutro (0,026) e l'azione dell'autorità cinese contro la campagna pubblicitaria pesa sul sentiment.
+08/11 09:45:45 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è troppo debole: il prezzo è praticamente fermo sulle medie, il punteggio delle notizie è neutro, le notizie sono contrastanti e l'ATR giornaliero di 0,1461 appare anomalo e insufficiente a giustificare un'entrata con un rischio chiaramente controllato.
+08/11 09:45:45 INFO    Agente fermato.
