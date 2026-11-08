@@ -2778,3 +2778,14 @@
 08/11 14:45:45 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 08/11 14:45:45 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 08/11 14:45:45 INFO    Agente fermato.
+08/11 15:01:08 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 15:01:09 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 15:01:11 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+08/11 15:01:11 INFO    Prezzo 80.3800 | medie 80.2067/80.1914 trend SU | notizie +0.01 su 26 (7 nuove, 0 da Claude) | 2.9s
+08/11 15:01:11 INFO       (+0.1 r0.8 lessico) Asia's weekly TOP10 crypto news: PBOC to Probe Solana's Lujiazui Ad Campaign, South Korea Pushes Crypto Gains 
+08/11 15:01:11 INFO       (-0.4 r0.9 claude) China's Central Bank Blocks Solana Shanghai Event, Rules Outdoor Ad Violated Regulations - BigGo Finance
+08/11 15:01:11 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 15:01:14 INFO       rialzista: Il prezzo (80,38) si trova leggermente sopra le medie mobili a 10 e 30 giorni, indicando un lieve momentum positivo, e alcune notizie sull'ecosistema Solana (RWA, aggiornamenti tecnici) sono favorevoli.
+08/11 15:01:14 INFO       ribassista: Il vantaggio rispetto alle medie è minimo (circa lo 0,2%), il punteggio delle notizie è sostanzialmente neutro (0,011) e l'indagine della PBOC sulla campagna pubblicitaria di Solana a Shanghai è un rischio regolatorio concreto in Cina.
+08/11 15:01:14 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è troppo debole per giustificare un acquisto spot, le notizie sono contrastanti con un sentiment neutro e il rischio regolatorio legato alla Cina non è compensato da evidenze sufficienti.
+08/11 15:01:14 INFO    Agente fermato.
