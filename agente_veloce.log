@@ -2618,3 +2618,14 @@
 08/11 11:15:45 INFO       ribassista: Il punteggio delle notizie è quasi neutro (0,024), la probe della PBOC e il blocco dell'evento a Shanghai pesano negativamente, e il prezzo è sopra la media a 10 periodi di appena 0,07, meno della metà dell'ATR giornaliero di 0,14.
 08/11 11:15:45 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è troppo debole, con il prezzo a meno di un ATR dalla media mobile, il sentiment complessivo neutro e un rischio regolatorio cinese non trascurabile, quindi non si giustifica un acquisto spot.
 08/11 11:15:45 INFO    Agente fermato.
+08/11 11:30:57 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 11:30:57 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 11:30:59 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+08/11 11:30:59 INFO    Prezzo 80.4200 | medie 80.0700/80.0095 trend SU | notizie +0.02 su 26 (5 nuove, 0 da Claude) | 2.4s
+08/11 11:30:59 INFO       (+0.1 r0.8 lessico) Asia's weekly TOP10 crypto news: PBOC to Probe Solana's Lujiazui Ad Campaign, South Korea Pushes Crypto Gains 
+08/11 11:30:59 INFO       (-0.4 r0.9 claude) China's Central Bank Blocks Solana Shanghai Event, Rules Outdoor Ad Violated Regulations - BigGo Finance
+08/11 11:30:59 INFO       (+0.3 r0.9 claude) Solana's October: 200ms Slots, Alpenglow, $5B in RWAs - KuCoin
+08/11 11:31:03 INFO       rialzista: Il prezzo (80,42) è sopra sia la media a 10 periodi (80,07) che quella a 30 (80,01), e Solana ha notizie di sviluppo tecnologico positive come Alpenglow, slot da 200ms e 5 miliardi di dollari in RWA.
+08/11 11:31:03 INFO       ribassista: Il punteggio delle notizie è quasi neutro (0,024), la Banca centrale cinese ha bloccato un evento di Solana e ha avviato un'indagine sulla sua campagna pubblicitaria, e il prezzo sta appena sopra le medie mobili, quindi il segnale di trend è debole.
+08/11 11:31:03 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole e contraddittorio (trend appena sopra le medie, notizie neutre con un rischio regolamentare cinese concreto) e l'ATR giornaliero di 0,1676 (circa lo 0,2% del prezzo) appare anomalo per SOL, quindi i dati di volatilità vanno verificati prima di esporsi.
+08/11 11:31:03 INFO    Agente fermato.
