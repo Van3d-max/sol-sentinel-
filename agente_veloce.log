@@ -2862,3 +2862,13 @@
 08/11 17:01:13 INFO       (+0.3 r0.6 claude) Akash migration proposal passes, bringing Solana’s DePIN puz - KuCoin
 08/11 17:01:13 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
 08/11 17:01:13 INFO    Agente fermato.
+08/11 17:14:34 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 17:14:34 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 17:14:36 INFO    Prezzo 79.8400 | medie 80.2956/80.2614 trend SU | notizie +0.03 su 22 (4 nuove, 1 da Claude) | 2.1s
+08/11 17:14:36 INFO       (-0.3 r1.0 claude) Solana staking yield of 5.2% vs a 19% price drop - CryptoTicker.io
+08/11 17:14:36 INFO       (+0.2 r0.6 claude) $200 billion lost, but here’s why Solana’s tokenized RWA market could be silver lining - AMBCrypto
+08/11 17:14:36 INFO       (+0.4 r0.9 claude) Solana briefly surpasses NYSE in weekly trades, Fidelity finds - Crypto News
+08/11 17:14:39 INFO       rialzista: Il prezzo di 79,84 è vicino ai minimi recenti e il punteggio delle notizie è leggermente positivo (0,026), con segnali di crescita come gli asset tokenizzati RWA e l'attività on-chain.
+08/11 17:14:39 INFO       ribassista: Il prezzo è sotto sia la media mobile a 10 periodi (80,30) sia quella a 30 (80,26), dopo un calo del 19% citato nei titoli, e il ritorno dello staking (5,2%) non compensa la debolezza del prezzo.
+08/11 17:14:39 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo è sotto entrambe le medie mobili, le notizie sono contrastanti con un punteggio quasi neutro, e l'ATR giornaliero di 0,2009 appare anomalo per SOL, quindi il segnale non è abbastanza solido per giustificare un acquisto spot.
+08/11 17:14:39 INFO    Agente fermato.
