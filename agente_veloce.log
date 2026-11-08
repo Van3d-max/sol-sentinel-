@@ -2844,3 +2844,12 @@
 08/11 16:30:59 INFO       (+0.3 r0.6 claude) Akash migration proposal passes, bringing Solana’s DePIN puz - KuCoin
 08/11 16:30:59 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
 08/11 16:30:59 INFO    Agente fermato.
+08/11 16:45:39 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+08/11 16:45:39 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+08/11 16:45:41 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+08/11 16:45:41 INFO    Prezzo 80.2000 | medie 80.3344/80.2871 trend SU | notizie -0.01 su 23 (3 nuove, 0 da Claude) | 2.0s
+08/11 16:45:41 INFO       (-0.3 r1.0 claude) Solana staking yield of 5.2% vs a 19% price drop - CryptoTicker.io
+08/11 16:45:41 INFO       (+0.4 r0.9 claude) Solana briefly surpasses NYSE in weekly trades, Fidelity finds - Crypto News
+08/11 16:45:41 INFO       (+0.3 r0.6 claude) Akash migration proposal passes, bringing Solana’s DePIN puz - KuCoin
+08/11 16:45:41 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
+08/11 16:45:41 INFO    Agente fermato.
