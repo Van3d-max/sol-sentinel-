@@ -3580,3 +3580,11 @@
 09/11 12:15:46 INFO       (-0.8 r0.8 lessico) Solana proposes retiring durable nonces after the Drift hack - Crypto Briefing
 09/11 12:15:46 INFO    -> ATTENDI: trend giornaliero non rialzista
 09/11 12:15:46 INFO    Agente fermato.
+09/11 12:31:01 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 12:31:01 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 12:31:06 INFO    Prezzo 77.5200 | medie 76.9622/77.0129 trend GIU | notizie -0.10 su 32 (8 nuove, 2 da Claude) | 5.4s
+09/11 12:31:06 INFO       (-0.5 r0.9 claude) Solana remains skewed to the downside amid negative macro backdrop as US CPI looms - investingLive
+09/11 12:31:06 INFO       (+0.3 r0.8 claude) Solana’s weekly stablecoin card spending hits a record $36 million - Crypto Briefing
+09/11 12:31:06 INFO       (+0.4 r0.7 claude) Ethereum, L2 Share of App Fees Falls to 39% From 72%; Solana Reaches 31% - bloomingbit
+09/11 12:31:06 INFO    -> ATTENDI: trend giornaliero non rialzista
+09/11 12:31:06 INFO    Agente fermato.
