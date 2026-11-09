@@ -3713,3 +3713,13 @@
 09/11 15:45:51 INFO       ribassista: Il sentiment complessivo è appena positivo (0,151), il titolo sta solo a circa lo 0,8% sopra la media a 10 periodi, e i deflussi dagli ETF segnalano pressione di vendita persistente.
 09/11 15:45:51 INFO    -> BLOCCATO DAL DIBATTITO: Il vantaggio tecnico è marginale, i segnali di notizie sono contrastanti (deflussi ETF contro l'adesione di Schwab) e il sentiment complessivo è debole, quindi non c'è un'evidenza sufficiente per giustificare un acquisto spot.
 09/11 15:45:51 INFO    Agente fermato.
+09/11 16:01:13 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 16:01:13 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 16:01:16 INFO    Prezzo 78.3500 | medie 77.9122/77.4571 trend SU | notizie +0.16 su 61 (14 nuove, 1 da Claude) | 3.3s
+09/11 16:01:16 INFO       (+0.4 r0.9 claude) Solana of major US exchange activity by 2026: Fidelity - Crypto Briefing
+09/11 16:01:16 INFO       (-0.6 r1.0 claude) Solana Price Forecast: SOL faces further downside risk as ETF outflows persist - www.tmgm.com
+09/11 16:01:16 INFO       (+0.5 r0.8 claude) Charles Schwab Makes Solana, Avalanche and Chainlink Available to Trade Through Schwab Crypto™ Accounts - Busi
+09/11 16:01:19 INFO       rialzista: Il prezzo (78,35) è sopra le medie mobili a 10 e 30 periodi, e le notizie di Schwab e Fidelity indicano un'adozione istituzionale crescente.
+09/11 16:01:19 INFO       ribassista: Un titolo ha segnalato deflussi dagli ETF che continuano, e l'ATR giornaliero di 0,39 (circa lo 0,5%) è anomalo per SOL, quindi il dato di volatilità potrebbe essere errato o sottostimare il rischio reale.
+09/11 16:01:19 INFO    -> BLOCCATO DAL DIBATTITO: Le evidenze sono deboli: il punteggio delle notizie è appena positivo (0,161) con segnali contrastanti, i deflussi dagli ETF pesano contro il trade e il dato di ATR va verificato prima di dimensionare un acquisto spot.
+09/11 16:01:19 INFO    Agente fermato.
