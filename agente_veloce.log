@@ -3804,3 +3804,11 @@
 09/11 17:48:48 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 09/11 17:48:48 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 09/11 17:48:48 INFO    Agente fermato.
+09/11 18:01:21 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 18:01:22 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 18:01:25 INFO    Prezzo 77.1700 | medie 77.5011/77.5852 trend GIU | notizie +0.23 su 72 (15 nuove, 6 da Claude) | 3.5s
+09/11 18:01:25 INFO       (+0.4 r0.9 claude) Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC
+09/11 18:01:25 INFO       (+0.5 r0.8 claude) Fidelity Report: Solana Trading Volume Reaches 15% of U.S. Major Exchanges - KuCoin
+09/11 18:01:25 INFO       (+0.4 r0.8 claude) Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC - Yahoo Finance
+09/11 18:01:25 INFO    -> ATTENDI: trend giornaliero non rialzista
+09/11 18:01:25 INFO    Agente fermato.
