@@ -3743,3 +3743,14 @@
 09/11 16:31:06 INFO       ribassista: Il prezzo è sotto sia la media a 10 giorni sia quella a 30 giorni, e il deflusso dagli ETF con il titolo negativo indica pressione ribassista in corso.
 09/11 16:31:06 INFO    -> BLOCCATO DAL DIBATTITO: Il quadro è debole: il prezzo è sotto entrambe le medie mobili, il sentiment è appena positivo (0,17) con segnali contrastanti, e non c'è un vantaggio chiaro che giustifichi un acquisto spot.
 09/11 16:31:06 INFO    Agente fermato.
+09/11 16:45:42 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 16:45:42 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 16:45:46 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+09/11 16:45:46 INFO    Prezzo 77.4400 | medie 77.9100/77.5505 trend SU | notizie +0.15 su 63 (15 nuove, 0 da Claude) | 4.2s
+09/11 16:45:46 INFO       (+0.5 r0.8 claude) Formation Notifies SEC of Plan for First Tokenized Securities Venue on Solana - KuCoin
+09/11 16:45:46 INFO       (+0.4 r0.9 claude) Solana of major US exchange activity by 2026: Fidelity - Crypto Briefing
+09/11 16:45:46 INFO       (-0.6 r1.0 claude) Solana Price Forecast: SOL faces further downside risk as ETF outflows persist - www.tmgm.com
+09/11 16:45:49 INFO       rialzista: Il titolo ha notizie di fondo positive, come la proposta di una piattaforma di titoli tokenizzati su Solana presentata alla SEC e l'interesse istituzionale di Fidelity, con un punteggio notizie leggermente positivo (0,155).
+09/11 16:45:49 INFO       ribassista: Il prezzo (77,44) è sotto sia la media a 10 periodi (77,91) sia quella a 30 (77,55), segnale tecnico debole, e i deflussi dagli ETF pesano sul sentiment.
+09/11 16:45:49 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo sotto entrambe le medie mobili, le notizie contrastanti (incluso un titolo negativo sui deflussi ETF) e il punteggio notizie appena positivo non forniscono un'evidenza sufficiente per un acquisto spot.
+09/11 16:45:49 INFO    Agente fermato.
