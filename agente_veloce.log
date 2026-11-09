@@ -3496,3 +3496,11 @@
 09/11 09:45:46 INFO       (-0.8 r0.8 lessico) SOL news: Solana moves to scrap the transaction feature used in the $270 million Drift hack - CoinDesk
 09/11 09:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista
 09/11 09:45:46 INFO    Agente fermato.
+09/11 10:01:13 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 10:01:14 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 10:01:17 INFO    Prezzo 77.1000 | medie 77.1978/77.2600 trend GIU | notizie -0.24 su 26 (8 nuove, 1 da Claude) | 3.1s
+09/11 10:01:17 INFO       (-0.8 r0.8 lessico) Solana proposes retiring durable nonces after the Drift hack - Crypto Briefing
+09/11 10:01:17 INFO       (-0.8 r0.8 lessico) Solana moves to scrap the transaction feature used in the $270 million Drift hack
+09/11 10:01:17 INFO       (-0.8 r0.8 lessico) SOL news: Solana moves to scrap the transaction feature used in the $270 million Drift hack - CoinDesk
+09/11 10:01:17 INFO    -> ATTENDI: trend giornaliero non rialzista
+09/11 10:01:17 INFO    Agente fermato.
