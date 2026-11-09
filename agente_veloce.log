@@ -3784,3 +3784,14 @@
 09/11 17:31:08 INFO       ribassista: Il prezzo a 77,03 è sotto le medie mobili a 10 e 30 giorni (77,72 e 77,61), segnale di debolezza di breve termine, e le notizie sono di natura strutturale senza un catalizzatore immediato sul prezzo.
 09/11 17:31:08 INFO    -> BLOCCATO DAL DIBATTITO: Le notizie positive non sono sufficienti a compensare il trend ribassista di breve periodo con il prezzo sotto entrambe le medie mobili, quindi la conferma tecnica è debole per un acquisto spot.
 09/11 17:31:08 INFO    Agente fermato.
+09/11 17:45:46 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 17:45:46 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 17:45:49 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+09/11 17:45:49 INFO    Prezzo 77.1200 | medie 77.6156/77.5910 trend SU | notizie +0.18 su 69 (13 nuove, 0 da Claude) | 3.5s
+09/11 17:45:49 INFO       (+0.5 r0.8 claude) Fidelity Report: Solana Trading Volume Reaches 15% of U.S. Major Exchanges - KuCoin
+09/11 17:45:49 INFO       (+0.4 r0.7 claude) Formation Securities tells SEC it plans round-the-clock tokenized stock trading on Solana - Yahoo Finance
+09/11 17:45:49 INFO       (+0.5 r0.8 claude) Formation Notifies SEC of Plan for First Tokenized Securities Venue on Solana - KuCoin
+09/11 17:45:52 INFO       rialzista: Il prezzo di SOL è in lieve calo sotto le medie mobili, ma le notizie sull'adozione (volumi Fidelity, tokenizzazione su Solana) sono costruttive e il punteggio sentiment è positivo.
+09/11 17:45:52 INFO       ribassista: Il prezzo (77,12) è sotto sia la media a 10 periodi (77,62) sia quella a 30 (77,59), segnalando un trend di breve termine debole, e l'ATR di 0,41 indica volatilità minima con poco margine per un movimento favorevole.
+09/11 17:45:52 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo è sotto entrambe le medie mobili e il sentiment, pur positivo, non è sufficiente a giustificare l'ingresso con una volatilità così bassa e senza un segnale tecnico di conferma.
+09/11 17:45:52 INFO    Agente fermato.
