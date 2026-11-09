@@ -3830,3 +3830,11 @@
 09/11 18:45:51 INFO       (+0.4 r0.8 claude) Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC - Yahoo Finance
 09/11 18:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista
 09/11 18:45:51 INFO    Agente fermato.
+09/11 19:01:13 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 19:01:14 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 19:01:17 INFO    Prezzo 77.2200 | medie 77.2367/77.5667 trend GIU | notizie +0.23 su 74 (12 nuove, 1 da Claude) | 3.3s
+09/11 19:01:17 INFO       (+0.4 r0.9 claude) Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC
+09/11 19:01:17 INFO       (+0.5 r0.8 claude) Fidelity Report: Solana Trading Volume Reaches 15% of U.S. Major Exchanges - KuCoin
+09/11 19:01:17 INFO       (+0.4 r0.8 claude) Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC - Yahoo Finance
+09/11 19:01:17 INFO    -> ATTENDI: trend giornaliero non rialzista
+09/11 19:01:17 INFO    Agente fermato.
