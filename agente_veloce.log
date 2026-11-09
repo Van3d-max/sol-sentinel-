@@ -3177,3 +3177,11 @@
 09/11 00:55:53 INFO       (-0.3 r0.8 claude) XRP and Solana Both Hit 30-Day Lows This Week. Is It Better to Buy XRP or SOL Right Now? - 24/7 Wall St.
 09/11 00:55:53 INFO    -> ATTENDI: trend giornaliero non rialzista
 09/11 00:55:53 INFO    Agente fermato.
+09/11 01:01:07 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 01:01:07 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 01:01:07 INFO    Prezzo 78.6000 | medie 78.0556/78.6776 trend GIU | notizie +0.00 su 20 (0 nuove, 0 da Claude) | 0.9s
+09/11 01:01:07 INFO       (+0.6 r0.9 claude) Fidelity Says Solana Now Accounts for 15% of Major US Exchange Trades - BigGo Finance
+09/11 01:01:07 INFO       (-0.4 r0.8 claude) XRP and Solana Both Hit 30-Day Lows This Week. Is It Better to Buy XRP or SOL Right Now? - Yahoo Finance
+09/11 01:01:07 INFO       (-0.3 r0.8 claude) XRP and Solana Both Hit 30-Day Lows This Week. Is It Better to Buy XRP or SOL Right Now? - 24/7 Wall St.
+09/11 01:01:07 INFO    -> ATTENDI: trend giornaliero non rialzista
+09/11 01:01:07 INFO    Agente fermato.
