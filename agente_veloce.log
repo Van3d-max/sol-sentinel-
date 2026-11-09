@@ -3562,3 +3562,12 @@
 09/11 11:45:43 INFO       (-0.8 r0.8 lessico) Solana proposes retiring durable nonces after the Drift hack - Crypto Briefing
 09/11 11:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista
 09/11 11:45:43 INFO    Agente fermato.
+09/11 12:01:10 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 12:01:10 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 12:01:12 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+09/11 12:01:12 INFO    Prezzo 76.8800 | medie 76.9000/76.9571 trend GIU | notizie -0.12 su 31 (7 nuove, 0 da Claude) | 2.2s
+09/11 12:01:12 INFO       (+0.4 r0.7 claude) Ethereum, L2 Share of App Fees Falls to 39% From 72%; Solana Reaches 31% - bloomingbit
+09/11 12:01:12 INFO       (-0.8 r0.8 lessico) SOL news: Solana moves to scrap the transaction feature used in the $270 million Drift hack - CoinDesk
+09/11 12:01:12 INFO       (-0.8 r0.8 lessico) Solana proposes retiring durable nonces after the Drift hack - Crypto Briefing
+09/11 12:01:12 INFO    -> ATTENDI: trend giornaliero non rialzista
+09/11 12:01:12 INFO    Agente fermato.
