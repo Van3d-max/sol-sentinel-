@@ -3733,3 +3733,13 @@
 09/11 16:15:49 INFO       ribassista: Il prezzo è già sotto la media a 10 periodi (77,96), il punteggio delle notizie è appena positivo (0,162) e i deflussi dagli ETF citati nelle previsioni suggeriscono pressione al ribasso.
 09/11 16:15:49 INFO    -> BLOCCATO DAL DIBATTITO: I segnali sono contrastanti e deboli: il prezzo oscilla attorno alle medie senza un trend chiaro, il sentiment è neutro e le notizie si annullano a vicenda, quindi il rischio non è giustificato dalle evidenze.
 09/11 16:15:49 INFO    Agente fermato.
+09/11 16:30:59 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 16:30:59 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 16:31:02 INFO    Prezzo 77.4200 | medie 77.9344/77.5400 trend SU | notizie +0.17 su 61 (13 nuove, 1 da Claude) | 3.7s
+09/11 16:31:02 INFO       (+0.5 r0.8 claude) Formation Notifies SEC of Plan for First Tokenized Securities Venue on Solana - KuCoin
+09/11 16:31:02 INFO       (+0.4 r0.9 claude) Solana of major US exchange activity by 2026: Fidelity - Crypto Briefing
+09/11 16:31:02 INFO       (-0.6 r1.0 claude) Solana Price Forecast: SOL faces further downside risk as ETF outflows persist - www.tmgm.com
+09/11 16:31:06 INFO       rialzista: Il prezzo vicino a 77,4 si trova a ridosso della media a 30 giorni e le notizie su tokenizzazione e adozione istituzionale su Solana restano costruttive.
+09/11 16:31:06 INFO       ribassista: Il prezzo è sotto sia la media a 10 giorni sia quella a 30 giorni, e il deflusso dagli ETF con il titolo negativo indica pressione ribassista in corso.
+09/11 16:31:06 INFO    -> BLOCCATO DAL DIBATTITO: Il quadro è debole: il prezzo è sotto entrambe le medie mobili, il sentiment è appena positivo (0,17) con segnali contrastanti, e non c'è un vantaggio chiaro che giustifichi un acquisto spot.
+09/11 16:31:06 INFO    Agente fermato.
