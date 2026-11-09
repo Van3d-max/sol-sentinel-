@@ -3663,3 +3663,12 @@
 09/11 14:31:09 INFO       ribassista: Il sentiment è solo leggermente positivo (0,138), il titolo sui deflussi dagli ETF segnala rischio di ribasso, la notizia Schwab compare due volte con la stessa sostanza e il prezzo è appena sopra le medie, quindi il segnale di trend è debole.
 09/11 14:31:09 INFO    -> BLOCCATO DAL DIBATTITO: Le evidenze sono deboli e contrastanti (sentiment quasi neutro, notizia Schwab duplicata, deflussi dagli ETF, prezzo di poco sopra le medie) e il dato ATR (0,3659) appare incoerente con la volatilità tipica di SOL, quindi il rischio non è adeguatamente quantificabile per un acquisto spot.
 09/11 14:31:09 INFO    Agente fermato.
+09/11 14:45:42 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 14:45:43 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 14:45:46 INFO    Prezzo 77.9400 | medie 77.4478/77.1876 trend SU | notizie +0.15 su 57 (10 nuove, 2 da Claude) | 3.3s
+09/11 14:45:46 INFO       (-0.6 r1.0 claude) Solana Price Forecast: SOL faces further downside risk as ETF outflows persist - www.tmgm.com
+09/11 14:45:46 INFO       (+0.5 r0.8 claude) Charles Schwab Makes Solana, Avalanche and Chainlink Available to Trade Through Schwab Crypto™ Accounts - Busi
+09/11 14:45:46 INFO       (+0.5 r0.6 claude) Schwab adds solana, avalanche and chainlink to crypto platform - Investing.com
+09/11 14:45:49 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
+09/11 14:45:49 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
+09/11 14:45:49 INFO    Agente fermato.
