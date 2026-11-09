@@ -3995,3 +3995,12 @@
 09/11 23:30:59 INFO       (+0.5 r0.8 claude) Schwab Crypto Adds Solana, Avalanche and Chainlink Trading for Clients - CoinMarketCap
 09/11 23:30:59 INFO    -> ATTENDI: trend giornaliero non rialzista
 09/11 23:30:59 INFO    Agente fermato.
+09/11 23:45:36 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 23:45:37 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 23:45:40 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"'): uso il dizionario
+09/11 23:45:40 INFO    Prezzo 77.0500 | medie 77.1022/77.1414 trend GIU | notizie +0.20 su 81 (14 nuove, 0 da Claude) | 3.7s
+09/11 23:45:40 INFO       (+0.6 r0.6 lessico) FairClub partners with Metaplex to bring compliant governance tokens to Solana - Cryptonews.net
+09/11 23:45:40 INFO       (+0.4 r0.6 claude) Meme-Market Volume Rises 34% to $182 Million as Solana Leads - www.tokenpost.com
+09/11 23:45:40 INFO       (-0.6 r0.6 claude) Why are Bitcoin, Ethereum and Solana Price Crashing Today? - Cryptonews.net
+09/11 23:45:40 INFO    -> ATTENDI: trend giornaliero non rialzista
+09/11 23:45:40 INFO    Agente fermato.
