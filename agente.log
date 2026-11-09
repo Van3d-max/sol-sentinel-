@@ -1079,3 +1079,11 @@
 09/11 18:01:15 INFO       (+0.5 r0.9 claude) Fidelity Report: Solana Trading Volume Reaches 15% of U.S. Major Exchanges - KuCoin
 09/11 18:01:15 INFO    -> ATTENDI: trend giornaliero non rialzista
 09/11 18:01:15 INFO    Agente fermato.
+09/11 19:01:04 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+09/11 19:01:05 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 19:01:09 INFO    Prezzo 77.1900 | medie 82.4550/89.4587 trend GIU | notizie +0.14 su 84 (20 nuove, 7 da Claude) | 5.0s
+09/11 19:01:09 INFO       (+0.7 r1.0 claude) Solana: Schwab Crypto adds SOL spot trading - 09 Nov 2026 - TradingView
+09/11 19:01:09 INFO       (+0.7 r0.9 claude) Charles Schwab Opens Solana, Avalanche and Chainlink Trading to Its 40 Million Brokerage Accounts - https://ge
+09/11 19:01:09 INFO       (+0.5 r0.9 claude) Fidelity Report: Solana Trading Volume Reaches 15% of U.S. Major Exchanges - KuCoin
+09/11 19:01:09 INFO    -> ATTENDI: trend giornaliero non rialzista
+09/11 19:01:09 INFO    Agente fermato.
