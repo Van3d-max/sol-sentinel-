@@ -3691,3 +3691,14 @@
 09/11 15:15:49 INFO       ribassista: Il punteggio delle notizie è appena positivo (0,176), un titolo segnala rischi di ribasso per i deflussi dagli ETF, e il vantaggio sulle medie è minimo.
 09/11 15:15:49 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole e contrastante: il trend è solo marginalmente rialzista, le notizie sono miste con un sentiment appena positivo e manca un catalizzatore chiaro che giustifichi l'ingresso spot.
 09/11 15:15:49 INFO    Agente fermato.
+09/11 15:31:05 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 15:31:06 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 15:31:08 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+09/11 15:31:09 INFO    Prezzo 78.0800 | medie 77.6556/77.3110 trend SU | notizie +0.14 su 60 (12 nuove, 0 da Claude) | 3.3s
+09/11 15:31:09 INFO       (-0.6 r1.0 claude) Solana Price Forecast: SOL faces further downside risk as ETF outflows persist - www.tmgm.com
+09/11 15:31:09 INFO       (+0.5 r0.8 claude) Charles Schwab Makes Solana, Avalanche and Chainlink Available to Trade Through Schwab Crypto™ Accounts - Busi
+09/11 15:31:09 INFO       (+0.3 r0.8 lessico) Solana: Schwab Crypto adds SOL spot trading - 09 Nov 2026 - TradingView
+09/11 15:31:12 INFO       rialzista: Il prezzo (78,08) si trova sopra le medie mobili a 10 e 30 periodi, e il flusso di notizie su Schwab Crypto che introduce il trading spot di SOL è moderatamente positivo (+0,144).
+09/11 15:31:12 INFO       ribassista: Il margine sopra le medie è minimo, le notizie sono contrastanti con un titolo che segnala rischio di ribasso per deflussi dagli ETF, e l'ATR giornaliero di 0,40 (circa lo 0,5% del prezzo) è anomalo per SOL, quindi il dato di volatilità potrebbe essere errato.
+09/11 15:31:12 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale di trend è debole, le notizie sono contrastanti e il dato di volatilità appare inaffidabile, quindi il rischio non è giustificato dalle evidenze disponibili.
+09/11 15:31:12 INFO    Agente fermato.
