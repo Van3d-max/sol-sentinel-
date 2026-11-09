@@ -3672,3 +3672,12 @@
 09/11 14:45:49 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 09/11 14:45:49 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 09/11 14:45:49 INFO    Agente fermato.
+09/11 15:01:17 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 15:01:18 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 15:01:20 INFO    Prezzo 77.7400 | medie 77.5089/77.2200 trend SU | notizie +0.15 su 57 (8 nuove, 1 da Claude) | 3.0s
+09/11 15:01:20 INFO       (-0.6 r1.0 claude) Solana Price Forecast: SOL faces further downside risk as ETF outflows persist - www.tmgm.com
+09/11 15:01:20 INFO       (+0.5 r0.8 claude) Charles Schwab Makes Solana, Avalanche and Chainlink Available to Trade Through Schwab Crypto™ Accounts - Busi
+09/11 15:01:20 INFO       (+0.5 r0.6 claude) Schwab adds solana, avalanche and chainlink to crypto platform - Investing.com
+09/11 15:01:24 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
+09/11 15:01:24 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
+09/11 15:01:24 INFO    Agente fermato.
