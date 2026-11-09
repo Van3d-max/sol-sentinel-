@@ -3653,3 +3653,13 @@
 09/11 14:15:50 INFO       ribassista: Il punteggio delle notizie è appena positivo (0.137), con un titolo ribassista sui deflussi dagli ETF, e il prezzo è solo marginalmente sopra le medie, senza un segnale di trend chiaro.
 09/11 14:15:50 INFO    -> BLOCCATO DAL DIBATTITO: L'evidenza a favore è debole: il segnale tecnico è marginale, il sentiment è quasi neutro e le notizie sono contrastanti, quindi non giustifica l'acquisto spot.
 09/11 14:15:50 INFO    Agente fermato.
+09/11 14:31:01 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 14:31:01 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 14:31:06 INFO    Prezzo 77.4900 | medie 77.3789/77.1614 trend SU | notizie +0.14 su 57 (14 nuove, 5 da Claude) | 5.4s
+09/11 14:31:06 INFO       (-0.6 r1.0 claude) Solana Price Forecast: SOL faces further downside risk as ETF outflows persist - www.tmgm.com
+09/11 14:31:06 INFO       (+0.5 r0.6 claude) Schwab adds solana, avalanche and chainlink to crypto platform - Investing.com
+09/11 14:31:06 INFO       (+0.5 r0.6 claude) Charles Schwab adds solana, avalanche and chainlink to crypto platform - StreetInsider
+09/11 14:31:09 INFO       rialzista: Il prezzo (77,49) si trova sopra la media mobile a 10 periodi (77,38) e a 30 periodi (77,16), e l'annuncio di Schwab sull'aggiunta di SOL alla piattaforma è un possibile catalizzatore di domanda.
+09/11 14:31:09 INFO       ribassista: Il sentiment è solo leggermente positivo (0,138), il titolo sui deflussi dagli ETF segnala rischio di ribasso, la notizia Schwab compare due volte con la stessa sostanza e il prezzo è appena sopra le medie, quindi il segnale di trend è debole.
+09/11 14:31:09 INFO    -> BLOCCATO DAL DIBATTITO: Le evidenze sono deboli e contrastanti (sentiment quasi neutro, notizia Schwab duplicata, deflussi dagli ETF, prezzo di poco sopra le medie) e il dato ATR (0,3659) appare incoerente con la volatilità tipica di SOL, quindi il rischio non è adeguatamente quantificabile per un acquisto spot.
+09/11 14:31:09 INFO    Agente fermato.
