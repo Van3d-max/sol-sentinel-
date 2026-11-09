@@ -3643,3 +3643,13 @@
 09/11 14:01:18 INFO       ribassista: Il vantaggio rispetto alle medie è minimo (circa 0,2-0,3%), il punteggio notizie è quasi neutro (0,099) e un titolo segnala deflussi dagli ETF e rischi al ribasso.
 09/11 14:01:18 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è troppo debole, con prezzo appena sopra le medie e notizie contrastanti, quindi non giustifica l'ingresso con l'attuale profilo di rischio.
 09/11 14:01:18 INFO    Agente fermato.
+09/11 14:15:44 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 14:15:44 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 14:15:47 INFO    Prezzo 77.4300 | medie 77.3122/77.1505 trend SU | notizie +0.14 su 53 (12 nuove, 2 da Claude) | 3.1s
+09/11 14:15:47 INFO       (-0.6 r1.0 claude) Solana Price Forecast: SOL faces further downside risk as ETF outflows persist - www.tmgm.com
+09/11 14:15:47 INFO       (+0.5 r0.6 claude) Schwab adds solana, avalanche and chainlink to crypto platform - Investing.com
+09/11 14:15:47 INFO       (+0.5 r0.6 claude) Charles Schwab adds solana, avalanche and chainlink to crypto platform - StreetInsider
+09/11 14:15:50 INFO       rialzista: Il prezzo (77.43) è sopra le medie mobili a 10 e 30 periodi (77.31 e 77.15), e l'adozione di SOL da parte di Schwab è una notizia positiva.
+09/11 14:15:50 INFO       ribassista: Il punteggio delle notizie è appena positivo (0.137), con un titolo ribassista sui deflussi dagli ETF, e il prezzo è solo marginalmente sopra le medie, senza un segnale di trend chiaro.
+09/11 14:15:50 INFO    -> BLOCCATO DAL DIBATTITO: L'evidenza a favore è debole: il segnale tecnico è marginale, il sentiment è quasi neutro e le notizie sono contrastanti, quindi non giustifica l'acquisto spot.
+09/11 14:15:50 INFO    Agente fermato.
