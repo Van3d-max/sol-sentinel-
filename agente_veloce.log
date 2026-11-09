@@ -3277,3 +3277,12 @@
 09/11 03:45:42 INFO       (+0.2 r0.8 lessico) Solana Price Prediction: SOL Eyes $96 or $87 From the $90 Fight as AlphaPepe’s Binance Listing Rumours Fuels N
 09/11 03:45:42 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
 09/11 03:45:42 INFO    Agente fermato.
+09/11 04:01:06 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 04:01:07 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 04:01:08 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+09/11 04:01:08 INFO    Prezzo 78.4100 | medie 78.7200/78.3824 trend SU | notizie -0.19 su 22 (2 nuove, 0 da Claude) | 1.8s
+09/11 04:01:08 INFO       (-1.0 r0.8 lessico) Solana Shanghai events halted amid regulatory scrutiny - grafa.com
+09/11 04:01:08 INFO       (-0.6 r0.8 claude) XRP and Solana Hit 30-Day Lows: XRP Needs 216% to Reach Record - JournalArta
+09/11 04:01:08 INFO       (+0.6 r0.9 claude) Fidelity Says Solana Now Accounts for 15% of Major US Exchange Trades - BigGo Finance
+09/11 04:01:08 INFO    -> ATTENDI: notizia shock: Solana Shanghai events halted amid regulatory scrutiny - grafa.com
+09/11 04:01:08 INFO    Agente fermato.
