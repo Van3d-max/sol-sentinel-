@@ -949,3 +949,12 @@
 09/11 05:01:02 INFO       (-0.6 r1.0 claude) Solana Price Breaks Below Third Downside Target, Eyes $82–$86 Zone - KuCoin
 09/11 05:01:02 INFO    -> ATTENDI: trend giornaliero non rialzista
 09/11 05:01:02 INFO    Agente fermato.
+09/11 06:01:01 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+09/11 06:01:01 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 06:01:02 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{'): uso il dizionario
+09/11 06:01:03 INFO    Prezzo 77.6300 | medie 82.4550/89.4587 trend GIU | notizie -0.08 su 39 (1 nuove, 0 da Claude) | 2.0s
+09/11 06:01:03 INFO       (+0.5 r0.9 claude) Fidelity Says Solana Now Accounts for 15% of Major US Exchange Trades - BigGo Finance
+09/11 06:01:03 INFO       (-0.4 r0.6 claude) Solana Shanghai events halted amid regulatory scrutiny - grafa.com
+09/11 06:01:03 INFO       (-0.6 r1.0 claude) Solana Price Breaks Below Third Downside Target, Eyes $82–$86 Zone - KuCoin
+09/11 06:01:03 INFO    -> ATTENDI: trend giornaliero non rialzista
+09/11 06:01:03 INFO    Agente fermato.
