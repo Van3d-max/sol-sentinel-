@@ -1054,3 +1054,11 @@
 09/11 16:00:23 INFO       (+0.5 r0.9 claude) Formation Notifies SEC of Plan for First Tokenized Securities Venue on Solana - KuCoin
 09/11 16:00:23 INFO    -> ATTENDI: trend giornaliero non rialzista
 09/11 16:00:23 INFO    Agente fermato.
+09/11 16:01:03 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+09/11 16:01:04 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 16:01:07 INFO    Prezzo 78.3300 | medie 82.4550/89.4587 trend GIU | notizie +0.13 su 72 (13 nuove, 3 da Claude) | 3.6s
+09/11 16:01:07 INFO       (+0.7 r1.0 claude) Solana: Schwab Crypto adds SOL spot trading - 09 Nov 2026 - TradingView
+09/11 16:01:07 INFO       (+0.7 r0.9 claude) Charles Schwab Opens Solana, Avalanche and Chainlink Trading to Its 40 Million Brokerage Accounts - https://ge
+09/11 16:01:07 INFO       (+0.5 r0.9 claude) Formation Notifies SEC of Plan for First Tokenized Securities Venue on Solana - KuCoin
+09/11 16:01:07 INFO    -> ATTENDI: trend giornaliero non rialzista
+09/11 16:01:07 INFO    Agente fermato.
