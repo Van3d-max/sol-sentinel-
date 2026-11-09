@@ -3846,3 +3846,12 @@
 09/11 19:15:47 INFO       (-0.7 r0.4 claude) Why are Bitcoin, Ethereum and Solana Price Crashing Today? - CoinGape
 09/11 19:15:47 INFO    -> ATTENDI: trend giornaliero non rialzista
 09/11 19:15:47 INFO    Agente fermato.
+09/11 19:30:57 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 19:30:58 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 19:31:00 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+09/11 19:31:01 INFO    Prezzo 76.9400 | medie 77.1222/77.5267 trend GIU | notizie +0.16 su 74 (9 nuove, 0 da Claude) | 3.3s
+09/11 19:31:01 INFO       (+0.6 r0.8 claude) Charles Schwab Expands Crypto Offerings with Solana, Avalanche, and Chainlink - KuCoin
+09/11 19:31:01 INFO       (-0.7 r1.0 claude) Why is Solana Price Down Today? Five-Week ETF Slide Puts $77 at Risk - The Coin Republic
+09/11 19:31:01 INFO       (-0.7 r0.4 claude) Why are Bitcoin, Ethereum and Solana Price Crashing Today? - CoinGape
+09/11 19:31:01 INFO    -> ATTENDI: trend giornaliero non rialzista
+09/11 19:31:01 INFO    Agente fermato.
