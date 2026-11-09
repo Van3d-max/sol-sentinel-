@@ -3623,3 +3623,13 @@
 09/11 13:31:04 INFO       ribassista: Il sentiment complessivo è quasi neutro (0.071), il prezzo supera le medie di appena lo 0,1-0,2% e il flusso di notizie include deflussi dagli ETF e previsioni di ulteriore ribasso.
 09/11 13:31:04 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è troppo debole, con prezzo appena sopra le medie e sentiment quasi neutro, mentre i rischi indicati dalle notizie negative non sono compensati da un vantaggio chiaro.
 09/11 13:31:04 INFO    Agente fermato.
+09/11 13:45:42 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 13:45:42 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=40, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 13:45:45 INFO    Prezzo 77.0900 | medie 77.1989/77.1538 trend SU | notizie +0.10 su 48 (9 nuove, 1 da Claude) | 2.9s
+09/11 13:45:45 INFO       (-0.6 r1.0 claude) Solana Price Forecast: SOL faces further downside risk as ETF outflows persist - www.tmgm.com
+09/11 13:45:45 INFO       (+0.5 r0.8 claude) Solana set for its first tokenized stock venue under SEC framework, listing Galaxy
+09/11 13:45:45 INFO       (+0.7 r0.6 lessico) Formation Securities to launch tokenized stock trading on Solana; check firms involved - TradingView
+09/11 13:45:47 INFO       rialzista: Il prezzo di SOL è prossimo alle medie mobili e le notizie sulla tokenizzazione di azioni su Solana sono positive, con un punteggio complessivo leggermente positivo.
+09/11 13:45:47 INFO       ribassista: Il prezzo è sotto sia la media a 10 periodi sia quella a 30 periodi, il sentiment complessivo è quasi neutro (0,095) e un titolo recente segnala ulteriori ribassi legati ai deflussi dagli ETF.
+09/11 13:45:47 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto entrambe le medie, il sentiment è quasi neutro con un titolo ribassista rilevante, e il ritmo di volatilità è troppo contenuto per giustificare un ingresso spot senza una conferma più chiara.
+09/11 13:45:47 INFO    Agente fermato.
