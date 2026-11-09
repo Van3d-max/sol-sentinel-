@@ -3339,3 +3339,11 @@
 09/11 05:30:58 INFO       (-0.6 r0.8 claude) XRP and Solana Hit 30-Day Lows: XRP Needs 216% to Reach Record - JournalArta
 09/11 05:30:58 INFO    -> ATTENDI: trend giornaliero non rialzista
 09/11 05:30:58 INFO    Agente fermato.
+09/11 05:45:38 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 05:45:39 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 05:45:39 INFO    Prezzo 77.7500 | medie 78.2589/78.4395 trend GIU | notizie -0.20 su 22 (0 nuove, 0 da Claude) | 0.5s
+09/11 05:45:39 INFO       (-0.5 r0.7 claude) Ripple (XRP) ETFs Turn Into a Ghost Town, Solana (SOL) Funds Keep Bleeding - CryptoPotato
+09/11 05:45:39 INFO       (-0.4 r0.8 claude) Solana Shanghai events halted amid regulatory scrutiny - grafa.com
+09/11 05:45:39 INFO       (-0.6 r0.8 claude) XRP and Solana Hit 30-Day Lows: XRP Needs 216% to Reach Record - JournalArta
+09/11 05:45:39 INFO    -> ATTENDI: trend giornaliero non rialzista
+09/11 05:45:39 INFO    Agente fermato.
