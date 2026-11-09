@@ -3537,3 +3537,11 @@
 09/11 11:01:16 INFO       (-0.8 r0.8 lessico) Solana proposes retiring durable nonces after the Drift hack - Crypto Briefing
 09/11 11:01:16 INFO    -> ATTENDI: notizia shock: Solana Targets Durable Nonces After $270M Drift Hack as Pump.fun Backlash Grows 
 09/11 11:01:16 INFO    Agente fermato.
+09/11 11:15:42 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 11:15:43 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 11:15:45 INFO    Prezzo 76.6900 | medie 77.0333/76.9867 trend SU | notizie -0.19 su 30 (9 nuove, 2 da Claude) | 3.1s
+09/11 11:15:45 INFO       (-0.8 r0.8 lessico) SOL news: Solana moves to scrap the transaction feature used in the $270 million Drift hack - CoinDesk
+09/11 11:15:45 INFO       (-0.8 r0.8 lessico) Solana proposes retiring durable nonces after the Drift hack - Crypto Briefing
+09/11 11:15:45 INFO       (-0.8 r0.8 lessico) Solana moves to scrap the transaction feature used in the $270 million Drift hack
+09/11 11:15:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.19)
+09/11 11:15:45 INFO    Agente fermato.
