@@ -3596,3 +3596,11 @@
 09/11 12:45:47 INFO       (-0.5 r0.9 claude) Solana remains skewed to the downside amid negative macro backdrop as US CPI looms - investingLive
 09/11 12:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista
 09/11 12:45:47 INFO    Agente fermato.
+09/11 13:01:11 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 13:01:12 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 13:01:16 INFO    Prezzo 77.4000 | medie 77.0767/77.0952 trend GIU | notizie +0.04 su 41 (12 nuove, 5 da Claude) | 4.4s
+09/11 13:01:16 INFO       (-0.6 r1.0 claude) Solana Price Forecast: SOL faces further downside risk as ETF outflows persist - www.tmgm.com
+09/11 13:01:16 INFO       (+0.5 r0.8 claude) Solana set for its first tokenized stock venue under SEC framework, listing Galaxy
+09/11 13:01:16 INFO       (-0.5 r0.9 claude) Solana remains skewed to the downside amid negative macro backdrop as US CPI looms - investingLive
+09/11 13:01:16 INFO    -> ATTENDI: trend giornaliero non rialzista
+09/11 13:01:16 INFO    Agente fermato.
