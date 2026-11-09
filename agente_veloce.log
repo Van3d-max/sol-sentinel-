@@ -3754,3 +3754,14 @@
 09/11 16:45:49 INFO       ribassista: Il prezzo (77,44) è sotto sia la media a 10 periodi (77,91) sia quella a 30 (77,55), segnale tecnico debole, e i deflussi dagli ETF pesano sul sentiment.
 09/11 16:45:49 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo sotto entrambe le medie mobili, le notizie contrastanti (incluso un titolo negativo sui deflussi ETF) e il punteggio notizie appena positivo non forniscono un'evidenza sufficiente per un acquisto spot.
 09/11 16:45:49 INFO    Agente fermato.
+09/11 17:01:18 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 17:01:19 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 17:01:25 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+09/11 17:01:26 INFO    Prezzo 77.5800 | medie 77.8622/77.5814 trend SU | notizie +0.16 su 65 (18 nuove, 0 da Claude) | 7.7s
+09/11 17:01:26 INFO       (+0.5 r0.8 lessico) Roundtable 100 holds Solana at No. 5 following Alpenglow upgrade - TheStreet
+09/11 17:01:26 INFO       (+0.5 r0.8 claude) Formation Notifies SEC of Plan for First Tokenized Securities Venue on Solana - KuCoin
+09/11 17:01:26 INFO       (+0.4 r0.9 claude) Solana of major US exchange activity by 2026: Fidelity - Crypto Briefing
+09/11 17:01:29 INFO       rialzista: Il prezzo a 77,58 è in linea con la media a 30 periodi e le notizie sono complessivamente positive (punteggio 0,158), con titoli favorevoli su Alpenglow, tokenizzazione e interesse istituzionale per Solana.
+09/11 17:01:29 INFO       ribassista: Il prezzo è sotto la media a 10 periodi (77,86), non mostra momentum al rialzo, e i titoli sono in gran parte promozionali senza un catalizzatore di prezzo chiaro.
+09/11 17:01:29 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto la media a 10 periodi, non c'è un trend rialzista confermato, il punteggio delle notizie è modesto e basato su titoli promozionali, quindi il rischio non è giustificato.
+09/11 17:01:29 INFO    Agente fermato.
