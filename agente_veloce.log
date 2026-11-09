@@ -3331,3 +3331,11 @@
 09/11 05:15:45 INFO       (+0.6 r0.9 claude) Fidelity Says Solana Now Accounts for 15% of Major US Exchange Trades - BigGo Finance
 09/11 05:15:45 INFO    -> ATTENDI: trend giornaliero non rialzista
 09/11 05:15:45 INFO    Agente fermato.
+09/11 05:30:56 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 05:30:57 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 05:30:58 INFO    Prezzo 78.0100 | medie 78.3567/78.4562 trend GIU | notizie -0.20 su 22 (3 nuove, 3 da Claude) | 1.7s
+09/11 05:30:58 INFO       (-0.5 r0.7 claude) Ripple (XRP) ETFs Turn Into a Ghost Town, Solana (SOL) Funds Keep Bleeding - CryptoPotato
+09/11 05:30:58 INFO       (-0.4 r0.8 claude) Solana Shanghai events halted amid regulatory scrutiny - grafa.com
+09/11 05:30:58 INFO       (-0.6 r0.8 claude) XRP and Solana Hit 30-Day Lows: XRP Needs 216% to Reach Record - JournalArta
+09/11 05:30:58 INFO    -> ATTENDI: trend giornaliero non rialzista
+09/11 05:30:58 INFO    Agente fermato.
