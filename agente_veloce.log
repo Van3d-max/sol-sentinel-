@@ -3774,3 +3774,13 @@
 09/11 17:15:54 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 09/11 17:15:54 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 09/11 17:15:54 INFO    Agente fermato.
+09/11 17:31:01 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 17:31:02 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 17:31:05 INFO    Prezzo 77.0300 | medie 77.7189/77.6095 trend SU | notizie +0.18 su 68 (15 nuove, 3 da Claude) | 4.0s
+09/11 17:31:05 INFO       (+0.5 r0.8 claude) Fidelity Report: Solana Trading Volume Reaches 15% of U.S. Major Exchanges - KuCoin
+09/11 17:31:05 INFO       (+0.4 r0.7 claude) Formation Securities tells SEC it plans round-the-clock tokenized stock trading on Solana - Yahoo Finance
+09/11 17:31:05 INFO       (+0.5 r0.8 claude) Formation Notifies SEC of Plan for First Tokenized Securities Venue on Solana - KuCoin
+09/11 17:31:08 INFO       rialzista: Il volume di scambi di Solana in crescita e i piani di Formation per la negoziazione di titoli tokenizzati su Solana suggeriscono un interesse istituzionale e un rafforzamento dell'ecosistema che potrebbero sostenere un rimbalzo del prezzo.
+09/11 17:31:08 INFO       ribassista: Il prezzo a 77,03 è sotto le medie mobili a 10 e 30 giorni (77,72 e 77,61), segnale di debolezza di breve termine, e le notizie sono di natura strutturale senza un catalizzatore immediato sul prezzo.
+09/11 17:31:08 INFO    -> BLOCCATO DAL DIBATTITO: Le notizie positive non sono sufficienti a compensare il trend ribassista di breve periodo con il prezzo sotto entrambe le medie mobili, quindi la conferma tecnica è debole per un acquisto spot.
+09/11 17:31:08 INFO    Agente fermato.
