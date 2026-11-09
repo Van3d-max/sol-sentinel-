@@ -3702,3 +3702,14 @@
 09/11 15:31:12 INFO       ribassista: Il margine sopra le medie è minimo, le notizie sono contrastanti con un titolo che segnala rischio di ribasso per deflussi dagli ETF, e l'ATR giornaliero di 0,40 (circa lo 0,5% del prezzo) è anomalo per SOL, quindi il dato di volatilità potrebbe essere errato.
 09/11 15:31:12 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale di trend è debole, le notizie sono contrastanti e il dato di volatilità appare inaffidabile, quindi il rischio non è giustificato dalle evidenze disponibili.
 09/11 15:31:12 INFO    Agente fermato.
+09/11 15:45:44 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+09/11 15:45:44 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+09/11 15:45:48 INFO    Claude non disponibile (ValueError: risposta non leggibile: '['): uso il dizionario
+09/11 15:45:48 INFO    Prezzo 78.3700 | medie 77.7556/77.3771 trend SU | notizie +0.15 su 61 (13 nuove, 0 da Claude) | 4.1s
+09/11 15:45:48 INFO       (-0.6 r1.0 claude) Solana Price Forecast: SOL faces further downside risk as ETF outflows persist - www.tmgm.com
+09/11 15:45:48 INFO       (+0.5 r0.8 claude) Charles Schwab Makes Solana, Avalanche and Chainlink Available to Trade Through Schwab Crypto™ Accounts - Busi
+09/11 15:45:48 INFO       (+0.3 r0.8 lessico) Solana: Schwab Crypto adds SOL spot trading - 09 Nov 2026 - TradingView
+09/11 15:45:51 INFO       rialzista: Il prezzo (78,37) è sopra la media mobile a 10 periodi (77,76) e a 30 periodi (77,38), e l'adesione di Schwab al trading spot di SOL è un potenziale catalizzatore di domanda.
+09/11 15:45:51 INFO       ribassista: Il sentiment complessivo è appena positivo (0,151), il titolo sta solo a circa lo 0,8% sopra la media a 10 periodi, e i deflussi dagli ETF segnalano pressione di vendita persistente.
+09/11 15:45:51 INFO    -> BLOCCATO DAL DIBATTITO: Il vantaggio tecnico è marginale, i segnali di notizie sono contrastanti (deflussi ETF contro l'adesione di Schwab) e il sentiment complessivo è debole, quindi non c'è un'evidenza sufficiente per giustificare un acquisto spot.
+09/11 15:45:51 INFO    Agente fermato.
