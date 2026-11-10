@@ -4801,3 +4801,11 @@
 10/11 21:15:46 INFO       ribassista: SOL ha perso il 23% in 30 giorni, ha toccato un minimo di quattro settimane e il sentiment delle notizie è sostanzialmente neutro (0,014), quindi il segnale di trend è debole.
 10/11 21:15:46 INFO    -> BLOCCATO DAL DIBATTITO: Il vantaggio rispetto alle medie è minimo (circa lo 0,4%), il sentiment è neutro e il trend mensile resta negativo, per cui le prove a favore dell'acquisto sono troppo deboli per giustificare l'ingresso.
 10/11 21:15:46 INFO    Agente fermato.
+10/11 21:30:56 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 21:31:06 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=errore: HTTPError
+10/11 21:31:06 INFO    Prezzo 74.7300 | medie 74.4100/74.1062 trend SU | notizie +0.07 su 2 (0 nuove, 0 da Claude) | 10.2s
+10/11 21:31:06 INFO       (+0.2 r0.7 claude) Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius
+10/11 21:31:06 INFO       (+0.2 r0.6 claude) Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio
+10/11 21:31:10 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
+10/11 21:31:10 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
+10/11 21:31:10 INFO    Agente fermato.
