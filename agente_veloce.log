@@ -4865,3 +4865,11 @@
 10/11 22:45:43 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 10/11 22:45:43 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 10/11 22:45:43 INFO    Agente fermato.
+10/11 23:01:08 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 23:01:08 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 23:01:10 INFO    Prezzo 74.0800 | medie 74.5489/74.3362 trend SU | notizie -0.02 su 51 (3 nuove, 1 da Claude) | 2.0s
+10/11 23:01:10 INFO       (+0.5 r0.9 claude) Solana Tokenized Stock Volume Surges, 'Token Super Cycle' Coming, Backpack CEO Says - Benzinga
+10/11 23:01:10 INFO       (-0.6 r0.9 claude) China takes action against Solana after an event went wrong in Shanghai - Cointribune
+10/11 23:01:10 INFO       (-0.4 r0.7 claude) Solana Price News Today: SOL Below $90 as Remittix Earn Reports $1.7M TVL in Its First Five Days - TechBullion
+10/11 23:01:10 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)
+10/11 23:01:10 INFO    Agente fermato.
