@@ -4759,3 +4759,14 @@
 10/11 20:15:50 INFO       ribassista: SOL ha perso circa il 23% in 30 giorni e tocca un minimo di quattro settimane, mentre il vantaggio sulle medie mobili è minimo (circa 0.6%) e i segnali di notizie sono contrastanti, quindi non c'è conferma di una vera inversione.
 10/11 20:15:50 INFO    -> BLOCCATO DAL DIBATTITO: Le prove a favore dell'acquisto sono deboli: il prezzo supera le medie solo di poco, il sentiment è neutro e il trend mensile è fortemente negativo, quindi il rischio di un ulteriore ribasso supera il potenziale di guadagno.
 10/11 20:15:50 INFO    Agente fermato.
+10/11 20:30:57 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 20:30:58 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=102
+10/11 20:31:00 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 20:31:00 INFO    Prezzo 74.6100 | medie 74.2311/73.9695 trend SU | notizie +0.01 su 49 (7 nuove, 0 da Claude) | 2.7s
+10/11 20:31:00 INFO       (+0.7 r0.8 lessico) Bundled Buys on Solana: How to Spot Insider Token Launches - FinanceFeeds
+10/11 20:31:00 INFO       (-0.6 r1.0 claude) Solana Hits Four-Week Low as Losses Outpace Bitcoin - The Defiant
+10/11 20:31:00 INFO       (-0.4 r0.9 claude) Ethereum Is Down 17% and Solana 23% in 30 Days. How Low Can Each Go? - 24/7 Wall St.
+10/11 20:31:03 INFO       rialzista: Il prezzo (74,61) si trova sopra le medie mobili a 10 e 30 giorni, segnale di un possibile inizio di recupero, e la volatilità giornaliera contenuta (ATR 0,46) limita il rischio di movimenti bruschi.
+10/11 20:31:03 INFO       ribassista: Il titolo ha perso circa il 23% in 30 giorni, tocca un minimo di quattro settimane, il sentiment delle notizie è neutro (0,015) e il vantaggio sulle medie è minimo, quindi il trend resta debole.
+10/11 20:31:03 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale rialzista è troppo debole: il prezzo supera le medie solo di poco, il sentiment è sostanzialmente neutro e il contesto di 30 giorni resta fortemente negativo, quindi l'acquisto spot non è giustificato dalle evidenze disponibili.
+10/11 20:31:03 INFO    Agente fermato.
