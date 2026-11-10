@@ -4567,3 +4567,12 @@
 10/11 14:45:48 INFO       (-0.6 r0.9 claude) Solana Price Analysis: $26M Exchange Deposits Deepen SOL’s Bearish Outlook - Coinpedia
 10/11 14:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista
 10/11 14:45:48 INFO    Agente fermato.
+10/11 15:01:16 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 15:01:16 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 15:01:17 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 15:01:18 INFO    Prezzo 75.8600 | medie 75.2733/75.4286 trend GIU | notizie -0.06 su 68 (4 nuove, 0 da Claude) | 2.1s
+10/11 15:01:18 INFO       (-0.6 r1.0 claude) Solana Price Prediction: Bearish Breakout Below $80 Could Put an End to SOL’s Bull Run - FXEmpire
+10/11 15:01:18 INFO       (-0.6 r1.0 claude) Solana Price Below $84.44 Signals Bearish Setup - The Cryptonomist
+10/11 15:01:18 INFO       (-0.6 r0.9 claude) Solana Price Analysis: $26M Exchange Deposits Deepen SOL’s Bearish Outlook - Coinpedia
+10/11 15:01:18 INFO    -> ATTENDI: trend giornaliero non rialzista
+10/11 15:01:18 INFO    Agente fermato.
