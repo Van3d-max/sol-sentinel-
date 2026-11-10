@@ -4780,3 +4780,13 @@
 10/11 20:45:47 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 10/11 20:45:47 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 10/11 20:45:47 INFO    Agente fermato.
+10/11 21:01:09 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 21:01:09 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 21:01:11 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 21:01:12 INFO    Prezzo 74.6200 | medie 74.2878/74.0190 trend SU | notizie +0.01 su 48 (8 nuove, 0 da Claude) | 2.9s
+10/11 21:01:12 INFO       (+0.7 r0.8 lessico) Bundled Buys on Solana: How to Spot Insider Token Launches - FinanceFeeds
+10/11 21:01:12 INFO       (-0.6 r1.0 claude) Solana Hits Four-Week Low as Losses Outpace Bitcoin - The Defiant
+10/11 21:01:12 INFO       (-0.4 r0.9 claude) Ethereum Is Down 17% and Solana 23% in 30 Days. How Low Can Each Go? - 24/7 Wall St.
+10/11 21:01:15 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
+10/11 21:01:15 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
+10/11 21:01:15 INFO    Agente fermato.
