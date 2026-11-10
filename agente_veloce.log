@@ -4827,3 +4827,14 @@
 10/11 21:57:39 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 10/11 21:57:39 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 10/11 21:57:39 INFO    Agente fermato.
+10/11 22:01:07 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 22:01:08 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 22:01:09 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 22:01:09 INFO    Prezzo 74.6300 | medie 74.5622/74.1938 trend SU | notizie +0.00 su 48 (2 nuove, 0 da Claude) | 1.7s
+10/11 22:01:09 INFO       (+0.5 r0.8 lessico) Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low - The Block
+10/11 22:01:09 INFO       (-0.6 r0.9 claude) China takes action against Solana after an event went wrong in Shanghai - Cointribune
+10/11 22:01:09 INFO       (-0.6 r1.0 claude) Solana Hits Four-Week Low as Losses Outpace Bitcoin - The Defiant
+10/11 22:01:12 INFO       rialzista: Il prezzo (74.63) è sopra le medie mobili a 10 e 30 periodi (74.56 e 74.19), indicando un lieve trend positivo, e la treasury di Forward Industries è salita a 8,7 milioni di SOL.
+10/11 22:01:12 INFO       ribassista: Il punteggio delle notizie è sostanzialmente neutro (0.001), con due titoli negativi su tre (minimo di quattro settimane rispetto a Bitcoin e l'azione cinese contro Solana), e il segnale di trend è troppo debole per giustificare l'ingresso.
+10/11 22:01:12 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è marginale (prezzo appena sopra le medie con ATR di circa lo 0,5%), il sentiment è neutro-negativo e le notizie recenti non offrono evidenze sufficienti per un acquisto spot non coperto.
+10/11 22:01:12 INFO    Agente fermato.
