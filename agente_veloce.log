@@ -4045,3 +4045,11 @@
 10/11 00:45:45 INFO       ribassista: Il prezzo (77,02) è sotto sia la media a 10 periodi (77,16) sia quella a 30 (77,14), il sentiment è appena positivo (0,2) e la notizia sullo sfruttamento da 270 milioni di dollari pesa sulla fiducia nel protocollo.
 10/11 00:45:45 INFO    -> BLOCCATO DAL DIBATTITO: Il trend è debole con prezzo sotto entrambe le medie mobili, il sentiment è solo leggermente positivo con un evento di sicurezza negativo, e le prove non bastano a giustificare un acquisto spot.
 10/11 00:45:45 INFO    Agente fermato.
+10/11 01:01:11 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 01:01:11 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 01:01:14 INFO    Prezzo 77.1700 | medie 77.1200/77.1229 trend GIU | notizie +0.20 su 83 (10 nuove, 1 da Claude) | 3.0s
+10/11 01:01:14 INFO       (+0.6 r0.8 claude) Charles Schwab adds Solana, Avalanche and Chainlink trading to Schwab Crypto; XRP still excluded - 디지털투데이
+10/11 01:01:14 INFO       (+0.4 r0.8 claude) Formation Securities Plans Tokenized Stock Venue on Solana - Yahoo Finance
+10/11 01:01:14 INFO       (-0.3 r0.9 claude) Solana weighs cutting feature exploited in $270m DeFi hack - Tech in Asia
+10/11 01:01:14 INFO    -> ATTENDI: trend giornaliero non rialzista
+10/11 01:01:14 INFO    Agente fermato.
