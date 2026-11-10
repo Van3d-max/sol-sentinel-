@@ -4301,3 +4301,14 @@
 10/11 07:31:06 INFO       ribassista: Deflussi per 170 milioni di dollari dagli ETF su SOL indicano uscite di capitale recenti, e il prezzo è appena sopra le medie con un ATR contenuto che lascia poco margine di conferma del trend.
 10/11 07:31:06 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è marginale (prezzo a circa lo 0,25% sopra la media a 10 periodi), il sentiment è neutro (0,1) con notizie contrastanti e i deflussi dagli ETF pesano contro una posizione spot non coperta, quindi le prove non giustificano l'acquisto.
 10/11 07:31:06 INFO    Agente fermato.
+10/11 07:45:43 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 07:45:43 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 07:45:46 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 07:45:46 INFO    Prezzo 76.7200 | medie 76.6378/76.5824 trend SU | notizie +0.10 su 80 (7 nuove, 0 da Claude) | 3.2s
+10/11 07:45:46 INFO       (-0.6 r0.9 claude) Solana (SOL) Price Prediction: Funds Pull $170M From SOL ETFs, While Pepeto’s Listing Setup Draws New Buyers -
+10/11 07:45:46 INFO       (+0.5 r1.0 claude) Why Fidelity calls Solana ‘an emerging piece of financial market infrastructure’ - AMBCrypto
+10/11 07:45:46 INFO       (+0.6 r0.8 claude) Charles Schwab adds Solana, Avalanche and Chainlink trading to Schwab Crypto; XRP still excluded - 디지털투데이
+10/11 07:45:50 INFO       rialzista: Il prezzo (76,72) si colloca sopra le medie mobili a 10 e 30 periodi e le notizie sull'integrazione istituzionale di Fidelity e Schwab sono positive.
+10/11 07:45:50 INFO       ribassista: Le uscite da 170 milioni di dollari dagli ETF su SOL, la media delle notizie quasi neutra (0,099) e il prezzo praticamente piatto sulle medie indicano assenza di trend e domanda debole.
+10/11 07:45:50 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è appena sopra medie quasi coincidenti, il sentiment è neutro con deflussi dagli ETF, e l'ATR giornaliero di 0,2496 (circa lo 0,3%) appare anomalo per SOL e suggerisce dati da verificare prima di esporre capitale.
+10/11 07:45:50 INFO    Agente fermato.
