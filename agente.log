@@ -1131,3 +1131,12 @@
 10/11 00:01:11 INFO       (+0.5 r0.8 claude) Meme-Market Volume Rises 34% to $182 Million as Solana Leads - www.tokenpost.com
 10/11 00:01:11 INFO    -> ATTENDI: trend giornaliero non rialzista
 10/11 00:01:11 INFO    Agente fermato.
+10/11 00:08:54 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+10/11 00:08:55 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 00:08:59 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 00:09:00 INFO    Prezzo 77.2400 | medie 81.5540/88.7570 trend GIU | notizie +0.18 su 93 (21 nuove, 5 da Claude) | 5.2s
+10/11 00:09:00 INFO       (+0.7 r0.8 claude) Charles Schwab adds Solana, Avalanche and Chainlink trading to Schwab Crypto; XRP still excluded - 디지털투데이
+10/11 00:09:00 INFO       (-0.7 r1.0 claude) Why is Solana Price Down Today? Five-Week ETF Slide Puts $77 at Risk - The Coin Republic
+10/11 00:09:00 INFO       (+0.6 r0.9 claude) Schwab Crypto Adds Solana, Avalanche and Chainlink, Expanding Offering to Five Assets - Finance Magnates
+10/11 00:09:00 INFO    -> ATTENDI: trend giornaliero non rialzista
+10/11 00:09:00 INFO    Agente fermato.
