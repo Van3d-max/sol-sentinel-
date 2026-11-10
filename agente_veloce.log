@@ -4004,3 +4004,13 @@
 09/11 23:45:40 INFO       (-0.6 r0.6 claude) Why are Bitcoin, Ethereum and Solana Price Crashing Today? - Cryptonews.net
 09/11 23:45:40 INFO    -> ATTENDI: trend giornaliero non rialzista
 09/11 23:45:40 INFO    Agente fermato.
+10/11 00:01:11 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 00:01:11 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 00:01:14 INFO    Prezzo 77.2100 | medie 77.1433/77.1390 trend SU | notizie +0.23 su 82 (15 nuove, 5 da Claude) | 3.8s
+10/11 00:01:14 INFO       (+0.6 r0.8 claude) Charles Schwab adds Solana, Avalanche and Chainlink trading to Schwab Crypto; XRP still excluded - 디지털투데이
+10/11 00:01:14 INFO       (+0.4 r0.6 claude) Meme-Market Volume Rises 34% to $182 Million as Solana Leads - www.tokenpost.com
+10/11 00:01:14 INFO       (-0.6 r0.6 claude) Why are Bitcoin, Ethereum and Solana Price Crashing Today? - Cryptonews.net
+10/11 00:01:18 INFO       rialzista: Il prezzo (77,21) è sopra le medie mobili a 10 e 30 periodi, e le notizie positive, come l'adozione di SOL da parte di Charles Schwab e il volume meme in crescita del 34%, suggeriscono interesse istituzionale e di mercato.
+10/11 00:01:18 INFO       ribassista: Il prezzo supera le medie di appena lo 0,07% e il punteggio notizie (0,226) è debole e contrastato da un titolo sul crollo di SOL, quindi non c'è un segnale di trend chiaro.
+10/11 00:01:18 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è appena sopra medie quasi identiche, le notizie sono contrastanti e l'ATR molto basso non offre un quadro di rischio affidabile per giustificare un acquisto spot.
+10/11 00:01:18 INFO    Agente fermato.
