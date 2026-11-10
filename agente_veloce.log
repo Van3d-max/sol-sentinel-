@@ -4883,3 +4883,13 @@
 10/11 23:15:45 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 10/11 23:15:45 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 10/11 23:15:45 INFO    Agente fermato.
+10/11 23:30:56 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 23:30:56 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 23:30:58 INFO    Prezzo 74.3100 | medie 74.4556/74.3786 trend SU | notizie +0.09 su 50 (5 nuove, 2 da Claude) | 2.3s
+10/11 23:30:58 INFO       (+0.6 r0.9 claude) Forward Industries Adds 226,000 Solana, Raising Holdings to 8.7 Million SOL - bloomingbit
+10/11 23:30:58 INFO       (+0.5 r0.9 claude) Solana Tokenized Stock Volume Surges, 'Token Super Cycle' Coming, Backpack CEO Says - Benzinga
+10/11 23:30:58 INFO       (-0.6 r0.9 claude) China takes action against Solana after an event went wrong in Shanghai - Cointribune
+10/11 23:31:01 INFO       rialzista: Le notizie sul trasferimento di SOL da parte di Forward Industries e sul volume crescente degli asset tokenizzati suggeriscono un interesse istituzionale e una possibile spinta del prezzo.
+10/11 23:31:01 INFO       ribassista: Il prezzo (74,31) è sotto sia la media a 10 periodi (74,46) sia quella a 30 periodi (74,38), la notizia negativa su Cina e Shanghai pesa e il punteggio complessivo delle notizie è quasi neutro (0,091).
+10/11 23:31:01 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto entrambe le medie mobili, il sentiment è quasi neutro con titoli contrastanti (inclusa una notizia regolatoria negativa dalla Cina), quindi il rischio non è giustificato dall'evidenza disponibile.
+10/11 23:31:01 INFO    Agente fermato.
