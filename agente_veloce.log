@@ -4432,3 +4432,12 @@
 10/11 10:45:45 INFO       (+0.5 r1.0 claude) Why Fidelity calls Solana ‘an emerging piece of financial market infrastructure’ - AMBCrypto
 10/11 10:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista
 10/11 10:45:45 INFO    Agente fermato.
+10/11 11:01:13 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 11:01:13 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 11:01:15 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 11:01:15 INFO    Prezzo 75.0900 | medie 75.8589/76.2310 trend GIU | notizie +0.10 su 78 (9 nuove, 0 da Claude) | 2.8s
+10/11 11:01:15 INFO       (+0.3 r0.8 lessico) Schwab adds Solana, Avalanche and Chainlink as crypto trading slows
+10/11 11:01:15 INFO       (+0.3 r0.8 lessico) Schwab adds Solana, Avalanche and Chainlink as crypto trading slows - CryptoSlate
+10/11 11:01:15 INFO       (-0.6 r0.9 claude) Solana (SOL) Price Prediction: Funds Pull $170M From SOL ETFs, While Pepeto’s Listing Setup Draws New Buyers -
+10/11 11:01:15 INFO    -> ATTENDI: trend giornaliero non rialzista
+10/11 11:01:15 INFO    Agente fermato.
