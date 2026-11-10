@@ -4321,3 +4321,14 @@
 10/11 08:01:19 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 10/11 08:01:19 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 10/11 08:01:19 INFO    Agente fermato.
+10/11 08:15:45 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 08:15:46 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 08:15:48 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 08:15:48 INFO    Prezzo 76.4200 | medie 76.5622/76.5590 trend SU | notizie +0.05 su 81 (6 nuove, 0 da Claude) | 2.4s
+10/11 08:15:48 INFO       (-0.6 r0.9 claude) Solana (SOL) Price Prediction: Funds Pull $170M From SOL ETFs, While Pepeto’s Listing Setup Draws New Buyers -
+10/11 08:15:48 INFO       (-0.3 r0.9 claude) Solana Foundation Tightens SFDP Rules, Ends Validator Support After 12 Months or 300,000 SOL - bloomingbit
+10/11 08:15:48 INFO       (+0.5 r1.0 claude) Why Fidelity calls Solana ‘an emerging piece of financial market infrastructure’ - AMBCrypto
+10/11 08:15:50 INFO       rialzista: Il prezzo è vicino alle medie mobili a 10 e 30 periodi e il flusso di notizie più recente include un giudizio istituzionale positivo di Fidelity sull'infrastruttura di Solana.
+10/11 08:15:50 INFO       ribassista: Il prezzo resta sotto entrambe le medie mobili, il punteggio delle notizie è quasi neutro (0,046) e i deflussi da 170 milioni di dollari dagli ETF su SOL insieme alla stretta sul programma validatori pesano negativamente.
+10/11 08:15:50 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto le medie, il sentiment è sostanzialmente neutro con forti notizie negative sui flussi ETF, e senza un catalizzatore chiaro non si giustifica l'esposizione spot.
+10/11 08:15:50 INFO    Agente fermato.
