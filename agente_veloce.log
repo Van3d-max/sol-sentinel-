@@ -4228,3 +4228,12 @@
 10/11 05:45:45 INFO       (+0.6 r0.8 claude) Charles Schwab adds Solana, Avalanche and Chainlink trading to Schwab Crypto; XRP still excluded - 디지털투데이
 10/11 05:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista
 10/11 05:45:45 INFO    Agente fermato.
+10/11 06:01:10 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 06:01:10 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 06:01:12 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 06:01:13 INFO    Prezzo 76.7300 | medie 76.6111/76.6733 trend GIU | notizie +0.12 su 86 (10 nuove, 0 da Claude) | 3.2s
+10/11 06:01:13 INFO       (-0.6 r0.9 claude) Solana (SOL) Price Prediction: Funds Pull $170M From SOL ETFs, While Pepeto’s Listing Setup Draws New Buyers -
+10/11 06:01:13 INFO       (+0.5 r1.0 claude) Why Fidelity calls Solana ‘an emerging piece of financial market infrastructure’ - AMBCrypto
+10/11 06:01:13 INFO       (+0.6 r0.8 claude) Charles Schwab adds Solana, Avalanche and Chainlink trading to Schwab Crypto; XRP still excluded - 디지털투데이
+10/11 06:01:13 INFO    -> ATTENDI: trend giornaliero non rialzista
+10/11 06:01:13 INFO    Agente fermato.
