@@ -1340,3 +1340,11 @@
 10/11 22:01:05 INFO       (+0.5 r0.8 lessico) ORE: ORE integrates Solana Privacy Rings from Helius - 10 Nov 2026 - TradingView
 10/11 22:01:05 INFO    -> ATTENDI: trend giornaliero non rialzista
 10/11 22:01:05 INFO    Agente fermato.
+10/11 22:16:54 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+10/11 22:16:54 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 22:16:57 INFO    Prezzo 74.7200 | medie 81.5540/88.7570 trend GIU | notizie +0.01 su 100 (10 nuove, 3 da Claude) | 3.0s
+10/11 22:16:57 INFO       (-0.5 r0.9 claude) Solana Hovers Near $84 Support After a Grim LiteFinance Outlook, While Analysts Eye a New AI Trading App - Fin
+10/11 22:16:57 INFO       (-0.7 r1.0 claude) Solana Hits Four-Week Low as Losses Outpace Bitcoin - The Defiant
+10/11 22:16:57 INFO       (+0.5 r0.8 lessico) ORE: ORE integrates Solana Privacy Rings from Helius - 10 Nov 2026 - TradingView
+10/11 22:16:57 INFO    -> ATTENDI: trend giornaliero non rialzista
+10/11 22:16:57 INFO    Agente fermato.
