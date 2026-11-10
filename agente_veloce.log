@@ -4332,3 +4332,14 @@
 10/11 08:15:50 INFO       ribassista: Il prezzo resta sotto entrambe le medie mobili, il punteggio delle notizie è quasi neutro (0,046) e i deflussi da 170 milioni di dollari dagli ETF su SOL insieme alla stretta sul programma validatori pesano negativamente.
 10/11 08:15:50 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto le medie, il sentiment è sostanzialmente neutro con forti notizie negative sui flussi ETF, e senza un catalizzatore chiaro non si giustifica l'esposizione spot.
 10/11 08:15:50 INFO    Agente fermato.
+10/11 08:24:02 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 08:24:02 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 08:24:04 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 08:24:04 INFO    Prezzo 76.1100 | medie 76.5622/76.5590 trend SU | notizie +0.05 su 80 (6 nuove, 0 da Claude) | 2.4s
+10/11 08:24:04 INFO       (-0.6 r0.9 claude) Solana (SOL) Price Prediction: Funds Pull $170M From SOL ETFs, While Pepeto’s Listing Setup Draws New Buyers -
+10/11 08:24:04 INFO       (-0.3 r0.9 claude) Solana Foundation Tightens SFDP Rules, Ends Validator Support After 12 Months or 300,000 SOL - bloomingbit
+10/11 08:24:04 INFO       (+0.5 r1.0 claude) Why Fidelity calls Solana ‘an emerging piece of financial market infrastructure’ - AMBCrypto
+10/11 08:24:07 INFO       rialzista: Il prezzo (76,11) è vicino alle medie mobili e il giudizio di Fidelity sulla Solana come infrastruttura di mercato emergente supporta una prospettiva di crescita di lungo periodo.
+10/11 08:24:07 INFO       ribassista: Il prezzo è sotto entrambe le medie mobili (10 e 30 periodi, circa 76,56), il punteggio delle notizie è quasi neutro (0,046) e i deflussi di 170 milioni di dollari dagli ETF su SOL indicano pressione di vendita.
+10/11 08:24:07 INFO    -> BLOCCATO DAL DIBATTITO: I segnali sono contrastanti e deboli (prezzo sotto le medie, notizie quasi neutre, deflussi dagli ETF e restrizioni al supporto dei validatori), quindi il rischio di un acquisto spot senza copertura non è giustificato.
+10/11 08:24:07 INFO    Agente fermato.
