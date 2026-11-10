@@ -4062,3 +4062,11 @@
 10/11 01:04:32 INFO       (-0.3 r0.9 claude) Solana weighs cutting feature exploited in $270m DeFi hack - Tech in Asia
 10/11 01:04:32 INFO    -> ATTENDI: trend giornaliero non rialzista
 10/11 01:04:32 INFO    Agente fermato.
+10/11 01:15:39 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 01:15:40 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 01:15:42 INFO    Prezzo 77.0500 | medie 77.1000/77.1271 trend GIU | notizie +0.23 su 83 (10 nuove, 1 da Claude) | 3.1s
+10/11 01:15:43 INFO       (+0.5 r1.0 claude) Why Fidelity calls Solana ‘an emerging piece of financial market infrastructure’ - AMBCrypto
+10/11 01:15:43 INFO       (+0.6 r0.8 claude) Charles Schwab adds Solana, Avalanche and Chainlink trading to Schwab Crypto; XRP still excluded - 디지털투데이
+10/11 01:15:43 INFO       (+0.4 r0.8 claude) Formation Securities Plans Tokenized Stock Venue on Solana - Yahoo Finance
+10/11 01:15:43 INFO    -> ATTENDI: trend giornaliero non rialzista
+10/11 01:15:43 INFO    Agente fermato.
