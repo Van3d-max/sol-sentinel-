@@ -4770,3 +4770,13 @@
 10/11 20:31:03 INFO       ribassista: Il titolo ha perso circa il 23% in 30 giorni, tocca un minimo di quattro settimane, il sentiment delle notizie è neutro (0,015) e il vantaggio sulle medie è minimo, quindi il trend resta debole.
 10/11 20:31:03 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale rialzista è troppo debole: il prezzo supera le medie solo di poco, il sentiment è sostanzialmente neutro e il contesto di 30 giorni resta fortemente negativo, quindi l'acquisto spot non è giustificato dalle evidenze disponibili.
 10/11 20:31:03 INFO    Agente fermato.
+10/11 20:45:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 20:45:41 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 20:45:43 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 20:45:43 INFO    Prezzo 74.5300 | medie 74.2722/73.9552 trend SU | notizie +0.02 su 49 (7 nuove, 0 da Claude) | 3.0s
+10/11 20:45:43 INFO       (+0.7 r0.8 lessico) Bundled Buys on Solana: How to Spot Insider Token Launches - FinanceFeeds
+10/11 20:45:43 INFO       (-0.6 r1.0 claude) Solana Hits Four-Week Low as Losses Outpace Bitcoin - The Defiant
+10/11 20:45:43 INFO       (-0.4 r0.9 claude) Ethereum Is Down 17% and Solana 23% in 30 Days. How Low Can Each Go? - 24/7 Wall St.
+10/11 20:45:47 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
+10/11 20:45:47 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
+10/11 20:45:47 INFO    Agente fermato.
