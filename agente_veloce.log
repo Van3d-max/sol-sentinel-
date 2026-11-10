@@ -4176,3 +4176,12 @@
 10/11 04:15:45 INFO       (+0.4 r0.7 claude) Schroders Emerging-Market Bond Strategy Moves Onto Solana Through Centrifuge - TradingView
 10/11 04:15:45 INFO    -> ATTENDI: trend giornaliero non rialzista
 10/11 04:15:45 INFO    Agente fermato.
+10/11 04:30:55 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 04:30:56 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 04:30:59 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r'): uso il dizionario
+10/11 04:30:59 INFO    Prezzo 76.7400 | medie 76.5233/76.8033 trend GIU | notizie +0.19 su 85 (12 nuove, 0 da Claude) | 3.5s
+10/11 04:30:59 INFO       (+0.5 r1.0 claude) Why Fidelity calls Solana ‘an emerging piece of financial market infrastructure’ - AMBCrypto
+10/11 04:30:59 INFO       (+0.2 r0.8 lessico) Solana (SOL) Price Prediction: Funds Pull $170M From SOL ETFs, While Pepeto’s Listing Setup Draws New Buyers -
+10/11 04:30:59 INFO       (+0.6 r0.8 claude) Charles Schwab adds Solana, Avalanche and Chainlink trading to Schwab Crypto; XRP still excluded - 디지털투데이
+10/11 04:30:59 INFO    -> ATTENDI: trend giornaliero non rialzista
+10/11 04:30:59 INFO    Agente fermato.
