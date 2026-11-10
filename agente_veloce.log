@@ -4025,3 +4025,13 @@
 10/11 00:15:46 INFO       ribassista: Il prezzo è praticamente fermo sulle medie mobili senza un trend chiaro, l'ATR giornaliero di 0,27 è anomalo per SOL e suggerisce dati poco affidabili o mercato piatto, e il titolo sul crollo di SOL segnala rischio di ribasso.
 10/11 00:15:46 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo non mostra un trend definito rispetto alle medie, le notizie sono contrastanti (un crollo recente contro catalizzatori positivi) e i dati di volatilità appaiono incoerenti, quindi il rischio non è giustificato per un acquisto spot.
 10/11 00:15:46 INFO    Agente fermato.
+10/11 00:30:56 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 00:30:57 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 00:30:59 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 00:31:00 INFO    Prezzo 76.9900 | medie 77.1733/77.1343 trend SU | notizie +0.23 su 83 (11 nuove, 0 da Claude) | 3.2s
+10/11 00:31:00 INFO       (+0.6 r0.8 claude) Charles Schwab adds Solana, Avalanche and Chainlink trading to Schwab Crypto; XRP still excluded - 디지털투데이
+10/11 00:31:00 INFO       (+0.3 r0.6 lessico) Formation Securities Plans Tokenized Stock Venue on Solana - Yahoo Finance
+10/11 00:31:00 INFO       (+0.4 r0.6 claude) Meme-Market Volume Rises 34% to $182 Million as Solana Leads - www.tokenpost.com
+10/11 00:31:03 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
+10/11 00:31:03 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
+10/11 00:31:03 INFO    Agente fermato.
