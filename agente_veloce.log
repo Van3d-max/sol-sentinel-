@@ -4712,3 +4712,12 @@
 10/11 19:01:19 INFO       (-0.4 r0.9 claude) Ethereum Is Down 17% and Solana 23% in 30 Days. How Low Can Each Go? - 24/7 Wall St.
 10/11 19:01:19 INFO    -> ATTENDI: trend giornaliero non rialzista
 10/11 19:01:19 INFO    Agente fermato.
+10/11 19:15:42 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 19:15:43 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=102
+10/11 19:15:44 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 19:15:44 INFO    Prezzo 74.1000 | medie 73.9611/74.2157 trend GIU | notizie +0.01 su 57 (4 nuove, 0 da Claude) | 2.4s
+10/11 19:15:44 INFO       (+0.7 r0.8 lessico) Bundled Buys on Solana: How to Spot Insider Token Launches - FinanceFeeds
+10/11 19:15:44 INFO       (-0.6 r1.0 claude) Solana Hits Four-Week Low as Losses Outpace Bitcoin - The Defiant
+10/11 19:15:44 INFO       (-0.4 r0.9 claude) Ethereum Is Down 17% and Solana 23% in 30 Days. How Low Can Each Go? - 24/7 Wall St.
+10/11 19:15:44 INFO    -> ATTENDI: trend giornaliero non rialzista
+10/11 19:15:44 INFO    Agente fermato.
