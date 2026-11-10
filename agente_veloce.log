@@ -4397,3 +4397,12 @@
 10/11 09:45:44 INFO       (+0.5 r1.0 claude) Why Fidelity calls Solana ‘an emerging piece of financial market infrastructure’ - AMBCrypto
 10/11 09:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista
 10/11 09:45:44 INFO    Agente fermato.
+10/11 10:01:13 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 10:01:14 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 10:01:15 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 10:01:15 INFO    Prezzo 76.2500 | medie 76.1778/76.4390 trend GIU | notizie +0.04 su 77 (5 nuove, 0 da Claude) | 2.3s
+10/11 10:01:15 INFO       (-0.6 r0.9 claude) Solana (SOL) Price Prediction: Funds Pull $170M From SOL ETFs, While Pepeto’s Listing Setup Draws New Buyers -
+10/11 10:01:15 INFO       (-0.3 r0.9 claude) Solana Foundation Tightens SFDP Rules, Ends Validator Support After 12 Months or 300,000 SOL - bloomingbit
+10/11 10:01:15 INFO       (+0.5 r1.0 claude) Why Fidelity calls Solana ‘an emerging piece of financial market infrastructure’ - AMBCrypto
+10/11 10:01:15 INFO    -> ATTENDI: trend giornaliero non rialzista
+10/11 10:01:15 INFO    Agente fermato.
