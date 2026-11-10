@@ -4449,3 +4449,11 @@
 10/11 11:15:46 INFO       (-0.6 r0.9 claude) Solana (SOL) Price Prediction: Funds Pull $170M From SOL ETFs, While Pepeto’s Listing Setup Draws New Buyers -
 10/11 11:15:46 INFO    -> ATTENDI: trend giornaliero non rialzista
 10/11 11:15:46 INFO    Agente fermato.
+10/11 11:31:00 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 11:31:00 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 11:31:03 INFO    Prezzo 75.1800 | medie 75.6944/76.1114 trend GIU | notizie +0.21 su 79 (10 nuove, 2 da Claude) | 3.1s
+10/11 11:31:03 INFO       (+0.7 r0.8 claude) Charles Schwab opens Solana, Avalanche and Chainlink trading to Schwab Crypto clients - MLQ.ai
+10/11 11:31:03 INFO       (+0.6 r0.8 claude) Schwab adds Solana, Avalanche and Chainlink as crypto trading slows
+10/11 11:31:03 INFO       (+0.6 r0.8 claude) Schwab adds Solana, Avalanche and Chainlink as crypto trading slows - CryptoSlate
+10/11 11:31:03 INFO    -> ATTENDI: trend giornaliero non rialzista
+10/11 11:31:03 INFO    Agente fermato.
