@@ -4014,3 +4014,14 @@
 10/11 00:01:18 INFO       ribassista: Il prezzo supera le medie di appena lo 0,07% e il punteggio notizie (0,226) è debole e contrastato da un titolo sul crollo di SOL, quindi non c'è un segnale di trend chiaro.
 10/11 00:01:18 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è appena sopra medie quasi identiche, le notizie sono contrastanti e l'ATR molto basso non offre un quadro di rischio affidabile per giustificare un acquisto spot.
 10/11 00:01:18 INFO    Agente fermato.
+10/11 00:15:39 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 00:15:40 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 00:15:42 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 00:15:43 INFO    Prezzo 77.1800 | medie 77.1667/77.1395 trend SU | notizie +0.23 su 82 (10 nuove, 0 da Claude) | 3.4s
+10/11 00:15:43 INFO       (+0.6 r0.8 claude) Charles Schwab adds Solana, Avalanche and Chainlink trading to Schwab Crypto; XRP still excluded - 디지털투데이
+10/11 00:15:43 INFO       (+0.4 r0.6 claude) Meme-Market Volume Rises 34% to $182 Million as Solana Leads - www.tokenpost.com
+10/11 00:15:43 INFO       (-0.6 r0.6 claude) Why are Bitcoin, Ethereum and Solana Price Crashing Today? - Cryptonews.net
+10/11 00:15:46 INFO       rialzista: Il prezzo (77,18) è leggermente sopra le medie mobili a 10 e 30 periodi, il sentiment aggregato è positivo (0,226) e l'adozione di SOL da parte di Schwab e la crescita dei volumi meme sono catalizzatori favorevoli.
+10/11 00:15:46 INFO       ribassista: Il prezzo è praticamente fermo sulle medie mobili senza un trend chiaro, l'ATR giornaliero di 0,27 è anomalo per SOL e suggerisce dati poco affidabili o mercato piatto, e il titolo sul crollo di SOL segnala rischio di ribasso.
+10/11 00:15:46 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo non mostra un trend definito rispetto alle medie, le notizie sono contrastanti (un crollo recente contro catalizzatori positivi) e i dati di volatilità appaiono incoerenti, quindi il rischio non è giustificato per un acquisto spot.
+10/11 00:15:46 INFO    Agente fermato.
