@@ -4893,3 +4893,14 @@
 10/11 23:31:01 INFO       ribassista: Il prezzo (74,31) è sotto sia la media a 10 periodi (74,46) sia quella a 30 periodi (74,38), la notizia negativa su Cina e Shanghai pesa e il punteggio complessivo delle notizie è quasi neutro (0,091).
 10/11 23:31:01 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto entrambe le medie mobili, il sentiment è quasi neutro con titoli contrastanti (inclusa una notizia regolatoria negativa dalla Cina), quindi il rischio non è giustificato dall'evidenza disponibile.
 10/11 23:31:01 INFO    Agente fermato.
+10/11 23:45:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+10/11 23:45:40 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 23:45:42 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r'): uso il dizionario
+10/11 23:45:42 INFO    Prezzo 74.5600 | medie 74.4444/74.4000 trend SU | notizie +0.05 su 52 (4 nuove, 0 da Claude) | 2.2s
+10/11 23:45:42 INFO       (+0.6 r0.9 claude) Forward Industries Adds 226,000 Solana, Raising Holdings to 8.7 Million SOL - bloomingbit
+10/11 23:45:42 INFO       (+0.5 r0.9 claude) Solana Tokenized Stock Volume Surges, 'Token Super Cycle' Coming, Backpack CEO Says - Benzinga
+10/11 23:45:42 INFO       (-0.3 r0.8 lessico) Crypto Crash Live: Solana, Aave Slide on Fed Hike Fears - CryptoTicker.io
+10/11 23:45:45 INFO       rialzista: Il prezzo (74.56) è sopra le medie mobili a 10 e 30 periodi, e le notizie istituzionali su accumuli di SOL e sull'adozione dei token tokenizzati suggeriscono un possibile slancio rialzista.
+10/11 23:45:45 INFO       ribassista: Il punteggio notizie è quasi neutro (0.052), il prezzo supera le medie di appena lo 0.1-0.2%, e i timori di rialzo dei tassi della Fed potrebbero spingere SOL al ribasso.
+10/11 23:45:45 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è debole (prezzo appena sopra le medie), il sentiment è neutro con titoli contrastanti, e il rischio di un calo legato ai tassi non è adeguatamente compensato, quindi non si giustifica l'acquisto spot.
+10/11 23:45:45 INFO    Agente fermato.
