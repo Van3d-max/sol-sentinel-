@@ -1322,3 +1322,12 @@
 10/11 20:01:04 INFO       (-0.6 r0.9 claude) Solana Price Prediction: Bearish Breakout Below $80 Could Put an End to SOL’s Bull Run - FXEmpire
 10/11 20:01:04 INFO    -> ATTENDI: trend giornaliero non rialzista
 10/11 20:01:04 INFO    Agente fermato.
+10/11 21:01:03 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+10/11 21:01:04 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 21:01:05 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 21:01:05 INFO    Prezzo 74.6200 | medie 81.5540/88.7570 trend GIU | notizie +0.03 su 101 (4 nuove, 0 da Claude) | 2.2s
+10/11 21:01:05 INFO       (-0.7 r1.0 claude) Solana Hits Four-Week Low as Losses Outpace Bitcoin - The Defiant
+10/11 21:01:05 INFO       (-0.5 r0.9 claude) Ethereum Is Down 17% and Solana 23% in 30 Days. How Low Can Each Go? - 24/7 Wall St.
+10/11 21:01:05 INFO       (-0.6 r0.9 claude) Solana Price Prediction: Bearish Breakout Below $80 Could Put an End to SOL’s Bull Run - FXEmpire
+10/11 21:01:05 INFO    -> ATTENDI: trend giornaliero non rialzista
+10/11 21:01:05 INFO    Agente fermato.
