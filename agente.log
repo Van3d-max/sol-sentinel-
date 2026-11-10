@@ -1167,3 +1167,12 @@
 10/11 03:01:07 INFO       (+0.5 r0.8 claude) Formation Securities targets Solana stock trading launch - grafa.com
 10/11 03:01:07 INFO    -> ATTENDI: trend giornaliero non rialzista
 10/11 03:01:07 INFO    Agente fermato.
+10/11 04:00:59 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+10/11 04:01:00 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+10/11 04:01:02 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+10/11 04:01:03 INFO    Prezzo 76.3500 | medie 81.5540/88.7570 trend GIU | notizie +0.18 su 92 (12 nuove, 0 da Claude) | 3.5s
+10/11 04:01:03 INFO       (+0.7 r0.8 claude) Charles Schwab adds Solana, Avalanche and Chainlink trading to Schwab Crypto; XRP still excluded - 디지털투데이
+10/11 04:01:03 INFO       (+0.5 r0.9 claude) Why Fidelity calls Solana ‘an emerging piece of financial market infrastructure’ - AMBCrypto
+10/11 04:01:03 INFO       (+0.5 r0.8 claude) Formation Securities targets Solana stock trading launch - grafa.com
+10/11 04:01:03 INFO    -> ATTENDI: trend giornaliero non rialzista
+10/11 04:01:03 INFO    Agente fermato.
