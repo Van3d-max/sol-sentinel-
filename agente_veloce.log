@@ -5652,3 +5652,14 @@
 11/11 19:15:50 INFO       ribassista: Il prezzo è sotto entrambe le medie mobili, il sentiment delle notizie recenti è prevalentemente negativo con SOL su un minimo di tre mesi e il mercato generale è in fase di vendita.
 11/11 19:15:50 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo è sotto entrambe le medie mobili, le notizie recenti sono per lo più negative e il punteggio complessivo di +0,069 è troppo debole per giustificare un acquisto spot in un contesto di debolezza del mercato.
 11/11 19:15:50 INFO    Agente fermato.
+11/11 19:31:00 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 19:31:00 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 19:31:03 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 19:31:03 INFO    Prezzo 76.4300 | medie 76.7156/76.3867 trend SU | notizie +0.07 su 42 (13 nuove, 0 da Claude) | 3.9s
+11/11 19:31:03 INFO       (-0.6 r1.0 claude) All about Solana’s fall below $83 as market weakness overshadows new privacy upgrade - AMBCrypto
+11/11 19:31:03 INFO       (-0.8 r0.8 claude) Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto Briefing
+11/11 19:31:03 INFO       (+0.6 r0.6 claude) What Is Charles Schwab (SCHW) Signaling By Adding Solana, Avalanche And Chainlink? - Yahoo Finance
+11/11 19:31:06 INFO       rialzista: Il prezzo (76,43) è appena sopra la media a 30 periodi (76,39) e la notizia di Schwab che aggiunge Solana al portafoglio suggerisce interesse istituzionale di fondo.
+11/11 19:31:06 INFO       ribassista: Il prezzo è sotto la media a 10 periodi (76,72), SOL ha toccato un minimo di tre mesi durante una vendita generalizzata del mercato crypto, e il sentiment delle notizie più recenti è prevalentemente negativo.
+11/11 19:31:06 INFO    -> BLOCCATO DAL DIBATTITO: I segnali tecnici sono neutri, il sentiment di mercato è debole con un minimo trimestrale e un sell-off in corso, e con evidenze insufficienti per giustificare un acquisto spot non protetto il rischio è troppo alto.
+11/11 19:31:06 INFO    Agente fermato.
