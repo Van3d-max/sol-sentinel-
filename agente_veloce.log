@@ -5313,3 +5313,14 @@
 11/11 10:15:49 INFO       ribassista: Un titolo riporta SOL in calo a un minimo di 30 giorni a 84 dollari, che non è coerente con il prezzo di 74,86, quindi i dati di mercato o le notizie potrebbero essere inaffidabili, e il segnale di trend è debole (differenza di circa 0,2 dollari tra prezzo e media 10).
 11/11 10:15:49 INFO    -> BLOCCATO DAL DIBATTITO: Le evidenze sono deboli e contraddittorie (trend appena sopra le medie, notizie miste e un titolo che non corrisponde al prezzo di mercato), quindi non si giustifica un acquisto spot senza una conferma più solida.
 11/11 10:15:49 INFO    Agente fermato.
+11/11 10:30:58 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 10:30:58 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 10:31:00 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":0.8,"s":-0'): uso il dizionario
+11/11 10:31:01 INFO    Prezzo 75.3200 | medie 74.6767/74.4724 trend SU | notizie +0.18 su 50 (9 nuove, 0 da Claude) | 2.9s
+11/11 10:31:01 INFO       (+0.8 r0.8 lessico) Forward Industries Expands Solana Treasury to 8.7 Million SOL as Per-Share Growth Slows - Altcoin Buzz
+11/11 10:31:01 INFO       (-0.6 r0.9 claude) Solana Price Today: SOL Slides to a 30 Day Low at $84 While Big Buyers Back Pepeto’s Zero Fee Exchange - Stree
+11/11 10:31:01 INFO       (+0.3 r0.8 lessico) Helius Launches Amount-Hiding Payments Infrastructure on Solana; Enterprise Version to Go Live This Year - Big
+11/11 10:31:04 INFO       rialzista: Il prezzo (75,32) è sopra le medie mobili a 10 e 30 periodi (74,68 e 74,47), con un sentiment di notizie leggermente positivo (0,184) e una notizia di espansione del tesoro di Forward Industries.
+11/11 10:31:04 INFO       ribassista: Il titolo che parla di un minimo a 30 giorni a 84 dollari è incoerente con il prezzo di mercato, una delle fonti è promozionale e il margine sulle medie è minimo, quindi il segnale è debole.
+11/11 10:31:04 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono deboli e contraddittorie (notizie incoerenti con il prezzo e una fonte promozionale), il prezzo è appena sopra le medie con un ATR molto basso e non c'è un vantaggio chiaro che giustifichi l'ingresso.
+11/11 10:31:04 INFO    Agente fermato.
