@@ -5712,3 +5712,11 @@
 11/11 21:15:47 INFO       (-0.6 r1.0 claude) All about Solana’s fall below $83 as market weakness overshadows new privacy upgrade - AMBCrypto
 11/11 21:15:47 INFO    -> ATTENDI: trend giornaliero non rialzista
 11/11 21:15:47 INFO    Agente fermato.
+11/11 21:30:58 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 21:30:59 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 21:31:02 INFO    Prezzo 76.6100 | medie 76.5156/76.5914 trend GIU | notizie +0.15 su 45 (14 nuove, 3 da Claude) | 3.5s
+11/11 21:31:02 INFO       (+0.6 r0.6 claude) What Does Charles Schwab (SCHW) Adding Solana, Avalanche And Chainlink Mean? - Simply Wall St
+11/11 21:31:02 INFO       (+0.5 r0.8 claude) Forward Industries Pledges Staked Solana for $50 Million Credit Line to Buy More SOL - BigGo Finance
+11/11 21:31:02 INFO       (-0.6 r1.0 claude) All about Solana’s fall below $83 as market weakness overshadows new privacy upgrade - AMBCrypto
+11/11 21:31:02 INFO    -> ATTENDI: trend giornaliero non rialzista
+11/11 21:31:02 INFO    Agente fermato.
