@@ -5260,3 +5260,14 @@
 11/11 09:01:13 INFO       (+0.3 r0.8 lessico) Helius Launches Amount-Hiding Payments Infrastructure on Solana; Enterprise Version to Go Live This Year - Big
 11/11 09:01:13 INFO    -> ATTENDI: trend giornaliero non rialzista
 11/11 09:01:13 INFO    Agente fermato.
+11/11 09:15:42 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 09:15:42 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 09:15:44 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 09:15:44 INFO    Prezzo 74.3300 | medie 74.3722/74.3233 trend SU | notizie +0.20 su 50 (9 nuove, 0 da Claude) | 2.8s
+11/11 09:15:44 INFO       (+0.8 r0.8 lessico) Forward Industries Expands Solana Treasury to 8.7 Million SOL as Per-Share Growth Slows - Altcoin Buzz
+11/11 09:15:44 INFO       (-0.6 r0.9 claude) Solana Price Today: SOL Slides to a 30 Day Low at $84 While Big Buyers Back Pepeto’s Zero Fee Exchange - Stree
+11/11 09:15:44 INFO       (+0.3 r0.8 lessico) Helius Launches Amount-Hiding Payments Infrastructure on Solana; Enterprise Version to Go Live This Year - Big
+11/11 09:15:47 INFO       rialzista: Il prezzo (74.33) è appena sopra le medie mobili a 10 e 30 periodi e il punteggio delle notizie è leggermente positivo (0.197), con un possibile supporto dalla crescita del tesoro SOL di Forward Industries e dagli sviluppi infrastrutturali di Helius.
+11/11 09:15:47 INFO       ribassista: Il prezzo è già sotto la media a 10 periodi, non mostra un trend chiaro, il sentiment è debole e il titolo che segnala un minimo a 30 giorni a 84$ contraddice il prezzo attuale, quindi i segnali sono incoerenti e potenzialmente promozionali.
+11/11 09:15:47 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: prezzo fermo sulle medie senza trend, sentiment modesto e contraddittorio, e un titolo incoerente con i dati di mercato, quindi il rischio non è giustificato dalle prove disponibili.
+11/11 09:15:47 INFO    Agente fermato.
