@@ -5704,3 +5704,11 @@
 11/11 21:01:16 INFO       (-0.8 r0.8 claude) Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto Briefing
 11/11 21:01:16 INFO    -> ATTENDI: trend giornaliero non rialzista
 11/11 21:01:16 INFO    Agente fermato.
+11/11 21:15:43 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 21:15:43 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 21:15:47 INFO    Prezzo 76.5800 | medie 76.4778/76.5881 trend GIU | notizie +0.12 su 45 (15 nuove, 3 da Claude) | 3.7s
+11/11 21:15:47 INFO       (+0.6 r0.6 claude) What Does Charles Schwab (SCHW) Adding Solana, Avalanche And Chainlink Mean? - Simply Wall St
+11/11 21:15:47 INFO       (+0.3 r0.7 claude) DeFi Development launches tokenized preferred stock on Solana By Investing.com - Investing.com Canada
+11/11 21:15:47 INFO       (-0.6 r1.0 claude) All about Solana’s fall below $83 as market weakness overshadows new privacy upgrade - AMBCrypto
+11/11 21:15:47 INFO    -> ATTENDI: trend giornaliero non rialzista
+11/11 21:15:47 INFO    Agente fermato.
