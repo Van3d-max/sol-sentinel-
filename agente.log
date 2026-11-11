@@ -1439,3 +1439,12 @@
 11/11 08:01:05 INFO       (+0.5 r0.9 claude) Solana Leads Five-Asset Open Interest Gains With a 5.17% Rise - www.tokenpost.com
 11/11 08:01:05 INFO    -> ATTENDI: trend giornaliero non rialzista
 11/11 08:01:05 INFO    Agente fermato.
+11/11 09:01:03 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+11/11 09:01:03 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 09:01:06 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 09:01:06 INFO    Prezzo 74.3300 | medie 80.4660/87.9337 trend GIU | notizie +0.13 su 98 (13 nuove, 0 da Claude) | 3.8s
+11/11 09:01:06 INFO       (+0.8 r0.8 lessico) Forward Industries Expands Solana Treasury to 8.7 Million SOL as Per-Share Growth Slows - Altcoin Buzz
+11/11 09:01:06 INFO       (-0.6 r0.8 claude) Solana Price Today: SOL Slides to a 30 Day Low at $84 While Big Buyers Back Pepeto’s Zero Fee Exchange - Stree
+11/11 09:01:06 INFO       (+0.4 r0.7 claude) Circle mints 500 million USDC on Solana in past 24 hours - Crypto Briefing
+11/11 09:01:06 INFO    -> ATTENDI: trend giornaliero non rialzista
+11/11 09:01:06 INFO    Agente fermato.
