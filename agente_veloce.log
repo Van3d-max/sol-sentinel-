@@ -5170,3 +5170,12 @@
 11/11 06:45:42 INFO       (+0.2 r0.6 claude) Formation Securities Plans Solana Tokenized Stock Trading Venue for Early 2027 - Cryptonews.net
 11/11 06:45:42 INFO    -> ATTENDI: trend giornaliero non rialzista
 11/11 06:45:42 INFO    Agente fermato.
+11/11 07:01:10 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 07:01:10 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 07:01:11 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 07:01:11 INFO    Prezzo 74.0200 | medie 74.2622/74.4067 trend GIU | notizie +0.09 su 48 (1 nuove, 0 da Claude) | 1.3s
+11/11 07:01:11 INFO       (+0.5 r0.9 claude) Solana Leads Five-Asset Open Interest Gains With a 5.17% Rise - www.tokenpost.com
+11/11 07:01:11 INFO       (+0.6 r0.9 claude) Forward Industries Adds 226,000 Solana, Raising Holdings to 8.7 Million SOL - bloomingbit
+11/11 07:01:11 INFO       (+0.2 r0.6 claude) Formation Securities Plans Solana Tokenized Stock Trading Venue for Early 2027 - Cryptonews.net
+11/11 07:01:11 INFO    -> ATTENDI: trend giornaliero non rialzista
+11/11 07:01:11 INFO    Agente fermato.
