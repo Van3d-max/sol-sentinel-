@@ -4926,3 +4926,12 @@
 11/11 00:15:45 INFO       ribassista: Il segnale tecnico è marginale, con il prezzo appena lo 0,3% sopra le medie, il punteggio delle notizie quasi neutro (0,055) e il timore di rialzi dei tassi della Fed che pesa su SOL.
 11/11 00:15:45 INFO    -> BLOCCATO DAL DIBATTITO: Il vantaggio tecnico è troppo debole, il sentiment è neutro con rischio macro al ribasso e non c'è una chiara tesi di ingresso o un livello di stop definito, quindi il rischio non è giustificato.
 11/11 00:15:45 INFO    Agente fermato.
+11/11 00:30:58 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 00:30:58 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 00:31:00 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 00:31:00 INFO    Prezzo 74.6000 | medie 74.4200/74.4510 trend GIU | notizie +0.07 su 52 (5 nuove, 0 da Claude) | 2.3s
+11/11 00:31:00 INFO       (+0.6 r0.9 claude) Forward Industries Adds 226,000 Solana, Raising Holdings to 8.7 Million SOL - bloomingbit
+11/11 00:31:00 INFO       (+0.5 r0.9 claude) Solana Tokenized Stock Volume Surges, 'Token Super Cycle' Coming, Backpack CEO Says - Benzinga
+11/11 00:31:00 INFO       (-0.3 r0.8 lessico) Crypto Crash Live: Solana, Aave Slide on Fed Hike Fears - CryptoTicker.io
+11/11 00:31:00 INFO    -> ATTENDI: trend giornaliero non rialzista
+11/11 00:31:00 INFO    Agente fermato.
