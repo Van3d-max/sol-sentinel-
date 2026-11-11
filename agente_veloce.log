@@ -5583,3 +5583,12 @@
 11/11 17:31:48 INFO       (+0.6 r0.6 claude) What Is Charles Schwab (SCHW) Signaling By Adding Solana, Avalanche And Chainlink? - Yahoo Finance
 11/11 17:31:48 INFO    -> ATTENDI: notizia shock: Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto 
 11/11 17:31:48 INFO    Agente fermato.
+11/11 17:45:42 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 17:45:42 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=36, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 17:45:45 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 17:45:45 INFO    Prezzo 77.0800 | medie 76.5667/76.0571 trend SU | notizie +0.07 su 44 (10 nuove, 0 da Claude) | 3.1s
+11/11 17:45:45 INFO       (-0.6 r1.0 claude) All about Solana’s fall below $83 as market weakness overshadows new privacy upgrade - AMBCrypto
+11/11 17:45:45 INFO       (-0.8 r0.8 claude) Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto Briefing
+11/11 17:45:45 INFO       (+0.6 r0.6 claude) What Is Charles Schwab (SCHW) Signaling By Adding Solana, Avalanche And Chainlink? - Yahoo Finance
+11/11 17:45:45 INFO    -> ATTENDI: notizia shock: Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto 
+11/11 17:45:45 INFO    Agente fermato.
