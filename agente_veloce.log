@@ -5024,3 +5024,14 @@
 11/11 02:45:43 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 11/11 02:45:43 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 11/11 02:45:43 INFO    Agente fermato.
+11/11 03:01:09 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 03:01:09 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 03:01:11 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 03:01:12 INFO    Prezzo 74.4600 | medie 74.5156/74.4914 trend SU | notizie +0.06 su 54 (8 nuove, 0 da Claude) | 3.2s
+11/11 03:01:12 INFO       (-1.0 r0.8 lessico) Independent Solana Validators Seek Halt to Removals Under New SFDP Rules - www.tokenpost.com
+11/11 03:01:12 INFO       (+0.5 r0.9 claude) Solana Leads Five-Asset Open Interest Gains With a 5.17% Rise - www.tokenpost.com
+11/11 03:01:12 INFO       (+0.6 r0.9 claude) Forward Industries Adds 226,000 Solana, Raising Holdings to 8.7 Million SOL - bloomingbit
+11/11 03:01:15 INFO       rialzista: Il prezzo di SOL (74,46) è vicino alle medie mobili a 10 e 30 periodi, con l'open interest in crescita del 5,17% e Forward Industries che ha aggiunto 226.000 SOL, segnali che potrebbero sostenere un rimbalzo.
+11/11 03:01:15 INFO       ribassista: Il prezzo resta sotto entrambe le medie mobili, il sentiment delle notizie è quasi neutro (0,056) e il rischio normativo legato alle regole SFDP potrebbe pesare sul titolo.
+11/11 03:01:15 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole e contrastante: il prezzo è sotto le medie, il punteggio delle notizie è prossimo a zero, il titolo SFDP pesa negativamente e l'acquisto spot senza leva non offre un vantaggio sufficiente a giustificare il rischio.
+11/11 03:01:15 INFO    Agente fermato.
