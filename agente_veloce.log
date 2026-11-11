@@ -5423,3 +5423,11 @@
 11/11 13:15:51 INFO       (-0.6 r0.9 claude) Solana Price Today: SOL Slides to a 30 Day Low at $84 While Big Buyers Back Pepeto’s Zero Fee Exchange - Stree
 11/11 13:15:51 INFO    -> ATTENDI: notizia shock: Is Capital Abandoning Altcoins? Ethereum and Solana Price Slide - Cryptonews
 11/11 13:15:51 INFO    Agente fermato.
+11/11 13:30:58 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 13:30:58 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 13:31:00 INFO    Prezzo 75.6200 | medie 75.3489/75.0452 trend SU | notizie -0.05 su 45 (9 nuove, 9 da Claude) | 1.9s
+11/11 13:31:00 INFO       (-0.7 r0.6 claude) Is Capital Abandoning Altcoins? Ethereum and Solana Price Slide - Cryptonews
+11/11 13:31:00 INFO       (-0.6 r0.9 claude) Solana Price Today: SOL Slides to a 30 Day Low at $84 While Big Buyers Back Pepeto’s Zero Fee Exchange - Stree
+11/11 13:31:00 INFO       (+0.4 r0.7 claude) Forward Industries Expands Solana Treasury to 8.7 Million SOL as Per-Share Growth Slows - Altcoin Buzz
+11/11 13:31:00 INFO    -> ATTENDI: notizie sotto la soglia (-0.05)
+11/11 13:31:00 INFO    Agente fermato.
