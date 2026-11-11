@@ -5099,3 +5099,12 @@
 11/11 04:45:44 INFO       (+0.5 r0.9 claude) Solana Leads Five-Asset Open Interest Gains With a 5.17% Rise - www.tokenpost.com
 11/11 04:45:44 INFO    -> ATTENDI: notizia shock: Solana losses widen as ETF outflows continue - 디지털투데이
 11/11 04:45:44 INFO    Agente fermato.
+11/11 05:01:10 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 05:01:10 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 05:01:12 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r'): uso il dizionario
+11/11 05:01:13 INFO    Prezzo 74.0600 | medie 74.4844/74.5195 trend GIU | notizie +0.05 su 50 (6 nuove, 0 da Claude) | 2.8s
+11/11 05:01:13 INFO       (-0.7 r1.0 claude) Solana losses widen as ETF outflows continue - 디지털투데이
+11/11 05:01:13 INFO       (+0.3 r0.8 lessico) Formation Securities Plans Solana Tokenized Stock Trading Venue for Early 2027 - Cryptonews.net
+11/11 05:01:13 INFO       (+0.5 r0.9 claude) Solana Leads Five-Asset Open Interest Gains With a 5.17% Rise - www.tokenpost.com
+11/11 05:01:13 INFO    -> ATTENDI: trend giornaliero non rialzista
+11/11 05:01:13 INFO    Agente fermato.
