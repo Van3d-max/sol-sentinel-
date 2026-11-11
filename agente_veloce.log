@@ -5251,3 +5251,12 @@
 11/11 08:45:43 INFO       (+0.3 r0.8 lessico) Charles Schwab adds Solana, Avalanche and Chainlink as altcoin prices slide - Startup Fortune
 11/11 08:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista
 11/11 08:45:43 INFO    Agente fermato.
+11/11 09:01:10 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 09:01:11 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 09:01:13 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 09:01:13 INFO    Prezzo 74.3300 | medie 74.3344/74.3348 trend GIU | notizie +0.19 su 50 (8 nuove, 0 da Claude) | 3.1s
+11/11 09:01:13 INFO       (+0.8 r0.8 lessico) Forward Industries Expands Solana Treasury to 8.7 Million SOL as Per-Share Growth Slows - Altcoin Buzz
+11/11 09:01:13 INFO       (-0.6 r0.9 claude) Solana Price Today: SOL Slides to a 30 Day Low at $84 While Big Buyers Back Pepeto’s Zero Fee Exchange - Stree
+11/11 09:01:13 INFO       (+0.3 r0.8 lessico) Helius Launches Amount-Hiding Payments Infrastructure on Solana; Enterprise Version to Go Live This Year - Big
+11/11 09:01:13 INFO    -> ATTENDI: trend giornaliero non rialzista
+11/11 09:01:13 INFO    Agente fermato.
