@@ -1415,3 +1415,11 @@
 11/11 05:01:05 INFO       (+0.6 r0.7 claude) Charles Schwab Opens Live Solana, Avalanche and Chainlink Trading to Eligible Clients - TradingView
 11/11 05:01:05 INFO    -> ATTENDI: trend giornaliero non rialzista
 11/11 05:01:05 INFO    Agente fermato.
+11/11 06:00:59 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+11/11 06:01:00 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 06:01:03 INFO    Prezzo 74.6300 | medie 80.4660/87.9337 trend GIU | notizie +0.04 su 100 (12 nuove, 4 da Claude) | 3.5s
+11/11 06:01:03 INFO       (-0.6 r0.9 claude) Solana losses widen as ETF outflows continue - 디지털투데이
+11/11 06:01:03 INFO       (+0.6 r0.9 claude) Forward Industries Adds 226,000 Solana, Raising Holdings to 8.7 Million SOL - bloomingbit
+11/11 06:01:03 INFO       (+0.5 r0.9 claude) Solana Leads Five-Asset Open Interest Gains With a 5.17% Rise - www.tokenpost.com
+11/11 06:01:03 INFO    -> ATTENDI: trend giornaliero non rialzista
+11/11 06:01:03 INFO    Agente fermato.
