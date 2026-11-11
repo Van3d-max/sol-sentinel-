@@ -1356,3 +1356,12 @@
 10/11 23:01:07 INFO       (+0.5 r0.8 claude) Solana Tokenized Stock Volume Surges, 'Token Super Cycle' Coming, Backpack CEO Says - Benzinga
 10/11 23:01:07 INFO    -> ATTENDI: trend giornaliero non rialzista
 10/11 23:01:07 INFO    Agente fermato.
+11/11 00:01:04 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+11/11 00:01:04 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 00:01:07 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{'): uso il dizionario
+11/11 00:01:07 INFO    Prezzo 74.5300 | medie 80.4660/87.9337 trend GIU | notizie +0.06 su 101 (11 nuove, 0 da Claude) | 3.6s
+11/11 00:01:07 INFO       (+0.6 r0.8 lessico) Solana Tokenized Stock Volume Surges, 'Token Super Cycle' Coming, Backpack CEO Says - TradingView
+11/11 00:01:07 INFO       (-0.5 r0.9 claude) Solana Hovers Near $84 Support After a Grim LiteFinance Outlook, While Analysts Eye a New AI Trading App - Fin
+11/11 00:01:07 INFO       (-0.7 r1.0 claude) Solana Hits Four-Week Low as Losses Outpace Bitcoin - The Defiant
+11/11 00:01:07 INFO    -> ATTENDI: trend giornaliero non rialzista
+11/11 00:01:07 INFO    Agente fermato.
