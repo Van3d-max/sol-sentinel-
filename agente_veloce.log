@@ -5439,3 +5439,11 @@
 11/11 13:45:41 INFO       (+0.4 r0.7 claude) Forward Industries Expands Solana Treasury to 8.7 Million SOL as Per-Share Growth Slows - Altcoin Buzz
 11/11 13:45:41 INFO    -> ATTENDI: notizie sotto la soglia (-0.05)
 11/11 13:45:41 INFO    Agente fermato.
+11/11 14:01:12 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 14:01:12 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 14:01:13 INFO    Prezzo 76.2300 | medie 75.4889/75.1814 trend SU | notizie -0.05 su 44 (0 nuove, 0 da Claude) | 0.8s
+11/11 14:01:13 INFO       (-0.7 r0.6 claude) Is Capital Abandoning Altcoins? Ethereum and Solana Price Slide - Cryptonews
+11/11 14:01:13 INFO       (-0.6 r0.9 claude) Solana Price Today: SOL Slides to a 30 Day Low at $84 While Big Buyers Back Pepeto’s Zero Fee Exchange - Stree
+11/11 14:01:13 INFO       (+0.4 r0.7 claude) Forward Industries Expands Solana Treasury to 8.7 Million SOL as Per-Share Growth Slows - Altcoin Buzz
+11/11 14:01:13 INFO    -> ATTENDI: notizie sotto la soglia (-0.05)
+11/11 14:01:13 INFO    Agente fermato.
