@@ -5143,3 +5143,12 @@
 11/11 06:01:10 INFO       (+0.6 r0.9 claude) Forward Industries Adds 226,000 Solana, Raising Holdings to 8.7 Million SOL - bloomingbit
 11/11 06:01:10 INFO    -> ATTENDI: trend giornaliero non rialzista
 11/11 06:01:10 INFO    Agente fermato.
+11/11 06:15:41 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 06:15:41 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 06:15:42 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 06:15:43 INFO    Prezzo 74.4100 | medie 74.3378/74.4776 trend GIU | notizie +0.01 su 50 (1 nuove, 0 da Claude) | 1.6s
+11/11 06:15:43 INFO       (-0.7 r1.0 claude) Solana losses widen as ETF outflows continue - 디지털투데이
+11/11 06:15:43 INFO       (+0.5 r0.9 claude) Solana Leads Five-Asset Open Interest Gains With a 5.17% Rise - www.tokenpost.com
+11/11 06:15:43 INFO       (+0.6 r0.9 claude) Forward Industries Adds 226,000 Solana, Raising Holdings to 8.7 Million SOL - bloomingbit
+11/11 06:15:43 INFO    -> ATTENDI: trend giornaliero non rialzista
+11/11 06:15:43 INFO    Agente fermato.
