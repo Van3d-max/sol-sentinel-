@@ -4904,3 +4904,14 @@
 10/11 23:45:45 INFO       ribassista: Il punteggio notizie è quasi neutro (0.052), il prezzo supera le medie di appena lo 0.1-0.2%, e i timori di rialzo dei tassi della Fed potrebbero spingere SOL al ribasso.
 10/11 23:45:45 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è debole (prezzo appena sopra le medie), il sentiment è neutro con titoli contrastanti, e il rischio di un calo legato ai tassi non è adeguatamente compensato, quindi non si giustifica l'acquisto spot.
 10/11 23:45:45 INFO    Agente fermato.
+11/11 00:01:18 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 00:01:19 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 00:01:20 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 00:01:20 INFO    Prezzo 74.5700 | medie 74.4300/74.4067 trend SU | notizie +0.05 su 52 (4 nuove, 0 da Claude) | 2.1s
+11/11 00:01:20 INFO       (+0.6 r0.9 claude) Forward Industries Adds 226,000 Solana, Raising Holdings to 8.7 Million SOL - bloomingbit
+11/11 00:01:20 INFO       (+0.5 r0.9 claude) Solana Tokenized Stock Volume Surges, 'Token Super Cycle' Coming, Backpack CEO Says - Benzinga
+11/11 00:01:20 INFO       (-0.3 r0.8 lessico) Crypto Crash Live: Solana, Aave Slide on Fed Hike Fears - CryptoTicker.io
+11/11 00:01:23 INFO       rialzista: Il prezzo (74,57) è sopra le medie mobili a 10 e 30 periodi, e le notizie sull'adozione istituzionale e sulla tokenizzazione sono positive.
+11/11 00:01:23 INFO       ribassista: Il vantaggio sulle medie è minimo, il punteggio notizie è quasi neutro (0,052), e un titolo recente segnala un calo legato ai timori di rialzo dei tassi della Fed.
+11/11 00:01:23 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è debole (prezzo a meno dello 0,1% sopra le medie con ATR di circa lo 0,4%), il sentiment è neutro e le notizie sono contrastanti, quindi il rapporto rischio/rendimento non giustifica l'ingresso.
+11/11 00:01:23 INFO    Agente fermato.
