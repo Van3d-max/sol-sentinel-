@@ -5796,3 +5796,11 @@
 11/11 23:31:01 INFO       (+0.6 r0.6 claude) What Does Charles Schwab (SCHW) Adding Solana, Avalanche And Chainlink Mean? - Simply Wall St
 11/11 23:31:01 INFO    -> ATTENDI: trend giornaliero non rialzista
 11/11 23:31:01 INFO    Agente fermato.
+11/11 23:45:42 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 23:45:42 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 23:45:45 INFO    Prezzo 74.7900 | medie 75.4922/76.0790 trend GIU | notizie +0.16 su 47 (14 nuove, 4 da Claude) | 3.6s
+11/11 23:45:45 INFO       (+0.4 r0.7 claude) Solana Company Swings to $105.2 Million Q3 Profit, Adds 125,000 SOL - Yahoo Finance
+11/11 23:45:45 INFO       (+0.6 r0.6 claude) What Does Charles Schwab (SCHW) Adding Solana, Avalanche And Chainlink Mean? - Simply Wall St
+11/11 23:45:45 INFO       (+0.3 r0.5 claude) Earnings call transcript: Solana Company posts huge Q3 2026 beat as stock edges up - Investing.com UK
+11/11 23:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista
+11/11 23:45:45 INFO    Agente fermato.
