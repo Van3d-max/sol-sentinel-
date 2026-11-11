@@ -1543,3 +1543,12 @@
 11/11 18:36:29 INFO       (-1.0 r0.8 lessico) Solana drops as Chinese authorities halt Solana event in Shanghai - Traders Union
 11/11 18:36:29 INFO    -> ATTENDI: trend giornaliero non rialzista
 11/11 18:36:29 INFO    Agente fermato.
+11/11 19:01:01 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+11/11 19:01:01 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 19:01:05 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 19:01:05 INFO    Prezzo 76.6400 | medie 80.4660/87.9337 trend GIU | notizie +0.08 su 86 (14 nuove, 0 da Claude) | 4.3s
+11/11 19:01:05 INFO       (-0.7 r0.9 claude) All about Solana’s fall below $83 as market weakness overshadows new privacy upgrade - AMBCrypto
+11/11 19:01:05 INFO       (-0.8 r0.8 claude) Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto Briefing
+11/11 19:01:05 INFO       (-1.0 r0.8 lessico) Solana drops as Chinese authorities halt Solana event in Shanghai - Traders Union
+11/11 19:01:05 INFO    -> ATTENDI: trend giornaliero non rialzista
+11/11 19:01:05 INFO    Agente fermato.
