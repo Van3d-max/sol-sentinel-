@@ -5396,3 +5396,12 @@
 11/11 12:31:01 INFO       (-0.6 r0.6 claude) Crypto ETF Outflows Continue on November 10 as Solana and XRP Funds Face Selling Pressure - FinanceFeeds
 11/11 12:31:01 INFO    -> ATTENDI: notizia shock: Is Capital Abandoning Altcoins? Ethereum and Solana Price Slide - Cryptonews
 11/11 12:31:01 INFO    Agente fermato.
+11/11 12:45:39 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 12:45:40 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 12:45:42 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 12:45:42 INFO    Prezzo 75.3200 | medie 75.2511/74.9000 trend SU | notizie -0.01 su 49 (9 nuove, 0 da Claude) | 2.9s
+11/11 12:45:42 INFO       (-0.7 r0.6 claude) Is Capital Abandoning Altcoins? Ethereum and Solana Price Slide - Cryptonews
+11/11 12:45:42 INFO       (+0.8 r0.8 lessico) Forward Industries Expands Solana Treasury to 8.7 Million SOL as Per-Share Growth Slows - Altcoin Buzz
+11/11 12:45:42 INFO       (-0.6 r0.6 claude) Crypto ETF Outflows Continue on November 10 as Solana and XRP Funds Face Selling Pressure - FinanceFeeds
+11/11 12:45:42 INFO    -> ATTENDI: notizia shock: Is Capital Abandoning Altcoins? Ethereum and Solana Price Slide - Cryptonews
+11/11 12:45:42 INFO    Agente fermato.
