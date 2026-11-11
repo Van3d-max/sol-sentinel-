@@ -5457,3 +5457,13 @@
 11/11 14:15:46 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 11/11 14:15:46 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 11/11 14:15:46 INFO    Agente fermato.
+11/11 14:31:00 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 14:31:00 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 14:31:04 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 14:31:04 INFO    Prezzo 75.9100 | medie 75.5833/75.3062 trend SU | notizie +0.23 su 49 (7 nuove, 0 da Claude) | 4.2s
+11/11 14:31:04 INFO       (+0.8 r0.8 lessico) Forward Industries Expands Solana Treasury to 8.7M SOL Amid Price Decline - KuCoin
+11/11 14:31:04 INFO       (+0.5 r0.8 lessico) Forward Industries Grows SOL Treasury to 8.7M as Token Hits 3-Month Low - CoinMarketCap
+11/11 14:31:04 INFO       (+0.2 r0.8 lessico) The Company Holding 8.7 Million Solana Just Bought More at $75. Will SOL Bounce Back Soon? - 24/7 Wall St.
+11/11 14:31:08 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
+11/11 14:31:08 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
+11/11 14:31:08 INFO    Agente fermato.
