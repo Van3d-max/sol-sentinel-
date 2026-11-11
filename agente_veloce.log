@@ -5549,3 +5549,12 @@
 11/11 16:31:03 INFO       (+0.8 r0.8 lessico) Forward Industries Expands Solana Treasury to 8.7M SOL Amid Price Decline - KuCoin
 11/11 16:31:03 INFO    -> ATTENDI: notizia shock: Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto 
 11/11 16:31:03 INFO    Agente fermato.
+11/11 16:45:42 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 16:45:43 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=36, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 16:45:45 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 16:45:46 INFO    Prezzo 76.2000 | medie 76.0989/75.7576 trend SU | notizie +0.02 su 43 (10 nuove, 0 da Claude) | 3.4s
+11/11 16:45:46 INFO       (-0.6 r1.0 claude) All about Solana’s fall below $83 as market weakness overshadows new privacy upgrade - AMBCrypto
+11/11 16:45:46 INFO       (-0.8 r0.8 claude) Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto Briefing
+11/11 16:45:46 INFO       (+0.8 r0.8 lessico) Forward Industries Expands Solana Treasury to 8.7M SOL Amid Price Decline - KuCoin
+11/11 16:45:46 INFO    -> ATTENDI: notizia shock: Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto 
+11/11 16:45:46 INFO    Agente fermato.
