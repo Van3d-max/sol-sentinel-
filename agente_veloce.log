@@ -4962,3 +4962,11 @@
 11/11 01:15:40 INFO       (-0.3 r0.8 lessico) Crypto Crash Live: Solana, Aave Slide on Fed Hike Fears - CryptoTicker.io
 11/11 01:15:40 INFO    -> ATTENDI: trend giornaliero non rialzista
 11/11 01:15:40 INFO    Agente fermato.
+11/11 01:30:58 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 01:30:58 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 01:31:00 INFO    Prezzo 74.7100 | medie 74.5178/74.5157 trend SU | notizie +0.06 su 51 (7 nuove, 2 da Claude) | 2.6s
+11/11 01:31:00 INFO       (-1.0 r0.8 lessico) Independent Solana Validators Seek Halt to Removals Under New SFDP Rules - www.tokenpost.com
+11/11 01:31:00 INFO       (+0.5 r0.9 claude) Solana Leads Five-Asset Open Interest Gains With a 5.17% Rise - www.tokenpost.com
+11/11 01:31:00 INFO       (+0.6 r0.9 claude) Forward Industries Adds 226,000 Solana, Raising Holdings to 8.7 Million SOL - bloomingbit
+11/11 01:31:00 INFO    -> ATTENDI: notizia shock: Independent Solana Validators Seek Halt to Removals Under New SFDP Rules - www.t
+11/11 01:31:00 INFO    Agente fermato.
