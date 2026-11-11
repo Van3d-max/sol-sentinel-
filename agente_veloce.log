@@ -5663,3 +5663,14 @@
 11/11 19:31:06 INFO       ribassista: Il prezzo è sotto la media a 10 periodi (76,72), SOL ha toccato un minimo di tre mesi durante una vendita generalizzata del mercato crypto, e il sentiment delle notizie più recenti è prevalentemente negativo.
 11/11 19:31:06 INFO    -> BLOCCATO DAL DIBATTITO: I segnali tecnici sono neutri, il sentiment di mercato è debole con un minimo trimestrale e un sell-off in corso, e con evidenze insufficienti per giustificare un acquisto spot non protetto il rischio è troppo alto.
 11/11 19:31:06 INFO    Agente fermato.
+11/11 19:45:43 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 19:45:44 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 19:45:48 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":0.'): uso il dizionario
+11/11 19:45:48 INFO    Prezzo 76.2800 | medie 76.6467/76.4200 trend SU | notizie +0.07 su 42 (13 nuove, 0 da Claude) | 5.1s
+11/11 19:45:48 INFO       (-0.6 r1.0 claude) All about Solana’s fall below $83 as market weakness overshadows new privacy upgrade - AMBCrypto
+11/11 19:45:48 INFO       (-0.8 r0.8 claude) Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto Briefing
+11/11 19:45:48 INFO       (+0.6 r0.6 claude) What Is Charles Schwab (SCHW) Signaling By Adding Solana, Avalanche And Chainlink? - Yahoo Finance
+11/11 19:45:51 INFO       rialzista: Il prezzo di 76,28 USD è vicino alla media mobile a 30 periodi (76,42) e il punteggio notizie è leggermente positivo (+0,071), con l'ingresso di Charles Schwab come segnale di interesse istituzionale.
+11/11 19:45:51 INFO       ribassista: Il prezzo è sotto entrambe le medie (10 periodi a 76,65 e 30 periodi a 76,42), SOL è ai minimi di 3 mesi dopo il calo di Bitcoin sotto 73.000 USD e le notizie più pesanti sono negative (-0,6 e -0,8).
+11/11 19:45:51 INFO    -> BLOCCATO DAL DIBATTITO: Il trend è debole con prezzo sotto le medie e titoli prevalentemente negativi che segnalano un possibile ulteriore ribasso, mentre il segnale positivo è isolato e il punteggio medio delle notizie è quasi neutro, quindi le prove non giustificano l'ingresso.
+11/11 19:45:51 INFO    Agente fermato.
