@@ -5271,3 +5271,13 @@
 11/11 09:15:47 INFO       ribassista: Il prezzo è già sotto la media a 10 periodi, non mostra un trend chiaro, il sentiment è debole e il titolo che segnala un minimo a 30 giorni a 84$ contraddice il prezzo attuale, quindi i segnali sono incoerenti e potenzialmente promozionali.
 11/11 09:15:47 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: prezzo fermo sulle medie senza trend, sentiment modesto e contraddittorio, e un titolo incoerente con i dati di mercato, quindi il rischio non è giustificato dalle prove disponibili.
 11/11 09:15:47 INFO    Agente fermato.
+11/11 09:30:59 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 09:30:59 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 09:31:02 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 09:31:02 INFO    Prezzo 74.6600 | medie 74.4633/74.3329 trend SU | notizie +0.20 su 50 (9 nuove, 0 da Claude) | 3.4s
+11/11 09:31:02 INFO       (+0.8 r0.8 lessico) Forward Industries Expands Solana Treasury to 8.7 Million SOL as Per-Share Growth Slows - Altcoin Buzz
+11/11 09:31:02 INFO       (-0.6 r0.9 claude) Solana Price Today: SOL Slides to a 30 Day Low at $84 While Big Buyers Back Pepeto’s Zero Fee Exchange - Stree
+11/11 09:31:02 INFO       (+0.3 r0.8 lessico) Helius Launches Amount-Hiding Payments Infrastructure on Solana; Enterprise Version to Go Live This Year - Big
+11/11 09:31:07 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
+11/11 09:31:07 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
+11/11 09:31:07 INFO    Agente fermato.
