@@ -5674,3 +5674,14 @@
 11/11 19:45:51 INFO       ribassista: Il prezzo è sotto entrambe le medie (10 periodi a 76,65 e 30 periodi a 76,42), SOL è ai minimi di 3 mesi dopo il calo di Bitcoin sotto 73.000 USD e le notizie più pesanti sono negative (-0,6 e -0,8).
 11/11 19:45:51 INFO    -> BLOCCATO DAL DIBATTITO: Il trend è debole con prezzo sotto le medie e titoli prevalentemente negativi che segnalano un possibile ulteriore ribasso, mentre il segnale positivo è isolato e il punteggio medio delle notizie è quasi neutro, quindi le prove non giustificano l'ingresso.
 11/11 19:45:51 INFO    Agente fermato.
+11/11 20:01:09 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 20:01:10 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 20:01:13 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 20:01:14 INFO    Prezzo 76.4500 | medie 76.5678/76.4467 trend SU | notizie +0.07 su 41 (13 nuove, 0 da Claude) | 4.5s
+11/11 20:01:14 INFO       (-0.6 r1.0 claude) All about Solana’s fall below $83 as market weakness overshadows new privacy upgrade - AMBCrypto
+11/11 20:01:14 INFO       (-0.8 r0.8 claude) Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto Briefing
+11/11 20:01:14 INFO       (+0.6 r0.6 claude) What Is Charles Schwab (SCHW) Signaling By Adding Solana, Avalanche And Chainlink? - Yahoo Finance
+11/11 20:01:18 INFO       rialzista: Il prezzo (76,45) è vicino alla media mobile a 30 periodi e l'ingresso spot senza leva limita la perdita massima, con una possibile ripresa da Schwab che aggiunge SOL ai propri asset.
+11/11 20:01:18 INFO       ribassista: SOL è sotto la media a 10 periodi, tocca un minimo di tre mesi dopo il calo di Bitcoin sotto 73K, e le notizie negative (-0.6 e -0.8) pesano più del lieve punteggio complessivo positivo di +0.071.
+11/11 20:01:18 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole e contrastante: il punteggio notizie è quasi neutro, la maggior parte dei titoli è negativa, il prezzo è sotto la media a 10 periodi e l'ATR giornaliero di 0,35 appare anomalo e poco affidabile per un asset così volatile, quindi non ci sono evidenze sufficienti per entrare.
+11/11 20:01:18 INFO    Agente fermato.
