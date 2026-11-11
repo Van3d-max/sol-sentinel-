@@ -5006,3 +5006,12 @@
 11/11 02:15:43 INFO       (+0.6 r0.9 claude) Forward Industries Adds 226,000 Solana, Raising Holdings to 8.7 Million SOL - bloomingbit
 11/11 02:15:43 INFO    -> ATTENDI: notizia shock: Independent Solana Validators Seek Halt to Removals Under New SFDP Rules - www.t
 11/11 02:15:43 INFO    Agente fermato.
+11/11 02:30:57 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 02:30:57 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 02:30:59 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 02:31:00 INFO    Prezzo 74.3100 | medie 74.5122/74.4995 trend SU | notizie +0.02 su 53 (9 nuove, 0 da Claude) | 3.0s
+11/11 02:31:00 INFO       (-1.0 r0.8 lessico) Independent Solana Validators Seek Halt to Removals Under New SFDP Rules - www.tokenpost.com
+11/11 02:31:00 INFO       (+0.5 r0.9 claude) Solana Leads Five-Asset Open Interest Gains With a 5.17% Rise - www.tokenpost.com
+11/11 02:31:00 INFO       (+0.6 r0.9 claude) Forward Industries Adds 226,000 Solana, Raising Holdings to 8.7 Million SOL - bloomingbit
+11/11 02:31:00 INFO    -> ATTENDI: notizia shock: Independent Solana Validators Seek Halt to Removals Under New SFDP Rules - www.t
+11/11 02:31:00 INFO    Agente fermato.
