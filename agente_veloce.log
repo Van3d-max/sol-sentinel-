@@ -5324,3 +5324,14 @@
 11/11 10:31:04 INFO       ribassista: Il titolo che parla di un minimo a 30 giorni a 84 dollari è incoerente con il prezzo di mercato, una delle fonti è promozionale e il margine sulle medie è minimo, quindi il segnale è debole.
 11/11 10:31:04 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono deboli e contraddittorie (notizie incoerenti con il prezzo e una fonte promozionale), il prezzo è appena sopra le medie con un ATR molto basso e non c'è un vantaggio chiaro che giustifichi l'ingresso.
 11/11 10:31:04 INFO    Agente fermato.
+11/11 10:45:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 10:45:40 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 10:45:42 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":0.6,"s":-0'): uso il dizionario
+11/11 10:45:43 INFO    Prezzo 75.2200 | medie 74.7578/74.5167 trend SU | notizie +0.23 su 50 (10 nuove, 0 da Claude) | 3.0s
+11/11 10:45:43 INFO       (+0.8 r0.8 lessico) Forward Industries Expands Solana Treasury to 8.7 Million SOL as Per-Share Growth Slows - Altcoin Buzz
+11/11 10:45:43 INFO       (+0.3 r0.8 lessico) Helius Launches Amount-Hiding Payments Infrastructure on Solana; Enterprise Version to Go Live This Year - Big
+11/11 10:45:43 INFO       (+0.3 r0.8 lessico) Charles Schwab adds Solana, Avalanche and Chainlink as altcoin prices slide - Startup Fortune
+11/11 10:45:46 INFO       rialzista: Il prezzo (75.22) si trova sopra le medie mobili a 10 e 30 periodi, e il punteggio delle notizie (0.227) è leggermente positivo, con segnali istituzionali come l'ingresso di Schwab.
+11/11 10:45:46 INFO       ribassista: Il prezzo è appena lo 0.6% sopra la media a 10 periodi, l'ATR è contenuto, e i titoli sono contrastanti: il titolo su Forward Industries segnala un rallentamento della crescita per azione e Schwab aggiunge SOL mentre i prezzi degli altcoin scendono.
+11/11 10:45:46 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è troppo debole, con il prezzo a ridosso delle medie, e le notizie sono miste e poco significative, quindi il rischio non è giustificato da evidenze sufficienti.
+11/11 10:45:46 INFO    Agente fermato.
