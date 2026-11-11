@@ -1508,3 +1508,12 @@
 11/11 15:01:09 INFO       (-0.6 r0.8 claude) Solana Price Today: SOL Slides to a 30 Day Low at $84 While Big Buyers Back Pepeto’s Zero Fee Exchange - Stree
 11/11 15:01:09 INFO    -> ATTENDI: trend giornaliero non rialzista
 11/11 15:01:09 INFO    Agente fermato.
+11/11 16:01:03 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+11/11 16:01:04 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=36, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 16:01:08 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 16:01:08 INFO    Prezzo 76.4000 | medie 80.4660/87.9337 trend GIU | notizie +0.08 su 91 (17 nuove, 1 da Claude) | 5.1s
+11/11 16:01:08 INFO       (-0.8 r0.8 claude) Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto Briefing
+11/11 16:01:08 INFO       (+0.5 r0.8 lessico) Forward Industries Grows SOL Treasury to 8.7M as Token Hits 3-Month Low - CoinMarketCap
+11/11 16:01:08 INFO       (+0.3 r0.9 claude) Forward Industries Expands Solana Treasury to 8.7M SOL Amid Price Decline - KuCoin
+11/11 16:01:08 INFO    -> ATTENDI: trend giornaliero non rialzista
+11/11 16:01:08 INFO    Agente fermato.
