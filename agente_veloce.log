@@ -5055,3 +5055,11 @@
 11/11 03:31:05 INFO       ribassista: Il punteggio delle notizie è quasi neutro (0,019), il prezzo sta appena sopra le medie con un margine minimo, e un titolo segnala SOL in calo a un minimo di 30 giorni a 84 dollari, incoerente con il prezzo attuale e quindi poco affidabile.
 11/11 03:31:05 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono deboli e contrastanti: il sentiment è neutro, il vantaggio sulle medie è minimo, l'ATR giornaliero molto basso è incoerente con la volatilità tipica di SOL, e un titolo contraddittorio rende incerti i dati, quindi il rischio non è giustificato.
 11/11 03:31:05 INFO    Agente fermato.
+11/11 03:45:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 03:45:41 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 03:45:43 INFO    Prezzo 74.5900 | medie 74.6044/74.5100 trend SU | notizie +0.01 su 52 (6 nuove, 1 da Claude) | 2.5s
+11/11 03:45:43 INFO       (-0.7 r1.0 claude) Solana losses widen as ETF outflows continue - 디지털투데이
+11/11 03:45:43 INFO       (+0.5 r0.9 claude) Solana Leads Five-Asset Open Interest Gains With a 5.17% Rise - www.tokenpost.com
+11/11 03:45:43 INFO       (+0.6 r0.9 claude) Forward Industries Adds 226,000 Solana, Raising Holdings to 8.7 Million SOL - bloomingbit
+11/11 03:45:43 INFO    -> ATTENDI: notizia shock: Solana losses widen as ETF outflows continue - 디지털투데이
+11/11 03:45:43 INFO    Agente fermato.
