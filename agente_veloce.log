@@ -5685,3 +5685,14 @@
 11/11 20:01:18 INFO       ribassista: SOL è sotto la media a 10 periodi, tocca un minimo di tre mesi dopo il calo di Bitcoin sotto 73K, e le notizie negative (-0.6 e -0.8) pesano più del lieve punteggio complessivo positivo di +0.071.
 11/11 20:01:18 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole e contrastante: il punteggio notizie è quasi neutro, la maggior parte dei titoli è negativa, il prezzo è sotto la media a 10 periodi e l'ATR giornaliero di 0,35 appare anomalo e poco affidabile per un asset così volatile, quindi non ci sono evidenze sufficienti per entrare.
 11/11 20:01:18 INFO    Agente fermato.
+11/11 20:15:45 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 20:15:46 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 20:15:49 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 20:15:49 INFO    Prezzo 76.6300 | medie 76.5344/76.4848 trend SU | notizie +0.08 su 40 (14 nuove, 0 da Claude) | 3.9s
+11/11 20:15:49 INFO       (-0.6 r1.0 claude) All about Solana’s fall below $83 as market weakness overshadows new privacy upgrade - AMBCrypto
+11/11 20:15:49 INFO       (-0.8 r0.8 claude) Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto Briefing
+11/11 20:15:49 INFO       (+0.6 r0.6 claude) What Is Charles Schwab (SCHW) Signaling By Adding Solana, Avalanche And Chainlink? - Yahoo Finance
+11/11 20:15:52 INFO       rialzista: Il prezzo (76,63) è leggermente sopra le medie mobili a 10 e 30 periodi, e il sentiment di Schwab che aggiunge SOL al proprio paniere suggerisce interesse istituzionale.
+11/11 20:15:52 INFO       ribassista: Le notizie negative su un calo sotto 83 dollari e su un minimo a tre mesi, insieme al sell-off generale di Bitcoin sotto 73K, indicano una debolezza di mercato che potrebbe proseguire.
+11/11 20:15:52 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è troppo debole (prezzo appena sopra medie quasi coincidenti) e il punteggio notizie quasi neutro (0,078) è controbilanciato da titoli prevalentemente ribassisti, quindi il rischio non è giustificato.
+11/11 20:15:52 INFO    Agente fermato.
