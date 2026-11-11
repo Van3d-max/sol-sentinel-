@@ -5752,3 +5752,12 @@
 11/11 22:30:59 INFO       (+0.3 r0.7 claude) Solana Co Q3 revenue beats estimates on SOL staking - TradingView
 11/11 22:30:59 INFO    -> ATTENDI: trend giornaliero non rialzista
 11/11 22:30:59 INFO    Agente fermato.
+11/11 22:45:41 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 22:45:41 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 22:45:44 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 22:45:44 INFO    Prezzo 75.5100 | medie 76.3056/76.4800 trend GIU | notizie +0.14 su 48 (13 nuove, 0 da Claude) | 3.6s
+11/11 22:45:44 INFO       (+0.7 r0.6 lessico) DeFi Development launches tokenized preferred stock on Solana - Investing.com
+11/11 22:45:44 INFO       (+0.6 r0.6 claude) What Does Charles Schwab (SCHW) Adding Solana, Avalanche And Chainlink Mean? - Simply Wall St
+11/11 22:45:44 INFO       (+0.3 r0.7 claude) Solana Co Q3 revenue beats estimates on SOL staking - TradingView
+11/11 22:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista
+11/11 22:45:44 INFO    Agente fermato.
