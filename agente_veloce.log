@@ -5630,3 +5630,14 @@
 11/11 18:45:47 INFO       ribassista: Le notizie recenti sono prevalentemente negative, con SOL su minimi di tre mesi durante una vendita generalizzata del mercato crypto, e il prezzo è appena sopra le medie, quindi il segnale di trend è debole.
 11/11 18:45:47 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è marginale (prezzo quasi coincidente con le medie mobili), il sentiment è sostanzialmente neutro e il contesto macro di mercato è negativo, quindi le prove non giustificano un acquisto spot.
 11/11 18:45:47 INFO    Agente fermato.
+11/11 19:01:09 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 19:01:10 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 19:01:14 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 19:01:14 INFO    Prezzo 76.6400 | medie 76.7700/76.3443 trend SU | notizie +0.07 su 42 (13 nuove, 0 da Claude) | 4.7s
+11/11 19:01:14 INFO       (-0.6 r1.0 claude) All about Solana’s fall below $83 as market weakness overshadows new privacy upgrade - AMBCrypto
+11/11 19:01:14 INFO       (-0.8 r0.8 claude) Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto Briefing
+11/11 19:01:14 INFO       (+0.6 r0.6 claude) What Is Charles Schwab (SCHW) Signaling By Adding Solana, Avalanche And Chainlink? - Yahoo Finance
+11/11 19:01:17 INFO       rialzista: Il prezzo (76.64) è sopra la media mobile a 30 periodi (76.34), e la notizia su Charles Schwab che aggiunge SOL indica interesse istituzionale.
+11/11 19:01:17 INFO       ribassista: Il prezzo è sotto la media a 10 periodi (76.77), il punteggio delle notizie è quasi neutro (0.072) e i titoli recenti parlano di un minimo di tre mesi e di una vendita generale del mercato crypto.
+11/11 19:01:17 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è incerto rispetto alle medie, le notizie sono prevalentemente negative con un sentiment complessivo quasi neutro, e il contesto di sell-off del mercato rende rischioso aprire una posizione spot senza un catalizzatore chiaro.
+11/11 19:01:17 INFO    Agente fermato.
