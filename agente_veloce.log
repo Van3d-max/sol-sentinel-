@@ -4915,3 +4915,14 @@
 11/11 00:01:23 INFO       ribassista: Il vantaggio sulle medie è minimo, il punteggio notizie è quasi neutro (0,052), e un titolo recente segnala un calo legato ai timori di rialzo dei tassi della Fed.
 11/11 00:01:23 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è debole (prezzo a meno dello 0,1% sopra le medie con ATR di circa lo 0,4%), il sentiment è neutro e le notizie sono contrastanti, quindi il rapporto rischio/rendimento non giustifica l'ingresso.
 11/11 00:01:23 INFO    Agente fermato.
+11/11 00:15:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 00:15:40 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 00:15:42 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+11/11 00:15:42 INFO    Prezzo 74.6400 | medie 74.4289/74.4238 trend SU | notizie +0.06 su 52 (5 nuove, 0 da Claude) | 2.6s
+11/11 00:15:42 INFO       (+0.6 r0.9 claude) Forward Industries Adds 226,000 Solana, Raising Holdings to 8.7 Million SOL - bloomingbit
+11/11 00:15:42 INFO       (+0.6 r0.8 lessico) Solana Tokenized Stock Volume Surges, 'Token Super Cycle' Coming, Backpack CEO Says - TradingView
+11/11 00:15:42 INFO       (-0.3 r0.8 lessico) Crypto Crash Live: Solana, Aave Slide on Fed Hike Fears - CryptoTicker.io
+11/11 00:15:45 INFO       rialzista: Il prezzo (74.64) è sopra sia la media a 10 periodi (74.43) sia quella a 30 (74.42), e i titoli su accumuli istituzionali e volumi di asset tokenizzati suggeriscono domanda di fondo.
+11/11 00:15:45 INFO       ribassista: Il segnale tecnico è marginale, con il prezzo appena lo 0,3% sopra le medie, il punteggio delle notizie quasi neutro (0,055) e il timore di rialzi dei tassi della Fed che pesa su SOL.
+11/11 00:15:45 INFO    -> BLOCCATO DAL DIBATTITO: Il vantaggio tecnico è troppo debole, il sentiment è neutro con rischio macro al ribasso e non c'è una chiara tesi di ingresso o un livello di stop definito, quindi il rischio non è giustificato.
+11/11 00:15:45 INFO    Agente fermato.
