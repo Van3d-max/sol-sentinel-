@@ -5641,3 +5641,14 @@
 11/11 19:01:17 INFO       ribassista: Il prezzo è sotto la media a 10 periodi (76.77), il punteggio delle notizie è quasi neutro (0.072) e i titoli recenti parlano di un minimo di tre mesi e di una vendita generale del mercato crypto.
 11/11 19:01:17 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è incerto rispetto alle medie, le notizie sono prevalentemente negative con un sentiment complessivo quasi neutro, e il contesto di sell-off del mercato rende rischioso aprire una posizione spot senza un catalizzatore chiaro.
 11/11 19:01:17 INFO    Agente fermato.
+11/11 19:15:43 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+11/11 19:15:44 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+11/11 19:15:47 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":0'): uso il dizionario
+11/11 19:15:47 INFO    Prezzo 76.2200 | medie 76.7422/76.3495 trend SU | notizie +0.07 su 42 (14 nuove, 0 da Claude) | 3.9s
+11/11 19:15:47 INFO       (-0.6 r1.0 claude) All about Solana’s fall below $83 as market weakness overshadows new privacy upgrade - AMBCrypto
+11/11 19:15:47 INFO       (-0.8 r0.8 claude) Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto Briefing
+11/11 19:15:47 INFO       (+0.6 r0.6 claude) What Is Charles Schwab (SCHW) Signaling By Adding Solana, Avalanche And Chainlink? - Yahoo Finance
+11/11 19:15:50 INFO       rialzista: Il prezzo a 76,22 è vicino alle medie mobili a 10 e 30 periodi e la notizia di Charles Schwab che aggiunge SOL suggerisce un interesse istituzionale di lungo periodo.
+11/11 19:15:50 INFO       ribassista: Il prezzo è sotto entrambe le medie mobili, il sentiment delle notizie recenti è prevalentemente negativo con SOL su un minimo di tre mesi e il mercato generale è in fase di vendita.
+11/11 19:15:50 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo è sotto entrambe le medie mobili, le notizie recenti sono per lo più negative e il punteggio complessivo di +0,069 è troppo debole per giustificare un acquisto spot in un contesto di debolezza del mercato.
+11/11 19:15:50 INFO    Agente fermato.
