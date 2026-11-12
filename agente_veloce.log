@@ -5901,3 +5901,11 @@
 12/11 02:31:00 INFO       (+0.4 r0.7 claude) Solana Company Swings to $105.2 Million Q3 Profit, Adds 125,000 SOL - Yahoo Finance
 12/11 02:31:00 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 02:31:00 INFO    Agente fermato.
+12/11 02:45:37 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 02:45:38 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 02:45:40 INFO    Prezzo 75.2600 | medie 75.1233/75.2833 trend GIU | notizie +0.14 su 47 (7 nuove, 2 da Claude) | 2.9s
+12/11 02:45:40 INFO       (+0.2 r0.8 lessico) Solana Company Misses On Normalized EPS As A $105 Million GAAP Profit Rides SOL's Rally, While Staking Revenue
+12/11 02:45:40 INFO       (+0.4 r0.7 claude) Solana Company Swings to $105.2 Million Q3 Profit, Adds 125,000 SOL - Yahoo Finance
+12/11 02:45:40 INFO       (+0.1 r0.8 lessico) Solana Company posts $3.4 million in Q3 revenue as staking income climbs - Crypto Briefing
+12/11 02:45:40 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 02:45:40 INFO    Agente fermato.
