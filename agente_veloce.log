@@ -5829,3 +5829,12 @@
 12/11 00:31:00 INFO       (+0.3 r0.5 claude) Earnings call transcript: Solana Company posts huge Q3 2026 beat as stock edges up - Investing.com UK
 12/11 00:31:00 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 00:31:00 INFO    Agente fermato.
+12/11 00:45:42 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 00:45:42 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 00:45:44 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 00:45:44 INFO    Prezzo 75.4300 | medie 75.0400/75.8300 trend GIU | notizie +0.16 su 48 (2 nuove, 0 da Claude) | 2.2s
+12/11 00:45:44 INFO       (+0.2 r0.8 lessico) Solana Company Misses On Normalized EPS As A $105 Million GAAP Profit Rides SOL's Rally, While Staking Revenue
+12/11 00:45:44 INFO       (+0.4 r0.7 claude) Solana Company Swings to $105.2 Million Q3 Profit, Adds 125,000 SOL - Yahoo Finance
+12/11 00:45:44 INFO       (+0.6 r0.6 claude) What Does Charles Schwab (SCHW) Adding Solana, Avalanche And Chainlink Mean? - Simply Wall St
+12/11 00:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 00:45:44 INFO    Agente fermato.
