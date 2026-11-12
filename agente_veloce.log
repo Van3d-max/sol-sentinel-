@@ -5967,3 +5967,13 @@
 12/11 04:01:19 INFO       ribassista: Il prezzo è appena lo 0.2% sopra la media a 10 periodi, l'ATR giornaliero è molto contenuto, quindi il segnale di trend è debole, e i titoli riguardano in gran parte una società quotata con utili contabili, non la rete SOL in sé.
 12/11 04:01:19 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è troppo debole (prezzo quasi piatto rispetto alle medie) e le notizie sono in gran parte indirette o relative a una società, quindi le prove non giustificano l'acquisto spot.
 12/11 04:01:19 INFO    Agente fermato.
+12/11 04:15:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 04:15:41 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 04:15:43 INFO    Prezzo 74.9500 | medie 75.1556/75.0481 trend SU | notizie +0.12 su 47 (8 nuove, 1 da Claude) | 3.2s
+12/11 04:15:43 INFO       (+0.4 r0.4 claude) SpaceX on-chain, BlackRock on Solana, Ondo builds the tails: Tokenization’s breakout year - AMBCrypto
+12/11 04:15:43 INFO       (+0.2 r0.8 lessico) Solana Company Misses On Normalized EPS As A $105 Million GAAP Profit Rides SOL's Rally, While Staking Revenue
+12/11 04:15:43 INFO       (+0.4 r0.7 claude) Solana Company Swings to $105.2 Million Q3 Profit, Adds 125,000 SOL - Yahoo Finance
+12/11 04:15:47 INFO       rialzista: Il prezzo di 74,95 è vicino alle medie mobili a 10 e 30 periodi e il punteggio delle notizie è leggermente positivo (0,124), con titoli su tokenizzazione e interesse istituzionale come BlackRock.
+12/11 04:15:47 INFO       ribassista: Il prezzo è sotto entrambe le medie mobili, il punteggio delle notizie è debole, i titoli più favorevoli riguardano una società quotata che detiene SOL e non la rete, e l'ATR giornaliero di 0,33 (circa lo 0,4% del prezzo) appare implausibilmente basso per SOL, quindi i dati di volatilità potrebbero essere errati.
+12/11 04:15:47 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono deboli e contrastanti, il segnale tecnico è neutro e i dati di volatilità sembrano inaffidabili, quindi non si giustifica un acquisto spot senza una conferma più solida.
+12/11 04:15:47 INFO    Agente fermato.
