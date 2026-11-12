@@ -6514,3 +6514,14 @@
 12/11 18:45:52 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 12/11 18:45:52 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 12/11 18:45:52 INFO    Agente fermato.
+12/11 19:01:18 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 19:01:18 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 19:01:21 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 19:01:22 INFO    Prezzo 73.7100 | medie 73.7656/73.5167 trend SU | notizie +0.36 su 77 (18 nuove, 0 da Claude) | 3.6s
+12/11 19:01:22 INFO       (+0.6 r0.9 claude) DTCC Brings Tokenized Securities to Solana in 2027, Opening Russell 1000 Stocks, ETFs, and Treasuries to a Pub
+12/11 19:01:22 INFO       (+0.6 r0.9 claude) DTCC to Bring Tokenized Securities to Solana in 2027 - FinanceFeeds
+12/11 19:01:22 INFO       (+0.6 r0.9 claude) DTCC Picks Solana for Tokenized Stocks and Treasuries in 2027 - Altcoin Buzz
+12/11 19:01:25 INFO       rialzista: Il prezzo (73,71) sta sopra la media mobile a 30 periodi (73,52) e le notizie su DTCC che porta titoli tokenizzati su Solana potrebbero attirare capitali istituzionali nel medio termine.
+12/11 19:01:25 INFO       ribassista: Il prezzo è sotto la media a 10 periodi (73,77) senza un trend chiaro, l'ATR giornaliero di 0,40 indica bassa volatilità e le notizie riguardano un'adozione prevista nel 2027, quindi non giustificano un acquisto immediato.
+12/11 19:01:25 INFO    -> BLOCCATO DAL DIBATTITO: Le prove a favore sono deboli: il segnale tecnico è neutro, lo slancio è assente e il catalizzatore positivo è lontano nel tempo e probabilmente già scontato, quindi il rischio non è giustificato.
+12/11 19:01:25 INFO    Agente fermato.
