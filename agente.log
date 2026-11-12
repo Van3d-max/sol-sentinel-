@@ -1773,3 +1773,12 @@
 12/11 18:01:09 INFO       (+0.7 r0.8 lessico) DTCC Picks Solana for Tokenized Stocks and Treasuries, Targeting 2027 Launch - BigGo Finance
 12/11 18:01:09 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 18:01:09 INFO    Agente fermato.
+12/11 18:09:09 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+12/11 18:09:10 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 18:09:15 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 18:09:15 INFO    Prezzo 73.9100 | medie 79.5020/87.2763 trend GIU | notizie +0.24 su 93 (22 nuove, 5 da Claude) | 6.0s
+12/11 18:09:15 INFO       (+1.0 r0.8 lessico) Helius has launched a permissionless privacy layer on the Solana mainnet, with the institutional version expec
+12/11 18:09:15 INFO       (+0.6 r0.9 claude) BREAKING: DTCC to tokenize securities on Solana — Live - The Block
+12/11 18:09:15 INFO       (+0.5 r0.9 claude) DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout
+12/11 18:09:15 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 18:09:15 INFO    Agente fermato.
