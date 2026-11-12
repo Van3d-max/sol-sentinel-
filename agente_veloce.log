@@ -6474,3 +6474,13 @@
 12/11 17:45:50 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
 12/11 17:45:50 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
 12/11 17:45:50 INFO    Agente fermato.
+12/11 18:01:11 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 18:01:11 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 18:01:14 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 18:01:15 INFO    Prezzo 73.9600 | medie 73.6967/73.4676 trend SU | notizie +0.33 su 77 (15 nuove, 0 da Claude) | 3.8s
+12/11 18:01:15 INFO       (+0.6 r0.9 claude) DTCC to Bring Tokenized Securities to Solana in 2027 - FinanceFeeds
+12/11 18:01:15 INFO       (+0.6 r0.9 claude) DTCC Picks Solana for Tokenized Stocks and Treasuries in 2027 - Altcoin Buzz
+12/11 18:01:15 INFO       (+0.6 r0.9 claude) Solana Scores Regulatory Win as Tokenization Tsunami Swells - Benzinga
+12/11 18:01:18 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
+12/11 18:01:18 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
+12/11 18:01:18 INFO    Agente fermato.
