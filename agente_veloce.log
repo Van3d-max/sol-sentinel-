@@ -6210,3 +6210,12 @@
 12/11 10:45:45 INFO       (+0.2 r0.5 claude) xStocks owns 75% of Solana’s tokenized stocks – Rises to $607M in a year - AMBCrypto
 12/11 10:45:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.08)
 12/11 10:45:45 INFO    Agente fermato.
+12/11 11:01:13 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 11:01:13 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 11:01:15 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 11:01:16 INFO    Prezzo 74.7600 | medie 74.7867/74.7652 trend SU | notizie -0.03 su 44 (10 nuove, 0 da Claude) | 3.1s
+12/11 11:01:16 INFO       (-0.6 r0.6 claude) Higher inflation keeps Solana pressured amid rising rate fears and persistent outflows from risk assets - Trad
+12/11 11:01:16 INFO       (-0.6 r0.9 claude) ETF outflows coincide with Solana price weakness as resistance caps upside - Traders Union
+12/11 11:01:16 INFO       (+0.3 r0.8 lessico) Solana Mobile adds Helius and Jito as Guardians to enhance dApp Store security and policy checks - Pluang
+12/11 11:01:16 INFO    -> ATTENDI: notizie sotto la soglia (-0.03)
+12/11 11:01:16 INFO    Agente fermato.
