@@ -39,7 +39,7 @@ jobs:
       - name: Previsione
         env:
           KRONOS_DIR: ${{ github.workspace }}/kronos_lib
-        run: python kronos_osservatore.py --modello small --scenari 20
+        run: python kronos_osservatore.py --modello small --scenari 20 --contesto 72
       - name: Salva risultati
         run: |
           git config user.name "kronos-bot"
