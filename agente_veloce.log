@@ -6032,3 +6032,12 @@
 12/11 05:45:41 INFO       (+0.2 r0.8 lessico) Solana Company Misses On Normalized EPS As A $105 Million GAAP Profit Rides SOL's Rally, While Staking Revenue
 12/11 05:45:41 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 05:45:41 INFO    Agente fermato.
+12/11 06:01:14 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 06:01:15 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 06:01:17 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 06:01:17 INFO    Prezzo 74.7800 | medie 74.8889/75.0086 trend GIU | notizie +0.13 su 47 (7 nuove, 0 da Claude) | 2.7s
+12/11 06:01:17 INFO       (+0.4 r0.4 claude) SpaceX on-chain, BlackRock on Solana, Ondo builds the tails: Tokenization’s breakout year - AMBCrypto
+12/11 06:01:17 INFO       (+0.2 r0.4 claude) 'Milestone quarter': Solana Company reports Q3 revenue growth driven by staking rewards - Cryptonews.net
+12/11 06:01:17 INFO       (+0.2 r0.8 lessico) Solana Company Misses On Normalized EPS As A $105 Million GAAP Profit Rides SOL's Rally, While Staking Revenue
+12/11 06:01:17 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 06:01:17 INFO    Agente fermato.
