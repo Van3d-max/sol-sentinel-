@@ -54,5 +54,26 @@
   "file_operazioni": "operazioni_agente.csv",
   "file_log": "agente.log",
   "file_cache": "cache_notizie.json",
-  "file_chiave_api": "cdp_api_key.json"
+  "file_chiave_api": "cdp_api_key.json",
+  "freno": {
+    "attivo": true,
+    "ultime_operazioni": 5,
+    "perdita_max_eur": 8.0,
+    "perdita_7_giorni_eur": 12.0,
+    "pausa_ore": 48
+  },
+  "filtri_appresi": [],
+  "revisione": {
+    "modello": "claude-sonnet-5-5"
+  },
+  "apprendimento": {
+    "auto": true,
+    "max_filtri": 3,
+    "min_operazioni": 30,
+    "guadagno_min_eur": 8.0,
+    "meta_min_eur": 3.0,
+    "verifica_dopo_operazioni": 8,
+    "nuovi_a_settimana": 1,
+    "quarantena_giorni": 28
+  }
 }

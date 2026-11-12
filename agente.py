@@ -30,6 +30,7 @@ from zoneinfo import ZoneInfo
 
 import requests
 
+import apprendimento as ap
 import notizie as nz
 from strategia import sma, atr
 
@@ -127,6 +128,18 @@ class Stato:
 
 def scrivi_csv(file, campi, riga):
     nuovo = not os.path.exists(file)
+    if not nuovo:                                     # registro vecchio con meno colonne: lo aggiorno
+        with open(file, newline="", encoding="utf-8") as f:
+            vecchie = list(csv.reader(f, delimiter=";"))
+        if vecchie and vecchie[0] != campi:
+            intest = vecchie[0]
+            righe = [dict(zip(intest, r)) for r in vecchie[1:]]
+            with open(file + ".tmp", "w", newline="", encoding="utf-8") as f:
+                w = csv.DictWriter(f, fieldnames=campi, delimiter=";")
+                w.writeheader()
+                for r in righe:
+                    w.writerow({k: r.get(k, "") for k in campi})
+            os.replace(file + ".tmp", file)
     with open(file, "a", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=campi, delimiter=";")
         if nuovo:
@@ -136,10 +149,10 @@ def scrivi_csv(file, campi, riga):
 
 CAMPI_DEC = ["data", "prezzo", "media_veloce", "media_lenta", "trend", "punteggio_notizie",
              "n_notizie", "nuove", "valutate_claude", "shock", "posizione", "azione", "motivo",
-             "notizia_principale"]
+             "notizia_principale", "atr_pct"]
 CAMPI_OP = ["data_apertura", "data_chiusura", "modalita", "coppia", "quantita", "prezzo_entrata",
             "prezzo_uscita", "acquisto_eur", "vendita_eur", "commissioni_eur", "risultato_netto_eur",
-            "motivo_uscita", "notizie_ingresso", "dibattito", "id_ordini"]
+            "motivo_uscita", "notizie_ingresso", "dibattito", "id_ordini", "durata_ore"] + ap.CAMPI_CONTESTO
 
 
 # ------------------------------------------------------------------ agente
@@ -191,12 +204,13 @@ class Agente:
 
         azione, motivo = "attendi", ""
         pos = self.s.d["pos"]
+        ctx = ap.contesto(cfg, prezzo, mv, ml, a, agg, datetime.now(self.tz))
         if pos:
             azione, motivo = self.gestisci(pos, prezzo, trend, agg)
         else:
-            ok, motivo = self.puo_entrare(trend, agg)
+            ok, motivo = self.puo_entrare(trend, agg, ctx)
             if ok:
-                azione, motivo = self.prova_ingresso(prezzo, mv, ml, a, agg)
+                azione, motivo = self.prova_ingresso(prezzo, mv, ml, a, agg, ctx)
         principale = agg["principali"][0]["titolo"][:150] if agg["principali"] else ""
         scrivi_csv(cfg["file_decisioni"], CAMPI_DEC, {
             "data": self.ora(), "prezzo": "%.4f" % prezzo, "media_veloce": "%.4f" % mv,
@@ -204,10 +218,10 @@ class Agente:
             "punteggio_notizie": "%+.3f" % agg["punteggio"], "n_notizie": agg["n"], "nuove": nuove,
             "valutate_claude": da_claude, "shock": len(agg["shock"]),
             "posizione": "si" if self.s.d["pos"] else "no", "azione": azione, "motivo": motivo,
-            "notizia_principale": principale})
+            "notizia_principale": principale, "atr_pct": ctx["atr_pct"]})
         log.info("-> %s%s", azione.upper(), (": " + motivo) if motivo else "")
 
-    def puo_entrare(self, trend, agg):
+    def puo_entrare(self, trend, agg, ctx=None):
         r = self.cfg["regole"]
         if not trend:
             return False, "trend giornaliero non rialzista"
@@ -221,9 +235,16 @@ class Agente:
             return False, "pausa dopo l'ultima uscita"
         if self.s.d["pnl_oggi"] <= -abs(r["max_perdita_giornaliera_eur"]):
             return False, "perdita massima di oggi raggiunta"
+        motivo = ap.freno(self.cfg, datetime.now(self.tz))
+        if motivo:
+            return False, motivo
+        if ctx:
+            motivo = ap.obiettivo_troppo_piccolo(self.cfg, ctx) or ap.filtro_appreso(self.cfg, ctx)
+            if motivo:
+                return False, motivo
         return True, ""
 
-    def prova_ingresso(self, prezzo, mv, ml, a, agg):
+    def prova_ingresso(self, prezzo, mv, ml, a, agg, ctx=None):
         contesto = {"moneta": self.cfg["notizie"]["moneta"],
                     "mercato": {"prezzo": prezzo, "media10": round(mv, 4), "media30": round(ml, 4),
                                 "atr_giornaliero": round(a, 4), "punteggio_notizie": agg["punteggio"]},
@@ -234,9 +255,9 @@ class Agente:
             log.info("   ribassista: %s", d.get("ribassista", ""))
         if d["decisione"] != "approva":
             return "bloccato dal dibattito", d.get("motivo", "")
-        return self.apri(prezzo, a, agg, d.get("motivo", ""))
+        return self.apri(prezzo, a, agg, d.get("motivo", ""), ctx)
 
-    def apri(self, prezzo, a, agg, motivo_dib):
+    def apri(self, prezzo, a, agg, motivo_dib, ctx=None):
         cfg = self.cfg
         euro = float(cfg["puntata_eur"])
         minimo = float(self.m.info().get("quote_min_size") or 0)
@@ -252,7 +273,8 @@ class Agente:
                "sl": sl, "sl_limite": sl * (1 - cfg["sl_offset_limite_pct"] / 100), "id_stop": None,
                "tp": (acq["prezzo_medio"] + cfg["trend"]["take_profit_atr"] * a
                       if cfg["trend"].get("take_profit_atr") else None),
-               "ordini": [acq["id"]], "notizie": agg["punteggio"], "dibattito": motivo_dib}
+               "ordini": [acq["id"]], "notizie": agg["punteggio"], "dibattito": motivo_dib,
+               "ctx": ctx or {}}
         self.s.d["pos"] = pos
         self.s.d["ingressi_oggi"] += 1
         self.s.salva()
@@ -331,16 +353,23 @@ class Agente:
         comm = sum(e["commissioni"] for e in esec)
         q = sum(e["quantita"] for e in esec)
         netto = lordo - comm - pos["costo"]
+        try:
+            durata = (datetime.now(self.tz) - datetime.fromisoformat(pos["apertura"])).total_seconds() / 3600
+        except (KeyError, ValueError):
+            durata = None
         self.s.d.update(pos=None, ultima_uscita=time.time(), pnl_oggi=self.s.d["pnl_oggi"] + netto)
         self.s.salva()
-        scrivi_csv(self.cfg["file_operazioni"], CAMPI_OP, {
+        riga = {
             "data_apertura": pos["apertura"], "data_chiusura": self.ora(), "modalita": self.b.modalita,
             "coppia": self.cfg["coppia"], "quantita": "%.8f" % q, "prezzo_entrata": "%.4f" % pos["entrata"],
             "prezzo_uscita": "%.4f" % (lordo / q if q else 0), "acquisto_eur": "%.4f" % pos["costo"],
             "vendita_eur": "%.4f" % (lordo - comm), "commissioni_eur": "%.4f" % (pos["comm"] + comm),
             "risultato_netto_eur": "%.4f" % netto, "motivo_uscita": motivo,
             "notizie_ingresso": "%+.3f" % pos["notizie"], "dibattito": pos["dibattito"],
-            "id_ordini": ",".join(pos["ordini"] + [e["id"] for e in esec])})
+            "id_ordini": ",".join(pos["ordini"] + [e["id"] for e in esec]),
+            "durata_ore": "" if durata is None else "%.2f" % durata}
+        riga.update(ap.contesto_csv(pos.get("ctx")))
+        scrivi_csv(self.cfg["file_operazioni"], CAMPI_OP, riga)
         log.info("POSIZIONE CHIUSA (%s): %+.2f EUR", motivo, netto)
 
     def gira(self, una_volta=False):

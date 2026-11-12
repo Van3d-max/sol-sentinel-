@@ -266,7 +266,7 @@ def punteggio_claude(voci, moneta, chiave, modello):
               "{\"n\":number,\"r\":0..1 (how much it concerns %s specifically),"
               "\"s\":-1..1 (negative = bearish, positive = bullish, 0 = neutral or old news)}. "
               "Compact JSON array only." % (righe, moneta))
-    testo = chiedi_claude(chiave, modello, sistema, utente, max_tokens=60 + 40 * len(voci))
+    testo = chiedi_claude(chiave, modello, sistema, utente, max_tokens=1024 + 40 * len(voci))
     out = {}
     for d in _oggetti(testo):
         try:
@@ -381,7 +381,7 @@ def dibattito(contesto, cfg, log=print):
               "Italian}." % (contesto["moneta"], json.dumps(contesto["mercato"]),
                              "\n".join("- (%+.1f) %s" % (v["s"], v["titolo"]) for v in contesto["titoli"])))
     try:
-        r = _json(chiedi_claude(chiave, d["modello"], sistema, utente, max_tokens=600), "{", "}")
+        r = _json(chiedi_claude(chiave, d["modello"], sistema, utente, max_tokens=1500), "{", "}")
         if r.get("decisione") not in ("approva", "rifiuta"):
             raise ValueError("decisione non valida")
         return r
