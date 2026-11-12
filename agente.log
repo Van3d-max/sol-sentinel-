@@ -1632,3 +1632,11 @@
 12/11 03:01:06 INFO       (-0.8 r0.8 claude) Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto Briefing
 12/11 03:01:06 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 03:01:06 INFO    Agente fermato.
+12/11 04:00:56 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+12/11 04:00:57 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 04:01:02 INFO    Prezzo 75.2400 | medie 79.5020/87.2763 trend GIU | notizie +0.14 su 80 (25 nuove, 8 da Claude) | 5.7s
+12/11 04:01:02 INFO       (+0.5 r0.8 lessico) Solana Company Reports Third Quarter 2026 Results, Highlighting $3.4 Million Revenue and Expanded SOL Treasury
+12/11 04:01:02 INFO       (-0.7 r0.9 claude) All about Solana’s fall below $83 as market weakness overshadows new privacy upgrade - AMBCrypto
+12/11 04:01:02 INFO       (-0.8 r0.8 claude) Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto Briefing
+12/11 04:01:02 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 04:01:02 INFO    Agente fermato.
