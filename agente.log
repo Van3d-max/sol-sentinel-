@@ -1649,3 +1649,12 @@
 12/11 05:01:03 INFO       (+0.7 r0.6 lessico) DeFi Development launches tokenized preferred stock on Solana - Investing.com
 12/11 05:01:03 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 05:01:03 INFO    Agente fermato.
+12/11 06:00:59 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+12/11 06:00:59 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 06:01:03 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"'): uso il dizionario
+12/11 06:01:03 INFO    Prezzo 74.7800 | medie 79.5020/87.2763 trend GIU | notizie +0.15 su 84 (15 nuove, 0 da Claude) | 4.8s
+12/11 06:01:03 INFO       (+0.3 r0.8 lessico) 'Milestone quarter': Solana Company reports Q3 revenue growth driven by staking rewards - Cryptonews.net
+12/11 06:01:03 INFO       (-0.7 r0.9 claude) All about Solana’s fall below $83 as market weakness overshadows new privacy upgrade - AMBCrypto
+12/11 06:01:03 INFO       (-0.8 r0.8 claude) Bitcoin falls below $73K, Solana hits 3-month low amid crypto sell-off - Crypto Briefing
+12/11 06:01:03 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 06:01:03 INFO    Agente fermato.
