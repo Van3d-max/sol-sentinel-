@@ -5977,3 +5977,14 @@
 12/11 04:15:47 INFO       ribassista: Il prezzo è sotto entrambe le medie mobili, il punteggio delle notizie è debole, i titoli più favorevoli riguardano una società quotata che detiene SOL e non la rete, e l'ATR giornaliero di 0,33 (circa lo 0,4% del prezzo) appare implausibilmente basso per SOL, quindi i dati di volatilità potrebbero essere errati.
 12/11 04:15:47 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono deboli e contrastanti, il segnale tecnico è neutro e i dati di volatilità sembrano inaffidabili, quindi non si giustifica un acquisto spot senza una conferma più solida.
 12/11 04:15:47 INFO    Agente fermato.
+12/11 04:30:58 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 04:30:58 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 04:31:00 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 04:31:00 INFO    Prezzo 74.8700 | medie 75.1300/75.0805 trend SU | notizie +0.12 su 46 (7 nuove, 0 da Claude) | 2.5s
+12/11 04:31:00 INFO       (+0.4 r0.4 claude) SpaceX on-chain, BlackRock on Solana, Ondo builds the tails: Tokenization’s breakout year - AMBCrypto
+12/11 04:31:00 INFO       (+0.2 r0.8 lessico) Solana Company Misses On Normalized EPS As A $105 Million GAAP Profit Rides SOL's Rally, While Staking Revenue
+12/11 04:31:00 INFO       (+0.4 r0.7 claude) Solana Company Swings to $105.2 Million Q3 Profit, Adds 125,000 SOL - Yahoo Finance
+12/11 04:31:03 INFO       rialzista: Il titolo ha ritracciato in area 74,87, sostenuto dalla media mobile a 30 periodi (75,08), e i titoli sulla tokenizzazione e sull'adozione istituzionale di Solana (BlackRock, Ondo) offrono un catalizzatore di fondo.
+12/11 04:31:03 INFO       ribassista: Il prezzo è sotto sia la media a 10 periodi (75,13) sia quella a 30 periodi, il sentiment è solo leggermente positivo (0,123) e i titoli si basano su utili societari e non su flussi diretti verso SOL, con un ATR giornaliero di 0,3158 che appare troppo basso per un asset così volatile e suggerisce dati da verificare.
+12/11 04:31:03 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto entrambe le medie mobili, il sentiment è appena positivo e i dati di volatilità (ATR) sembrano inaffidabili, quindi il rischio non è giustificato senza conferme aggiuntive.
+12/11 04:31:03 INFO    Agente fermato.
