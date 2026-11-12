@@ -6256,3 +6256,12 @@
 12/11 11:51:46 INFO       ribassista: Il prezzo (74,29) è sotto le medie mobili a 10 e 30 periodi (circa 74,74 e 74,72), i deflussi dagli ETF su SOL sono al quinto giorno consecutivo e l'inflazione alta alimenta i timori sui tassi.
 12/11 11:51:46 INFO    -> BLOCCATO DAL DIBATTITO: Il punteggio delle notizie è quasi neutro (0,014), il trend di prezzo è sotto le medie e i flussi e il contesto macro sono negativi, quindi le prove a favore dell'acquisto sono deboli rispetto al rischio.
 12/11 11:51:46 INFO    Agente fermato.
+12/11 12:01:13 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 12:01:13 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 12:01:16 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n'): uso il dizionario
+12/11 12:01:16 INFO    Prezzo 74.2200 | medie 74.6878/74.7019 trend GIU | notizie +0.03 su 47 (11 nuove, 0 da Claude) | 3.6s
+12/11 12:01:16 INFO       (+1.0 r0.8 lessico) Helius has launched a permissionless privacy layer on the Solana mainnet, with the institutional version expec
+12/11 12:01:16 INFO       (-0.5 r0.9 claude) Solana ETFs see $5.9M outflows, marking a fifth straight day of withdrawals - Pluang
+12/11 12:01:16 INFO       (-0.6 r0.6 claude) Higher inflation keeps Solana pressured amid rising rate fears and persistent outflows from risk assets - Trad
+12/11 12:01:16 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 12:01:16 INFO    Agente fermato.
