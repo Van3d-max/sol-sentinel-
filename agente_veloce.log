@@ -6382,3 +6382,12 @@
 12/11 15:15:51 INFO       (+0.5 r0.8 claude) Schwab Crypto Adds Solana, Avalanche, Chainlink at 75 bps - FinanceFeeds
 12/11 15:15:51 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 15:15:51 INFO    Agente fermato.
+12/11 15:31:00 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 15:31:01 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 15:31:04 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"r":0.7,"s'): uso il dizionario
+12/11 15:31:04 INFO    Prezzo 73.2600 | medie 73.1922/73.8743 trend GIU | notizie +0.23 su 67 (18 nuove, 0 da Claude) | 3.6s
+12/11 15:31:04 INFO       (+1.0 r0.6 lessico) DTCC Expands Tokenization Strategy With Solana Integration - Blockonomi
+12/11 15:31:04 INFO       (+0.6 r0.9 claude) DTCC to enable tokenization of eligible DTC-custodied assets on Solana - FX News Group
+12/11 15:31:04 INFO       (+1.0 r0.8 lessico) Helius has launched a permissionless privacy layer on the Solana mainnet, with the institutional version expec
+12/11 15:31:04 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 15:31:04 INFO    Agente fermato.
