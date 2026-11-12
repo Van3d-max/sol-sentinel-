@@ -6139,3 +6139,12 @@
 12/11 08:45:46 INFO       (+0.4 r0.4 claude) SpaceX on-chain, BlackRock on Solana, Ondo builds the tails: Tokenization’s breakout year - AMBCrypto
 12/11 08:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 08:45:46 INFO    Agente fermato.
+12/11 09:01:12 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 09:01:13 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 09:01:16 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 09:01:16 INFO    Prezzo 74.6800 | medie 74.7200/74.8071 trend GIU | notizie -0.04 su 42 (8 nuove, 0 da Claude) | 3.8s
+12/11 09:01:16 INFO       (-0.6 r0.9 claude) ETF outflows coincide with Solana price weakness as resistance caps upside - Traders Union
+12/11 09:01:16 INFO       (-0.2 r0.3 lessico) Crypto Market Sell-Off Deepens: Why Are Bitcoin, Ethereum and Solana Falling? - Coinpedia
+12/11 09:01:16 INFO       (+0.4 r0.4 claude) SpaceX on-chain, BlackRock on Solana, Ondo builds the tails: Tokenization’s breakout year - AMBCrypto
+12/11 09:01:16 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 09:01:16 INFO    Agente fermato.
