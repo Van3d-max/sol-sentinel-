@@ -6454,3 +6454,13 @@
 12/11 17:15:49 INFO       (+0.7 r0.9 claude) BREAKING: DTCC to tokenize securities on Solana — Live - The Block
 12/11 17:15:49 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 17:15:49 INFO    Agente fermato.
+12/11 17:30:59 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 17:30:59 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 17:31:04 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 17:31:04 INFO    Prezzo 73.6900 | medie 73.5900/73.4962 trend SU | notizie +0.31 su 76 (17 nuove, 3 da Claude) | 5.2s
+12/11 17:31:04 INFO       (+0.6 r0.9 claude) Solana Scores Regulatory Win as Tokenization Tsunami Swells - Benzinga
+12/11 17:31:04 INFO       (+0.6 r0.9 claude) DTCC plans Solana integration for tokenised securities service - Securities Finance Times
+12/11 17:31:04 INFO       (+0.7 r0.9 claude) BREAKING: DTCC to tokenize securities on Solana — Live - The Block
+12/11 17:31:08 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
+12/11 17:31:08 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
+12/11 17:31:08 INFO    Agente fermato.
