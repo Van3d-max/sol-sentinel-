@@ -6274,3 +6274,12 @@
 12/11 12:15:46 INFO       (-0.6 r0.6 claude) Higher inflation keeps Solana pressured amid rising rate fears and persistent outflows from risk assets - Trad
 12/11 12:15:46 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 12:15:46 INFO    Agente fermato.
+12/11 12:30:58 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 12:30:58 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 12:31:03 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 12:31:03 INFO    Prezzo 74.1000 | medie 74.5544/74.6600 trend GIU | notizie +0.02 su 48 (13 nuove, 0 da Claude) | 4.8s
+12/11 12:31:03 INFO       (+1.0 r0.8 lessico) Helius has launched a permissionless privacy layer on the Solana mainnet, with the institutional version expec
+12/11 12:31:03 INFO       (-0.5 r0.9 claude) Solana ETFs see $5.9M outflows, marking a fifth straight day of withdrawals - Pluang
+12/11 12:31:03 INFO       (-0.6 r0.6 claude) Higher inflation keeps Solana pressured amid rising rate fears and persistent outflows from risk assets - Trad
+12/11 12:31:03 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 12:31:03 INFO    Agente fermato.
