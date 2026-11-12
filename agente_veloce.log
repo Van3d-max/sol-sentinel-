@@ -6228,3 +6228,12 @@
 12/11 11:15:48 INFO       (+0.3 r0.8 lessico) Solana Mobile adds Helius and Jito as Guardians to enhance dApp Store security and policy checks - Pluang
 12/11 11:15:48 INFO    -> ATTENDI: notizie sotto la soglia (-0.03)
 12/11 11:15:48 INFO    Agente fermato.
+12/11 11:30:58 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 11:30:59 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 11:31:01 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 11:31:01 INFO    Prezzo 74.3600 | medie 74.7922/74.7476 trend SU | notizie -0.02 su 46 (13 nuove, 0 da Claude) | 3.4s
+12/11 11:31:01 INFO       (-0.6 r0.6 claude) Higher inflation keeps Solana pressured amid rising rate fears and persistent outflows from risk assets - Trad
+12/11 11:31:01 INFO       (-0.6 r0.9 claude) ETF outflows coincide with Solana price weakness as resistance caps upside - Traders Union
+12/11 11:31:01 INFO       (+0.3 r0.8 lessico) Solana Mobile adds Helius and Jito as Guardians to enhance dApp Store security and policy checks - Pluang
+12/11 11:31:01 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)
+12/11 11:31:01 INFO    Agente fermato.
