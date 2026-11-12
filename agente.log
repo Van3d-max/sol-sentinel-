@@ -1807,3 +1807,11 @@
 12/11 21:01:09 INFO       (+0.5 r0.9 claude) DTCC Plans Solana Expansion as Wallet Rules Limit Access - TradingView
 12/11 21:01:09 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 21:01:09 INFO    Agente fermato.
+12/11 22:00:56 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+12/11 22:00:57 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 22:01:00 INFO    Prezzo 73.5200 | medie 79.5020/87.2763 trend GIU | notizie +0.26 su 100 (6 nuove, 6 da Claude) | 3.4s
+12/11 22:01:00 INFO       (-0.6 r1.0 claude) Solana Slides Toward $70 Despite DTCC’s 2027 Plan - Cryptonews.net
+12/11 22:01:00 INFO       (+0.5 r0.9 claude) DTCC Plans Solana Expansion as Wallet Rules Limit Access
+12/11 22:01:00 INFO       (+0.5 r0.9 claude) DTCC Plans Solana Expansion as Wallet Rules Limit Access - TradingView
+12/11 22:01:00 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 22:01:00 INFO    Agente fermato.
