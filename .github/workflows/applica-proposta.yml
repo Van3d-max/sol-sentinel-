@@ -1,1 +1,50 @@
 
+name: Applica proposta
+# Avvio a mano: applica, rifiuta o rimuove una regola proposta dalla revisione settimanale.
+on:
+  workflow_dispatch:
+    inputs:
+      azione:
+        description: "Cosa fare"
+        required: true
+        type: choice
+        options: [applica, rifiuta, rimuovi]
+      codice:
+        description: "Codice della proposta (es. P20261115-1) o del filtro da rimuovere (es. F1)"
+        required: true
+        type: string
+permissions:
+  contents: write
+concurrency:
+  group: applica-proposta
+  cancel-in-progress: false
+jobs:
+  applica:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install tzdata
+      - name: Applica
+        env:
+          AZIONE: ${{ inputs.azione }}
+          CODICE: ${{ inputs.codice }}
+        run: |
+          case "$AZIONE" in
+            applica) python applica.py --id "$CODICE" ;;
+            rifiuta) python applica.py --rifiuta "$CODICE" ;;
+            rimuovi) python applica.py --rimuovi "$CODICE" ;;
+          esac
+      - name: Salva
+        env:
+          AZIONE: ${{ inputs.azione }}
+          CODICE: ${{ inputs.codice }}
+        run: |
+          git config user.name "sol-sentinel-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -f proposte.json config_*.json
+          git commit -m "Proposta: $AZIONE $CODICE" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase && git push && break; sleep $((i*5)); done
