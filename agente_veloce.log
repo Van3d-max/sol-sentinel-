@@ -6310,3 +6310,12 @@
 12/11 13:15:47 INFO       (+0.3 r0.8 lessico) DTCC Tokenization Service to Connect with Solana, Advancing Multi-Chain Strategy and Expanding Access to Leadi
 12/11 13:15:47 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 13:15:47 INFO    Agente fermato.
+12/11 13:31:04 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 13:31:04 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 13:31:09 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 13:31:09 INFO    Prezzo 73.6100 | medie 74.0822/74.4724 trend GIU | notizie +0.08 su 53 (18 nuove, 0 da Claude) | 5.7s
+12/11 13:31:09 INFO       (+1.0 r0.8 lessico) Helius has launched a permissionless privacy layer on the Solana mainnet, with the institutional version expec
+12/11 13:31:09 INFO       (-0.5 r0.9 claude) Solana ETFs see $5.9M outflows, marking a fifth straight day of withdrawals - Pluang
+12/11 13:31:09 INFO       (+0.3 r0.8 lessico) DTCC Tokenization Service to Connect with Solana, Advancing Multi-Chain Strategy and Expanding Access to Leadi
+12/11 13:31:09 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 13:31:09 INFO    Agente fermato.
