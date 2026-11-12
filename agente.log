@@ -1719,3 +1719,12 @@
 12/11 12:01:03 INFO       (-0.6 r0.9 claude) ETF outflows coincide with Solana price weakness as resistance caps upside - Traders Union
 12/11 12:01:03 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 12:01:03 INFO    Agente fermato.
+12/11 13:01:05 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+12/11 13:01:06 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 13:01:08 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 13:01:09 INFO    Prezzo 73.9800 | medie 79.5020/87.2763 trend GIU | notizie +0.05 su 75 (10 nuove, 0 da Claude) | 3.4s
+12/11 13:01:09 INFO       (+1.0 r0.8 lessico) Helius has launched a permissionless privacy layer on the Solana mainnet, with the institutional version expec
+12/11 13:01:09 INFO       (-0.5 r0.8 lessico) Solana ETFs see $5.9M outflows, marking a fifth straight day of withdrawals - Pluang
+12/11 13:01:09 INFO       (-0.6 r0.9 claude) ETF outflows coincide with Solana price weakness as resistance caps upside - Traders Union
+12/11 13:01:09 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 13:01:09 INFO    Agente fermato.
