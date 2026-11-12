@@ -5892,3 +5892,12 @@
 12/11 02:15:41 INFO       (+0.4 r0.7 claude) Solana Company Swings to $105.2 Million Q3 Profit, Adds 125,000 SOL - Yahoo Finance
 12/11 02:15:41 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 02:15:41 INFO    Agente fermato.
+12/11 02:30:58 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 02:30:59 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 02:31:00 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 02:31:00 INFO    Prezzo 75.3000 | medie 75.1344/75.3452 trend GIU | notizie +0.17 su 46 (5 nuove, 0 da Claude) | 2.4s
+12/11 02:31:00 INFO       (+0.2 r0.8 lessico) What Is Solana Company (NASDAQ:HSDT) Earning From Its Staking-Focused Treasury? - Kalkine
+12/11 02:31:00 INFO       (+0.2 r0.8 lessico) Solana Company Misses On Normalized EPS As A $105 Million GAAP Profit Rides SOL's Rally, While Staking Revenue
+12/11 02:31:00 INFO       (+0.4 r0.7 claude) Solana Company Swings to $105.2 Million Q3 Profit, Adds 125,000 SOL - Yahoo Finance
+12/11 02:31:00 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 02:31:00 INFO    Agente fermato.
