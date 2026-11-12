@@ -6400,3 +6400,12 @@
 12/11 15:45:51 INFO       (+0.6 r0.9 claude) DTCC to enable tokenization of eligible DTC-custodied assets on Solana - FX News Group
 12/11 15:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 15:45:51 INFO    Agente fermato.
+12/11 16:01:13 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 16:01:14 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 16:01:19 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 16:01:19 INFO    Prezzo 73.6800 | medie 73.1989/73.7352 trend GIU | notizie +0.28 su 70 (23 nuove, 7 da Claude) | 5.8s
+12/11 16:01:19 INFO       (+0.7 r0.9 claude) BREAKING: DTCC to tokenize securities on Solana — Live - The Block
+12/11 16:01:19 INFO       (+0.5 r0.9 claude) DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout
+12/11 16:01:19 INFO       (+0.5 r0.9 claude) Wall Street (DTCC) Chooses Solana Blockchain Crypto to Tokenize its Assets - Cointribune
+12/11 16:01:19 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 16:01:19 INFO    Agente fermato.
