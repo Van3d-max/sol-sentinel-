@@ -5988,3 +5988,12 @@
 12/11 04:31:03 INFO       ribassista: Il prezzo è sotto sia la media a 10 periodi (75,13) sia quella a 30 periodi, il sentiment è solo leggermente positivo (0,123) e i titoli si basano su utili societari e non su flussi diretti verso SOL, con un ATR giornaliero di 0,3158 che appare troppo basso per un asset così volatile e suggerisce dati da verificare.
 12/11 04:31:03 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto entrambe le medie mobili, il sentiment è appena positivo e i dati di volatilità (ATR) sembrano inaffidabili, quindi il rischio non è giustificato senza conferme aggiuntive.
 12/11 04:31:03 INFO    Agente fermato.
+12/11 04:45:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 04:45:40 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 04:45:42 INFO    Claude non disponibile (ValueError: risposta non leggibile: '[{"n":1,"'): uso il dizionario
+12/11 04:45:43 INFO    Prezzo 74.8700 | medie 75.0856/75.0857 trend GIU | notizie +0.12 su 46 (7 nuove, 0 da Claude) | 2.8s
+12/11 04:45:43 INFO       (+0.4 r0.4 claude) SpaceX on-chain, BlackRock on Solana, Ondo builds the tails: Tokenization’s breakout year - AMBCrypto
+12/11 04:45:43 INFO       (+0.2 r0.8 lessico) Solana Company Misses On Normalized EPS As A $105 Million GAAP Profit Rides SOL's Rally, While Staking Revenue
+12/11 04:45:43 INFO       (+0.4 r0.7 claude) Solana Company Swings to $105.2 Million Q3 Profit, Adds 125,000 SOL - Yahoo Finance
+12/11 04:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 04:45:43 INFO    Agente fermato.
