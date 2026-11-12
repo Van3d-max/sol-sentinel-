@@ -6535,3 +6535,13 @@
 12/11 19:15:48 INFO       ribassista: Il prezzo è sotto la media a 10 giorni (73,77), i titoli negativi parlano di un possibile calo verso 70, e l'effetto dell'annuncio DTCC è previsto solo per il 2027, quindi non offre un catalizzatore immediato.
 12/11 19:15:48 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo oscilla attorno alle medie mobili, le notizie sono contrastanti e il catalizzatore positivo è lontano nel tempo, quindi non giustifica un acquisto spot.
 12/11 19:15:48 INFO    Agente fermato.
+12/11 19:26:06 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 19:26:06 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 19:26:10 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 19:26:11 INFO    Prezzo 73.7900 | medie 73.7733/73.5343 trend SU | notizie +0.30 su 78 (17 nuove, 4 da Claude) | 4.9s
+12/11 19:26:11 INFO       (-0.6 r1.0 claude) Solana Slides Toward $70 Despite DTCC’s 2027 Plan - Cryptonews.net
+12/11 19:26:11 INFO       (+0.6 r0.9 claude) DTCC Brings Tokenized Securities to Solana in 2027, Opening Russell 1000 Stocks, ETFs, and Treasuries to a Pub
+12/11 19:26:11 INFO       (+0.6 r0.9 claude) DTCC to Bring Tokenized Securities to Solana in 2027 - FinanceFeeds
+12/11 19:26:14 INFO    Dibattito non riuscito (ValueError): per prudenza l'acquisto e' bloccato
+12/11 19:26:14 INFO    -> BLOCCATO DAL DIBATTITO: dibattito non riuscito
+12/11 19:26:14 INFO    Agente fermato.
