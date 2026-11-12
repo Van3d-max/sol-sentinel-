@@ -6157,3 +6157,12 @@
 12/11 09:15:46 INFO       (-0.2 r0.3 lessico) Crypto Market Sell-Off Deepens: Why Are Bitcoin, Ethereum and Solana Falling? - Coinpedia
 12/11 09:15:46 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 09:15:46 INFO    Agente fermato.
+12/11 09:30:59 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 09:31:00 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 09:31:02 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 09:31:03 INFO    Prezzo 74.7500 | medie 74.7100/74.7624 trend GIU | notizie +0.04 su 42 (9 nuove, 0 da Claude) | 3.1s
+12/11 09:31:03 INFO       (-0.6 r0.9 claude) ETF outflows coincide with Solana price weakness as resistance caps upside - Traders Union
+12/11 09:31:03 INFO       (+0.3 r0.8 lessico) xStocks owns 75% of Solana’s tokenized stocks – Rises to $607M in a year - AMBCrypto
+12/11 09:31:03 INFO       (-0.2 r0.3 lessico) Crypto Market Sell-Off Deepens: Why Are Bitcoin, Ethereum and Solana Falling? - Coinpedia
+12/11 09:31:03 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 09:31:03 INFO    Agente fermato.
