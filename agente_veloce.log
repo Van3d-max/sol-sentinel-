@@ -5918,3 +5918,12 @@
 12/11 03:01:16 INFO       (+0.1 r0.8 lessico) Solana Company posts $3.4 million in Q3 revenue as staking income climbs - Crypto Briefing
 12/11 03:01:16 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 03:01:16 INFO    Agente fermato.
+12/11 03:15:45 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 03:15:45 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 03:15:48 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 03:15:48 INFO    Prezzo 75.1000 | medie 75.0767/75.1752 trend GIU | notizie +0.15 su 47 (6 nuove, 0 da Claude) | 2.8s
+12/11 03:15:48 INFO       (+0.3 r0.8 lessico) SpaceX on-chain, BlackRock on Solana, Ondo builds the tails: Tokenization’s breakout year - AMBCrypto
+12/11 03:15:48 INFO       (+0.2 r0.8 lessico) Solana Company Misses On Normalized EPS As A $105 Million GAAP Profit Rides SOL's Rally, While Staking Revenue
+12/11 03:15:48 INFO       (+0.4 r0.7 claude) Solana Company Swings to $105.2 Million Q3 Profit, Adds 125,000 SOL - Yahoo Finance
+12/11 03:15:48 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 03:15:48 INFO    Agente fermato.
