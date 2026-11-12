@@ -1,1 +1,33 @@
 
+name: Revisione settimanale
+# Ogni domenica sera rilegge le operazioni, cerca gli errori e scrive REVISIONE.md + proposte.json.
+on:
+  schedule:
+    - cron: "41 18 * * 0"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: revisione
+  cancel-in-progress: false
+jobs:
+  revisione:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests tzdata
+      - name: Revisione
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python revisione.py
+      - name: Salva
+        run: |
+          git config user.name "sol-sentinel-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -f REVISIONE.md proposte.json revisioni config_*.json
+          git commit -m "Revisione $(date -u +%Y-%m-%d)" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase && git push && break; sleep $((i*5)); done
