@@ -6328,3 +6328,12 @@
 12/11 13:45:48 INFO       (+0.3 r0.9 claude) Solana price prediction: $5.13bn in tokenized funds - CryptoTicker.io
 12/11 13:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 13:45:48 INFO    Agente fermato.
+12/11 14:01:11 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+12/11 14:01:12 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=37, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+12/11 14:01:15 INFO    Claude non disponibile (ValueError: risposta non leggibile: ''): uso il dizionario
+12/11 14:01:15 INFO    Prezzo 73.3500 | medie 73.8600/74.3543 trend GIU | notizie +0.14 su 56 (16 nuove, 0 da Claude) | 4.0s
+12/11 14:01:15 INFO       (+1.0 r0.8 lessico) Helius has launched a permissionless privacy layer on the Solana mainnet, with the institutional version expec
+12/11 14:01:15 INFO       (-0.5 r0.9 claude) Solana ETFs see $5.9M outflows, marking a fifth straight day of withdrawals - Pluang
+12/11 14:01:15 INFO       (+0.3 r0.9 claude) Solana price prediction: $5.13bn in tokenized funds - CryptoTicker.io
+12/11 14:01:15 INFO    -> ATTENDI: trend giornaliero non rialzista
+12/11 14:01:15 INFO    Agente fermato.
