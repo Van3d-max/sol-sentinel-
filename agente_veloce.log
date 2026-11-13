@@ -7418,3 +7418,11 @@
 13/11 21:31:00 INFO       (-0.5 r1.0 claude) Solana Price Struggles at $80 as Declining Open Interest Raises Fresh Concerns—What’s Next? - Cryptonews.net
 13/11 21:31:00 INFO    -> ATTENDI: obiettivo +1.56% sotto il minimo +2.20% (commissioni)
 13/11 21:31:00 INFO    Agente fermato.
+13/11 21:37:46 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+13/11 21:37:46 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=40, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 21:37:47 INFO    Prezzo 71.8700 | medie 72.5567/72.4867 trend SU | notizie +0.01 su 45 (0 nuove, 0 da Claude) | 0.8s
+13/11 21:37:47 INFO       (+0.4 r0.9 claude) Solana launches private AI tools with on-chain hardware checks - Crypto News
+13/11 21:37:47 INFO       (+0.7 r0.9 claude) Solana Scores Major Wall Street Win as DTCC Plans to Tokenize US Securities on SOL Network - Coinpaper
+13/11 21:37:47 INFO       (-0.5 r1.0 claude) Solana Price Struggles at $80 as Declining Open Interest Raises Fresh Concerns—What’s Next? - Cryptonews.net
+13/11 21:37:47 INFO    -> ATTENDI: obiettivo +1.56% sotto il minimo +2.20% (commissioni)
+13/11 21:37:47 INFO    Agente fermato.
