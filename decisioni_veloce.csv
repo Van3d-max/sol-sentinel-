@@ -822,3 +822,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-13T19:45:46+01:00;72.5100;72.4178;72.6838;giu;-0.088;47;0;0;0;no;attendi;trend giornaliero non rialzista;Solana Scores Major Wall Street Win as DTCC Plans to Tokenize US Securities on SOL Network - Coinpaper;0.584
 2026-11-13T20:01:10+01:00;72.5300;72.4944;72.6114;giu;-0.083;49;0;0;0;no;attendi;trend giornaliero non rialzista;Solana Scores Major Wall Street Win as DTCC Plans to Tokenize US Securities on SOL Network - Coinpaper;0.568
 2026-11-13T20:15:46+01:00;72.7700;72.5522;72.5595;giu;-0.040;45;2;2;0;no;attendi;trend giornaliero non rialzista;Solana Scores Major Wall Street Win as DTCC Plans to Tokenize US Securities on SOL Network - Coinpaper;0.556
+2026-11-13T20:30:59+01:00;72.5100;72.5856;72.5114;su;-0.036;44;2;2;0;no;attendi;notizie sotto la soglia (-0.04);Solana Scores Major Wall Street Win as DTCC Plans to Tokenize US Securities on SOL Network - Coinpaper;0.544
