@@ -6826,3 +6826,11 @@
 13/11 03:30:58 INFO       (+0.3 r0.6 claude) Forward Industries to Take Up to $30M Stake in GromaCoin Ahead of Solana Launch - Yahoo Finance
 13/11 03:30:58 INFO    -> ATTENDI: trend giornaliero non rialzista
 13/11 03:30:58 INFO    Agente fermato.
+13/11 03:45:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+13/11 03:45:40 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 03:45:41 INFO    Prezzo 71.3600 | medie 72.5489/73.2119 trend GIU | notizie +0.16 su 77 (0 nuove, 0 da Claude) | 0.8s
+13/11 03:45:41 INFO       (-0.2 r0.9 claude) Solana's Fall Looks Too Fast: What Settles It at $80.83? - Altcoin Buzz
+13/11 03:45:41 INFO       (+0.3 r0.9 claude) Solana Becomes the Fifth Network on DTCC’s Tokenization Roadmap, Due in Late 2027 - unchainedcrypto.com
+13/11 03:45:41 INFO       (+0.3 r0.6 claude) Forward Industries to Take Up to $30M Stake in GromaCoin Ahead of Solana Launch - Yahoo Finance
+13/11 03:45:41 INFO    -> ATTENDI: trend giornaliero non rialzista
+13/11 03:45:41 INFO    Agente fermato.
