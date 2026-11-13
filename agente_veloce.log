@@ -7074,3 +7074,11 @@
 13/11 11:01:16 INFO       (+0.3 r0.9 claude) DTCC Aims to Offer Securities Tokenization on Solana in Second Half of 2027 - bloomingbit
 13/11 11:01:16 INFO    -> ATTENDI: obiettivo +1.49% sotto il minimo +2.20% (commissioni)
 13/11 11:01:16 INFO    Agente fermato.
+13/11 11:15:43 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+13/11 11:15:44 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 11:15:44 INFO    Prezzo 72.8300 | medie 72.5211/72.3443 trend SU | notizie +0.06 su 80 (0 nuove, 0 da Claude) | 0.7s
+13/11 11:15:44 INFO       (+0.6 r0.8 claude) DTCC Tokenization Service to Connect With Solana, Advancing Multi-Chain Strategy and Expanding Access to Leadi
+13/11 11:15:44 INFO       (-0.7 r1.0 claude) Why is SOL price crashing today? - FXStreet
+13/11 11:15:44 INFO       (+0.3 r0.9 claude) DTCC Aims to Offer Securities Tokenization on Solana in Second Half of 2027 - bloomingbit
+13/11 11:15:44 INFO    -> ATTENDI: obiettivo +1.46% sotto il minimo +2.20% (commissioni)
+13/11 11:15:44 INFO    Agente fermato.
