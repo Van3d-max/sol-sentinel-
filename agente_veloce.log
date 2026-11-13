@@ -7290,3 +7290,11 @@
 13/11 17:31:01 INFO       (+0.3 r0.9 claude) Solana Foundation launches Confidential Compute with TryNitoAI - Crypto Briefing
 13/11 17:31:01 INFO    -> ATTENDI: trend giornaliero non rialzista
 13/11 17:31:01 INFO    Agente fermato.
+13/11 17:45:43 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+13/11 17:45:43 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 17:45:43 INFO    Prezzo 72.8000 | medie 72.2567/72.7910 trend GIU | notizie -0.14 su 45 (0 nuove, 0 da Claude) | 0.5s
+13/11 17:45:43 INFO       (-0.6 r1.0 claude) Solana price faces a brutal death cross: could SOL crash below $70? - Cryptonews.net
+13/11 17:45:43 INFO       (-0.5 r0.8 claude) Fed rate hike outlook puts pressure on Solana amid growing risk aversion - Traders Union
+13/11 17:45:43 INFO       (+0.3 r0.9 claude) Solana Foundation launches Confidential Compute with TryNitoAI - Crypto Briefing
+13/11 17:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista
+13/11 17:45:43 INFO    Agente fermato.
