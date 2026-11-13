@@ -7378,3 +7378,11 @@
 13/11 20:15:46 INFO       (+0.4 r0.9 claude) JUST IN: @SolanaFndn LAUNCHES SOLANA CONFIDENTIAL COMPUTE - KuCoin
 13/11 20:15:46 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)
 13/11 20:15:46 INFO    Agente fermato.
+13/11 20:31:00 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+13/11 20:31:00 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=39, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 20:31:01 INFO    Prezzo 72.8500 | medie 72.6589/72.4533 trend SU | notizie -0.06 su 41 (0 nuove, 0 da Claude) | 0.8s
+13/11 20:31:01 INFO       (+0.7 r0.9 claude) Solana Scores Major Wall Street Win as DTCC Plans to Tokenize US Securities on SOL Network - Coinpaper
+13/11 20:31:01 INFO       (-0.5 r1.0 claude) Solana Price Struggles at $80 as Declining Open Interest Raises Fresh Concerns—What’s Next? - Cryptonews.net
+13/11 20:31:01 INFO       (-0.6 r1.0 claude) Solana price faces a brutal death cross: could SOL crash below $70? - Cryptonews.net
+13/11 20:31:01 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
+13/11 20:31:01 INFO    Agente fermato.
