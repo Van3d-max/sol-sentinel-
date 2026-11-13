@@ -7234,3 +7234,11 @@
 13/11 15:45:42 INFO       (-0.6 r0.9 claude) Solana ETFs see $1.9M outflows, extending a six-day withdrawal streak despite smaller daily loss - Pluang
 13/11 15:45:42 INFO    -> ATTENDI: notizie sotto la soglia (-0.23)
 13/11 15:45:42 INFO    Agente fermato.
+13/11 16:01:08 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+13/11 16:01:08 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 16:01:10 INFO    Prezzo 72.5000 | medie 72.8989/73.0033 trend GIU | notizie -0.24 su 51 (1 nuove, 1 da Claude) | 1.8s
+13/11 16:01:10 INFO       (-0.6 r1.0 claude) Solana price faces a brutal death cross: could SOL crash below $70? - Cryptonews.net
+13/11 16:01:10 INFO       (-0.4 r0.9 claude) Solana (SOL) drops 2.35% in an hour amid $1M lo... - Pluang
+13/11 16:01:10 INFO       (-0.4 r0.9 claude) How Close Is Solana Price to $70 With the Fear & Greed Index at 19? - CoinGape
+13/11 16:01:10 INFO    -> ATTENDI: trend giornaliero non rialzista
+13/11 16:01:10 INFO    Agente fermato.
