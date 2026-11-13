@@ -1871,3 +1871,11 @@
 13/11 04:01:00 INFO       (-0.6 r1.0 claude) Solana Slides Toward $70 Despite DTCC’s 2027 Plan - Cryptonews.net
 13/11 04:01:00 INFO    -> ATTENDI: trend giornaliero non rialzista
 13/11 04:01:00 INFO    Agente fermato.
+13/11 05:00:58 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+13/11 05:00:58 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 05:00:59 INFO    Prezzo 70.8400 | medie 78.6840/86.5627 trend GIU | notizie +0.18 su 102 (0 nuove, 0 da Claude) | 0.7s
+13/11 05:00:59 INFO       (-0.5 r1.0 claude) Solana (SOL) drops 2.01% in one hour, down 4.64% over 24 hours amid $5.78M long liquidations. - Pluang
+13/11 05:00:59 INFO       (+0.4 r0.8 claude) DTCC to bring tokenised securities to Solana by 2027 - CFOtech Asia
+13/11 05:00:59 INFO       (-0.6 r1.0 claude) Solana Slides Toward $70 Despite DTCC’s 2027 Plan - Cryptonews.net
+13/11 05:00:59 INFO    -> ATTENDI: trend giornaliero non rialzista
+13/11 05:00:59 INFO    Agente fermato.
