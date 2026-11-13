@@ -1951,3 +1951,11 @@
 13/11 13:01:04 INFO       (-0.6 r1.0 claude) Solana price at a three-month low: will the $75 level hold? - CryptoTicker.io
 13/11 13:01:04 INFO    -> ATTENDI: trend giornaliero non rialzista
 13/11 13:01:04 INFO    Agente fermato.
+13/11 14:00:59 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+13/11 14:01:00 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 14:01:02 INFO    Prezzo 73.6800 | medie 78.6840/86.5627 trend GIU | notizie -0.01 su 96 (5 nuove, 5 da Claude) | 3.1s
+13/11 14:01:02 INFO       (-0.6 r0.9 claude) Solana struggle continues below 200-day average with sellers in control: weekly outlook - Traders Union
+13/11 14:01:02 INFO       (-0.5 r1.0 claude) Solana Price Struggles at $80 as Declining Open Interest Raises Fresh Concerns—What’s Next? - Coinpedia
+13/11 14:01:02 INFO       (-0.5 r0.9 claude) Solana ETFs see $1.9M outflows, extending a six-day withdrawal streak despite smaller daily loss - Pluang
+13/11 14:01:02 INFO    -> ATTENDI: trend giornaliero non rialzista
+13/11 14:01:02 INFO    Agente fermato.
