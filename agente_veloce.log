@@ -6722,3 +6722,11 @@
 13/11 00:30:57 INFO       (+0.6 r0.9 claude) DTCC Brings Tokenized Securities to Solana in 2027, Opening Russell 1000 Stocks, ETFs, and Treasuries to a Pub
 13/11 00:30:57 INFO    -> ATTENDI: obiettivo +1.03% sotto il minimo +2.20% (commissioni)
 13/11 00:30:57 INFO    Agente fermato.
+13/11 00:37:59 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+13/11 00:38:00 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 00:38:00 INFO    Prezzo 73.5600 | medie 73.7478/73.7043 trend SU | notizie +0.20 su 82 (0 nuove, 0 da Claude) | 0.6s
+13/11 00:38:00 INFO       (+0.3 r0.9 claude) Solana Becomes the Fifth Network on DTCC’s Tokenization Roadmap, Due in Late 2027 - unchainedcrypto.com
+13/11 00:38:00 INFO       (-0.6 r1.0 claude) Solana Slides Toward $70 Despite DTCC’s 2027 Plan - Cryptonews.net
+13/11 00:38:00 INFO       (+0.6 r0.9 claude) DTCC Brings Tokenized Securities to Solana in 2027, Opening Russell 1000 Stocks, ETFs, and Treasuries to a Pub
+13/11 00:38:00 INFO    -> ATTENDI: obiettivo +1.04% sotto il minimo +2.20% (commissioni)
+13/11 00:38:00 INFO    Agente fermato.
