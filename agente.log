@@ -1887,3 +1887,11 @@
 13/11 06:01:02 INFO       (+0.4 r0.8 claude) DTCC to bring tokenised securities to Solana by 2027 - CFOtech Asia
 13/11 06:01:02 INFO    -> ATTENDI: trend giornaliero non rialzista
 13/11 06:01:02 INFO    Agente fermato.
+13/11 07:01:08 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+13/11 07:01:09 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 07:01:11 INFO    Prezzo 72.5100 | medie 78.6840/86.5627 trend GIU | notizie +0.11 su 103 (4 nuove, 4 da Claude) | 2.2s
+13/11 07:01:11 INFO       (-0.8 r1.0 claude) Why is SOL price crashing today? - FXStreet
+13/11 07:01:11 INFO       (-0.6 r1.0 claude) Solana price at a three-month low: will the $75 level hold? - CryptoTicker.io
+13/11 07:01:11 INFO       (-0.6 r0.9 claude) Solana price prediction: Downtrend persists while sellers control momentum - Traders Union
+13/11 07:01:11 INFO    -> ATTENDI: trend giornaliero non rialzista
+13/11 07:01:11 INFO    Agente fermato.
