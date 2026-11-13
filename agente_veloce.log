@@ -6698,3 +6698,11 @@
 12/11 23:45:41 INFO       (+0.3 r0.8 claude) Solana Breakpoint 2026: Mastercard, Barclays, DTCC and Boris Johnson Headline London's Token Supercycle Summit
 12/11 23:45:41 INFO    -> ATTENDI: trend giornaliero non rialzista
 12/11 23:45:41 INFO    Agente fermato.
+13/11 00:01:08 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+13/11 00:01:09 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 00:01:09 INFO    Prezzo 73.9700 | medie 73.7011/73.7024 trend GIU | notizie +0.20 su 82 (0 nuove, 0 da Claude) | 0.7s
+13/11 00:01:09 INFO       (-0.6 r1.0 claude) Solana Slides Toward $70 Despite DTCC’s 2027 Plan - Cryptonews.net
+13/11 00:01:09 INFO       (+0.6 r0.9 claude) DTCC Brings Tokenized Securities to Solana in 2027, Opening Russell 1000 Stocks, ETFs, and Treasuries to a Pub
+13/11 00:01:09 INFO       (+0.3 r0.8 claude) Solana Breakpoint 2026: Mastercard, Barclays, DTCC and Boris Johnson Headline London's Token Supercycle Summit
+13/11 00:01:09 INFO    -> ATTENDI: trend giornaliero non rialzista
+13/11 00:01:09 INFO    Agente fermato.
