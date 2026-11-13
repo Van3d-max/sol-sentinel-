@@ -7002,3 +7002,11 @@
 13/11 08:45:45 INFO       (-0.5 r0.9 claude) Solana price prediction: Downtrend persists while sellers control momentum - Traders Union
 13/11 08:45:45 INFO    -> ATTENDI: notizia shock: Why is SOL price crashing today? - FXStreet
 13/11 08:45:45 INFO    Agente fermato.
+13/11 09:01:11 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+13/11 09:01:11 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 09:01:13 INFO    Prezzo 72.1300 | medie 72.3289/71.6648 trend SU | notizie -0.04 su 79 (1 nuove, 1 da Claude) | 2.0s
+13/11 09:01:13 INFO       (-0.7 r1.0 claude) Why is SOL price crashing today? - FXStreet
+13/11 09:01:13 INFO       (-0.6 r0.9 claude) Solana price at a three-month low: will the $75 level hold? - CryptoTicker.io
+13/11 09:01:13 INFO       (-0.5 r0.9 claude) Solana price prediction: Downtrend persists while sellers control momentum - Traders Union
+13/11 09:01:13 INFO    -> ATTENDI: notizie sotto la soglia (-0.04)
+13/11 09:01:13 INFO    Agente fermato.
