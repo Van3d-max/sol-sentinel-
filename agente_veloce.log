@@ -7146,3 +7146,11 @@
 13/11 13:15:48 INFO       (+0.6 r0.8 claude) DTCC Tokenization Service to Connect With Solana, Advancing Multi-Chain Strategy and Expanding Access to Leadi
 13/11 13:15:48 INFO    -> ATTENDI: notizie sotto la soglia (-0.08)
 13/11 13:15:48 INFO    Agente fermato.
+13/11 13:31:01 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+13/11 13:31:01 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 13:31:02 INFO    Prezzo 73.1600 | medie 73.0233/72.6862 trend SU | notizie -0.23 su 76 (2 nuove, 2 da Claude) | 1.8s
+13/11 13:31:02 INFO       (-0.6 r0.9 claude) Solana ETFs see $1.9M outflows, extending a six-day withdrawal streak despite smaller daily loss - Pluang
+13/11 13:31:02 INFO       (-0.6 r0.9 claude) Solana struggle continues below 200-day average with sellers in control: weekly outlook - Traders Union
+13/11 13:31:02 INFO       (-0.6 r0.8 claude) Solana remains under pressure amid hawkish Fed bets and renewed US-Iran tensions. What's next? - investingLive
+13/11 13:31:02 INFO    -> ATTENDI: notizie sotto la soglia (-0.23)
+13/11 13:31:02 INFO    Agente fermato.
