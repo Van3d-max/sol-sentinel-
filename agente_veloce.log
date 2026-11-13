@@ -7258,3 +7258,11 @@
 13/11 16:31:03 INFO       (-0.4 r0.9 claude) How Close Is Solana Price to $70 With the Fear & Greed Index at 19? - CoinGape
 13/11 16:31:03 INFO    -> ATTENDI: trend giornaliero non rialzista
 13/11 16:31:03 INFO    Agente fermato.
+13/11 16:45:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+13/11 16:45:41 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 16:45:42 INFO    Prezzo 71.9700 | medie 72.3911/72.9014 trend GIU | notizie -0.22 su 52 (2 nuove, 2 da Claude) | 2.0s
+13/11 16:45:42 INFO       (-0.6 r1.0 claude) Solana price faces a brutal death cross: could SOL crash below $70? - Cryptonews.net
+13/11 16:45:42 INFO       (-0.5 r0.8 claude) Fed rate hike outlook puts pressure on Solana amid growing risk aversion - Traders Union
+13/11 16:45:42 INFO       (-0.4 r0.9 claude) Solana (SOL) drops 2.35% in an hour amid $1M lo... - Pluang
+13/11 16:45:42 INFO    -> ATTENDI: trend giornaliero non rialzista
+13/11 16:45:42 INFO    Agente fermato.
