@@ -7210,3 +7210,11 @@
 13/11 15:15:45 INFO       (-0.4 r1.0 claude) Solana Price Struggles at $80 as Declining Open Interest Raises Fresh Concerns—What’s Next? - TradingView
 13/11 15:15:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.15)
 13/11 15:15:45 INFO    Agente fermato.
+13/11 15:30:58 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+13/11 15:30:59 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 15:31:02 INFO    Prezzo 71.8800 | medie 73.2356/73.0619 trend SU | notizie -0.14 su 68 (13 nuove, 13 da Claude) | 4.1s
+13/11 15:31:02 INFO       (-0.4 r0.9 claude) How Close Is Solana Price to $70 With the Fear & Greed Index at 19? - CoinGape
+13/11 15:31:02 INFO       (-0.6 r0.9 claude) Solana ETFs see $1.9M outflows, extending a six-day withdrawal streak despite smaller daily loss - Pluang
+13/11 15:31:02 INFO       (-0.6 r0.9 claude) Solana struggle continues below 200-day average with sellers in control: weekly outlook - Traders Union
+13/11 15:31:02 INFO    -> ATTENDI: notizie sotto la soglia (-0.14)
+13/11 15:31:02 INFO    Agente fermato.
