@@ -7106,3 +7106,11 @@
 13/11 12:01:11 INFO       (-0.7 r1.0 claude) Why is SOL price crashing today? - FXStreet
 13/11 12:01:11 INFO    -> ATTENDI: obiettivo +1.36% sotto il minimo +2.20% (commissioni)
 13/11 12:01:11 INFO    Agente fermato.
+13/11 12:15:42 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+13/11 12:15:42 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 12:15:43 INFO    Prezzo 73.1100 | medie 72.8544/72.5295 trend SU | notizie +0.01 su 80 (1 nuove, 1 da Claude) | 1.6s
+13/11 12:15:43 INFO       (-0.6 r0.8 claude) Solana remains under pressure amid hawkish Fed bets and renewed US-Iran tensions. What's next? - investingLive
+13/11 12:15:43 INFO       (+0.6 r0.8 claude) DTCC Tokenization Service to Connect With Solana, Advancing Multi-Chain Strategy and Expanding Access to Leadi
+13/11 12:15:43 INFO       (-0.7 r1.0 claude) Why is SOL price crashing today? - FXStreet
+13/11 12:15:43 INFO    -> ATTENDI: obiettivo +1.32% sotto il minimo +2.20% (commissioni)
+13/11 12:15:43 INFO    Agente fermato.
