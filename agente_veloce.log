@@ -6842,3 +6842,11 @@
 13/11 04:01:09 INFO       (-0.2 r0.9 claude) Solana's Fall Looks Too Fast: What Settles It at $80.83? - Altcoin Buzz
 13/11 04:01:09 INFO    -> ATTENDI: trend giornaliero non rialzista
 13/11 04:01:09 INFO    Agente fermato.
+13/11 04:15:38 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+13/11 04:15:38 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=38, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+13/11 04:15:39 INFO    Prezzo 70.8700 | medie 71.9533/72.9529 trend GIU | notizie +0.14 su 78 (0 nuove, 0 da Claude) | 0.7s
+13/11 04:15:39 INFO       (+0.5 r0.9 claude) DTCC to bring tokenised securities to Solana by 2027 - CFOtech Asia
+13/11 04:15:39 INFO       (-0.3 r1.0 claude) Solana (SOL) drops 2.01% in one hour, down 4.64% over 24 hours amid $5.78M long liquidations. - Pluang
+13/11 04:15:39 INFO       (-0.2 r0.9 claude) Solana's Fall Looks Too Fast: What Settles It at $80.83? - Altcoin Buzz
+13/11 04:15:39 INFO    -> ATTENDI: trend giornaliero non rialzista
+13/11 04:15:39 INFO    Agente fermato.
