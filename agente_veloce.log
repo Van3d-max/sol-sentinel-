@@ -7546,3 +7546,11 @@
 14/11 01:15:43 INFO       (-0.6 r1.0 claude) Solana price faces a brutal death cross: could SOL crash below $70? - Cryptonews.net
 14/11 01:15:43 INFO    -> ATTENDI: trend giornaliero non rialzista
 14/11 01:15:43 INFO    Agente fermato.
+14/11 01:30:55 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+14/11 01:30:57 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=40, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+14/11 01:31:00 INFO    Prezzo 70.1800 | medie 70.6356/71.1643 trend GIU | notizie +0.08 su 41 (2 nuove, 2 da Claude) | 4.8s
+14/11 01:31:00 INFO       (+0.5 r1.0 claude) Solana Price Forecast — SOL ($80.14) $90 Upside Target on ETF Inflow Turn and Oversold RSI - TradingNEWS
+14/11 01:31:00 INFO       (+0.4 r0.9 claude) Solana launches private AI tools with on-chain hardware checks - Crypto News
+14/11 01:31:00 INFO       (+0.7 r0.9 claude) Solana Scores Major Wall Street Win as DTCC Plans to Tokenize US Securities on SOL Network - Coinpaper
+14/11 01:31:00 INFO    -> ATTENDI: trend giornaliero non rialzista
+14/11 01:31:00 INFO    Agente fermato.
