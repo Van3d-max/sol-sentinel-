@@ -1,0 +1,32 @@
+name: Giro agenti (tutte le monete, simulazione)
+# Ogni 15 minuti: notizie lette una volta per moneta, poi ogni agente fa il suo controllo quando e' il suo turno.
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: giro-agenti
+  cancel-in-progress: false
+jobs:
+  giro:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests tzdata
+      - name: Giro
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python giro.py
+      - name: Salva risultati
+        run: |
+          git config user.name "agente-bot"
+          git config user.email "agente-bot@users.noreply.github.com"
+          for f in decisioni_*.csv operazioni_*.csv stato_*_paper.json cache_notizie_*.json agente*.log config_*.json agenti.json; do if [ -f "$f" ]; then git add -f "$f"; fi; done
+          git commit -m "Giro $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase && git push && break; sleep $((i*5)); done
