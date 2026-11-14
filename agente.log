@@ -2227,3 +2227,9 @@
 14/11 19:01:10 INFO       (-0.7 r0.9 claude) Solana falls over 6% as ETF outflows and technical weakness weigh on sentiment - Traders Union
 14/11 19:01:10 INFO       (-0.5 r0.9 claude) Solana (SOL) drops 2.3% in one hour, down 8.6% over 24 hours amid $7.9M liquidations - Pluang
 14/11 19:01:10 INFO    -> ATTENDI: trend giornaliero non rialzista
+14/11 20:01:08 INFO    === lenta (SOL-EUR) ===
+14/11 20:01:08 INFO    Prezzo 65.7800 | medie 77.5020/85.8233 trend GIU | notizie -0.20 su 48 (2 nuove, 2 da Claude) | 0.3s
+14/11 20:01:08 INFO       (-0.7 r1.0 claude) Solana price drops 2.79%, triggering $11.25M in long position liquidations in one hour - Pluang
+14/11 20:01:08 INFO       (+0.6 r0.8 claude) Solana News: DTCC Plans to Bring Tokenized Securities to Solana as Remittix Sets a Planned $0.46 RTX Listing P
+14/11 20:01:08 INFO       (-0.6 r0.8 claude) Solana falls as Federal Reserve rate hike signals weigh on crypto risk appetite - Traders Union
+14/11 20:01:08 INFO    -> ATTENDI: trend giornaliero non rialzista
