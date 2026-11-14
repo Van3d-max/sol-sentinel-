@@ -7887,3 +7887,11 @@
 14/11 11:30:59 INFO       (+0.2 r0.9 claude) PRIVATE AI: 🤖🔒 The Solana Foundation just launched open-so - KuCoin
 14/11 11:30:59 INFO    -> ATTENDI: notizie sotto la soglia (-0.13)
 14/11 11:30:59 INFO    Agente fermato.
+14/11 11:45:40 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+14/11 11:45:40 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=40, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+14/11 11:45:41 INFO    Prezzo 68.9100 | medie 68.8022/68.6033 trend SU | notizie -0.12 su 29 (0 nuove, 0 da Claude) | 0.8s
+14/11 11:45:41 INFO       (-0.7 r0.9 claude) Solana Slides Below $75 for First Time in Three Months as Fed Rate Fears Batter Crypto - BigGo Finance
+14/11 11:45:41 INFO       (-0.6 r0.9 claude) Solana (SOL) drops 2.56% in one hour, hitting $75.48 amid $15.39M long liquidations - Pluang
+14/11 11:45:41 INFO       (+0.2 r0.9 claude) PRIVATE AI: 🤖🔒 The Solana Foundation just launched open-so - KuCoin
+14/11 11:45:41 INFO    -> ATTENDI: notizie sotto la soglia (-0.12)
+14/11 11:45:41 INFO    Agente fermato.
