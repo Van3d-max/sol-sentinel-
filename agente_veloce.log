@@ -7698,3 +7698,8 @@
 14/11 05:45:50 INFO       (+0.4 r0.9 claude) Solana launches private AI tools with on-chain hardware checks - Crypto News
 14/11 05:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista
 14/11 05:45:50 INFO    Agente fermato.
+14/11 06:01:14 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+14/11 06:01:23 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=40, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=errore: HTTPError
+14/11 06:01:24 INFO    Prezzo 69.0600 | medie 68.5211/69.0229 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 10.4s
+14/11 06:01:24 INFO    -> ATTENDI: trend giornaliero non rialzista
+14/11 06:01:24 INFO    Agente fermato.
