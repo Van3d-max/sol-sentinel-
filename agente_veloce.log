@@ -8211,3 +8211,9 @@
 14/11 22:45:41 INFO       (-0.5 r1.0 claude) Solana sees $11.55M long liquidations as price drops nearly 2% to $70.74 in one hour - Pluang
 14/11 22:45:41 INFO       (+0.6 r0.8 claude) Solana News: DTCC Plans to Bring Tokenized Securities to Solana as Remittix Sets a Planned $0.46 RTX Listing P
 14/11 22:45:41 INFO    -> ATTENDI: trend 15 minuti non rialzista
+14/11 23:01:07 INFO    === veloce (SOL-EUR) ===
+14/11 23:01:07 INFO    Prezzo 63.1000 | medie 63.4300/64.6938 trend GIU | notizie -0.38 su 13 (1 nuove, 1 da Claude) | 0.2s
+14/11 23:01:07 INFO       (-0.7 r0.9 claude) Solana Price Prediction: SOL Crashes 10% Toward $70 - Coinpaper
+14/11 23:01:07 INFO       (-0.7 r0.6 claude) Bitcoin drops below $64,000 and Solana falls un... - Pluang
+14/11 23:01:07 INFO       (-0.5 r1.0 claude) Solana sees $11.55M long liquidations as price drops nearly 2% to $70.74 in one hour - Pluang
+14/11 23:01:07 INFO    -> ATTENDI: trend 15 minuti non rialzista
