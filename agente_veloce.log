@@ -7951,3 +7951,11 @@
 14/11 13:30:56 INFO       (-0.7 r0.9 claude) Solana Slides Below $75 for First Time in Three Months as Fed Rate Fears Batter Crypto - BigGo Finance
 14/11 13:30:56 INFO    -> ATTENDI: notizia shock: Solana falls over 6% as ETF outflows and technical weakness weigh on sentiment -
 14/11 13:30:56 INFO    Agente fermato.
+14/11 13:45:38 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+14/11 13:45:39 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=40, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+14/11 13:45:41 INFO    Prezzo 68.5700 | medie 68.6911/68.6890 trend SU | notizie -0.34 su 31 (2 nuove, 2 da Claude) | 2.4s
+14/11 13:45:41 INFO       (-0.6 r0.9 claude) Solana Price Prediction: Can $70 Hold After Seven Straight ETF Outflow Sessions? - Cryptonews.net
+14/11 13:45:41 INFO       (-0.7 r0.9 claude) Solana falls over 6% as ETF outflows and technical weakness weigh on sentiment - Traders Union
+14/11 13:45:41 INFO       (-0.6 r0.9 claude) SOL slips as seller pressure and negative momentum weigh on price - Traders Union
+14/11 13:45:41 INFO    -> ATTENDI: notizia shock: Solana falls over 6% as ETF outflows and technical weakness weigh on sentiment -
+14/11 13:45:41 INFO    Agente fermato.
