@@ -7610,3 +7610,11 @@
 14/11 03:01:07 INFO       (+0.4 r0.9 claude) Solana launches private AI tools with on-chain hardware checks - Crypto News
 14/11 03:01:07 INFO    -> ATTENDI: trend giornaliero non rialzista
 14/11 03:01:07 INFO    Agente fermato.
+14/11 03:15:46 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+14/11 03:15:46 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=40, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+14/11 03:15:48 INFO    Prezzo 68.9100 | medie 69.4822/70.2210 trend GIU | notizie -0.13 su 44 (1 nuove, 1 da Claude) | 1.8s
+14/11 03:15:48 INFO       (-0.6 r0.9 claude) Solana (SOL) drops 2.56% in one hour, hitting $75.48 amid $15.39M long liquidations - Pluang
+14/11 03:15:48 INFO       (-0.6 r0.9 claude) Solana sees biggest 24-hour drop in crypto futu... - Pluang
+14/11 03:15:48 INFO       (+0.4 r0.9 claude) Solana launches private AI tools with on-chain hardware checks - Crypto News
+14/11 03:15:48 INFO    -> ATTENDI: trend giornaliero non rialzista
+14/11 03:15:48 INFO    Agente fermato.
