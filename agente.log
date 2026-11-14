@@ -2071,3 +2071,11 @@
 14/11 02:00:56 INFO       (-0.6 r0.9 claude) Solana struggle continues below 200-day average with sellers in control: weekly outlook - Traders Union
 14/11 02:00:56 INFO    -> ATTENDI: trend giornaliero non rialzista
 14/11 02:00:56 INFO    Agente fermato.
+14/11 03:01:05 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+14/11 03:01:06 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=40, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+14/11 03:01:08 INFO    Prezzo 69.0900 | medie 77.5020/85.8233 trend GIU | notizie +0.00 su 88 (6 nuove, 6 da Claude) | 3.0s
+14/11 03:01:08 INFO       (-0.6 r0.9 claude) Solana sees biggest 24-hour drop in crypto futu... - Pluang
+14/11 03:01:08 INFO       (+0.7 r0.9 claude) Solana Scores Major Wall Street Win as DTCC Plans to Tokenize US Securities on SOL Network - Coinpaper
+14/11 03:01:08 INFO       (-0.7 r0.9 claude) Solana price faces a brutal death cross: could SOL crash below $70? - Cryptonews.net
+14/11 03:01:08 INFO    -> ATTENDI: trend giornaliero non rialzista
+14/11 03:01:08 INFO    Agente fermato.
