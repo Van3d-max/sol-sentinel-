@@ -8015,3 +8015,11 @@
 14/11 15:16:36 INFO       (-0.7 r0.9 claude) Solana falls over 6% as ETF outflows and technical weakness weigh on sentiment - Traders Union
 14/11 15:16:36 INFO    -> ATTENDI: trend giornaliero non rialzista
 14/11 15:16:36 INFO    Agente fermato.
+14/11 15:30:57 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+14/11 15:31:07 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=40, bitcoinmagazine.com=10, cryptoslate.com=errore: ReadTimeout, news.google.com=100
+14/11 15:31:07 INFO    Prezzo 66.5700 | medie 67.7111/68.3210 trend GIU | notizie -0.29 su 29 (0 nuove, 0 da Claude) | 10.4s
+14/11 15:31:07 INFO       (-0.5 r0.9 claude) Solana (SOL) drops 2.3% in one hour, down 8.6% over 24 hours amid $7.9M liquidations - Pluang
+14/11 15:31:07 INFO       (-0.6 r0.9 claude) Solana Price Prediction: Can $70 Hold After Seven Straight ETF Outflow Sessions? - Cryptonews.net
+14/11 15:31:07 INFO       (-0.7 r0.9 claude) Solana falls over 6% as ETF outflows and technical weakness weigh on sentiment - Traders Union
+14/11 15:31:07 INFO    -> ATTENDI: trend giornaliero non rialzista
+14/11 15:31:07 INFO    Agente fermato.
