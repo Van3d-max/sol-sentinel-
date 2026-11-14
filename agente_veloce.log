@@ -7855,3 +7855,11 @@
 14/11 10:30:57 INFO       (+0.4 r0.9 claude) Solana launches private AI tools with on-chain hardware checks - Crypto News
 14/11 10:30:57 INFO    -> ATTENDI: notizie sotto la soglia (-0.10)
 14/11 10:30:57 INFO    Agente fermato.
+14/11 10:45:38 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+14/11 10:45:39 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=40, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+14/11 10:45:39 INFO    Prezzo 68.7800 | medie 68.6533/68.6024 trend SU | notizie -0.09 su 30 (0 nuove, 0 da Claude) | 0.6s
+14/11 10:45:39 INFO       (-0.6 r0.9 claude) SOL slips as seller pressure and negative momentum weigh on price - Traders Union
+14/11 10:45:39 INFO       (+0.2 r0.9 claude) PRIVATE AI: 🤖🔒 The Solana Foundation just launched open-so - KuCoin
+14/11 10:45:39 INFO       (+0.4 r0.9 claude) Solana launches private AI tools with on-chain hardware checks - Crypto News
+14/11 10:45:39 INFO    -> ATTENDI: notizie sotto la soglia (-0.09)
+14/11 10:45:39 INFO    Agente fermato.
