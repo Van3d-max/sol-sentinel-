@@ -1,0 +1,89 @@
+{
+  "nome": "intermedio",
+  "coppia": "SOL-EUR",
+  "puntata_eur": 100.0,
+  "commissione_taker": 0.006,
+  "trend": {
+    "candela": "ONE_HOUR",
+    "secondi": 3600,
+    "media_veloce": 20,
+    "media_lenta": 50,
+    "stop_atr": 2.0,
+    "take_profit_atr": 4.0,
+    "atr_periodo": 14
+  },
+  "regole": {
+    "soglia_ingresso": 0.0,
+    "soglia_uscita": -0.5,
+    "max_ingressi_giorno": 2,
+    "pausa_dopo_uscita_ore": 4,
+    "max_perdita_giornaliera_eur": 10.0,
+    "obiettivo_min_pct": 2.2
+  },
+  "notizie": {
+    "moneta": "Solana (SOL)",
+    "parole_chiave": [
+      "solana",
+      "\\bSOL\\b"
+    ],
+    "query_gdelt": "solana",
+    "gdelt": false,
+    "feed_rss": [
+      "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "https://cointelegraph.com/rss",
+      "https://decrypt.co/feed",
+      "https://bitcoinmagazine.com/.rss/full/",
+      "https://cryptoslate.com/feed/",
+      "https://news.google.com/rss/search?q=solana&hl=en-US&gl=US&ceid=US:en"
+    ],
+    "finestra_ore": 24,
+    "emivita_ore": 3,
+    "prudenza": 0.5,
+    "shock_ore": 3,
+    "shock_rilevanza": 0.6,
+    "shock_punteggio": -0.7,
+    "usa_claude": true,
+    "modello": "claude-haiku-5-5"
+  },
+  "dibattito": {
+    "attivo": true,
+    "modello": "claude-haiku-5-5"
+  },
+  "intervallo_minuti": 60,
+  "sl_offset_limite_pct": 1.0,
+  "fuso_orario": "Europe/Rome",
+  "file_decisioni": "decisioni_intermedio.csv",
+  "file_operazioni": "operazioni_intermedio.csv",
+  "file_log": "agente_intermedio.log",
+  "file_cache": "cache_notizie_sol.json",
+  "file_chiave_api": "cdp_api_key.json",
+  "freno": {
+    "attivo": true,
+    "ultime_operazioni": 5,
+    "perdita_max_eur": 8.0,
+    "perdita_7_giorni_eur": 12.0,
+    "pausa_ore": 48
+  },
+  "filtri_appresi": [],
+  "revisione": {
+    "modello": "claude-sonnet-5-5"
+  },
+  "apprendimento": {
+    "auto": true,
+    "max_filtri": 3,
+    "min_operazioni": 30,
+    "guadagno_min_eur": 8.0,
+    "meta_min_eur": 3.0,
+    "verifica_dopo_operazioni": 8,
+    "nuovi_a_settimana": 1,
+    "quarantena_giorni": 28
+  },
+  "trend_superiore": {
+    "candela": "ONE_DAY",
+    "secondi": 86400,
+    "media_veloce": 10,
+    "media_lenta": 30
+  },
+  "moneta_codice": "sol",
+  "agente_tipo": "intermedio"
+}

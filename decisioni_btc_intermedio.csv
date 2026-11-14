@@ -1,0 +1,309 @@
+data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;valutate_claude;shock;posizione;azione;motivo;notizia_principale;atr_pct
+2026-11-02T00:00:00+01:00;69687.91;69793.74;69517.07;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.303
+2026-11-02T01:00:00+01:00;70171.40;69822.29;69547.05;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.334
+2026-11-02T02:00:00+01:00;69905.83;69836.11;69568.16;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.359
+2026-11-02T03:00:00+01:00;70138.99;69856.74;69586.21;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.377
+2026-11-02T04:00:00+01:00;70184.99;69875.42;69601.56;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.37
+2026-11-02T05:00:00+01:00;70310.78;69901.94;69622.32;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.381
+2026-11-02T06:00:00+01:00;70095.98;69904.21;69637.95;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.384
+2026-11-02T07:00:00+01:00;70003.99;69908.59;69656.52;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.378
+2026-11-02T08:00:00+01:00;69788.97;69905.90;69670.10;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.378
+2026-11-02T09:00:00+01:00;69667.75;69901.24;69680.21;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.389
+2026-11-02T10:00:00+01:00;69647.95;69898.72;69687.27;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.382
+2026-11-02T11:00:00+01:00;69514.09;69883.20;69693.03;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.38
+2026-11-02T12:00:00+01:00;69512.52;69866.37;69698.20;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.37
+2026-11-02T13:00:00+01:00;69400.45;69846.41;69699.54;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.369
+2026-11-02T14:00:00+01:00;69311.30;69813.46;69699.67;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.388
+2026-11-02T15:00:00+01:00;69387.20;69791.98;69697.51;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.411
+2026-11-02T16:00:00+01:00;69329.55;69771.13;69695.40;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.421
+2026-11-02T17:00:00+01:00;69146.25;69743.80;69690.42;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.46
+2026-11-02T18:00:00+01:00;69091.94;69707.84;69685.77;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.467
+2026-11-02T19:00:00+01:00;68780.86;69653.93;69671.58;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.504
+2026-11-02T20:00:00+01:00;68699.60;69604.52;69656.96;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.504
+2026-11-02T21:00:00+01:00;68730.23;69532.46;69640.61;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.505
+2026-11-02T22:00:00+01:00;68499.98;69462.17;69620.71;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.519
+2026-11-02T23:00:00+01:00;68577.64;69384.10;69603.72;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.51
+2026-11-03T00:00:00+01:00;68654.36;69307.57;69588.68;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.493
+2026-11-03T01:00:00+01:00;68545.79;69219.32;69569.10;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.476
+2026-11-03T02:00:00+01:00;68847.94;69156.92;69557.99;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.497
+2026-11-03T03:00:00+01:00;68835.01;69098.47;69546.16;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.484
+2026-11-03T04:00:00+01:00;68474.34;69032.74;69525.21;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.49
+2026-11-03T05:00:00+01:00;68622.43;68980.47;69506.38;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.495
+2026-11-03T06:00:00+01:00;68647.58;68930.45;69488.01;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.495
+2026-11-03T07:00:00+01:00;68373.24;68873.41;69463.47;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.497
+2026-11-03T08:00:00+01:00;68334.39;68814.50;69437.57;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.505
+2026-11-03T09:00:00+01:00;68496.28;68769.30;69412.96;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.504
+2026-11-03T10:00:00+01:00;68352.78;68721.37;69383.79;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.498
+2026-11-03T11:00:00+01:00;68771.30;68690.57;69363.61;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.505
+2026-11-03T12:00:00+01:00;68879.17;68668.06;69340.18;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.486
+2026-11-03T13:00:00+01:00;68850.00;68653.24;69318.85;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.471
+2026-11-03T14:00:00+01:00;69131.85;68655.24;69304.64;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.485
+2026-11-03T15:00:00+01:00;69040.94;68668.24;69290.24;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.492
+2026-11-03T16:00:00+01:00;69009.16;68683.72;69276.45;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.492
+2026-11-03T17:00:00+01:00;69333.18;68713.87;69266.62;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.509
+2026-11-03T18:00:00+01:00;69388.66;68758.30;69257.41;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.509
+2026-11-03T19:00:00+01:00;69292.99;68794.07;69247.28;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.492
+2026-11-03T20:00:00+01:00;69243.00;68823.50;69232.74;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.487
+2026-11-03T21:00:00+01:00;69271.82;68859.80;69221.84;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.467
+2026-11-03T22:00:00+01:00;69511.92;68893.00;69217.14;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.464
+2026-11-03T23:00:00+01:00;69530.38;68927.77;69213.89;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.455
+2026-11-04T00:00:00+01:00;69535.00;68980.80;69208.37;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.442
+2026-11-04T01:00:00+01:00;69041.95;69001.78;69192.03;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.472
+2026-11-04T02:00:00+01:00;68784.39;69008.62;69173.96;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.518
+2026-11-04T03:00:00+01:00;68459.07;69012.91;69139.72;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.553
+2026-11-04T04:00:00+01:00;67608.37;68976.61;69093.77;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.63
+2026-11-04T05:00:00+01:00;67947.99;68949.20;69049.95;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.666
+2026-11-04T06:00:00+01:00;68765.34;68969.82;69021.55;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.724
+2026-11-04T07:00:00+01:00;69111.11;68986.81;68997.56;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.75
+2026-11-04T08:00:00+01:00;69369.04;69011.31;68983.02;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.726
+2026-11-04T09:00:00+01:00;69424.09;69040.01;68971.42;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.711
+2026-11-04T10:00:00+01:00;69709.57;69068.90;68969.83;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.691
+2026-11-04T11:00:00+01:00;69554.66;69094.58;68967.57;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.666
+2026-11-04T12:00:00+01:00;69800.61;69134.16;68970.63;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.651
+2026-11-04T13:00:00+01:00;69661.38;69150.57;68973.57;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.631
+2026-11-04T14:00:00+01:00;69450.56;69153.66;68972.33;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.635
+2026-11-04T15:00:00+01:00;69512.74;69164.65;68974.58;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.612
+2026-11-04T16:00:00+01:00;70477.09;69226.35;68997.89;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.697
+2026-11-04T17:00:00+01:00;71399.97;69332.76;69038.15;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.814
+2026-11-04T18:00:00+01:00;71742.74;69444.30;69086.41;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.804
+2026-11-04T19:00:00+01:00;71527.51;69544.16;69134.04;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.793
+2026-11-04T20:00:00+01:00;71571.63;69645.99;69183.63;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.762
+2026-11-04T21:00:00+01:00;71217.29;69754.76;69232.36;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.753
+2026-11-04T22:00:00+01:00;71292.43;69880.16;69284.22;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.732
+2026-11-04T23:00:00+01:00;71394.87;70026.95;69337.51;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.7
+2026-11-05T00:00:00+01:00;71820.71;70237.57;69403.93;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.71
+2026-11-05T01:00:00+01:00;71611.85;70420.76;69464.61;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.692
+2026-11-05T02:00:00+01:00;71567.34;70560.86;69522.87;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.675
+2026-11-05T03:00:00+01:00;71637.79;70687.19;69584.71;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.686
+2026-11-05T04:00:00+01:00;71524.39;70794.96;69638.24;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.666
+2026-11-05T05:00:00+01:00;71419.69;70894.74;69689.93;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.651
+2026-11-05T06:00:00+01:00;71402.04;70979.36;69748.49;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.638
+2026-11-05T07:00:00+01:00;71351.88;71069.23;69803.07;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.613
+2026-11-05T08:00:00+01:00;71507.52;71154.57;69860.27;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.595
+2026-11-05T09:00:00+01:00;71432.08;71243.11;69921.45;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.583
+2026-11-05T10:00:00+01:00;71524.83;71346.82;69985.26;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.568
+2026-11-05T11:00:00+01:00;71575.07;71449.94;70046.83;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.549
+2026-11-05T12:00:00+01:00;71429.16;71497.54;70108.36;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.539
+2026-11-05T13:00:00+01:00;71580.10;71506.55;70164.54;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.519
+2026-11-05T14:00:00+01:00;70926.22;71465.72;70205.48;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.563
+2026-11-05T15:00:00+01:00;70949.17;71436.80;70247.46;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.557
+2026-11-05T16:00:00+01:00;69749.58;71345.70;70259.82;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.68
+2026-11-05T17:00:00+01:00;67651.27;71167.40;70232.02;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.92
+2026-11-05T18:00:00+01:00;67926.50;70999.10;70210.37;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.98
+2026-11-05T19:00:00+01:00;67524.09;70805.56;70174.19;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.974
+2026-11-05T20:00:00+01:00;67700.00;70599.53;70140.42;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.965
+2026-11-05T21:00:00+01:00;67992.46;70418.56;70114.41;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.96
+2026-11-05T22:00:00+01:00;67851.95;70232.79;70086.58;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.938
+2026-11-05T23:00:00+01:00;67553.31;70028.57;70052.21;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.916
+2026-11-06T00:00:00+01:00;67402.86;69822.49;70010.03;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.906
+2026-11-06T01:00:00+01:00;67702.08;69636.61;69973.47;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.919
+2026-11-06T02:00:00+01:00;67938.11;69463.41;69941.53;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.884
+2026-11-06T03:00:00+01:00;67835.84;69287.61;69917.41;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.872
+2026-11-06T04:00:00+01:00;67904.15;69107.44;69899.80;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.841
+2026-11-06T05:00:00+01:00;67704.01;68921.04;69884.70;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.83
+2026-11-06T06:00:00+01:00;67584.11;68724.00;69884.22;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.796
+2026-11-06T07:00:00+01:00;67535.94;68522.05;69875.97;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.783
+2026-11-06T08:00:00+01:00;67626.68;68331.92;69853.20;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.765
+2026-11-06T09:00:00+01:00;67582.46;68132.04;69822.63;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.763
+2026-11-06T10:00:00+01:00;67618.34;67966.65;69787.61;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.74
+2026-11-06T11:00:00+01:00;68128.40;67825.61;69761.70;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.745
+2026-11-06T12:00:00+01:00;68018.91;67739.07;69727.89;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.714
+2026-11-06T13:00:00+01:00;68067.10;67759.87;69698.14;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.686
+2026-11-06T14:00:00+01:00;68006.60;67763.87;69662.26;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.677
+2026-11-06T15:00:00+01:00;68026.04;67788.97;69629.55;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.675
+2026-11-06T16:00:00+01:00;67634.27;67785.68;69593.22;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.712
+2026-11-06T17:00:00+01:00;67989.83;67785.55;69562.77;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.755
+2026-11-06T18:00:00+01:00;68090.09;67797.46;69515.03;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.762
+2026-11-06T19:00:00+01:00;67941.66;67816.87;69445.86;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.769
+2026-11-06T20:00:00+01:00;67934.17;67843.44;69369.69;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.748
+2026-11-06T21:00:00+01:00;68043.62;67860.52;69300.01;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.714
+2026-11-06T22:00:00+01:00;68006.34;67863.93;69228.70;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.687
+2026-11-06T23:00:00+01:00;68074.00;67875.84;69165.84;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.658
+2026-11-07T00:00:00+01:00;68043.22;67882.79;69100.85;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.639
+2026-11-07T01:00:00+01:00;67981.35;67896.66;69032.58;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.608
+2026-11-07T02:00:00+01:00;68034.69;67919.19;68956.86;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.577
+2026-11-07T03:00:00+01:00;68159.98;67950.39;68887.83;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.552
+2026-11-07T04:00:00+01:00;68167.45;67977.43;68819.83;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.522
+2026-11-07T05:00:00+01:00;68027.94;67999.70;68747.63;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.514
+2026-11-07T06:00:00+01:00;68048.51;68021.21;68678.11;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.485
+2026-11-07T07:00:00+01:00;68152.43;68022.41;68612.77;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.466
+2026-11-07T08:00:00+01:00;68171.47;68030.04;68548.16;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.439
+2026-11-07T09:00:00+01:00;68215.60;68037.46;68485.43;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.42
+2026-11-07T10:00:00+01:00;68327.58;68053.51;68421.83;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.402
+2026-11-07T11:00:00+01:00;68199.53;68062.19;68357.18;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.395
+2026-11-07T12:00:00+01:00;68156.54;68088.30;68289.82;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.379
+2026-11-07T13:00:00+01:00;68146.23;68096.12;68221.24;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.363
+2026-11-07T14:00:00+01:00;68060.61;68094.65;68153.87;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.355
+2026-11-07T15:00:00+01:00;68088.07;68101.97;68084.03;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.344
+2026-11-07T16:00:00+01:00;68114.24;68110.97;68027.79;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.326
+2026-11-07T17:00:00+01:00;67939.30;68105.75;67967.59;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.336
+2026-11-07T18:00:00+01:00;67936.46;68102.26;67931.33;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.322
+2026-11-07T19:00:00+01:00;68007.12;68098.92;67938.44;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.309
+2026-11-07T20:00:00+01:00;67963.68;68094.94;67939.19;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.298
+2026-11-07T21:00:00+01:00;67975.57;68094.65;67948.22;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.284
+2026-11-07T22:00:00+01:00;67877.78;68086.80;67951.77;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.283
+2026-11-07T23:00:00+01:00;67934.04;68075.51;67950.61;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.278
+2026-11-08T00:00:00+01:00;67953.93;68064.83;67952.64;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.268
+2026-11-08T01:00:00+01:00;68020.63;68064.47;67961.99;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.268
+2026-11-08T02:00:00+01:00;67980.96;68061.09;67973.55;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.261
+2026-11-08T03:00:00+01:00;67908.58;68048.90;67977.68;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.253
+2026-11-08T04:00:00+01:00;67971.74;68038.91;67978.36;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.248
+2026-11-08T05:00:00+01:00;68085.87;68032.42;67983.36;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.243
+2026-11-08T06:00:00+01:00;68039.51;68018.02;67986.06;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.239
+2026-11-08T07:00:00+01:00;67989.66;68007.53;67991.78;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.232
+2026-11-08T08:00:00+01:00;68004.42;67999.92;68000.18;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.224
+2026-11-08T09:00:00+01:00;68129.74;67999.10;68012.06;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.223
+2026-11-08T10:00:00+01:00;68091.06;68000.62;68021.35;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.217
+2026-11-08T11:00:00+01:00;68098.67;68001.15;68031.67;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.211
+2026-11-08T12:00:00+01:00;68056.50;67998.26;68040.43;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.208
+2026-11-08T13:00:00+01:00;68133.38;68007.96;68040.53;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.208
+2026-11-08T14:00:00+01:00;68134.67;68017.88;68042.85;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.202
+2026-11-08T15:00:00+01:00;68069.49;68020.99;68042.90;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.219
+2026-11-08T16:00:00+01:00;68186.38;68032.13;68046.49;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.219
+2026-11-08T17:00:00+01:00;68200.12;68043.36;68049.97;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.213
+2026-11-08T18:00:00+01:00;67939.99;68046.47;68056.09;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.232
+2026-11-08T19:00:00+01:00;67915.45;68045.54;68054.60;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.235
+2026-11-08T20:00:00+01:00;68082.91;68051.99;68054.46;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.242
+2026-11-08T21:00:00+01:00;68088.56;68055.38;68057.39;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.236
+2026-11-08T22:00:00+01:00;67924.15;68052.54;68057.19;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.24
+2026-11-08T23:00:00+01:00;66492.63;67981.74;68026.17;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.436
+2026-11-09T00:00:00+01:00;66765.78;67921.45;68001.36;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.473
+2026-11-09T01:00:00+01:00;67065.50;67870.43;67981.19;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.56
+2026-11-09T02:00:00+01:00;67439.82;67840.44;67969.13;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.59
+2026-11-09T03:00:00+01:00;67324.29;67807.18;67955.98;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.628
+2026-11-09T04:00:00+01:00;67432.87;67778.60;67943.95;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.63
+2026-11-09T05:00:00+01:00;67065.91;67725.41;67922.07;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.631
+2026-11-09T06:00:00+01:00;67000.00;67670.85;67898.72;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.621
+2026-11-09T07:00:00+01:00;66686.91;67600.27;67871.90;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.63
+2026-11-09T08:00:00+01:00;66482.24;67521.55;67840.57;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.654
+2026-11-09T09:00:00+01:00;66064.49;67418.11;67798.81;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.675
+2026-11-09T10:00:00+01:00;66585.30;67340.64;67767.09;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.694
+2026-11-09T11:00:00+01:00;66302.30;67252.28;67728.82;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.709
+2026-11-09T12:00:00+01:00;66182.76;67152.10;67685.93;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.684
+2026-11-09T13:00:00+01:00;66365.03;67060.34;67649.24;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.706
+2026-11-09T14:00:00+01:00;66870.17;67006.85;67623.51;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.72
+2026-11-09T15:00:00+01:00;66648.99;66943.53;67593.56;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.711
+2026-11-09T16:00:00+01:00;66849.98;66881.88;67569.35;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.731
+2026-11-09T17:00:00+01:00;67407.97;66847.85;67555.75;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.769
+2026-11-09T18:00:00+01:00;66947.52;66799.02;67532.42;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.797
+2026-11-09T19:00:00+01:00;66701.36;66809.46;67507.66;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.793
+2026-11-09T20:00:00+01:00;66597.80;66801.06;67480.88;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.783
+2026-11-09T21:00:00+01:00;66657.87;66780.68;67453.90;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.78
+2026-11-09T22:00:00+01:00;66644.99;66740.94;67427.52;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.758
+2026-11-09T23:00:00+01:00;66770.00;66713.22;67403.41;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.727
+2026-11-10T00:00:00+01:00;67032.87;66693.22;67386.52;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.713
+2026-11-10T01:00:00+01:00;67091.28;66694.49;67369.66;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.688
+2026-11-10T02:00:00+01:00;66844.11;66686.70;67347.46;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.683
+2026-11-10T03:00:00+01:00;66839.85;66694.34;67323.85;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.668
+2026-11-10T04:00:00+01:00;66655.96;66703.03;67297.35;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.648
+2026-11-10T05:00:00+01:00;66369.18;66718.26;67266.56;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.655
+2026-11-10T06:00:00+01:00;66511.85;66714.59;67237.36;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.637
+2026-11-10T07:00:00+01:00;66563.40;66727.65;67206.91;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.618
+2026-11-10T08:00:00+01:00;66406.69;66738.84;67174.26;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.601
+2026-11-10T09:00:00+01:00;66519.63;66746.57;67144.86;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.585
+2026-11-10T10:00:00+01:00;66336.30;66719.88;67111.49;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.588
+2026-11-10T11:00:00+01:00;66318.74;66703.37;67075.27;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.588
+2026-11-10T12:00:00+01:00;66058.84;66663.81;67034.63;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.588
+2026-11-10T13:00:00+01:00;66287.54;66607.79;66998.41;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.582
+2026-11-10T14:00:00+01:00;66276.67;66574.25;66962.81;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.567
+2026-11-10T15:00:00+01:00;65866.18;66532.49;66917.47;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.617
+2026-11-10T16:00:00+01:00;66489.74;66527.08;66884.57;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.65
+2026-11-10T17:00:00+01:00;65570.18;66472.70;66834.58;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.794
+2026-11-10T18:00:00+01:00;65326.08;66406.75;66777.38;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.816
+2026-11-10T19:00:00+01:00;65646.78;66350.59;66726.31;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.802
+2026-11-10T20:00:00+01:00;65764.43;66287.17;66682.80;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.794
+2026-11-10T21:00:00+01:00;65760.99;66220.66;66639.71;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.761
+2026-11-10T22:00:00+01:00;66019.75;66179.44;66598.44;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.754
+2026-11-10T23:00:00+01:00;66095.46;66142.22;66558.58;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.727
+2026-11-11T00:00:00+01:00;65920.99;66105.47;66518.52;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.714
+2026-11-11T01:00:00+01:00;66008.01;66087.41;66508.83;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.691
+2026-11-11T02:00:00+01:00;65788.43;66051.24;66489.28;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.673
+2026-11-11T03:00:00+01:00;65823.33;66014.24;66464.44;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.689
+2026-11-11T04:00:00+01:00;65883.11;65988.06;66433.30;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.695
+2026-11-11T05:00:00+01:00;66015.48;65962.85;66407.13;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.67
+2026-11-11T06:00:00+01:00;65941.67;65943.12;66377.30;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.661
+2026-11-11T07:00:00+01:00;66167.38;65935.55;66359.33;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.644
+2026-11-11T08:00:00+01:00;65922.06;65928.71;66337.77;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.633
+2026-11-11T09:00:00+01:00;66356.06;65932.14;66331.16;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.641
+2026-11-11T10:00:00+01:00;66069.43;65921.78;66322.90;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.642
+2026-11-11T11:00:00+01:00;66194.82;65938.21;66325.51;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.62
+2026-11-11T12:00:00+01:00;66409.83;65934.21;66322.00;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.619
+2026-11-11T13:00:00+01:00;66406.72;65976.04;66324.09;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.591
+2026-11-11T14:00:00+01:00;66329.22;66026.20;66327.01;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.575
+2026-11-11T15:00:00+01:00;66409.82;66064.35;66327.91;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.568
+2026-11-11T16:00:00+01:00;66294.41;66090.85;66316.40;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.574
+2026-11-11T17:00:00+01:00;66618.83;66133.74;66315.79;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.636
+2026-11-11T18:00:00+01:00;66899.58;66177.73;66316.78;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.636
+2026-11-11T19:00:00+01:00;67123.15;66229.12;66311.09;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.65
+2026-11-11T20:00:00+01:00;67122.70;66289.20;66314.59;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.629
+2026-11-11T21:00:00+01:00;67031.86;66340.39;66321.20;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.617
+2026-11-11T22:00:00+01:00;67291.72;66415.56;66335.08;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.611
+2026-11-11T23:00:00+01:00;67014.55;66475.12;66342.21;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.613
+2026-11-12T00:00:00+01:00;66624.23;66512.18;66341.80;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.636
+2026-11-12T01:00:00+01:00;66658.90;66544.35;66339.58;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.654
+2026-11-12T02:00:00+01:00;66664.14;66580.47;66332.20;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.646
+2026-11-12T03:00:00+01:00;66369.15;66590.56;66317.76;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.649
+2026-11-12T04:00:00+01:00;66576.91;66623.30;66312.41;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.653
+2026-11-12T05:00:00+01:00;66592.88;66635.14;66307.48;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.622
+2026-11-12T06:00:00+01:00;66480.57;66655.70;66303.97;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.6
+2026-11-12T07:00:00+01:00;66354.23;66663.67;66303.67;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.578
+2026-11-12T08:00:00+01:00;66324.85;66659.42;66299.93;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.564
+2026-11-12T09:00:00+01:00;66373.13;66657.74;66296.12;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.544
+2026-11-12T10:00:00+01:00;66283.80;66655.47;66293.67;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.524
+2026-11-12T11:00:00+01:00;66186.84;66644.32;66287.01;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.52
+2026-11-12T12:00:00+01:00;66129.15;66636.06;66282.87;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.504
+2026-11-12T13:00:00+01:00;65702.03;66590.22;66270.53;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.535
+2026-11-12T14:00:00+01:00;65688.70;66529.67;66263.13;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.538
+2026-11-12T15:00:00+01:00;65336.58;66440.35;66244.11;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.563
+2026-11-12T16:00:00+01:00;64629.57;66315.69;66211.17;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.647
+2026-11-12T17:00:00+01:00;64759.61;66202.08;66189.04;su;+0.000;0;0;0;0;no;attendi;[storico] trend giornaliero non rialzista (filtro superiore);;0.655
+2026-11-12T18:00:00+01:00;64856.98;66080.34;66156.38;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.679
+2026-11-12T19:00:00+01:00;65047.09;65981.97;66145.92;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.668
+2026-11-12T20:00:00+01:00;64890.29;65895.27;66137.20;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.67
+2026-11-12T21:00:00+01:00;64777.33;65801.19;66119.82;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.658
+2026-11-12T22:00:00+01:00;64561.40;65696.05;66095.75;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.644
+2026-11-12T23:00:00+01:00;64681.21;65611.66;66074.16;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.623
+2026-11-13T00:00:00+01:00;64559.76;65510.80;66044.96;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.605
+2026-11-13T01:00:00+01:00;64614.26;65411.87;66015.34;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.603
+2026-11-13T02:00:00+01:00;64316.86;65303.68;65983.25;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.646
+2026-11-13T03:00:00+01:00;64085.00;65190.22;65944.79;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.647
+2026-11-13T04:00:00+01:00;63468.70;65047.41;65898.40;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.71
+2026-11-13T05:00:00+01:00;62308.20;64844.17;65828.10;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.854
+2026-11-13T06:00:00+01:00;61972.92;64628.62;65749.89;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.861
+2026-11-13T07:00:00+01:00;61609.92;64399.78;65661.78;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.933
+2026-11-13T08:00:00+01:00;62382.05;64212.42;65590.59;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.985
+2026-11-13T09:00:00+01:00;61980.12;64026.33;65506.84;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.994
+2026-11-13T10:00:00+01:00;62104.39;63847.11;65430.49;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.965
+2026-11-13T11:00:00+01:00;62465.47;63703.56;65352.68;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.944
+2026-11-13T12:00:00+01:00;62730.57;63608.61;65285.90;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.916
+2026-11-13T13:00:00+01:00;62685.51;63504.90;65215.71;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.896
+2026-11-13T14:00:00+01:00;62612.44;63392.67;65139.77;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.867
+2026-11-13T15:00:00+01:00;62917.51;63286.20;65069.98;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.904
+2026-11-13T16:00:00+01:00;62384.65;63160.91;64991.09;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.925
+2026-11-13T17:00:00+01:00;62461.00;63045.10;64912.11;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.951
+2026-11-13T18:00:00+01:00;62246.73;62929.36;64831.16;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.944
+2026-11-13T19:00:00+01:00;62496.45;62820.13;64748.71;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.938
+2026-11-13T20:00:00+01:00;62517.89;62718.03;64661.08;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.898
+2026-11-13T21:00:00+01:00;62628.51;62618.74;64571.19;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.86
+2026-11-13T22:00:00+01:00;62492.97;62527.55;64478.59;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.828
+2026-11-13T23:00:00+01:00;62028.06;62424.70;64378.52;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.861
+2026-11-14T00:00:00+01:00;61918.14;62347.18;64271.04;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.856
+2026-11-14T01:00:00+01:00;61996.15;62331.57;64170.68;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.845
+2026-11-14T02:00:00+01:00;61986.09;62332.23;64077.91;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.818
+2026-11-14T03:00:00+01:00;61952.94;62349.38;63983.79;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.781
+2026-11-14T04:00:00+01:00;61408.90;62300.72;63878.69;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.876
+2026-11-14T05:00:00+01:00;60578.92;62230.66;63762.88;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.945
+2026-11-14T06:00:00+01:00;60887.99;62169.84;63649.11;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.951
+2026-11-14T07:00:00+01:00;61028.28;62097.99;63537.81;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.93
+2026-11-14T08:00:00+01:00;61119.02;62017.41;63430.58;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.889
+2026-11-14T09:00:00+01:00;60945.61;61930.41;63322.41;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.875
+2026-11-14T10:00:00+01:00;60784.35;61839.01;63211.60;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.852
+2026-11-14T11:00:00+01:00;61156.15;61750.94;63107.26;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.844
+2026-11-14T12:00:00+01:00;61070.41;61685.23;63002.99;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.812
+2026-11-14T13:00:00+01:00;61055.45;61614.95;62900.37;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.777
+2026-11-14T14:00:00+01:00;60805.77;61542.90;62793.90;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.768
+2026-11-14T15:00:00+01:00;60649.32;61450.55;62692.84;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.768
+2026-11-14T16:00:00+01:00;59830.18;61316.16;62575.67;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.838
+2026-11-14T17:00:00+01:00;59645.94;61167.03;62461.86;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.888
+2026-11-14T18:00:00+01:00;59300.20;61007.39;62355.27;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.909
+2026-11-14T18:34:51+01:00;59544.49;61007.39;62355.27;giu;-0.364;103;141;141;7;no;attendi;trend orario non rialzista;Bitcoin Slides to $65,000 as $1 Billion in Bets Are Liquidated - www.trendingtopics.eu;0.905

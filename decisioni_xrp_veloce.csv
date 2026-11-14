@@ -1,0 +1,1228 @@
+data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;valutate_claude;shock;posizione;azione;motivo;notizia_principale;atr_pct
+2026-11-02T00:00:00+01:00;1.1171;1.1198;1.1189;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.67% sotto il minimo +2.20% (commissioni);;0.223
+2026-11-02T00:15:00+01:00;1.1202;1.1198;1.1190;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.70% sotto il minimo +2.20% (commissioni);;0.234
+2026-11-02T00:30:00+01:00;1.1184;1.1195;1.1190;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.69% sotto il minimo +2.20% (commissioni);;0.229
+2026-11-02T00:45:00+01:00;1.1215;1.1194;1.1191;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.70% sotto il minimo +2.20% (commissioni);;0.232
+2026-11-02T01:00:00+01:00;1.1204;1.1189;1.1191;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.227
+2026-11-02T01:15:00+01:00;1.1165;1.1182;1.1190;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.249
+2026-11-02T01:30:00+01:00;1.1139;1.1177;1.1190;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.261
+2026-11-02T01:45:00+01:00;1.1154;1.1177;1.1189;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.252
+2026-11-02T02:00:00+01:00;1.1173;1.1179;1.1189;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.248
+2026-11-02T02:15:00+01:00;1.1235;1.1186;1.1192;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.283
+2026-11-02T02:30:00+01:00;1.1253;1.1191;1.1196;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.291
+2026-11-02T02:45:00+01:00;1.1270;1.1201;1.1200;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.86% sotto il minimo +2.20% (commissioni);;0.285
+2026-11-02T03:00:00+01:00;1.1236;1.1203;1.1201;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.88% sotto il minimo +2.20% (commissioni);;0.293
+2026-11-02T03:15:00+01:00;1.1217;1.1205;1.1201;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.86% sotto il minimo +2.20% (commissioni);;0.285
+2026-11-02T03:30:00+01:00;1.1247;1.1214;1.1203;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.85% sotto il minimo +2.20% (commissioni);;0.283
+2026-11-02T03:45:00+01:00;1.1224;1.1223;1.1203;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.85% sotto il minimo +2.20% (commissioni);;0.283
+2026-11-02T04:00:00+01:00;1.1213;1.1230;1.1201;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.83% sotto il minimo +2.20% (commissioni);;0.276
+2026-11-02T04:15:00+01:00;1.1234;1.1237;1.1202;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.82% sotto il minimo +2.20% (commissioni);;0.274
+2026-11-02T04:30:00+01:00;1.1267;1.1240;1.1205;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.87% sotto il minimo +2.20% (commissioni);;0.291
+2026-11-02T04:45:00+01:00;1.1284;1.1244;1.1212;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.87% sotto il minimo +2.20% (commissioni);;0.29
+2026-11-02T05:00:00+01:00;1.1277;1.1244;1.1217;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.86% sotto il minimo +2.20% (commissioni);;0.288
+2026-11-02T05:15:00+01:00;1.1252;1.1246;1.1221;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.88% sotto il minimo +2.20% (commissioni);;0.293
+2026-11-02T05:30:00+01:00;1.1257;1.1251;1.1224;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.84% sotto il minimo +2.20% (commissioni);;0.281
+2026-11-02T05:45:00+01:00;1.1229;1.1249;1.1226;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.84% sotto il minimo +2.20% (commissioni);;0.28
+2026-11-02T06:00:00+01:00;1.1215;1.1248;1.1226;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.81% sotto il minimo +2.20% (commissioni);;0.269
+2026-11-02T06:15:00+01:00;1.1202;1.1246;1.1226;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.79% sotto il minimo +2.20% (commissioni);;0.263
+2026-11-02T06:30:00+01:00;1.1204;1.1243;1.1228;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.77% sotto il minimo +2.20% (commissioni);;0.258
+2026-11-02T06:45:00+01:00;1.1212;1.1237;1.1231;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.74% sotto il minimo +2.20% (commissioni);;0.247
+2026-11-02T07:00:00+01:00;1.1213;1.1229;1.1234;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.239
+2026-11-02T07:15:00+01:00;1.1198;1.1220;1.1235;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.242
+2026-11-02T07:30:00+01:00;1.1176;1.1212;1.1232;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.25
+2026-11-02T07:45:00+01:00;1.1145;1.1199;1.1227;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.254
+2026-11-02T08:00:00+01:00;1.1179;1.1194;1.1223;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.256
+2026-11-02T08:15:00+01:00;1.1155;1.1187;1.1219;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.256
+2026-11-02T08:30:00+01:00;1.1167;1.1183;1.1217;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.25
+2026-11-02T08:45:00+01:00;1.1153;1.1178;1.1212;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.249
+2026-11-02T09:00:00+01:00;1.1153;1.1171;1.1209;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.249
+2026-11-02T09:15:00+01:00;1.1154;1.1164;1.1206;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.254
+2026-11-02T09:30:00+01:00;1.1158;1.1160;1.1202;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.245
+2026-11-02T09:45:00+01:00;1.1177;1.1160;1.1198;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.252
+2026-11-02T10:00:00+01:00;1.1154;1.1161;1.1192;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.255
+2026-11-02T10:15:00+01:00;1.1150;1.1158;1.1186;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.255
+2026-11-02T10:30:00+01:00;1.1139;1.1156;1.1180;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.253
+2026-11-02T10:45:00+01:00;1.1151;1.1154;1.1175;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.25
+2026-11-02T11:00:00+01:00;1.1140;1.1153;1.1171;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.252
+2026-11-02T11:15:00+01:00;1.1117;1.1149;1.1167;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.263
+2026-11-02T11:30:00+01:00;1.1124;1.1146;1.1163;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.253
+2026-11-02T11:45:00+01:00;1.1126;1.1142;1.1159;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.246
+2026-11-02T12:00:00+01:00;1.1130;1.1137;1.1155;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.239
+2026-11-02T12:15:00+01:00;1.1140;1.1135;1.1152;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.232
+2026-11-02T12:30:00+01:00;1.1134;1.1133;1.1149;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.235
+2026-11-02T12:45:00+01:00;1.1132;1.1133;1.1147;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.233
+2026-11-02T13:00:00+01:00;1.1148;1.1132;1.1147;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.229
+2026-11-02T13:15:00+01:00;1.1181;1.1137;1.1147;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.241
+2026-11-02T13:30:00+01:00;1.1165;1.1142;1.1147;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.24
+2026-11-02T13:45:00+01:00;1.1147;1.1145;1.1146;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.251
+2026-11-02T14:00:00+01:00;1.1141;1.1146;1.1146;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.74% sotto il minimo +2.20% (commissioni);;0.248
+2026-11-02T14:15:00+01:00;1.1130;1.1146;1.1145;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.72% sotto il minimo +2.20% (commissioni);;0.24
+2026-11-02T14:30:00+01:00;1.1114;1.1144;1.1143;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.75% sotto il minimo +2.20% (commissioni);;0.251
+2026-11-02T14:45:00+01:00;1.1225;1.1154;1.1146;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.94% sotto il minimo +2.20% (commissioni);;0.312
+2026-11-02T15:00:00+01:00;1.1160;1.1157;1.1145;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.02% sotto il minimo +2.20% (commissioni);;0.342
+2026-11-02T15:15:00+01:00;1.1147;1.1157;1.1145;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.03% sotto il minimo +2.20% (commissioni);;0.345
+2026-11-02T15:30:00+01:00;1.1147;1.1153;1.1145;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.02% sotto il minimo +2.20% (commissioni);;0.342
+2026-11-02T15:45:00+01:00;1.1161;1.1152;1.1146;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.05% sotto il minimo +2.20% (commissioni);;0.35
+2026-11-02T16:00:00+01:00;1.1159;1.1154;1.1146;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.03% sotto il minimo +2.20% (commissioni);;0.345
+2026-11-02T16:15:00+01:00;1.1193;1.1160;1.1149;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.08% sotto il minimo +2.20% (commissioni);;0.362
+2026-11-02T16:30:00+01:00;1.1170;1.1164;1.1151;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.10% sotto il minimo +2.20% (commissioni);;0.366
+2026-11-02T16:45:00+01:00;1.1196;1.1173;1.1155;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.13% sotto il minimo +2.20% (commissioni);;0.377
+2026-11-02T17:00:00+01:00;1.1141;1.1164;1.1155;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.26% sotto il minimo +2.20% (commissioni);;0.42
+2026-11-02T17:15:00+01:00;1.1139;1.1161;1.1156;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.25% sotto il minimo +2.20% (commissioni);;0.415
+2026-11-02T17:30:00+01:00;1.1153;1.1162;1.1156;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.23% sotto il minimo +2.20% (commissioni);;0.411
+2026-11-02T17:45:00+01:00;1.1171;1.1165;1.1158;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.20% sotto il minimo +2.20% (commissioni);;0.4
+2026-11-02T18:00:00+01:00;1.1155;1.1164;1.1159;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.17% sotto il minimo +2.20% (commissioni);;0.39
+2026-11-02T18:15:00+01:00;1.1138;1.1162;1.1159;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.15% sotto il minimo +2.20% (commissioni);;0.383
+2026-11-02T18:30:00+01:00;1.1094;1.1151;1.1155;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.398
+2026-11-02T18:45:00+01:00;1.1036;1.1136;1.1148;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.428
+2026-11-02T19:00:00+01:00;1.1073;1.1122;1.1145;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.438
+2026-11-02T19:15:00+01:00;1.1079;1.1115;1.1142;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.433
+2026-11-02T19:30:00+01:00;1.1047;1.1105;1.1138;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.426
+2026-11-02T19:45:00+01:00;1.1047;1.1093;1.1135;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.417
+2026-11-02T20:00:00+01:00;1.1090;1.1084;1.1128;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.414
+2026-11-02T20:15:00+01:00;1.1079;1.1076;1.1125;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.41
+2026-11-02T20:30:00+01:00;1.1122;1.1074;1.1123;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.416
+2026-11-02T20:45:00+01:00;1.1095;1.1074;1.1121;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.427
+2026-11-02T21:00:00+01:00;1.1155;1.1087;1.1121;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.442
+2026-11-02T21:15:00+01:00;1.1153;1.1096;1.1120;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.428
+2026-11-02T21:30:00+01:00;1.1156;1.1105;1.1119;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.426
+2026-11-02T21:45:00+01:00;1.1151;1.1116;1.1118;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.41
+2026-11-02T22:00:00+01:00;1.1128;1.1125;1.1114;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.27% sotto il minimo +2.20% (commissioni);;0.422
+2026-11-02T22:15:00+01:00;1.1143;1.1131;1.1114;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.22% sotto il minimo +2.20% (commissioni);;0.407
+2026-11-02T22:30:00+01:00;1.1131;1.1137;1.1114;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.18% sotto il minimo +2.20% (commissioni);;0.392
+2026-11-02T22:45:00+01:00;1.1187;1.1144;1.1116;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.20% sotto il minimo +2.20% (commissioni);;0.4
+2026-11-02T23:00:00+01:00;1.1182;1.1154;1.1116;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.18% sotto il minimo +2.20% (commissioni);;0.392
+2026-11-02T23:15:00+01:00;1.1157;1.1154;1.1116;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.16% sotto il minimo +2.20% (commissioni);;0.386
+2026-11-02T23:30:00+01:00;1.1150;1.1154;1.1117;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.14% sotto il minimo +2.20% (commissioni);;0.379
+2026-11-02T23:45:00+01:00;1.1151;1.1153;1.1120;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.08% sotto il minimo +2.20% (commissioni);;0.359
+2026-11-03T00:00:00+01:00;1.1148;1.1153;1.1125;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.03% sotto il minimo +2.20% (commissioni);;0.342
+2026-11-03T00:15:00+01:00;1.1164;1.1157;1.1129;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.05% sotto il minimo +2.20% (commissioni);;0.351
+2026-11-03T00:30:00+01:00;1.1146;1.1157;1.1132;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.02% sotto il minimo +2.20% (commissioni);;0.339
+2026-11-03T00:45:00+01:00;1.1153;1.1160;1.1138;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.97% sotto il minimo +2.20% (commissioni);;0.322
+2026-11-03T01:00:00+01:00;1.1156;1.1156;1.1143;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.92% sotto il minimo +2.20% (commissioni);;0.307
+2026-11-03T01:15:00+01:00;1.1149;1.1153;1.1146;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.88% sotto il minimo +2.20% (commissioni);;0.293
+2026-11-03T01:30:00+01:00;1.1178;1.1155;1.1150;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.90% sotto il minimo +2.20% (commissioni);;0.299
+2026-11-03T01:45:00+01:00;1.1172;1.1157;1.1153;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.89% sotto il minimo +2.20% (commissioni);;0.298
+2026-11-03T02:00:00+01:00;1.1156;1.1158;1.1156;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.86% sotto il minimo +2.20% (commissioni);;0.288
+2026-11-03T02:15:00+01:00;1.1154;1.1159;1.1155;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.84% sotto il minimo +2.20% (commissioni);;0.279
+2026-11-03T02:30:00+01:00;1.1162;1.1158;1.1156;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.82% sotto il minimo +2.20% (commissioni);;0.273
+2026-11-03T02:45:00+01:00;1.1163;1.1160;1.1156;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.78% sotto il minimo +2.20% (commissioni);;0.26
+2026-11-03T03:00:00+01:00;1.1165;1.1162;1.1157;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.75% sotto il minimo +2.20% (commissioni);;0.251
+2026-11-03T03:15:00+01:00;1.1156;1.1162;1.1158;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.74% sotto il minimo +2.20% (commissioni);;0.246
+2026-11-03T03:30:00+01:00;1.1165;1.1163;1.1159;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.72% sotto il minimo +2.20% (commissioni);;0.239
+2026-11-03T03:45:00+01:00;1.1168;1.1162;1.1161;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.76% sotto il minimo +2.20% (commissioni);;0.253
+2026-11-03T04:00:00+01:00;1.1136;1.1158;1.1159;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.257
+2026-11-03T04:15:00+01:00;1.1164;1.1159;1.1158;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.80% sotto il minimo +2.20% (commissioni);;0.268
+2026-11-03T04:30:00+01:00;1.1151;1.1159;1.1157;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.79% sotto il minimo +2.20% (commissioni);;0.263
+2026-11-03T04:45:00+01:00;1.1157;1.1158;1.1158;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.77% sotto il minimo +2.20% (commissioni);;0.257
+2026-11-03T05:00:00+01:00;1.1167;1.1159;1.1159;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.77% sotto il minimo +2.20% (commissioni);;0.258
+2026-11-03T05:15:00+01:00;1.1172;1.1160;1.1160;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.249
+2026-11-03T05:30:00+01:00;1.1224;1.1167;1.1163;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.80% sotto il minimo +2.20% (commissioni);;0.266
+2026-11-03T05:45:00+01:00;1.1191;1.1170;1.1165;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.82% sotto il minimo +2.20% (commissioni);;0.273
+2026-11-03T06:00:00+01:00;1.1191;1.1173;1.1167;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.77% sotto il minimo +2.20% (commissioni);;0.257
+2026-11-03T06:15:00+01:00;1.1164;1.1176;1.1167;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.77% sotto il minimo +2.20% (commissioni);;0.256
+2026-11-03T06:30:00+01:00;1.1159;1.1175;1.1167;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.75% sotto il minimo +2.20% (commissioni);;0.25
+2026-11-03T06:45:00+01:00;1.1162;1.1176;1.1167;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.73% sotto il minimo +2.20% (commissioni);;0.244
+2026-11-03T07:00:00+01:00;1.1156;1.1176;1.1166;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.72% sotto il minimo +2.20% (commissioni);;0.24
+2026-11-03T07:15:00+01:00;1.1123;1.1171;1.1164;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.73% sotto il minimo +2.20% (commissioni);;0.245
+2026-11-03T07:30:00+01:00;1.1163;1.1170;1.1165;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.76% sotto il minimo +2.20% (commissioni);;0.252
+2026-11-03T07:45:00+01:00;1.1146;1.1162;1.1164;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.249
+2026-11-03T08:00:00+01:00;1.1150;1.1157;1.1163;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.237
+2026-11-03T08:15:00+01:00;1.1162;1.1154;1.1163;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.235
+2026-11-03T08:30:00+01:00;1.1190;1.1157;1.1165;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.235
+2026-11-03T08:45:00+01:00;1.1179;1.1159;1.1165;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.24
+2026-11-03T09:00:00+01:00;1.1172;1.1160;1.1166;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.233
+2026-11-03T09:15:00+01:00;1.1170;1.1162;1.1167;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.22
+2026-11-03T09:30:00+01:00;1.1149;1.1165;1.1167;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.223
+2026-11-03T09:45:00+01:00;1.1176;1.1166;1.1168;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.224
+2026-11-03T10:00:00+01:00;1.1186;1.1170;1.1169;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.67% sotto il minimo +2.20% (commissioni);;0.222
+2026-11-03T10:15:00+01:00;1.1184;1.1174;1.1170;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.66% sotto il minimo +2.20% (commissioni);;0.219
+2026-11-03T10:30:00+01:00;1.1196;1.1178;1.1171;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.64% sotto il minimo +2.20% (commissioni);;0.212
+2026-11-03T10:45:00+01:00;1.1209;1.1180;1.1170;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.62% sotto il minimo +2.20% (commissioni);;0.207
+2026-11-03T11:00:00+01:00;1.1211;1.1184;1.1171;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.60% sotto il minimo +2.20% (commissioni);;0.199
+2026-11-03T11:15:00+01:00;1.1186;1.1185;1.1171;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.61% sotto il minimo +2.20% (commissioni);;0.205
+2026-11-03T11:30:00+01:00;1.1203;1.1189;1.1173;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.61% sotto il minimo +2.20% (commissioni);;0.203
+2026-11-03T11:45:00+01:00;1.1207;1.1195;1.1175;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.59% sotto il minimo +2.20% (commissioni);;0.196
+2026-11-03T12:00:00+01:00;1.1220;1.1200;1.1178;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.57% sotto il minimo +2.20% (commissioni);;0.19
+2026-11-03T12:15:00+01:00;1.1250;1.1207;1.1182;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.63% sotto il minimo +2.20% (commissioni);;0.209
+2026-11-03T12:30:00+01:00;1.1246;1.1214;1.1188;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.65% sotto il minimo +2.20% (commissioni);;0.215
+2026-11-03T12:45:00+01:00;1.1233;1.1218;1.1192;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.66% sotto il minimo +2.20% (commissioni);;0.219
+2026-11-03T13:00:00+01:00;1.1237;1.1221;1.1196;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.63% sotto il minimo +2.20% (commissioni);;0.21
+2026-11-03T13:15:00+01:00;1.1270;1.1228;1.1202;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.67% sotto il minimo +2.20% (commissioni);;0.224
+2026-11-03T13:30:00+01:00;1.1439;1.1256;1.1215;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.04% sotto il minimo +2.20% (commissioni);;0.346
+2026-11-03T13:45:00+01:00;1.1474;1.1286;1.1228;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.10% sotto il minimo +2.20% (commissioni);;0.367
+2026-11-03T14:00:00+01:00;1.1439;1.1312;1.1241;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.15% sotto il minimo +2.20% (commissioni);;0.383
+2026-11-03T14:15:00+01:00;1.1412;1.1333;1.1252;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.17% sotto il minimo +2.20% (commissioni);;0.389
+2026-11-03T14:30:00+01:00;1.1482;1.1359;1.1267;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.24% sotto il minimo +2.20% (commissioni);;0.415
+2026-11-03T14:45:00+01:00;1.1466;1.1384;1.1282;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.29% sotto il minimo +2.20% (commissioni);;0.429
+2026-11-03T15:00:00+01:00;1.1475;1.1410;1.1296;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.26% sotto il minimo +2.20% (commissioni);;0.421
+2026-11-03T15:15:00+01:00;1.1438;1.1433;1.1308;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.31% sotto il minimo +2.20% (commissioni);;0.436
+2026-11-03T15:30:00+01:00;1.1406;1.1448;1.1319;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.29% sotto il minimo +2.20% (commissioni);;0.429
+2026-11-03T15:45:00+01:00;1.1404;1.1444;1.1329;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.28% sotto il minimo +2.20% (commissioni);;0.427
+2026-11-03T16:00:00+01:00;1.1393;1.1435;1.1338;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.26% sotto il minimo +2.20% (commissioni);;0.42
+2026-11-03T16:15:00+01:00;1.1386;1.1429;1.1346;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.22% sotto il minimo +2.20% (commissioni);;0.405
+2026-11-03T16:30:00+01:00;1.1391;1.1427;1.1356;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.20% sotto il minimo +2.20% (commissioni);;0.401
+2026-11-03T16:45:00+01:00;1.1411;1.1419;1.1366;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.23% sotto il minimo +2.20% (commissioni);;0.411
+2026-11-03T17:00:00+01:00;1.1423;1.1414;1.1376;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.19% sotto il minimo +2.20% (commissioni);;0.398
+2026-11-03T17:15:00+01:00;1.1411;1.1407;1.1385;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.17% sotto il minimo +2.20% (commissioni);;0.391
+2026-11-03T17:30:00+01:00;1.1385;1.1401;1.1391;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.18% sotto il minimo +2.20% (commissioni);;0.393
+2026-11-03T17:45:00+01:00;1.1382;1.1398;1.1398;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.15% sotto il minimo +2.20% (commissioni);;0.382
+2026-11-03T18:00:00+01:00;1.1421;1.1400;1.1407;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.378
+2026-11-03T18:15:00+01:00;1.1430;1.1404;1.1416;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.375
+2026-11-03T18:30:00+01:00;1.1462;1.1413;1.1425;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.38
+2026-11-03T18:45:00+01:00;1.1449;1.1419;1.1426;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.368
+2026-11-03T19:00:00+01:00;1.1453;1.1424;1.1425;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.354
+2026-11-03T19:15:00+01:00;1.1470;1.1429;1.1426;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.02% sotto il minimo +2.20% (commissioni);;0.34
+2026-11-03T19:30:00+01:00;1.1437;1.1432;1.1427;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.03% sotto il minimo +2.20% (commissioni);;0.342
+2026-11-03T19:45:00+01:00;1.1459;1.1440;1.1426;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.01% sotto il minimo +2.20% (commissioni);;0.337
+2026-11-03T20:00:00+01:00;1.1426;1.1445;1.1424;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.02% sotto il minimo +2.20% (commissioni);;0.341
+2026-11-03T20:15:00+01:00;1.1399;1.1443;1.1421;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.00% sotto il minimo +2.20% (commissioni);;0.334
+2026-11-03T20:30:00+01:00;1.1409;1.1440;1.1419;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.98% sotto il minimo +2.20% (commissioni);;0.327
+2026-11-03T20:45:00+01:00;1.1402;1.1434;1.1419;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.94% sotto il minimo +2.20% (commissioni);;0.312
+2026-11-03T21:00:00+01:00;1.1400;1.1428;1.1419;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.89% sotto il minimo +2.20% (commissioni);;0.296
+2026-11-03T21:15:00+01:00;1.1374;1.1420;1.1418;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.89% sotto il minimo +2.20% (commissioni);;0.298
+2026-11-03T21:30:00+01:00;1.1393;1.1411;1.1418;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.293
+2026-11-03T21:45:00+01:00;1.1412;1.1408;1.1419;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.29
+2026-11-03T22:00:00+01:00;1.1420;1.1404;1.1420;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.281
+2026-11-03T22:15:00+01:00;1.1437;1.1405;1.1421;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.277
+2026-11-03T22:30:00+01:00;1.1472;1.1413;1.1423;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.295
+2026-11-03T22:45:00+01:00;1.1493;1.1423;1.1429;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.29
+2026-11-03T23:00:00+01:00;1.1434;1.1426;1.1431;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.308
+2026-11-03T23:15:00+01:00;1.1419;1.1428;1.1431;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.297
+2026-11-03T23:30:00+01:00;1.1420;1.1433;1.1430;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.86% sotto il minimo +2.20% (commissioni);;0.286
+2026-11-03T23:45:00+01:00;1.1430;1.1437;1.1429;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.84% sotto il minimo +2.20% (commissioni);;0.279
+2026-11-04T00:00:00+01:00;1.1439;1.1440;1.1428;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.81% sotto il minimo +2.20% (commissioni);;0.271
+2026-11-04T00:15:00+01:00;1.1433;1.1442;1.1428;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.80% sotto il minimo +2.20% (commissioni);;0.265
+2026-11-04T00:30:00+01:00;1.1440;1.1442;1.1426;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.77% sotto il minimo +2.20% (commissioni);;0.256
+2026-11-04T00:45:00+01:00;1.1433;1.1438;1.1426;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.78% sotto il minimo +2.20% (commissioni);;0.26
+2026-11-04T01:00:00+01:00;1.1387;1.1426;1.1422;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.83% sotto il minimo +2.20% (commissioni);;0.277
+2026-11-04T01:15:00+01:00;1.1364;1.1418;1.1420;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.283
+2026-11-04T01:30:00+01:00;1.1246;1.1399;1.1412;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.371
+2026-11-04T01:45:00+01:00;1.1203;1.1375;1.1402;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.407
+2026-11-04T02:00:00+01:00;1.1237;1.1354;1.1395;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.402
+2026-11-04T02:15:00+01:00;1.1155;1.1322;1.1383;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.444
+2026-11-04T02:30:00+01:00;1.1115;1.1287;1.1371;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.441
+2026-11-04T02:45:00+01:00;1.1083;1.1247;1.1356;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.431
+2026-11-04T03:00:00+01:00;1.1164;1.1217;1.1344;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.45
+2026-11-04T03:15:00+01:00;1.1127;1.1188;1.1330;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.446
+2026-11-04T03:30:00+01:00;1.1122;1.1161;1.1315;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.425
+2026-11-04T03:45:00+01:00;1.1131;1.1149;1.1299;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.404
+2026-11-04T04:00:00+01:00;1.1081;1.1135;1.1279;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.411
+2026-11-04T04:15:00+01:00;1.1095;1.1119;1.1263;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.431
+2026-11-04T04:30:00+01:00;1.1170;1.1121;1.1251;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.451
+2026-11-04T04:45:00+01:00;1.1174;1.1127;1.1239;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.444
+2026-11-04T05:00:00+01:00;1.1185;1.1139;1.1228;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.432
+2026-11-04T05:15:00+01:00;1.1277;1.1151;1.1220;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.462
+2026-11-04T05:30:00+01:00;1.1217;1.1161;1.1210;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.478
+2026-11-04T05:45:00+01:00;1.1253;1.1176;1.1201;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.503
+2026-11-04T06:00:00+01:00;1.1291;1.1194;1.1194;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.506
+2026-11-04T06:15:00+01:00;1.1294;1.1217;1.1190;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.45% sotto il minimo +2.20% (commissioni);;0.482
+2026-11-04T06:30:00+01:00;1.1295;1.1240;1.1186;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.40% sotto il minimo +2.20% (commissioni);;0.468
+2026-11-04T06:45:00+01:00;1.1356;1.1260;1.1192;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.44% sotto il minimo +2.20% (commissioni);;0.48
+2026-11-04T07:00:00+01:00;1.1356;1.1280;1.1199;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.43% sotto il minimo +2.20% (commissioni);;0.478
+2026-11-04T07:15:00+01:00;1.1333;1.1297;1.1204;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.41% sotto il minimo +2.20% (commissioni);;0.47
+2026-11-04T07:30:00+01:00;1.1356;1.1306;1.1213;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.37% sotto il minimo +2.20% (commissioni);;0.456
+2026-11-04T07:45:00+01:00;1.1338;1.1319;1.1224;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.31% sotto il minimo +2.20% (commissioni);;0.437
+2026-11-04T08:00:00+01:00;1.1336;1.1328;1.1236;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.26% sotto il minimo +2.20% (commissioni);;0.421
+2026-11-04T08:15:00+01:00;1.1336;1.1333;1.1244;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.23% sotto il minimo +2.20% (commissioni);;0.41
+2026-11-04T08:30:00+01:00;1.1344;1.1339;1.1254;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.21% sotto il minimo +2.20% (commissioni);;0.404
+2026-11-04T08:45:00+01:00;1.1341;1.1344;1.1265;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.17% sotto il minimo +2.20% (commissioni);;0.39
+2026-11-04T09:00:00+01:00;1.1319;1.1340;1.1274;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.14% sotto il minimo +2.20% (commissioni);;0.381
+2026-11-04T09:15:00+01:00;1.1374;1.1342;1.1288;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.16% sotto il minimo +2.20% (commissioni);;0.387
+2026-11-04T09:30:00+01:00;1.1368;1.1346;1.1301;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.12% sotto il minimo +2.20% (commissioni);;0.372
+2026-11-04T09:45:00+01:00;1.1386;1.1349;1.1311;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.08% sotto il minimo +2.20% (commissioni);;0.36
+2026-11-04T10:00:00+01:00;1.1375;1.1353;1.1320;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.06% sotto il minimo +2.20% (commissioni);;0.355
+2026-11-04T10:15:00+01:00;1.1370;1.1357;1.1329;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.04% sotto il minimo +2.20% (commissioni);;0.345
+2026-11-04T10:30:00+01:00;1.1346;1.1358;1.1333;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.02% sotto il minimo +2.20% (commissioni);;0.341
+2026-11-04T10:45:00+01:00;1.1373;1.1361;1.1340;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.00% sotto il minimo +2.20% (commissioni);;0.333
+2026-11-04T11:00:00+01:00;1.1377;1.1365;1.1346;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.96% sotto il minimo +2.20% (commissioni);;0.32
+2026-11-04T11:15:00+01:00;1.1411;1.1376;1.1352;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.95% sotto il minimo +2.20% (commissioni);;0.318
+2026-11-04T11:30:00+01:00;1.1450;1.1384;1.1359;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.99% sotto il minimo +2.20% (commissioni);;0.331
+2026-11-04T11:45:00+01:00;1.1486;1.1397;1.1368;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.06% sotto il minimo +2.20% (commissioni);;0.352
+2026-11-04T12:00:00+01:00;1.1463;1.1406;1.1373;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.04% sotto il minimo +2.20% (commissioni);;0.348
+2026-11-04T12:15:00+01:00;1.1481;1.1417;1.1379;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.03% sotto il minimo +2.20% (commissioni);;0.343
+2026-11-04T12:30:00+01:00;1.1494;1.1431;1.1387;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.00% sotto il minimo +2.20% (commissioni);;0.333
+2026-11-04T12:45:00+01:00;1.1496;1.1448;1.1394;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.97% sotto il minimo +2.20% (commissioni);;0.325
+2026-11-04T13:00:00+01:00;1.1435;1.1455;1.1398;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.05% sotto il minimo +2.20% (commissioni);;0.349
+2026-11-04T13:15:00+01:00;1.1345;1.1451;1.1399;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.15% sotto il minimo +2.20% (commissioni);;0.385
+2026-11-04T13:30:00+01:00;1.1333;1.1443;1.1398;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.15% sotto il minimo +2.20% (commissioni);;0.382
+2026-11-04T13:45:00+01:00;1.1364;1.1433;1.1399;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.12% sotto il minimo +2.20% (commissioni);;0.375
+2026-11-04T14:00:00+01:00;1.1337;1.1416;1.1399;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.12% sotto il minimo +2.20% (commissioni);;0.375
+2026-11-04T14:15:00+01:00;1.1360;1.1405;1.1401;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.11% sotto il minimo +2.20% (commissioni);;0.369
+2026-11-04T14:30:00+01:00;1.1369;1.1393;1.1401;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.36
+2026-11-04T14:45:00+01:00;1.1369;1.1379;1.1401;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.357
+2026-11-04T15:00:00+01:00;1.1371;1.1365;1.1400;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.348
+2026-11-04T15:15:00+01:00;1.1369;1.1357;1.1400;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.338
+2026-11-04T15:30:00+01:00;1.1371;1.1360;1.1400;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.328
+2026-11-04T15:45:00+01:00;1.1603;1.1390;1.1412;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.448
+2026-11-04T16:00:00+01:00;1.1700;1.1428;1.1428;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.496
+2026-11-04T16:15:00+01:00;1.1885;1.1489;1.1452;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.78% sotto il minimo +2.20% (commissioni);;0.593
+2026-11-04T16:30:00+01:00;1.1779;1.1535;1.1470;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +2.01% sotto il minimo +2.20% (commissioni);;0.669
+2026-11-04T16:45:00+01:00;1.1708;1.1573;1.1482;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +2.04% sotto il minimo +2.20% (commissioni);;0.68
+2026-11-04T17:00:00+01:00;1.1714;1.1611;1.1493;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +2.05% sotto il minimo +2.20% (commissioni);;0.683
+2026-11-04T17:15:00+01:00;1.1723;1.1650;1.1505;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +2.04% sotto il minimo +2.20% (commissioni);;0.679
+2026-11-04T17:30:00+01:00;1.1683;1.1685;1.1515;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +2.06% sotto il minimo +2.20% (commissioni);;0.686
+2026-11-04T17:45:00+01:00;1.1707;1.1722;1.1525;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.97% sotto il minimo +2.20% (commissioni);;0.656
+2026-11-04T18:00:00+01:00;1.1715;1.1735;1.1535;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.91% sotto il minimo +2.20% (commissioni);;0.637
+2026-11-04T18:15:00+01:00;1.1645;1.1729;1.1545;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.95% sotto il minimo +2.20% (commissioni);;0.651
+2026-11-04T18:30:00+01:00;1.1672;1.1705;1.1561;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.89% sotto il minimo +2.20% (commissioni);;0.631
+2026-11-04T18:45:00+01:00;1.1657;1.1692;1.1576;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.85% sotto il minimo +2.20% (commissioni);;0.617
+2026-11-04T19:00:00+01:00;1.1672;1.1688;1.1591;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.79% sotto il minimo +2.20% (commissioni);;0.596
+2026-11-04T19:15:00+01:00;1.1719;1.1688;1.1609;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.74% sotto il minimo +2.20% (commissioni);;0.58
+2026-11-04T19:30:00+01:00;1.1699;1.1685;1.1625;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.67% sotto il minimo +2.20% (commissioni);;0.556
+2026-11-04T19:45:00+01:00;1.1648;1.1682;1.1639;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.68% sotto il minimo +2.20% (commissioni);;0.559
+2026-11-04T20:00:00+01:00;1.1637;1.1674;1.1651;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.65% sotto il minimo +2.20% (commissioni);;0.551
+2026-11-04T20:15:00+01:00;1.1647;1.1666;1.1664;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.65% sotto il minimo +2.20% (commissioni);;0.55
+2026-11-04T20:30:00+01:00;1.1648;1.1667;1.1678;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.528
+2026-11-04T20:45:00+01:00;1.1595;1.1658;1.1688;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.527
+2026-11-04T21:00:00+01:00;1.1570;1.1648;1.1687;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.516
+2026-11-04T21:15:00+01:00;1.1578;1.1638;1.1681;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.509
+2026-11-04T21:30:00+01:00;1.1624;1.1627;1.1669;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.499
+2026-11-04T21:45:00+01:00;1.1592;1.1615;1.1660;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.49
+2026-11-04T22:00:00+01:00;1.1603;1.1610;1.1655;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.479
+2026-11-04T22:15:00+01:00;1.1618;1.1608;1.1650;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.467
+2026-11-04T22:30:00+01:00;1.1592;1.1602;1.1644;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.453
+2026-11-04T22:45:00+01:00;1.1602;1.1597;1.1640;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.439
+2026-11-04T23:00:00+01:00;1.1607;1.1598;1.1635;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.42
+2026-11-04T23:15:00+01:00;1.1655;1.1608;1.1632;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.419
+2026-11-04T23:30:00+01:00;1.1672;1.1618;1.1634;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.402
+2026-11-04T23:45:00+01:00;1.1689;1.1626;1.1634;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.395
+2026-11-05T00:00:00+01:00;1.1667;1.1634;1.1635;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.381
+2026-11-05T00:15:00+01:00;1.1645;1.1639;1.1634;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.12% sotto il minimo +2.20% (commissioni);;0.374
+2026-11-05T00:30:00+01:00;1.1632;1.1640;1.1630;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.08% sotto il minimo +2.20% (commissioni);;0.359
+2026-11-05T00:45:00+01:00;1.1633;1.1645;1.1626;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.03% sotto il minimo +2.20% (commissioni);;0.343
+2026-11-05T01:00:00+01:00;1.1613;1.1646;1.1625;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.01% sotto il minimo +2.20% (commissioni);;0.336
+2026-11-05T01:15:00+01:00;1.1613;1.1647;1.1624;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.98% sotto il minimo +2.20% (commissioni);;0.327
+2026-11-05T01:30:00+01:00;1.1630;1.1644;1.1623;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.96% sotto il minimo +2.20% (commissioni);;0.32
+2026-11-05T01:45:00+01:00;1.1623;1.1638;1.1622;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.96% sotto il minimo +2.20% (commissioni);;0.319
+2026-11-05T02:00:00+01:00;1.1584;1.1627;1.1621;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.99% sotto il minimo +2.20% (commissioni);;0.33
+2026-11-05T02:15:00+01:00;1.1550;1.1614;1.1620;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.337
+2026-11-05T02:30:00+01:00;1.1575;1.1606;1.1620;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.339
+2026-11-05T02:45:00+01:00;1.1597;1.1602;1.1619;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.336
+2026-11-05T03:00:00+01:00;1.1613;1.1600;1.1620;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.338
+2026-11-05T03:15:00+01:00;1.1619;1.1600;1.1620;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.326
+2026-11-05T03:30:00+01:00;1.1591;1.1598;1.1619;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.324
+2026-11-05T03:45:00+01:00;1.1602;1.1595;1.1620;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.314
+2026-11-05T04:00:00+01:00;1.1596;1.1592;1.1619;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.299
+2026-11-05T04:15:00+01:00;1.1637;1.1598;1.1621;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.303
+2026-11-05T04:30:00+01:00;1.1641;1.1608;1.1620;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.295
+2026-11-05T04:45:00+01:00;1.1653;1.1617;1.1619;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.296
+2026-11-05T05:00:00+01:00;1.1599;1.1617;1.1615;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.93% sotto il minimo +2.20% (commissioni);;0.309
+2026-11-05T05:15:00+01:00;1.1592;1.1614;1.1611;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.92% sotto il minimo +2.20% (commissioni);;0.306
+2026-11-05T05:30:00+01:00;1.1605;1.1613;1.1609;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.90% sotto il minimo +2.20% (commissioni);;0.301
+2026-11-05T05:45:00+01:00;1.1616;1.1616;1.1609;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.94% sotto il minimo +2.20% (commissioni);;0.313
+2026-11-05T06:00:00+01:00;1.1607;1.1616;1.1607;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.90% sotto il minimo +2.20% (commissioni);;0.3
+2026-11-05T06:15:00+01:00;1.1608;1.1618;1.1607;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.89% sotto il minimo +2.20% (commissioni);;0.298
+2026-11-05T06:30:00+01:00;1.1623;1.1616;1.1608;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.87% sotto il minimo +2.20% (commissioni);;0.291
+2026-11-05T06:45:00+01:00;1.1615;1.1613;1.1607;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.87% sotto il minimo +2.20% (commissioni);;0.291
+2026-11-05T07:00:00+01:00;1.1591;1.1606;1.1605;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.87% sotto il minimo +2.20% (commissioni);;0.291
+2026-11-05T07:15:00+01:00;1.1607;1.1607;1.1607;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.86% sotto il minimo +2.20% (commissioni);;0.285
+2026-11-05T07:30:00+01:00;1.1611;1.1609;1.1609;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.27
+2026-11-05T07:45:00+01:00;1.1630;1.1612;1.1612;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.266
+2026-11-05T08:00:00+01:00;1.1630;1.1614;1.1614;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.253
+2026-11-05T08:15:00+01:00;1.1643;1.1618;1.1615;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.79% sotto il minimo +2.20% (commissioni);;0.264
+2026-11-05T08:30:00+01:00;1.1631;1.1620;1.1616;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.78% sotto il minimo +2.20% (commissioni);;0.261
+2026-11-05T08:45:00+01:00;1.1664;1.1625;1.1619;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.79% sotto il minimo +2.20% (commissioni);;0.262
+2026-11-05T09:00:00+01:00;1.1691;1.1633;1.1623;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.79% sotto il minimo +2.20% (commissioni);;0.262
+2026-11-05T09:15:00+01:00;1.1715;1.1647;1.1629;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.80% sotto il minimo +2.20% (commissioni);;0.267
+2026-11-05T09:30:00+01:00;1.1778;1.1666;1.1636;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.86% sotto il minimo +2.20% (commissioni);;0.288
+2026-11-05T09:45:00+01:00;1.1768;1.1683;1.1642;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.87% sotto il minimo +2.20% (commissioni);;0.289
+2026-11-05T10:00:00+01:00;1.1768;1.1699;1.1647;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.85% sotto il minimo +2.20% (commissioni);;0.284
+2026-11-05T10:15:00+01:00;1.1685;1.1705;1.1651;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.97% sotto il minimo +2.20% (commissioni);;0.323
+2026-11-05T10:30:00+01:00;1.1720;1.1713;1.1657;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.96% sotto il minimo +2.20% (commissioni);;0.321
+2026-11-05T10:45:00+01:00;1.1731;1.1724;1.1663;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.95% sotto il minimo +2.20% (commissioni);;0.318
+2026-11-05T11:00:00+01:00;1.1746;1.1734;1.1670;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.92% sotto il minimo +2.20% (commissioni);;0.307
+2026-11-05T11:15:00+01:00;1.1719;1.1737;1.1675;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.91% sotto il minimo +2.20% (commissioni);;0.302
+2026-11-05T11:30:00+01:00;1.1749;1.1740;1.1682;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.90% sotto il minimo +2.20% (commissioni);;0.298
+2026-11-05T11:45:00+01:00;1.1737;1.1736;1.1687;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.89% sotto il minimo +2.20% (commissioni);;0.296
+2026-11-05T12:00:00+01:00;1.1740;1.1733;1.1693;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.85% sotto il minimo +2.20% (commissioni);;0.285
+2026-11-05T12:15:00+01:00;1.1748;1.1731;1.1701;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.84% sotto il minimo +2.20% (commissioni);;0.281
+2026-11-05T12:30:00+01:00;1.1728;1.1735;1.1706;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.83% sotto il minimo +2.20% (commissioni);;0.276
+2026-11-05T12:45:00+01:00;1.1761;1.1740;1.1713;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.85% sotto il minimo +2.20% (commissioni);;0.282
+2026-11-05T13:00:00+01:00;1.1735;1.1740;1.1718;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.83% sotto il minimo +2.20% (commissioni);;0.278
+2026-11-05T13:15:00+01:00;1.1704;1.1736;1.1722;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.86% sotto il minimo +2.20% (commissioni);;0.286
+2026-11-05T13:30:00+01:00;1.1669;1.1730;1.1723;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.87% sotto il minimo +2.20% (commissioni);;0.289
+2026-11-05T13:45:00+01:00;1.1636;1.1718;1.1723;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.322
+2026-11-05T14:00:00+01:00;1.1612;1.1704;1.1721;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.327
+2026-11-05T14:15:00+01:00;1.1658;1.1695;1.1719;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.331
+2026-11-05T14:30:00+01:00;1.1653;1.1684;1.1716;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.32
+2026-11-05T14:45:00+01:00;1.1641;1.1674;1.1710;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.313
+2026-11-05T15:00:00+01:00;1.1636;1.1660;1.1704;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.306
+2026-11-05T15:15:00+01:00;1.1602;1.1646;1.1696;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.321
+2026-11-05T15:30:00+01:00;1.1630;1.1637;1.1693;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.317
+2026-11-05T15:45:00+01:00;1.1467;1.1615;1.1681;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.409
+2026-11-05T16:00:00+01:00;1.1390;1.1588;1.1665;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.46
+2026-11-05T16:15:00+01:00;1.1147;1.1536;1.1636;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.603
+2026-11-05T16:30:00+01:00;1.1173;1.1482;1.1610;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.664
+2026-11-05T16:45:00+01:00;1.1203;1.1432;1.1584;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.666
+2026-11-05T17:00:00+01:00;1.1082;1.1370;1.1553;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.749
+2026-11-05T17:15:00+01:00;1.1147;1.1316;1.1525;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.758
+2026-11-05T17:30:00+01:00;1.1183;1.1269;1.1498;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.749
+2026-11-05T17:45:00+01:00;1.1104;1.1211;1.1468;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.761
+2026-11-05T18:00:00+01:00;1.1059;1.1165;1.1435;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.754
+2026-11-05T18:15:00+01:00;1.1047;1.1127;1.1402;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.748
+2026-11-05T18:30:00+01:00;1.1013;1.1112;1.1369;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.736
+2026-11-05T18:45:00+01:00;1.1014;1.1095;1.1338;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.716
+2026-11-05T19:00:00+01:00;1.0979;1.1070;1.1307;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.714
+2026-11-05T19:15:00+01:00;1.0965;1.1057;1.1276;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.696
+2026-11-05T19:30:00+01:00;1.0983;1.1039;1.1244;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.684
+2026-11-05T19:45:00+01:00;1.0992;1.1017;1.1212;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.665
+2026-11-05T20:00:00+01:00;1.0988;1.1004;1.1181;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.639
+2026-11-05T20:15:00+01:00;1.0990;1.0997;1.1150;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.628
+2026-11-05T20:30:00+01:00;1.0982;1.0990;1.1121;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.618
+2026-11-05T20:45:00+01:00;1.1074;1.0996;1.1094;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.634
+2026-11-05T21:00:00+01:00;1.1079;1.1004;1.1076;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.602
+2026-11-05T21:15:00+01:00;1.1064;1.1013;1.1060;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.583
+2026-11-05T21:30:00+01:00;1.1041;1.1021;1.1055;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.562
+2026-11-05T21:45:00+01:00;1.1012;1.1025;1.1048;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.557
+2026-11-05T22:00:00+01:00;1.0971;1.1022;1.1037;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.572
+2026-11-05T22:15:00+01:00;1.0880;1.1010;1.1027;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.595
+2026-11-05T22:30:00+01:00;1.0916;1.1002;1.1016;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.598
+2026-11-05T22:45:00+01:00;1.0916;1.0995;1.1003;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.574
+2026-11-05T23:00:00+01:00;1.0868;1.0972;1.0992;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.568
+2026-11-05T23:15:00+01:00;1.0923;1.0955;1.0986;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.568
+2026-11-05T23:30:00+01:00;1.0888;1.0935;1.0978;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.559
+2026-11-05T23:45:00+01:00;1.0864;1.0915;1.0971;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.541
+2026-11-06T00:00:00+01:00;1.0857;1.0898;1.0963;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.53
+2026-11-06T00:15:00+01:00;1.0710;1.0869;1.0951;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.606
+2026-11-06T00:30:00+01:00;1.0768;1.0857;1.0941;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.643
+2026-11-06T00:45:00+01:00;1.0778;1.0841;1.0931;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.619
+2026-11-06T01:00:00+01:00;1.0746;1.0822;1.0920;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.607
+2026-11-06T01:15:00+01:00;1.0779;1.0813;1.0910;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.604
+2026-11-06T01:30:00+01:00;1.0818;1.0801;1.0902;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.595
+2026-11-06T01:45:00+01:00;1.0882;1.0800;1.0897;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.595
+2026-11-06T02:00:00+01:00;1.0855;1.0799;1.0886;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.576
+2026-11-06T02:15:00+01:00;1.0865;1.0800;1.0876;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.559
+2026-11-06T02:30:00+01:00;1.0813;1.0812;1.0864;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.565
+2026-11-06T02:45:00+01:00;1.0845;1.0820;1.0855;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.549
+2026-11-06T03:00:00+01:00;1.0841;1.0827;1.0847;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.522
+2026-11-06T03:15:00+01:00;1.0874;1.0841;1.0842;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.51
+2026-11-06T03:30:00+01:00;1.0867;1.0851;1.0842;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.49% sotto il minimo +2.20% (commissioni);;0.495
+2026-11-06T03:45:00+01:00;1.0845;1.0854;1.0838;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.46% sotto il minimo +2.20% (commissioni);;0.487
+2026-11-06T04:00:00+01:00;1.0843;1.0850;1.0835;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.41% sotto il minimo +2.20% (commissioni);;0.47
+2026-11-06T04:15:00+01:00;1.0809;1.0845;1.0832;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.40% sotto il minimo +2.20% (commissioni);;0.466
+2026-11-06T04:30:00+01:00;1.0774;1.0835;1.0825;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.37% sotto il minimo +2.20% (commissioni);;0.457
+2026-11-06T04:45:00+01:00;1.0776;1.0830;1.0819;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.40% sotto il minimo +2.20% (commissioni);;0.468
+2026-11-06T05:00:00+01:00;1.0747;1.0820;1.0814;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.39% sotto il minimo +2.20% (commissioni);;0.462
+2026-11-06T05:15:00+01:00;1.0759;1.0810;1.0809;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.37% sotto il minimo +2.20% (commissioni);;0.456
+2026-11-06T05:30:00+01:00;1.0722;1.0794;1.0810;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.455
+2026-11-06T05:45:00+01:00;1.0759;1.0782;1.0809;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.454
+2026-11-06T06:00:00+01:00;1.0732;1.0769;1.0807;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.448
+2026-11-06T06:15:00+01:00;1.0676;1.0750;1.0804;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.459
+2026-11-06T06:30:00+01:00;1.0685;1.0737;1.0799;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.462
+2026-11-06T06:45:00+01:00;1.0703;1.0729;1.0794;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.465
+2026-11-06T07:00:00+01:00;1.0697;1.0720;1.0785;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.445
+2026-11-06T07:15:00+01:00;1.0625;1.0706;1.0774;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.474
+2026-11-06T07:30:00+01:00;1.0693;1.0699;1.0766;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.483
+2026-11-06T07:45:00+01:00;1.0662;1.0692;1.0759;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.48
+2026-11-06T08:00:00+01:00;1.0638;1.0679;1.0749;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.467
+2026-11-06T08:15:00+01:00;1.0582;1.0662;1.0737;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.477
+2026-11-06T08:30:00+01:00;1.0563;1.0650;1.0722;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.49
+2026-11-06T08:45:00+01:00;1.0567;1.0637;1.0707;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.507
+2026-11-06T09:00:00+01:00;1.0592;1.0624;1.0695;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.501
+2026-11-06T09:15:00+01:00;1.0628;1.0617;1.0685;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.489
+2026-11-06T09:30:00+01:00;1.0625;1.0617;1.0676;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.489
+2026-11-06T09:45:00+01:00;1.0633;1.0610;1.0670;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.476
+2026-11-06T10:00:00+01:00;1.0623;1.0606;1.0662;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.462
+2026-11-06T10:15:00+01:00;1.0695;1.0612;1.0660;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.477
+2026-11-06T10:30:00+01:00;1.0730;1.0628;1.0659;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.474
+2026-11-06T10:45:00+01:00;1.0718;1.0646;1.0658;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.459
+2026-11-06T11:00:00+01:00;1.0728;1.0664;1.0657;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.32% sotto il minimo +2.20% (commissioni);;0.442
+2026-11-06T11:15:00+01:00;1.0716;1.0677;1.0656;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.31% sotto il minimo +2.20% (commissioni);;0.437
+2026-11-06T11:30:00+01:00;1.0715;1.0687;1.0658;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.26% sotto il minimo +2.20% (commissioni);;0.421
+2026-11-06T11:45:00+01:00;1.0724;1.0698;1.0660;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.22% sotto il minimo +2.20% (commissioni);;0.406
+2026-11-06T12:00:00+01:00;1.0699;1.0705;1.0660;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.20% sotto il minimo +2.20% (commissioni);;0.398
+2026-11-06T12:15:00+01:00;1.0651;1.0708;1.0657;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.21% sotto il minimo +2.20% (commissioni);;0.404
+2026-11-06T12:30:00+01:00;1.0647;1.0703;1.0659;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.19% sotto il minimo +2.20% (commissioni);;0.397
+2026-11-06T12:45:00+01:00;1.0694;1.0699;1.0659;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.22% sotto il minimo +2.20% (commissioni);;0.408
+2026-11-06T13:00:00+01:00;1.0710;1.0698;1.0661;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.20% sotto il minimo +2.20% (commissioni);;0.4
+2026-11-06T13:15:00+01:00;1.0709;1.0696;1.0664;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.19% sotto il minimo +2.20% (commissioni);;0.395
+2026-11-06T13:30:00+01:00;1.0740;1.0699;1.0672;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.19% sotto il minimo +2.20% (commissioni);;0.395
+2026-11-06T13:45:00+01:00;1.0688;1.0696;1.0678;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.22% sotto il minimo +2.20% (commissioni);;0.408
+2026-11-06T14:00:00+01:00;1.0639;1.0686;1.0681;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.25% sotto il minimo +2.20% (commissioni);;0.417
+2026-11-06T14:15:00+01:00;1.0616;1.0677;1.0682;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.422
+2026-11-06T14:30:00+01:00;1.0637;1.0676;1.0683;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.414
+2026-11-06T14:45:00+01:00;1.0612;1.0672;1.0682;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.441
+2026-11-06T15:00:00+01:00;1.0643;1.0666;1.0683;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.432
+2026-11-06T15:15:00+01:00;1.0595;1.0653;1.0681;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.444
+2026-11-06T15:30:00+01:00;1.0591;1.0640;1.0676;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.436
+2026-11-06T15:45:00+01:00;1.0639;1.0629;1.0672;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.492
+2026-11-06T16:00:00+01:00;1.0628;1.0622;1.0668;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.53
+2026-11-06T16:15:00+01:00;1.0659;1.0624;1.0664;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.586
+2026-11-06T16:30:00+01:00;1.0618;1.0625;1.0660;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.584
+2026-11-06T16:45:00+01:00;1.0629;1.0624;1.0656;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.576
+2026-11-06T17:00:00+01:00;1.0649;1.0628;1.0652;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.561
+2026-11-06T17:15:00+01:00;1.0624;1.0626;1.0648;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.564
+2026-11-06T17:30:00+01:00;1.0726;1.0640;1.0652;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.603
+2026-11-06T17:45:00+01:00;1.0680;1.0650;1.0654;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.61
+2026-11-06T18:00:00+01:00;1.0718;1.0659;1.0655;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.82% sotto il minimo +2.20% (commissioni);;0.606
+2026-11-06T18:15:00+01:00;1.0694;1.0666;1.0654;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.76% sotto il minimo +2.20% (commissioni);;0.588
+2026-11-06T18:30:00+01:00;1.0687;1.0669;1.0653;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.70% sotto il minimo +2.20% (commissioni);;0.567
+2026-11-06T18:45:00+01:00;1.0619;1.0670;1.0647;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.76% sotto il minimo +2.20% (commissioni);;0.586
+2026-11-06T19:00:00+01:00;1.0633;1.0670;1.0645;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.71% sotto il minimo +2.20% (commissioni);;0.569
+2026-11-06T19:15:00+01:00;1.0626;1.0667;1.0644;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.68% sotto il minimo +2.20% (commissioni);;0.56
+2026-11-06T19:30:00+01:00;1.0637;1.0669;1.0645;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.65% sotto il minimo +2.20% (commissioni);;0.549
+2026-11-06T19:45:00+01:00;1.0627;1.0658;1.0644;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.62% sotto il minimo +2.20% (commissioni);;0.541
+2026-11-06T20:00:00+01:00;1.0634;1.0653;1.0646;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.56% sotto il minimo +2.20% (commissioni);;0.521
+2026-11-06T20:15:00+01:00;1.0610;1.0641;1.0644;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.501
+2026-11-06T20:30:00+01:00;1.0597;1.0630;1.0644;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.482
+2026-11-06T20:45:00+01:00;1.0619;1.0622;1.0645;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.469
+2026-11-06T21:00:00+01:00;1.0635;1.0624;1.0645;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.455
+2026-11-06T21:15:00+01:00;1.0591;1.0620;1.0643;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.461
+2026-11-06T21:30:00+01:00;1.0556;1.0612;1.0639;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.473
+2026-11-06T21:45:00+01:00;1.0532;1.0600;1.0634;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.49
+2026-11-06T22:00:00+01:00;1.0510;1.0587;1.0629;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.481
+2026-11-06T22:15:00+01:00;1.0569;1.0580;1.0625;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.485
+2026-11-06T22:30:00+01:00;1.0547;1.0573;1.0621;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.487
+2026-11-06T22:45:00+01:00;1.0566;1.0569;1.0614;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.48
+2026-11-06T23:00:00+01:00;1.0577;1.0565;1.0609;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.463
+2026-11-06T23:15:00+01:00;1.0588;1.0560;1.0603;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.458
+2026-11-06T23:30:00+01:00;1.0606;1.0561;1.0598;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.44
+2026-11-06T23:45:00+01:00;1.0565;1.0562;1.0593;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.438
+2026-11-07T00:00:00+01:00;1.0553;1.0565;1.0589;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.424
+2026-11-07T00:15:00+01:00;1.0575;1.0572;1.0587;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.421
+2026-11-07T00:30:00+01:00;1.0577;1.0573;1.0584;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.406
+2026-11-07T00:45:00+01:00;1.0592;1.0578;1.0582;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.391
+2026-11-07T01:00:00+01:00;1.0572;1.0578;1.0580;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.381
+2026-11-07T01:15:00+01:00;1.0596;1.0580;1.0578;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.12% sotto il minimo +2.20% (commissioni);;0.373
+2026-11-07T01:30:00+01:00;1.0569;1.0578;1.0576;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.10% sotto il minimo +2.20% (commissioni);;0.367
+2026-11-07T01:45:00+01:00;1.0583;1.0576;1.0575;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.05% sotto il minimo +2.20% (commissioni);;0.351
+2026-11-07T02:00:00+01:00;1.0570;1.0576;1.0573;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.01% sotto il minimo +2.20% (commissioni);;0.336
+2026-11-07T02:15:00+01:00;1.0563;1.0577;1.0569;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.99% sotto il minimo +2.20% (commissioni);;0.329
+2026-11-07T02:30:00+01:00;1.0586;1.0579;1.0569;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.98% sotto il minimo +2.20% (commissioni);;0.325
+2026-11-07T02:45:00+01:00;1.0577;1.0579;1.0570;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.94% sotto il minimo +2.20% (commissioni);;0.314
+2026-11-07T03:00:00+01:00;1.0569;1.0576;1.0572;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.91% sotto il minimo +2.20% (commissioni);;0.302
+2026-11-07T03:15:00+01:00;1.0559;1.0575;1.0574;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.88% sotto il minimo +2.20% (commissioni);;0.292
+2026-11-07T03:30:00+01:00;1.0523;1.0567;1.0572;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.302
+2026-11-07T03:45:00+01:00;1.0477;1.0556;1.0569;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.331
+2026-11-07T04:00:00+01:00;1.0470;1.0544;1.0564;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.35
+2026-11-07T04:15:00+01:00;1.0450;1.0530;1.0558;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.348
+2026-11-07T04:30:00+01:00;1.0402;1.0513;1.0549;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.379
+2026-11-07T04:45:00+01:00;1.0328;1.0484;1.0536;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.409
+2026-11-07T05:00:00+01:00;1.0396;1.0464;1.0528;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.431
+2026-11-07T05:15:00+01:00;1.0342;1.0439;1.0518;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.443
+2026-11-07T05:30:00+01:00;1.0345;1.0415;1.0507;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.44
+2026-11-07T05:45:00+01:00;1.0340;1.0394;1.0496;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.423
+2026-11-07T06:00:00+01:00;1.0359;1.0381;1.0485;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.419
+2026-11-07T06:15:00+01:00;1.0358;1.0369;1.0474;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.401
+2026-11-07T06:30:00+01:00;1.0402;1.0364;1.0465;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.405
+2026-11-07T06:45:00+01:00;1.0415;1.0365;1.0458;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.401
+2026-11-07T07:00:00+01:00;1.0414;1.0375;1.0450;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.386
+2026-11-07T07:15:00+01:00;1.0441;1.0380;1.0444;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.378
+2026-11-07T07:30:00+01:00;1.0446;1.0391;1.0438;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.361
+2026-11-07T07:45:00+01:00;1.0476;1.0406;1.0433;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.369
+2026-11-07T08:00:00+01:00;1.0487;1.0422;1.0429;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.359
+2026-11-07T08:15:00+01:00;1.0492;1.0437;1.0425;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.04% sotto il minimo +2.20% (commissioni);;0.347
+2026-11-07T08:30:00+01:00;1.0486;1.0451;1.0421;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.01% sotto il minimo +2.20% (commissioni);;0.336
+2026-11-07T08:45:00+01:00;1.0519;1.0464;1.0421;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.02% sotto il minimo +2.20% (commissioni);;0.341
+2026-11-07T09:00:00+01:00;1.0540;1.0478;1.0424;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.00% sotto il minimo +2.20% (commissioni);;0.333
+2026-11-07T09:15:00+01:00;1.0569;1.0495;1.0429;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.99% sotto il minimo +2.20% (commissioni);;0.329
+2026-11-07T09:30:00+01:00;1.0570;1.0509;1.0435;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.99% sotto il minimo +2.20% (commissioni);;0.329
+2026-11-07T09:45:00+01:00;1.0592;1.0526;1.0444;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.97% sotto il minimo +2.20% (commissioni);;0.324
+2026-11-07T10:00:00+01:00;1.0550;1.0534;1.0454;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.00% sotto il minimo +2.20% (commissioni);;0.333
+2026-11-07T10:15:00+01:00;1.0537;1.0539;1.0461;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.98% sotto il minimo +2.20% (commissioni);;0.328
+2026-11-07T10:30:00+01:00;1.0527;1.0543;1.0470;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.98% sotto il minimo +2.20% (commissioni);;0.325
+2026-11-07T10:45:00+01:00;1.0499;1.0545;1.0477;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.98% sotto il minimo +2.20% (commissioni);;0.328
+2026-11-07T11:00:00+01:00;1.0501;1.0543;1.0485;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.94% sotto il minimo +2.20% (commissioni);;0.314
+2026-11-07T11:15:00+01:00;1.0500;1.0538;1.0491;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.93% sotto il minimo +2.20% (commissioni);;0.311
+2026-11-07T11:30:00+01:00;1.0479;1.0528;1.0497;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.93% sotto il minimo +2.20% (commissioni);;0.309
+2026-11-07T11:45:00+01:00;1.0500;1.0521;1.0502;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.93% sotto il minimo +2.20% (commissioni);;0.31
+2026-11-07T12:00:00+01:00;1.0504;1.0511;1.0506;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.90% sotto il minimo +2.20% (commissioni);;0.3
+2026-11-07T12:15:00+01:00;1.0498;1.0505;1.0510;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.294
+2026-11-07T12:30:00+01:00;1.0518;1.0503;1.0514;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.289
+2026-11-07T12:45:00+01:00;1.0517;1.0502;1.0517;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.279
+2026-11-07T13:00:00+01:00;1.0519;1.0504;1.0519;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.269
+2026-11-07T13:15:00+01:00;1.0477;1.0501;1.0519;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.282
+2026-11-07T13:30:00+01:00;1.0455;1.0496;1.0517;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.28
+2026-11-07T13:45:00+01:00;1.0412;1.0489;1.0513;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.3
+2026-11-07T14:00:00+01:00;1.0424;1.0480;1.0509;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.293
+2026-11-07T14:15:00+01:00;1.0408;1.0470;1.0503;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.285
+2026-11-07T14:30:00+01:00;1.0451;1.0465;1.0497;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.294
+2026-11-07T14:45:00+01:00;1.0458;1.0458;1.0492;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.281
+2026-11-07T15:00:00+01:00;1.0461;1.0452;1.0485;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.273
+2026-11-07T15:15:00+01:00;1.0485;1.0448;1.0482;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.269
+2026-11-07T15:30:00+01:00;1.0459;1.0446;1.0479;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.271
+2026-11-07T15:45:00+01:00;1.0474;1.0448;1.0476;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.267
+2026-11-07T16:00:00+01:00;1.0477;1.0455;1.0475;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.26
+2026-11-07T16:15:00+01:00;1.0414;1.0454;1.0471;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.288
+2026-11-07T16:30:00+01:00;1.0390;1.0452;1.0466;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.291
+2026-11-07T16:45:00+01:00;1.0372;1.0443;1.0461;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.292
+2026-11-07T17:00:00+01:00;1.0385;1.0435;1.0455;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.301
+2026-11-07T17:15:00+01:00;1.0393;1.0428;1.0450;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.294
+2026-11-07T17:30:00+01:00;1.0392;1.0417;1.0445;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.292
+2026-11-07T17:45:00+01:00;1.0400;1.0411;1.0439;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.286
+2026-11-07T18:00:00+01:00;1.0416;1.0404;1.0434;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.294
+2026-11-07T18:15:00+01:00;1.0413;1.0397;1.0429;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.284
+2026-11-07T18:30:00+01:00;1.0416;1.0397;1.0426;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.273
+2026-11-07T18:45:00+01:00;1.0419;1.0401;1.0425;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.263
+2026-11-07T19:00:00+01:00;1.0425;1.0407;1.0425;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.253
+2026-11-07T19:15:00+01:00;1.0436;1.0412;1.0426;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.246
+2026-11-07T19:30:00+01:00;1.0425;1.0416;1.0427;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.241
+2026-11-07T19:45:00+01:00;1.0427;1.0420;1.0426;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.232
+2026-11-07T20:00:00+01:00;1.0434;1.0423;1.0424;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.23
+2026-11-07T20:15:00+01:00;1.0425;1.0424;1.0423;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.67% sotto il minimo +2.20% (commissioni);;0.224
+2026-11-07T20:30:00+01:00;1.0427;1.0426;1.0420;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.65% sotto il minimo +2.20% (commissioni);;0.217
+2026-11-07T20:45:00+01:00;1.0419;1.0426;1.0418;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.63% sotto il minimo +2.20% (commissioni);;0.211
+2026-11-07T21:00:00+01:00;1.0423;1.0427;1.0416;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.62% sotto il minimo +2.20% (commissioni);;0.206
+2026-11-07T21:15:00+01:00;1.0420;1.0426;1.0413;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.62% sotto il minimo +2.20% (commissioni);;0.207
+2026-11-07T21:30:00+01:00;1.0410;1.0423;1.0413;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.61% sotto il minimo +2.20% (commissioni);;0.204
+2026-11-07T21:45:00+01:00;1.0384;1.0419;1.0412;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.63% sotto il minimo +2.20% (commissioni);;0.21
+2026-11-07T22:00:00+01:00;1.0371;1.0413;1.0412;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.71% sotto il minimo +2.20% (commissioni);;0.238
+2026-11-07T22:15:00+01:00;1.0343;1.0402;1.0410;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.254
+2026-11-07T22:30:00+01:00;1.0332;1.0392;1.0407;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.258
+2026-11-07T22:45:00+01:00;1.0384;1.0387;1.0407;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.287
+2026-11-07T23:00:00+01:00;1.0407;1.0386;1.0407;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.288
+2026-11-07T23:15:00+01:00;1.0393;1.0383;1.0406;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.287
+2026-11-07T23:30:00+01:00;1.0406;1.0381;1.0406;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.285
+2026-11-07T23:45:00+01:00;1.0402;1.0380;1.0405;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.28
+2026-11-08T00:00:00+01:00;1.0406;1.0383;1.0405;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.27
+2026-11-08T00:15:00+01:00;1.0405;1.0386;1.0404;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.268
+2026-11-08T00:30:00+01:00;1.0414;1.0394;1.0403;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.259
+2026-11-08T00:45:00+01:00;1.0428;1.0405;1.0403;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.77% sotto il minimo +2.20% (commissioni);;0.256
+2026-11-08T01:00:00+01:00;1.0431;1.0410;1.0403;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.75% sotto il minimo +2.20% (commissioni);;0.249
+2026-11-08T01:15:00+01:00;1.0434;1.0413;1.0403;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.74% sotto il minimo +2.20% (commissioni);;0.248
+2026-11-08T01:30:00+01:00;1.0419;1.0416;1.0403;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.72% sotto il minimo +2.20% (commissioni);;0.242
+2026-11-08T01:45:00+01:00;1.0423;1.0418;1.0403;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.71% sotto il minimo +2.20% (commissioni);;0.238
+2026-11-08T02:00:00+01:00;1.0418;1.0420;1.0403;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.68% sotto il minimo +2.20% (commissioni);;0.227
+2026-11-08T02:15:00+01:00;1.0411;1.0420;1.0402;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.66% sotto il minimo +2.20% (commissioni);;0.219
+2026-11-08T02:30:00+01:00;1.0408;1.0421;1.0401;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.65% sotto il minimo +2.20% (commissioni);;0.215
+2026-11-08T02:45:00+01:00;1.0401;1.0419;1.0401;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.64% sotto il minimo +2.20% (commissioni);;0.214
+2026-11-08T03:00:00+01:00;1.0395;1.0416;1.0401;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.61% sotto il minimo +2.20% (commissioni);;0.204
+2026-11-08T03:15:00+01:00;1.0373;1.0409;1.0402;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.62% sotto il minimo +2.20% (commissioni);;0.205
+2026-11-08T03:30:00+01:00;1.0379;1.0403;1.0403;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.209
+2026-11-08T03:45:00+01:00;1.0365;1.0397;1.0405;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.204
+2026-11-08T04:00:00+01:00;1.0409;1.0395;1.0406;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.219
+2026-11-08T04:15:00+01:00;1.0416;1.0395;1.0406;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.211
+2026-11-08T04:30:00+01:00;1.0370;1.0391;1.0405;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.234
+2026-11-08T04:45:00+01:00;1.0417;1.0392;1.0406;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.248
+2026-11-08T05:00:00+01:00;1.0420;1.0394;1.0407;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.241
+2026-11-08T05:15:00+01:00;1.0420;1.0397;1.0407;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.232
+2026-11-08T05:30:00+01:00;1.0432;1.0403;1.0409;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.226
+2026-11-08T05:45:00+01:00;1.0410;1.0407;1.0409;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.225
+2026-11-08T06:15:00+01:00;1.0442;1.0415;1.0409;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.69% sotto il minimo +2.20% (commissioni);;0.23
+2026-11-08T06:30:00+01:00;1.0434;1.0418;1.0409;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.67% sotto il minimo +2.20% (commissioni);;0.224
+2026-11-08T06:45:00+01:00;1.0422;1.0419;1.0409;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.65% sotto il minimo +2.20% (commissioni);;0.216
+2026-11-08T07:00:00+01:00;1.0430;1.0425;1.0409;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.63% sotto il minimo +2.20% (commissioni);;0.211
+2026-11-08T07:15:00+01:00;1.0466;1.0431;1.0411;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.66% sotto il minimo +2.20% (commissioni);;0.22
+2026-11-08T07:30:00+01:00;1.0447;1.0434;1.0413;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.66% sotto il minimo +2.20% (commissioni);;0.219
+2026-11-08T07:45:00+01:00;1.0449;1.0437;1.0415;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.64% sotto il minimo +2.20% (commissioni);;0.214
+2026-11-08T08:00:00+01:00;1.0441;1.0438;1.0416;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.62% sotto il minimo +2.20% (commissioni);;0.206
+2026-11-08T08:15:00+01:00;1.0434;1.0441;1.0418;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.59% sotto il minimo +2.20% (commissioni);;0.197
+2026-11-08T08:30:00+01:00;1.0428;1.0439;1.0419;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.57% sotto il minimo +2.20% (commissioni);;0.189
+2026-11-08T08:45:00+01:00;1.0450;1.0441;1.0423;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.58% sotto il minimo +2.20% (commissioni);;0.192
+2026-11-08T09:00:00+01:00;1.0444;1.0443;1.0426;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.57% sotto il minimo +2.20% (commissioni);;0.189
+2026-11-08T09:15:00+01:00;1.0433;1.0444;1.0429;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.57% sotto il minimo +2.20% (commissioni);;0.19
+2026-11-08T09:30:00+01:00;1.0428;1.0439;1.0430;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.55% sotto il minimo +2.20% (commissioni);;0.183
+2026-11-08T09:45:00+01:00;1.0436;1.0438;1.0431;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.56% sotto il minimo +2.20% (commissioni);;0.186
+2026-11-08T10:00:00+01:00;1.0427;1.0436;1.0434;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.55% sotto il minimo +2.20% (commissioni);;0.183
+2026-11-08T10:15:00+01:00;1.0415;1.0433;1.0434;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.188
+2026-11-08T10:30:00+01:00;1.0430;1.0432;1.0434;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.192
+2026-11-08T10:45:00+01:00;1.0441;1.0434;1.0435;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.189
+2026-11-08T11:00:00+01:00;1.0436;1.0432;1.0435;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.184
+2026-11-08T11:15:00+01:00;1.0418;1.0429;1.0436;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.186
+2026-11-08T11:30:00+01:00;1.0407;1.0426;1.0434;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.191
+2026-11-08T11:45:00+01:00;1.0418;1.0425;1.0433;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.192
+2026-11-08T12:00:00+01:00;1.0408;1.0422;1.0433;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.189
+2026-11-08T12:15:00+01:00;1.0414;1.0421;1.0432;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.189
+2026-11-08T12:30:00+01:00;1.0450;1.0425;1.0431;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.213
+2026-11-08T12:45:00+01:00;1.0446;1.0426;1.0431;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.209
+2026-11-08T13:00:00+01:00;1.0459;1.0428;1.0432;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.206
+2026-11-08T13:15:00+01:00;1.0450;1.0430;1.0432;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.212
+2026-11-08T13:30:00+01:00;1.0444;1.0433;1.0432;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.62% sotto il minimo +2.20% (commissioni);;0.207
+2026-11-08T13:45:00+01:00;1.0418;1.0434;1.0432;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.64% sotto il minimo +2.20% (commissioni);;0.212
+2026-11-08T14:00:00+01:00;1.0436;1.0436;1.0431;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.64% sotto il minimo +2.20% (commissioni);;0.213
+2026-11-08T14:15:00+01:00;1.0466;1.0443;1.0432;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.65% sotto il minimo +2.20% (commissioni);;0.218
+2026-11-08T14:30:00+01:00;1.0459;1.0448;1.0434;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.69% sotto il minimo +2.20% (commissioni);;0.229
+2026-11-08T14:45:00+01:00;1.0426;1.0445;1.0434;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.71% sotto il minimo +2.20% (commissioni);;0.237
+2026-11-08T15:00:00+01:00;1.0399;1.0440;1.0432;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.73% sotto il minimo +2.20% (commissioni);;0.243
+2026-11-08T15:15:00+01:00;1.0390;1.0432;1.0430;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.73% sotto il minimo +2.20% (commissioni);;0.243
+2026-11-08T15:30:00+01:00;1.0400;1.0426;1.0429;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.244
+2026-11-08T15:45:00+01:00;1.0430;1.0425;1.0429;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.249
+2026-11-08T16:00:00+01:00;1.0412;1.0424;1.0428;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.256
+2026-11-08T16:15:00+01:00;1.0390;1.0419;1.0426;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.258
+2026-11-08T16:30:00+01:00;1.0389;1.0411;1.0424;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.263
+2026-11-08T16:45:00+01:00;1.0366;1.0400;1.0422;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.262
+2026-11-08T17:00:00+01:00;1.0366;1.0394;1.0420;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.266
+2026-11-08T17:15:00+01:00;1.0348;1.0388;1.0417;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.274
+2026-11-08T17:30:00+01:00;1.0385;1.0387;1.0416;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.289
+2026-11-08T17:45:00+01:00;1.0378;1.0385;1.0412;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.28
+2026-11-08T18:00:00+01:00;1.0366;1.0378;1.0408;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.297
+2026-11-08T18:15:00+01:00;1.0358;1.0372;1.0404;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.299
+2026-11-08T18:30:00+01:00;1.0343;1.0367;1.0399;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.297
+2026-11-08T18:45:00+01:00;1.0358;1.0363;1.0394;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.299
+2026-11-08T19:00:00+01:00;1.0359;1.0362;1.0392;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.288
+2026-11-08T19:15:00+01:00;1.0391;1.0365;1.0389;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.292
+2026-11-08T19:30:00+01:00;1.0377;1.0368;1.0385;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.301
+2026-11-08T19:45:00+01:00;1.0386;1.0368;1.0382;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.301
+2026-11-08T20:00:00+01:00;1.0387;1.0369;1.0380;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.291
+2026-11-08T20:15:00+01:00;1.0347;1.0367;1.0377;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.306
+2026-11-08T20:30:00+01:00;1.0362;1.0368;1.0376;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.297
+2026-11-08T20:45:00+01:00;1.0357;1.0369;1.0374;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.294
+2026-11-08T21:00:00+01:00;1.0330;1.0366;1.0369;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.297
+2026-11-08T21:15:00+01:00;1.0339;1.0364;1.0366;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.295
+2026-11-08T21:30:00+01:00;1.0341;1.0358;1.0363;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.294
+2026-11-08T21:45:00+01:00;1.0326;1.0353;1.0360;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.314
+2026-11-08T22:00:00+01:00;1.0350;1.0349;1.0360;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.311
+2026-11-08T22:15:00+01:00;1.0318;1.0341;1.0357;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.315
+2026-11-08T22:30:00+01:00;1.0284;1.0334;1.0354;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.35
+2026-11-08T22:45:00+01:00;1.0259;1.0323;1.0348;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.353
+2026-11-08T23:00:00+01:00;0.9941;1.0276;1.0328;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.655
+2026-11-08T23:15:00+01:00;1.0050;1.0245;1.0313;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.691
+2026-11-08T23:30:00+01:00;0.9992;1.0207;1.0295;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.709
+2026-11-08T23:45:00+01:00;0.9983;1.0167;1.0278;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.718
+2026-11-09T00:00:00+01:00;0.9957;1.0126;1.0259;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.708
+2026-11-09T00:15:00+01:00;1.0078;1.0096;1.0245;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.751
+2026-11-09T00:30:00+01:00;1.0096;1.0071;1.0231;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.751
+2026-11-09T00:45:00+01:00;1.0007;1.0040;1.0214;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.772
+2026-11-09T01:00:00+01:00;0.9977;1.0009;1.0194;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.765
+2026-11-09T01:15:00+01:00;1.0010;1.0017;1.0176;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.774
+2026-11-09T01:30:00+01:00;1.0060;1.0018;1.0163;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.792
+2026-11-09T01:45:00+01:00;1.0046;1.0024;1.0148;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.778
+2026-11-09T02:00:00+01:00;1.0026;1.0029;1.0132;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.763
+2026-11-09T02:15:00+01:00;0.9989;1.0032;1.0116;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.781
+2026-11-09T02:30:00+01:00;0.9939;1.0017;1.0097;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.782
+2026-11-09T02:45:00+01:00;1.0010;1.0007;1.0081;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.78
+2026-11-09T03:00:00+01:00;0.997;1.0003;1.0064;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.776
+2026-11-09T03:15:00+01:00;0.9995;1.0005;1.0047;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.776
+2026-11-09T03:30:00+01:00;1.0036;1.0008;1.0034;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.77
+2026-11-09T03:45:00+01:00;1.0041;1.0006;1.0022;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.742
+2026-11-09T04:00:00+01:00;0.9993;0.999989;1.0009;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.731
+2026-11-09T04:15:00+01:00;0.992;0.998811;1.0008;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.741
+2026-11-09T04:30:00+01:00;0.9936;0.998222;1.0003;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.731
+2026-11-09T04:45:00+01:00;0.9995;0.998844;1.0003;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.721
+2026-11-09T05:00:00+01:00;0.9955;0.998233;1.0002;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.704
+2026-11-09T05:15:00+01:00;0.9966;0.998189;1.0002;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.671
+2026-11-09T05:30:00+01:00;0.9959;0.997789;0.999648;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.648
+2026-11-09T05:45:00+01:00;0.9917;0.996467;0.998795;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.651
+2026-11-09T06:00:00+01:00;0.9902;0.994922;0.998295;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.634
+2026-11-09T06:15:00+01:00;0.9903;0.993922;0.997943;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.617
+2026-11-09T06:30:00+01:00;0.9871;0.993378;0.997281;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.606
+2026-11-09T06:45:00+01:00;0.9833;0.992233;0.9962;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.606
+2026-11-09T07:00:00+01:00;0.9801;0.990078;0.995033;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.608
+2026-11-09T07:15:00+01:00;0.9829;0.988678;0.994095;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.601
+2026-11-09T07:30:00+01:00;0.9788;0.9867;0.993138;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.597
+2026-11-09T07:45:00+01:00;0.9735;0.984211;0.992167;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.618
+2026-11-09T08:00:00+01:00;0.9768;0.982556;0.991014;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.633
+2026-11-09T08:15:00+01:00;0.9721;0.980544;0.989829;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.655
+2026-11-09T08:30:00+01:00;0.9714;0.978444;0.98849;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.655
+2026-11-09T08:45:00+01:00;0.9719;0.976756;0.986981;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.663
+2026-11-09T09:00:00+01:00;0.9703;0.975311;0.985371;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.65
+2026-11-09T09:15:00+01:00;0.9704;0.974233;0.983995;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.63
+2026-11-09T09:30:00+01:00;0.978;0.973689;0.983329;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.66
+2026-11-09T09:45:00+01:00;0.975;0.973267;0.982443;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.647
+2026-11-09T10:00:00+01:00;0.9803;0.974022;0.981529;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.641
+2026-11-09T10:15:00+01:00;0.9776;0.974111;0.980676;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.646
+2026-11-09T10:30:00+01:00;0.9775;0.974711;0.979767;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.638
+2026-11-09T10:45:00+01:00;0.9742;0.975022;0.978733;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.634
+2026-11-09T11:00:00+01:00;0.9721;0.975044;0.9778;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.61
+2026-11-09T11:15:00+01:00;0.9734;0.975389;0.977;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.604
+2026-11-09T11:30:00+01:00;0.9716;0.975522;0.97611;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.591
+2026-11-09T11:45:00+01:00;0.9693;0.974556;0.975262;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.572
+2026-11-09T12:00:00+01:00;0.9684;0.973822;0.974552;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.545
+2026-11-09T12:15:00+01:00;0.9619;0.971778;0.973686;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.566
+2026-11-09T12:30:00+01:00;0.9703;0.970967;0.973086;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.62
+2026-11-09T12:45:00+01:00;0.969;0.970022;0.972619;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.607
+2026-11-09T13:00:00+01:00;0.9647;0.968967;0.9722;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.601
+2026-11-09T13:15:00+01:00;0.9708;0.968822;0.971914;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.609
+2026-11-09T13:30:00+01:00;0.9774;0.969267;0.972167;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.618
+2026-11-09T13:45:00+01:00;0.9857;0.970833;0.972848;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.644
+2026-11-09T14:00:00+01:00;0.9869;0.972789;0.973562;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.64
+2026-11-09T14:15:00+01:00;0.9802;0.9741;0.974033;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.99% sotto il minimo +2.20% (commissioni);;0.664
+2026-11-09T14:30:00+01:00;0.9797;0.976078;0.974476;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.94% sotto il minimo +2.20% (commissioni);;0.645
+2026-11-09T14:45:00+01:00;0.9762;0.976733;0.97439;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.91% sotto il minimo +2.20% (commissioni);;0.638
+2026-11-09T15:00:00+01:00;0.98;0.977956;0.974629;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.85% sotto il minimo +2.20% (commissioni);;0.618
+2026-11-09T15:15:00+01:00;0.9763;0.979244;0.974438;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.86% sotto il minimo +2.20% (commissioni);;0.62
+2026-11-09T15:30:00+01:00;0.9788;0.980133;0.974495;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.79% sotto il minimo +2.20% (commissioni);;0.598
+2026-11-09T15:45:00+01:00;0.9805;0.980478;0.974638;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.80% sotto il minimo +2.20% (commissioni);;0.601
+2026-11-09T16:00:00+01:00;0.9829;0.980167;0.975052;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.87% sotto il minimo +2.20% (commissioni);;0.624
+2026-11-09T16:15:00+01:00;0.9799;0.979389;0.975424;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.87% sotto il minimo +2.20% (commissioni);;0.625
+2026-11-09T16:30:00+01:00;0.9838;0.979789;0.975919;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.95% sotto il minimo +2.20% (commissioni);;0.65
+2026-11-09T16:45:00+01:00;0.9925;0.981211;0.976914;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +2.01% sotto il minimo +2.20% (commissioni);;0.67
+2026-11-09T17:00:00+01:00;0.995;0.9833;0.978138;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.96% sotto il minimo +2.20% (commissioni);;0.652
+2026-11-09T17:15:00+01:00;0.9894;0.984344;0.979138;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.97% sotto il minimo +2.20% (commissioni);;0.655
+2026-11-09T17:30:00+01:00;0.982;0.984978;0.980095;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +2.05% sotto il minimo +2.20% (commissioni);;0.682
+2026-11-09T17:45:00+01:00;0.9811;0.985233;0.98061;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +2.05% sotto il minimo +2.20% (commissioni);;0.684
+2026-11-09T18:00:00+01:00;0.9818;0.985378;0.981219;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.98% sotto il minimo +2.20% (commissioni);;0.659
+2026-11-09T18:15:00+01:00;0.9787;0.984911;0.981886;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.95% sotto il minimo +2.20% (commissioni);;0.651
+2026-11-09T18:30:00+01:00;0.9762;0.9845;0.982143;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.94% sotto il minimo +2.20% (commissioni);;0.645
+2026-11-09T18:45:00+01:00;0.9754;0.983567;0.982048;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.88% sotto il minimo +2.20% (commissioni);;0.625
+2026-11-09T19:00:00+01:00;0.9752;0.981644;0.981548;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.82% sotto il minimo +2.20% (commissioni);;0.606
+2026-11-09T19:15:00+01:00;0.9722;0.979111;0.980848;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.595
+2026-11-09T19:30:00+01:00;0.9708;0.977044;0.9804;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.595
+2026-11-09T19:45:00+01:00;0.9751;0.976278;0.980181;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.599
+2026-11-09T20:00:00+01:00;0.9734;0.975422;0.980048;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.59
+2026-11-09T20:15:00+01:00;0.9758;0.974756;0.979848;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.582
+2026-11-09T20:30:00+01:00;0.9717;0.973978;0.979629;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.581
+2026-11-09T20:45:00+01:00;0.9777;0.974144;0.979576;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.617
+2026-11-09T21:00:00+01:00;0.9744;0.974033;0.979286;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.603
+2026-11-09T21:15:00+01:00;0.9774;0.974278;0.979024;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.592
+2026-11-09T21:30:00+01:00;0.9718;0.974233;0.978638;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.596
+2026-11-09T21:45:00+01:00;0.9738;0.974567;0.978162;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.598
+2026-11-09T22:00:00+01:00;0.9747;0.974522;0.977314;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.602
+2026-11-09T22:15:00+01:00;0.9716;0.974322;0.9762;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.608
+2026-11-09T22:30:00+01:00;0.9753;0.974267;0.975529;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.604
+2026-11-09T22:45:00+01:00;0.9723;0.974333;0.975067;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.606
+2026-11-09T23:00:00+01:00;0.9755;0.974089;0.9748;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.592
+2026-11-09T23:15:00+01:00;0.9762;0.974289;0.974533;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.582
+2026-11-09T23:30:00+01:00;0.9747;0.973989;0.974343;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.571
+2026-11-09T23:45:00+01:00;0.98;0.9749;0.974524;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.70% sotto il minimo +2.20% (commissioni);;0.566
+2026-11-10T00:00:00+01:00;0.9855;0.9762;0.975005;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.70% sotto il minimo +2.20% (commissioni);;0.567
+2026-11-10T00:15:00+01:00;0.9803;0.976822;0.975248;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.72% sotto il minimo +2.20% (commissioni);;0.573
+2026-11-10T00:30:00+01:00;0.98;0.977756;0.975619;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.71% sotto il minimo +2.20% (commissioni);;0.571
+2026-11-10T00:45:00+01:00;0.9794;0.978211;0.976029;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.65% sotto il minimo +2.20% (commissioni);;0.549
+2026-11-10T01:00:00+01:00;0.978;0.978844;0.976167;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.59% sotto il minimo +2.20% (commissioni);;0.532
+2026-11-10T01:15:00+01:00;0.981;0.979456;0.976529;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.57% sotto il minimo +2.20% (commissioni);;0.522
+2026-11-10T01:30:00+01:00;0.9809;0.979978;0.976771;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.53% sotto il minimo +2.20% (commissioni);;0.511
+2026-11-10T01:45:00+01:00;0.9784;0.980389;0.97709;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.52% sotto il minimo +2.20% (commissioni);;0.506
+2026-11-10T02:00:00+01:00;0.9798;0.980367;0.97719;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.47% sotto il minimo +2.20% (commissioni);;0.491
+2026-11-10T02:15:00+01:00;0.9806;0.979822;0.977486;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.44% sotto il minimo +2.20% (commissioni);;0.479
+2026-11-10T02:30:00+01:00;0.9832;0.980144;0.977762;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.40% sotto il minimo +2.20% (commissioni);;0.467
+2026-11-10T02:45:00+01:00;0.9794;0.980078;0.978124;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.41% sotto il minimo +2.20% (commissioni);;0.47
+2026-11-10T03:00:00+01:00;0.9794;0.980078;0.97839;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.38% sotto il minimo +2.20% (commissioni);;0.459
+2026-11-10T03:15:00+01:00;0.9788;0.980167;0.978586;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.34% sotto il minimo +2.20% (commissioni);;0.448
+2026-11-10T03:30:00+01:00;0.972;0.979167;0.978605;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.41% sotto il minimo +2.20% (commissioni);;0.469
+2026-11-10T03:45:00+01:00;0.9774;0.978778;0.978705;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.44% sotto il minimo +2.20% (commissioni);;0.48
+2026-11-10T04:00:00+01:00;0.9738;0.978267;0.978776;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.475
+2026-11-10T04:15:00+01:00;0.9741;0.977633;0.97871;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.455
+2026-11-10T04:30:00+01:00;0.9721;0.976689;0.978514;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.466
+2026-11-10T04:45:00+01:00;0.9726;0.975511;0.978414;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.449
+2026-11-10T05:00:00+01:00;0.9723;0.974722;0.978048;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.423
+2026-11-10T05:15:00+01:00;0.9716;0.973856;0.977386;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.426
+2026-11-10T05:30:00+01:00;0.9782;0.973789;0.977286;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.441
+2026-11-10T05:45:00+01:00;0.973;0.9739;0.976952;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.456
+2026-11-10T06:00:00+01:00;0.9723;0.973333;0.976614;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.439
+2026-11-10T06:15:00+01:00;0.9766;0.973644;0.976548;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.452
+2026-11-10T06:30:00+01:00;0.9748;0.973722;0.976252;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.438
+2026-11-10T06:45:00+01:00;0.9778;0.974356;0.976105;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.434
+2026-11-10T07:00:00+01:00;0.9779;0.974944;0.976081;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.429
+2026-11-10T07:15:00+01:00;0.9748;0.975222;0.975843;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.422
+2026-11-10T07:30:00+01:00;0.9795;0.9761;0.97579;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.30% sotto il minimo +2.20% (commissioni);;0.434
+2026-11-10T07:45:00+01:00;0.9802;0.976322;0.975648;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.27% sotto il minimo +2.20% (commissioni);;0.425
+2026-11-10T08:00:00+01:00;0.9799;0.977089;0.975671;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.22% sotto il minimo +2.20% (commissioni);;0.406
+2026-11-10T08:15:00+01:00;0.9789;0.977822;0.975648;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.25% sotto il minimo +2.20% (commissioni);;0.415
+2026-11-10T08:30:00+01:00;0.9799;0.978189;0.9757;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.22% sotto il minimo +2.20% (commissioni);;0.406
+2026-11-10T08:45:00+01:00;0.9797;0.978733;0.976067;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.21% sotto il minimo +2.20% (commissioni);;0.404
+2026-11-10T09:00:00+01:00;0.9739;0.9783;0.9759;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.26% sotto il minimo +2.20% (commissioni);;0.421
+2026-11-10T09:15:00+01:00;0.9694;0.977356;0.97569;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.29% sotto il minimo +2.20% (commissioni);;0.43
+2026-11-10T09:30:00+01:00;0.9683;0.976633;0.975414;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.29% sotto il minimo +2.20% (commissioni);;0.43
+2026-11-10T09:45:00+01:00;0.9647;0.974989;0.975062;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.436
+2026-11-10T10:00:00+01:00;0.9655;0.973356;0.974724;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.419
+2026-11-10T10:15:00+01:00;0.9622;0.971389;0.974243;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.433
+2026-11-10T10:30:00+01:00;0.9681;0.970189;0.974076;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.454
+2026-11-10T10:45:00+01:00;0.9692;0.969;0.973648;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.444
+2026-11-10T11:00:00+01:00;0.97;0.967922;0.973505;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.428
+2026-11-10T11:15:00+01:00;0.9631;0.966722;0.973067;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.452
+2026-11-10T11:30:00+01:00;0.9635;0.966067;0.972443;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.448
+2026-11-10T11:45:00+01:00;0.9605;0.9652;0.971762;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.457
+2026-11-10T12:00:00+01:00;0.9631;0.965022;0.971062;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.449
+2026-11-10T12:15:00+01:00;0.9646;0.964922;0.970429;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.455
+2026-11-10T12:30:00+01:00;0.9608;0.964767;0.969762;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.475
+2026-11-10T12:45:00+01:00;0.9624;0.964133;0.968948;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.484
+2026-11-10T13:00:00+01:00;0.9608;0.9632;0.968024;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.473
+2026-11-10T13:15:00+01:00;0.9617;0.962278;0.967157;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.465
+2026-11-10T13:30:00+01:00;0.9612;0.962067;0.966314;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.453
+2026-11-10T13:45:00+01:00;0.9603;0.961711;0.965381;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.439
+2026-11-10T14:00:00+01:00;0.9614;0.961811;0.96451;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.43
+2026-11-10T14:15:00+01:00;0.9627;0.961767;0.963976;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.428
+2026-11-10T14:30:00+01:00;0.9613;0.9614;0.96359;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.425
+2026-11-10T14:45:00+01:00;0.9536;0.9606;0.96289;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.575
+2026-11-10T15:00:00+01:00;0.9519;0.959433;0.962281;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.604
+2026-11-10T15:15:00+01:00;0.9482;0.958033;0.961457;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.611
+2026-11-10T15:30:00+01:00;0.9448;0.956156;0.960629;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.611
+2026-11-10T15:45:00+01:00;0.9513;0.955056;0.959829;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.673
+2026-11-10T16:00:00+01:00;0.9522;0.954156;0.959019;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.674
+2026-11-10T16:15:00+01:00;0.9487;0.952744;0.958005;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.716
+2026-11-10T16:30:00+01:00;0.942;0.950444;0.957;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.729
+2026-11-10T16:45:00+01:00;0.9261;0.946533;0.955219;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.846
+2026-11-10T17:00:00+01:00;0.9335;0.9443;0.953933;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.851
+2026-11-10T17:15:00+01:00;0.9378;0.942733;0.952729;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.833
+2026-11-10T17:30:00+01:00;0.9369;0.941478;0.95141;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.823
+2026-11-10T17:45:00+01:00;0.94;0.940944;0.950419;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.823
+2026-11-10T18:00:00+01:00;0.9363;0.939278;0.949176;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.825
+2026-11-10T18:15:00+01:00;0.9386;0.937767;0.948119;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.799
+2026-11-10T18:30:00+01:00;0.9394;0.936733;0.947057;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.771
+2026-11-10T18:45:00+01:00;0.9411;0.936633;0.9461;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.759
+2026-11-10T19:00:00+01:00;0.9437;0.938589;0.94531;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.75
+2026-11-10T19:15:00+01:00;0.9448;0.939844;0.944519;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.729
+2026-11-10T19:30:00+01:00;0.9529;0.941522;0.944052;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.759
+2026-11-10T19:45:00+01:00;0.9591;0.943989;0.943948;su;+0.000;0;0;0;0;si;compra;[storico] trend su (notizie storiche non disponibili);;0.755
+2026-11-10T20:00:00+01:00;0.9591;0.946111;0.94421;su;+0.000;0;0;0;0;si;tieni;[storico] stop 0.944618;;0.742
+2026-11-10T20:15:00+01:00;0.9582;0.948544;0.94451;su;+0.000;0;0;0;0;si;tieni;[storico] stop 0.944618;;0.728
+2026-11-10T20:30:00+01:00;0.9564;0.950522;0.9449;su;+0.000;0;0;0;0;si;tieni;[storico] stop 0.944618;;0.713
+2026-11-10T20:45:00+01:00;0.9541;0.952156;0.945343;su;+0.000;0;0;0;0;si;tieni;[storico] stop 0.944618;;0.713
+2026-11-10T21:00:00+01:00;0.9541;0.9536;0.945476;su;+0.000;0;0;0;0;si;tieni;[storico] stop 0.944618;;0.683
+2026-11-10T21:15:00+01:00;0.9522;0.954544;0.945476;su;+0.000;0;0;0;0;si;tieni;[storico] stop 0.944618;;0.656
+2026-11-10T21:30:00+01:00;0.951;0.955233;0.945586;su;+0.000;0;0;0;0;si;tieni;[storico] stop 0.944618;;0.642
+2026-11-10T21:45:00+01:00;0.948;0.954689;0.945871;su;+0.000;0;0;0;0;si;tieni;[storico] stop 0.944618;;0.63
+2026-11-10T22:00:00+01:00;0.9478;0.953433;0.946905;su;+0.000;0;0;0;0;si;tieni;[storico] stop 0.944618;;0.607
+2026-11-10T22:15:00+01:00;0.9499;0.952411;0.947686;su;+0.000;0;0;0;0;si;tieni;[storico] stop 0.944618;;0.614
+2026-11-10T22:30:00+01:00;0.9489;0.951378;0.948214;su;+0.000;0;0;0;0;si;tieni;[storico] stop 0.944618;;0.589
+2026-11-10T22:45:00+01:00;0.9518;0.950867;0.948924;su;+0.000;0;0;0;0;si;tieni;[storico] stop 0.944618;;0.575
+2026-11-10T23:00:00+01:00;0.9495;0.950356;0.949376;su;+0.000;0;0;0;0;si;tieni;[storico] stop 0.944618;;0.563
+2026-11-10T23:15:00+01:00;0.9521;0.950133;0.950129;su;+0.000;0;0;0;0;si;tieni;[storico] stop 0.944618;;0.552
+2026-11-10T23:30:00+01:00;0.95;0.949889;0.950671;giu;+0.000;0;0;0;0;no;venduto;[storico] trend finito;;0.533
+2026-11-10T23:45:00+01:00;0.9463;0.949367;0.951;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.535
+2026-11-11T00:00:00+01:00;0.9471;0.949267;0.951286;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.51
+2026-11-11T00:15:00+01:00;0.9403;0.948433;0.951124;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.528
+2026-11-11T00:30:00+01:00;0.9447;0.947856;0.951119;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.528
+2026-11-11T00:45:00+01:00;0.9452;0.947444;0.950752;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.501
+2026-11-11T01:00:00+01:00;0.9455;0.946744;0.950105;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.483
+2026-11-11T01:15:00+01:00;0.9449;0.946233;0.949429;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.475
+2026-11-11T01:30:00+01:00;0.9436;0.945289;0.948733;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.461
+2026-11-11T01:45:00+01:00;0.9428;0.944489;0.948086;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.447
+2026-11-11T02:00:00+01:00;0.9417;0.943978;0.947495;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.433
+2026-11-11T02:15:00+01:00;0.9397;0.943156;0.94681;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.425
+2026-11-11T02:30:00+01:00;0.9445;0.943622;0.946443;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.441
+2026-11-11T02:45:00+01:00;0.9464;0.943811;0.946224;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.454
+2026-11-11T03:00:00+01:00;0.9428;0.943544;0.945976;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.457
+2026-11-11T03:15:00+01:00;0.9385;0.942767;0.945533;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.465
+2026-11-11T03:30:00+01:00;0.9401;0.942233;0.945067;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.473
+2026-11-11T03:45:00+01:00;0.9488;0.942811;0.945062;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.504
+2026-11-11T04:00:00+01:00;0.9451;0.943067;0.944743;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.5
+2026-11-11T04:15:00+01:00;0.9527;0.944289;0.944895;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.517
+2026-11-11T04:30:00+01:00;0.9497;0.9454;0.944781;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.51% sotto il minimo +2.20% (commissioni);;0.504
+2026-11-11T04:45:00+01:00;0.9491;0.945911;0.944738;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.44% sotto il minimo +2.20% (commissioni);;0.48
+2026-11-11T05:00:00+01:00;0.9472;0.946;0.944781;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.39% sotto il minimo +2.20% (commissioni);;0.462
+2026-11-11T05:15:00+01:00;0.9435;0.946078;0.94461;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.40% sotto il minimo +2.20% (commissioni);;0.467
+2026-11-11T05:30:00+01:00;0.9444;0.946733;0.944805;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.41% sotto il minimo +2.20% (commissioni);;0.471
+2026-11-11T05:45:00+01:00;0.9444;0.947211;0.94479;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.35% sotto il minimo +2.20% (commissioni);;0.45
+2026-11-11T06:00:00+01:00;0.9433;0.9466;0.9447;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.31% sotto il minimo +2.20% (commissioni);;0.436
+2026-11-11T06:15:00+01:00;0.9439;0.946467;0.944624;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.26% sotto il minimo +2.20% (commissioni);;0.422
+2026-11-11T06:30:00+01:00;0.9464;0.945767;0.944695;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.23% sotto il minimo +2.20% (commissioni);;0.41
+2026-11-11T06:45:00+01:00;0.9494;0.945733;0.944971;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.22% sotto il minimo +2.20% (commissioni);;0.405
+2026-11-11T07:00:00+01:00;0.9514;0.945989;0.945381;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.19% sotto il minimo +2.20% (commissioni);;0.396
+2026-11-11T07:15:00+01:00;0.9498;0.946278;0.945767;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.17% sotto il minimo +2.20% (commissioni);;0.391
+2026-11-11T07:30:00+01:00;0.9477;0.946744;0.946148;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.15% sotto il minimo +2.20% (commissioni);;0.385
+2026-11-11T07:45:00+01:00;0.9465;0.946978;0.946243;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.19% sotto il minimo +2.20% (commissioni);;0.396
+2026-11-11T08:00:00+01:00;0.9455;0.9471;0.9462;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.14% sotto il minimo +2.20% (commissioni);;0.381
+2026-11-11T08:15:00+01:00;0.9433;0.9471;0.946224;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.16% sotto il minimo +2.20% (commissioni);;0.387
+2026-11-11T08:30:00+01:00;0.9499;0.947767;0.946767;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.23% sotto il minimo +2.20% (commissioni);;0.411
+2026-11-11T08:45:00+01:00;0.9452;0.947633;0.94701;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.26% sotto il minimo +2.20% (commissioni);;0.422
+2026-11-11T09:00:00+01:00;0.9487;0.947556;0.947005;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.29% sotto il minimo +2.20% (commissioni);;0.431
+2026-11-11T09:15:00+01:00;0.9503;0.947433;0.947252;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.32% sotto il minimo +2.20% (commissioni);;0.439
+2026-11-11T09:30:00+01:00;0.9479;0.947222;0.947024;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.31% sotto il minimo +2.20% (commissioni);;0.437
+2026-11-11T09:45:00+01:00;0.9484;0.9473;0.946962;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.33% sotto il minimo +2.20% (commissioni);;0.442
+2026-11-11T10:00:00+01:00;0.9472;0.947378;0.946871;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.30% sotto il minimo +2.20% (commissioni);;0.433
+2026-11-11T10:15:00+01:00;0.9481;0.947667;0.946914;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.29% sotto il minimo +2.20% (commissioni);;0.431
+2026-11-11T10:30:00+01:00;0.9488;0.948278;0.947167;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.27% sotto il minimo +2.20% (commissioni);;0.424
+2026-11-11T10:45:00+01:00;0.9486;0.948133;0.947367;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.24% sotto il minimo +2.20% (commissioni);;0.414
+2026-11-11T11:00:00+01:00;0.9505;0.948722;0.947657;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.21% sotto il minimo +2.20% (commissioni);;0.405
+2026-11-11T11:15:00+01:00;0.9491;0.948767;0.947933;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.23% sotto il minimo +2.20% (commissioni);;0.41
+2026-11-11T11:30:00+01:00;0.9535;0.949122;0.94839;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.27% sotto il minimo +2.20% (commissioni);;0.422
+2026-11-11T11:45:00+01:00;0.9549;0.9499;0.948795;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.26% sotto il minimo +2.20% (commissioni);;0.42
+2026-11-11T12:00:00+01:00;0.9528;0.950389;0.948957;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.23% sotto il minimo +2.20% (commissioni);;0.41
+2026-11-11T12:15:00+01:00;0.9522;0.950944;0.948995;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.20% sotto il minimo +2.20% (commissioni);;0.399
+2026-11-11T12:30:00+01:00;0.9489;0.951033;0.948952;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.21% sotto il minimo +2.20% (commissioni);;0.403
+2026-11-11T12:45:00+01:00;0.9503;0.9512;0.949076;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.16% sotto il minimo +2.20% (commissioni);;0.385
+2026-11-11T13:00:00+01:00;0.9496;0.951311;0.949224;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.15% sotto il minimo +2.20% (commissioni);;0.382
+2026-11-11T13:15:00+01:00;0.9462;0.950833;0.949257;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.16% sotto il minimo +2.20% (commissioni);;0.387
+2026-11-11T13:30:00+01:00;0.9457;0.950456;0.949371;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.17% sotto il minimo +2.20% (commissioni);;0.388
+2026-11-11T13:45:00+01:00;0.9478;0.949822;0.949271;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.19% sotto il minimo +2.20% (commissioni);;0.396
+2026-11-11T14:00:00+01:00;0.9493;0.9492;0.949467;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.402
+2026-11-11T14:15:00+01:00;0.9507;0.948967;0.949562;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.401
+2026-11-11T14:30:00+01:00;0.9507;0.9488;0.949581;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.408
+2026-11-11T14:45:00+01:00;0.9497;0.948889;0.949667;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.403
+2026-11-11T15:00:00+01:00;0.9547;0.949378;0.949967;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.42
+2026-11-11T15:15:00+01:00;0.9535;0.949811;0.950267;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.418
+2026-11-11T15:30:00+01:00;0.9507;0.950311;0.95039;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.427
+2026-11-11T15:45:00+01:00;0.951;0.9509;0.950495;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.33% sotto il minimo +2.20% (commissioni);;0.445
+2026-11-11T16:00:00+01:00;0.9526;0.951433;0.950686;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.31% sotto il minimo +2.20% (commissioni);;0.437
+2026-11-11T16:15:00+01:00;0.9573;0.952322;0.95101;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.34% sotto il minimo +2.20% (commissioni);;0.447
+2026-11-11T16:30:00+01:00;0.9557;0.952878;0.951324;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.38% sotto il minimo +2.20% (commissioni);;0.461
+2026-11-11T16:45:00+01:00;0.9651;0.954478;0.951876;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.66% sotto il minimo +2.20% (commissioni);;0.554
+2026-11-11T17:00:00+01:00;0.9656;0.956244;0.952386;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.66% sotto il minimo +2.20% (commissioni);;0.554
+2026-11-11T17:15:00+01:00;0.9653;0.957422;0.952981;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.72% sotto il minimo +2.20% (commissioni);;0.572
+2026-11-11T17:30:00+01:00;0.9687;0.959111;0.953767;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.72% sotto il minimo +2.20% (commissioni);;0.574
+2026-11-11T17:45:00+01:00;0.9623;0.9604;0.954405;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.78% sotto il minimo +2.20% (commissioni);;0.593
+2026-11-11T18:00:00+01:00;0.9652;0.961978;0.955114;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.73% sotto il minimo +2.20% (commissioni);;0.576
+2026-11-11T18:15:00+01:00;0.9673;0.963611;0.955957;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.69% sotto il minimo +2.20% (commissioni);;0.565
+2026-11-11T18:30:00+01:00;0.966;0.964578;0.9569;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.74% sotto il minimo +2.20% (commissioni);;0.581
+2026-11-11T18:45:00+01:00;0.9659;0.965711;0.957862;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.71% sotto il minimo +2.20% (commissioni);;0.569
+2026-11-11T19:00:00+01:00;0.9632;0.9655;0.958595;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.67% sotto il minimo +2.20% (commissioni);;0.555
+2026-11-11T19:15:00+01:00;0.9593;0.9648;0.959071;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.66% sotto il minimo +2.20% (commissioni);;0.554
+2026-11-11T19:30:00+01:00;0.9596;0.964167;0.959495;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.61% sotto il minimo +2.20% (commissioni);;0.538
+2026-11-11T19:45:00+01:00;0.9604;0.963244;0.959957;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.54% sotto il minimo +2.20% (commissioni);;0.515
+2026-11-11T20:00:00+01:00;0.9571;0.962667;0.96031;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.59% sotto il minimo +2.20% (commissioni);;0.53
+2026-11-11T20:15:00+01:00;0.9535;0.961367;0.960252;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.62% sotto il minimo +2.20% (commissioni);;0.54
+2026-11-11T20:30:00+01:00;0.9546;0.959956;0.960305;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.535
+2026-11-11T20:45:00+01:00;0.9523;0.958433;0.960381;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.532
+2026-11-11T21:00:00+01:00;0.9549;0.957211;0.960567;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.522
+2026-11-11T21:15:00+01:00;0.9567;0.956489;0.960762;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.504
+2026-11-11T21:30:00+01:00;0.9552;0.956033;0.960662;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.488
+2026-11-11T21:45:00+01:00;0.9567;0.955711;0.96071;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.47
+2026-11-11T22:00:00+01:00;0.9601;0.955678;0.960471;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.474
+2026-11-11T22:15:00+01:00;0.9626;0.956289;0.960329;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.471
+2026-11-11T22:30:00+01:00;0.9605;0.957067;0.9601;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.46
+2026-11-11T22:45:00+01:00;0.958;0.957444;0.95959;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.461
+2026-11-11T23:00:00+01:00;0.9559;0.957844;0.959286;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.445
+2026-11-11T23:15:00+01:00;0.9576;0.958144;0.958924;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.435
+2026-11-11T23:30:00+01:00;0.9548;0.957933;0.958329;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.438
+2026-11-11T23:45:00+01:00;0.9504;0.9574;0.957586;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.452
+2026-11-12T00:00:00+01:00;0.95;0.956656;0.956829;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.455
+2026-11-12T00:15:00+01:00;0.9398;0.9544;0.955714;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.534
+2026-11-12T00:30:00+01:00;0.9437;0.9523;0.954971;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.537
+2026-11-12T00:45:00+01:00;0.9449;0.950567;0.954271;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.522
+2026-11-12T01:00:00+01:00;0.948;0.949456;0.953681;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.526
+2026-11-12T01:15:00+01:00;0.9452;0.948267;0.953114;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.525
+2026-11-12T01:30:00+01:00;0.9506;0.947489;0.952976;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.532
+2026-11-12T01:45:00+01:00;0.9545;0.947456;0.952971;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.539
+2026-11-12T02:00:00+01:00;0.9529;0.947733;0.953;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.523
+2026-11-12T02:15:00+01:00;0.9457;0.947256;0.952562;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.546
+2026-11-12T02:30:00+01:00;0.9463;0.947978;0.952067;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.531
+2026-11-12T02:45:00+01:00;0.9459;0.948222;0.951624;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.513
+2026-11-12T03:00:00+01:00;0.9444;0.948167;0.951038;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.498
+2026-11-12T03:15:00+01:00;0.9486;0.948233;0.95049;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.511
+2026-11-12T03:30:00+01:00;0.9506;0.948833;0.949919;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.51
+2026-11-12T03:45:00+01:00;0.9485;0.9486;0.949348;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.508
+2026-11-12T04:00:00+01:00;0.9475;0.947822;0.948848;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.485
+2026-11-12T04:15:00+01:00;0.9439;0.946822;0.948276;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.487
+2026-11-12T04:30:00+01:00;0.9437;0.9466;0.947614;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.479
+2026-11-12T04:45:00+01:00;0.9425;0.946178;0.947029;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.472
+2026-11-12T05:00:00+01:00;0.9464;0.946233;0.946838;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.466
+2026-11-12T05:15:00+01:00;0.9433;0.946111;0.946519;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.462
+2026-11-12T05:30:00+01:00;0.9425;0.945433;0.946648;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.448
+2026-11-12T05:45:00+01:00;0.9427;0.944556;0.9466;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.437
+2026-11-12T06:00:00+01:00;0.9414;0.943767;0.946433;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.423
+2026-11-12T06:15:00+01:00;0.9367;0.942567;0.945895;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.439
+2026-11-12T06:30:00+01:00;0.9393;0.942056;0.945614;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.43
+2026-11-12T06:45:00+01:00;0.9399;0.941633;0.945105;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.413
+2026-11-12T07:00:00+01:00;0.9386;0.9412;0.944348;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.404
+2026-11-12T07:15:00+01:00;0.9399;0.940478;0.943729;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.388
+2026-11-12T07:30:00+01:00;0.9395;0.940056;0.943433;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.375
+2026-11-12T07:45:00+01:00;0.9391;0.939678;0.94309;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.365
+2026-11-12T08:00:00+01:00;0.9419;0.939589;0.9429;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.39
+2026-11-12T08:15:00+01:00;0.9413;0.939578;0.942752;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.372
+2026-11-12T08:30:00+01:00;0.9429;0.940267;0.942481;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.371
+2026-11-12T08:45:00+01:00;0.9402;0.940367;0.941986;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.366
+2026-11-12T09:00:00+01:00;0.9407;0.940456;0.941614;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.358
+2026-11-12T09:15:00+01:00;0.9404;0.940656;0.941276;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.351
+2026-11-12T09:30:00+01:00;0.9392;0.940578;0.941052;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.343
+2026-11-12T09:45:00+01:00;0.9404;0.940678;0.940895;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.337
+2026-11-12T10:00:00+01:00;0.9415;0.940944;0.940848;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.98% sotto il minimo +2.20% (commissioni);;0.326
+2026-11-12T10:15:00+01:00;0.9407;0.940811;0.940576;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.95% sotto il minimo +2.20% (commissioni);;0.316
+2026-11-12T10:30:00+01:00;0.9428;0.940978;0.940552;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.94% sotto il minimo +2.20% (commissioni);;0.312
+2026-11-12T10:45:00+01:00;0.9449;0.9412;0.940667;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.93% sotto il minimo +2.20% (commissioni);;0.31
+2026-11-12T11:00:00+01:00;0.9474;0.942;0.94089;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.94% sotto il minimo +2.20% (commissioni);;0.314
+2026-11-12T11:15:00+01:00;0.9489;0.942911;0.941248;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.94% sotto il minimo +2.20% (commissioni);;0.313
+2026-11-12T11:30:00+01:00;0.9494;0.943911;0.941852;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.94% sotto il minimo +2.20% (commissioni);;0.313
+2026-11-12T11:45:00+01:00;0.9464;0.944711;0.94219;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.94% sotto il minimo +2.20% (commissioni);;0.314
+2026-11-12T12:00:00+01:00;0.9456;0.945289;0.942462;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.91% sotto il minimo +2.20% (commissioni);;0.302
+2026-11-12T12:15:00+01:00;0.9441;0.945578;0.942724;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.89% sotto il minimo +2.20% (commissioni);;0.297
+2026-11-12T12:30:00+01:00;0.9398;0.945478;0.942719;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +0.93% sotto il minimo +2.20% (commissioni);;0.31
+2026-11-12T12:45:00+01:00;0.9373;0.944867;0.942614;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.01% sotto il minimo +2.20% (commissioni);;0.338
+2026-11-12T13:00:00+01:00;0.9354;0.943811;0.942438;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.05% sotto il minimo +2.20% (commissioni);;0.351
+2026-11-12T13:15:00+01:00;0.9361;0.942556;0.942162;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.06% sotto il minimo +2.20% (commissioni);;0.355
+2026-11-12T13:30:00+01:00;0.9316;0.940633;0.9417;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.372
+2026-11-12T13:45:00+01:00;0.9356;0.9391;0.941352;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.383
+2026-11-12T14:00:00+01:00;0.9341;0.937733;0.941062;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.374
+2026-11-12T14:15:00+01:00;0.9271;0.935678;0.940414;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.459
+2026-11-12T14:30:00+01:00;0.9315;0.934278;0.93999;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.479
+2026-11-12T14:45:00+01:00;0.9321;0.933422;0.939652;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.471
+2026-11-12T15:00:00+01:00;0.9315;0.932778;0.939229;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.476
+2026-11-12T15:15:00+01:00;0.9265;0.931789;0.938514;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.504
+2026-11-12T15:30:00+01:00;0.9228;0.930311;0.937662;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.534
+2026-11-12T15:45:00+01:00;0.924;0.929467;0.936767;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.564
+2026-11-12T16:00:00+01:00;0.9261;0.928411;0.935871;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.56
+2026-11-12T16:15:00+01:00;0.9208;0.926933;0.934605;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.569
+2026-11-12T16:30:00+01:00;0.9211;0.926267;0.933281;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.564
+2026-11-12T16:45:00+01:00;0.9234;0.925367;0.932043;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.571
+2026-11-12T17:00:00+01:00;0.9271;0.924811;0.931124;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.566
+2026-11-12T17:15:00+01:00;0.9314;0.9248;0.930448;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.593
+2026-11-12T17:30:00+01:00;0.9283;0.925;0.929695;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.594
+2026-11-12T17:45:00+01:00;0.9231;0.925033;0.9289;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.604
+2026-11-12T18:00:00+01:00;0.9263;0.925289;0.928376;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.598
+2026-11-12T18:15:00+01:00;0.9248;0.925144;0.927871;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.58
+2026-11-12T18:30:00+01:00;0.9288;0.926033;0.927524;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.573
+2026-11-12T18:45:00+01:00;0.927;0.926689;0.927305;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.56
+2026-11-12T19:00:00+01:00;0.9322;0.927667;0.927143;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.73% sotto il minimo +2.20% (commissioni);;0.578
+2026-11-12T19:15:00+01:00;0.9322;0.928233;0.927052;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.69% sotto il minimo +2.20% (commissioni);;0.562
+2026-11-12T19:30:00+01:00;0.9338;0.9285;0.927371;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.66% sotto il minimo +2.20% (commissioni);;0.552
+2026-11-12T19:45:00+01:00;0.9304;0.928733;0.927319;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.68% sotto il minimo +2.20% (commissioni);;0.56
+2026-11-12T20:00:00+01:00;0.932;0.929722;0.927314;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.68% sotto il minimo +2.20% (commissioni);;0.56
+2026-11-12T20:15:00+01:00;0.929;0.930022;0.927195;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.68% sotto il minimo +2.20% (commissioni);;0.558
+2026-11-12T20:30:00+01:00;0.9288;0.930467;0.927305;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.63% sotto il minimo +2.20% (commissioni);;0.543
+2026-11-12T20:45:00+01:00;0.9319;0.930811;0.927738;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.60% sotto il minimo +2.20% (commissioni);;0.534
+2026-11-12T21:00:00+01:00;0.9328;0.931456;0.928157;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.58% sotto il minimo +2.20% (commissioni);;0.526
+2026-11-12T21:15:00+01:00;0.9327;0.931511;0.928471;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.52% sotto il minimo +2.20% (commissioni);;0.507
+2026-11-12T21:30:00+01:00;0.9338;0.931689;0.92909;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.50% sotto il minimo +2.20% (commissioni);;0.501
+2026-11-12T21:45:00+01:00;0.9362;0.931956;0.92981;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.47% sotto il minimo +2.20% (commissioni);;0.491
+2026-11-12T22:00:00+01:00;0.9365;0.932633;0.930433;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.50% sotto il minimo +2.20% (commissioni);;0.5
+2026-11-12T22:15:00+01:00;0.9375;0.933244;0.930929;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.47% sotto il minimo +2.20% (commissioni);;0.489
+2026-11-12T22:30:00+01:00;0.9417;0.934656;0.931419;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.46% sotto il minimo +2.20% (commissioni);;0.487
+2026-11-12T22:45:00+01:00;0.9406;0.935967;0.932005;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.43% sotto il minimo +2.20% (commissioni);;0.477
+2026-11-12T23:00:00+01:00;0.9354;0.936356;0.93259;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.45% sotto il minimo +2.20% (commissioni);;0.485
+2026-11-12T23:15:00+01:00;0.937;0.936822;0.9331;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.44% sotto il minimo +2.20% (commissioni);;0.479
+2026-11-12T23:30:00+01:00;0.9372;0.937322;0.93369;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.41% sotto il minimo +2.20% (commissioni);;0.468
+2026-11-12T23:45:00+01:00;0.9363;0.9376;0.934048;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.36% sotto il minimo +2.20% (commissioni);;0.452
+2026-11-13T00:00:00+01:00;0.936;0.937578;0.934476;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.32% sotto il minimo +2.20% (commissioni);;0.44
+2026-11-13T00:15:00+01:00;0.9401;0.937978;0.934852;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.32% sotto il minimo +2.20% (commissioni);;0.44
+2026-11-13T00:30:00+01:00;0.9388;0.938122;0.935167;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.29% sotto il minimo +2.20% (commissioni);;0.431
+2026-11-13T00:45:00+01:00;0.9407;0.938011;0.935495;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.26% sotto il minimo +2.20% (commissioni);;0.42
+2026-11-13T01:00:00+01:00;0.9422;0.938189;0.936057;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.21% sotto il minimo +2.20% (commissioni);;0.403
+2026-11-13T01:15:00+01:00;0.941;0.938811;0.936486;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.19% sotto il minimo +2.20% (commissioni);;0.396
+2026-11-13T01:30:00+01:00;0.9389;0.939022;0.936957;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.17% sotto il minimo +2.20% (commissioni);;0.389
+2026-11-13T01:45:00+01:00;0.9323;0.938478;0.937124;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.26% sotto il minimo +2.20% (commissioni);;0.42
+2026-11-13T02:00:00+01:00;0.9362;0.938467;0.937329;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.28% sotto il minimo +2.20% (commissioni);;0.426
+2026-11-13T02:15:00+01:00;0.9319;0.938011;0.937286;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.33% sotto il minimo +2.20% (commissioni);;0.445
+2026-11-13T02:30:00+01:00;0.9334;0.937267;0.937319;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.437
+2026-11-13T02:45:00+01:00;0.9323;0.936544;0.937248;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.43
+2026-11-13T03:00:00+01:00;0.932;0.935578;0.937048;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.418
+2026-11-13T03:15:00+01:00;0.9258;0.933756;0.936538;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.447
+2026-11-13T03:30:00+01:00;0.9269;0.932189;0.936033;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.46
+2026-11-13T03:45:00+01:00;0.9204;0.930133;0.935019;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.482
+2026-11-13T04:00:00+01:00;0.9219;0.928978;0.934129;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.506
+2026-11-13T04:15:00+01:00;0.9181;0.926967;0.933305;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.518
+2026-11-13T04:30:00+01:00;0.9128;0.924844;0.932152;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.562
+2026-11-13T04:45:00+01:00;0.9106;0.922311;0.930886;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.558
+2026-11-13T05:00:00+01:00;0.9092;0.919744;0.929595;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.594
+2026-11-13T05:15:00+01:00;0.9089;0.917178;0.928305;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.596
+2026-11-13T05:30:00+01:00;0.9097;0.915389;0.926857;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.602
+2026-11-13T05:45:00+01:00;0.9068;0.913156;0.925333;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.625
+2026-11-13T06:00:00+01:00;0.9085;0.911833;0.9238;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.599
+2026-11-13T06:15:00+01:00;0.9124;0.910778;0.922381;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.607
+2026-11-13T06:30:00+01:00;0.9135;0.910267;0.921071;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.609
+2026-11-13T06:45:00+01:00;0.9156;0.910578;0.919962;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.594
+2026-11-13T07:00:00+01:00;0.9145;0.911011;0.919114;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.615
+2026-11-13T07:15:00+01:00;0.9178;0.911967;0.918238;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.608
+2026-11-13T07:30:00+01:00;0.926;0.913867;0.917957;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.638
+2026-11-13T07:45:00+01:00;0.924;0.915456;0.91751;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.618
+2026-11-13T08:00:00+01:00;0.9269;0.917689;0.917252;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.83% sotto il minimo +2.20% (commissioni);;0.612
+2026-11-13T08:15:00+01:00;0.9286;0.919922;0.91709;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.79% sotto il minimo +2.20% (commissioni);;0.596
+2026-11-13T08:30:00+01:00;0.9301;0.921889;0.917295;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.76% sotto il minimo +2.20% (commissioni);;0.588
+2026-11-13T08:45:00+01:00;0.9301;0.923733;0.917448;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.71% sotto il minimo +2.20% (commissioni);;0.569
+2026-11-13T09:00:00+01:00;0.9271;0.925011;0.917767;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.66% sotto il minimo +2.20% (commissioni);;0.553
+2026-11-13T09:15:00+01:00;0.9306;0.9268;0.918181;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.64% sotto il minimo +2.20% (commissioni);;0.548
+2026-11-13T09:30:00+01:00;0.9304;0.9282;0.918767;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.61% sotto il minimo +2.20% (commissioni);;0.537
+2026-11-13T09:45:00+01:00;0.9297;0.928611;0.919571;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.60% sotto il minimo +2.20% (commissioni);;0.533
+2026-11-13T10:00:00+01:00;0.9288;0.929144;0.920438;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.56% sotto il minimo +2.20% (commissioni);;0.522
+2026-11-13T10:15:00+01:00;0.93;0.929489;0.921429;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.56% sotto il minimo +2.20% (commissioni);;0.521
+2026-11-13T10:30:00+01:00;0.9298;0.929622;0.922424;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.49% sotto il minimo +2.20% (commissioni);;0.496
+2026-11-13T10:45:00+01:00;0.9308;0.9297;0.923429;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.45% sotto il minimo +2.20% (commissioni);;0.484
+2026-11-13T11:00:00+01:00;0.9302;0.929711;0.924543;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.39% sotto il minimo +2.20% (commissioni);;0.463
+2026-11-13T11:15:00+01:00;0.9288;0.9299;0.92551;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.40% sotto il minimo +2.20% (commissioni);;0.468
+2026-11-13T11:30:00+01:00;0.9295;0.929778;0.926324;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.41% sotto il minimo +2.20% (commissioni);;0.469
+2026-11-13T11:45:00+01:00;0.9255;0.929233;0.926895;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.41% sotto il minimo +2.20% (commissioni);;0.471
+2026-11-13T12:00:00+01:00;0.9252;0.928733;0.927352;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.37% sotto il minimo +2.20% (commissioni);;0.456
+2026-11-13T12:15:00+01:00;0.9217;0.927944;0.927695;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.38% sotto il minimo +2.20% (commissioni);;0.46
+2026-11-13T12:30:00+01:00;0.9209;0.926933;0.927843;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.451
+2026-11-13T12:45:00+01:00;0.9254;0.926444;0.927814;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.462
+2026-11-13T13:00:00+01:00;0.9269;0.926011;0.927952;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.447
+2026-11-13T13:15:00+01:00;0.9282;0.925789;0.928014;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.43
+2026-11-13T13:30:00+01:00;0.9264;0.925522;0.92791;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.42
+2026-11-13T13:45:00+01:00;0.9246;0.924978;0.927648;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.424
+2026-11-13T14:00:00+01:00;0.9222;0.924611;0.927271;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.426
+2026-11-13T14:15:00+01:00;0.9224;0.9243;0.927048;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.406
+2026-11-13T14:30:00+01:00;0.9212;0.924244;0.9266;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.397
+2026-11-13T14:45:00+01:00;0.9391;0.926267;0.927014;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.528
+2026-11-13T15:00:00+01:00;0.9347;0.9273;0.927252;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.60% sotto il minimo +2.20% (commissioni);;0.535
+2026-11-13T15:15:00+01:00;0.9322;0.927889;0.927414;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.60% sotto il minimo +2.20% (commissioni);;0.533
+2026-11-13T15:30:00+01:00;0.9328;0.9284;0.927548;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.56% sotto il minimo +2.20% (commissioni);;0.521
+2026-11-13T15:45:00+01:00;0.9347;0.929322;0.927781;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.66% sotto il minimo +2.20% (commissioni);;0.552
+2026-11-13T16:00:00+01:00;0.9338;0.930344;0.927924;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.67% sotto il minimo +2.20% (commissioni);;0.558
+2026-11-13T16:15:00+01:00;0.93;0.931211;0.927914;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.71% sotto il minimo +2.20% (commissioni);;0.571
+2026-11-13T16:30:00+01:00;0.9255;0.931556;0.927757;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.85% sotto il minimo +2.20% (commissioni);;0.616
+2026-11-13T16:45:00+01:00;0.9184;0.931244;0.927229;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.97% sotto il minimo +2.20% (commissioni);;0.658
+2026-11-13T17:00:00+01:00;0.9245;0.929622;0.927181;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +2.05% sotto il minimo +2.20% (commissioni);;0.683
+2026-11-13T17:15:00+01:00;0.92;0.927989;0.926933;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +2.03% sotto il minimo +2.20% (commissioni);;0.677
+2026-11-13T17:30:00+01:00;0.9178;0.926389;0.926748;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.67
+2026-11-13T17:45:00+01:00;0.9177;0.924711;0.926595;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.65
+2026-11-13T18:00:00+01:00;0.9205;0.923133;0.926362;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.643
+2026-11-13T18:15:00+01:00;0.9235;0.921989;0.9262;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.646
+2026-11-13T18:30:00+01:00;0.927;0.921656;0.926143;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.637
+2026-11-13T18:45:00+01:00;0.9307;0.922233;0.926348;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.626
+2026-11-13T19:00:00+01:00;0.9246;0.922922;0.926348;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.632
+2026-11-13T19:15:00+01:00;0.9278;0.923289;0.926614;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.615
+2026-11-13T19:30:00+01:00;0.9264;0.924;0.926805;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.603
+2026-11-13T19:45:00+01:00;0.9295;0.9253;0.9272;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.584
+2026-11-13T20:00:00+01:00;0.9263;0.926256;0.92659;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.576
+2026-11-13T20:15:00+01:00;0.9287;0.927167;0.926305;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.67% sotto il minimo +2.20% (commissioni);;0.557
+2026-11-13T20:30:00+01:00;0.931;0.928;0.926248;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.62% sotto il minimo +2.20% (commissioni);;0.542
+2026-11-13T20:45:00+01:00;0.9316;0.928511;0.92619;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.59% sotto il minimo +2.20% (commissioni);;0.529
+2026-11-13T21:00:00+01:00;0.9322;0.928678;0.926071;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.53% sotto il minimo +2.20% (commissioni);;0.511
+2026-11-13T21:15:00+01:00;0.9314;0.929433;0.925957;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.50% sotto il minimo +2.20% (commissioni);;0.499
+2026-11-13T21:30:00+01:00;0.9321;0.929911;0.926057;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.43% sotto il minimo +2.20% (commissioni);;0.478
+2026-11-13T21:45:00+01:00;0.9288;0.930178;0.926214;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.43% sotto il minimo +2.20% (commissioni);;0.477
+2026-11-13T22:00:00+01:00;0.9282;0.930033;0.926681;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.39% sotto il minimo +2.20% (commissioni);;0.464
+2026-11-13T22:15:00+01:00;0.9181;0.929122;0.926376;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.55% sotto il minimo +2.20% (commissioni);;0.516
+2026-11-13T22:30:00+01:00;0.9167;0.927789;0.926219;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.57% sotto il minimo +2.20% (commissioni);;0.524
+2026-11-13T22:45:00+01:00;0.9148;0.925989;0.926076;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.512
+2026-11-13T23:00:00+01:00;0.9201;0.924711;0.92619;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.515
+2026-11-13T23:15:00+01:00;0.9129;0.922567;0.925829;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.552
+2026-11-13T23:30:00+01:00;0.9169;0.920956;0.925514;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.558
+2026-11-13T23:45:00+01:00;0.917;0.919278;0.925038;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.547
+2026-11-14T00:00:00+01:00;0.9136;0.917589;0.924224;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.541
+2026-11-14T00:15:00+01:00;0.909;0.915456;0.923481;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.56
+2026-11-14T00:30:00+01:00;0.9126;0.914844;0.922757;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.55
+2026-11-14T00:45:00+01:00;0.915;0.914656;0.922214;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.53
+2026-11-14T01:00:00+01:00;0.9175;0.914956;0.921643;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.515
+2026-11-14T01:15:00+01:00;0.9174;0.914656;0.921219;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.496
+2026-11-14T01:30:00+01:00;0.9179;0.915211;0.920705;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.473
+2026-11-14T01:45:00+01:00;0.9185;0.915389;0.92011;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.471
+2026-11-14T02:00:00+01:00;0.9155;0.915222;0.919343;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.469
+2026-11-14T02:15:00+01:00;0.9125;0.9151;0.918405;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.46
+2026-11-14T02:30:00+01:00;0.9135;0.9156;0.917552;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.446
+2026-11-14T02:45:00+01:00;0.9152;0.915889;0.916748;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.437
+2026-11-14T03:00:00+01:00;0.9117;0.915522;0.915933;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.441
+2026-11-14T03:15:00+01:00;0.9094;0.914622;0.915038;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.444
+2026-11-14T03:30:00+01:00;0.8997;0.912656;0.914162;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.545
+2026-11-14T03:45:00+01:00;0.9051;0.911233;0.91361;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.584
+2026-11-14T04:00:00+01:00;0.91;0.910289;0.913381;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.615
+2026-11-14T04:15:00+01:00;0.9052;0.909144;0.912671;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.612
+2026-11-14T04:30:00+01:00;0.9078;0.908622;0.912429;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.596
+2026-11-14T04:45:00+01:00;0.8995;0.907067;0.9116;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.626
+2026-11-14T05:00:00+01:00;0.8977;0.905122;0.910681;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.628
+2026-11-14T05:15:00+01:00;0.8986;0.903667;0.909967;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.615
+2026-11-14T05:30:00+01:00;0.9003;0.902656;0.909552;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.6
+2026-11-14T05:45:00+01:00;0.9021;0.902922;0.909052;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.596
+2026-11-14T06:00:00+01:00;0.9036;0.902756;0.90851;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.572
+2026-11-14T06:15:00+01:00;0.9047;0.902167;0.9079;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.566
+2026-11-14T06:30:00+01:00;0.9043;0.902067;0.907276;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.543
+2026-11-14T06:45:00+01:00;0.9011;0.901322;0.906476;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.546
+2026-11-14T07:00:00+01:00;0.9045;0.901878;0.90581;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.533
+2026-11-14T07:15:00+01:00;0.9058;0.902778;0.905348;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.512
+2026-11-14T07:30:00+01:00;0.9048;0.903467;0.904981;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.495
+2026-11-14T07:45:00+01:00;0.9014;0.903589;0.904405;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.493
+2026-11-14T08:00:00+01:00;0.9021;0.903589;0.903781;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.478
+2026-11-14T08:15:00+01:00;0.9;0.903189;0.903224;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.475
+2026-11-14T08:30:00+01:00;0.895;0.902111;0.902538;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.515
+2026-11-14T08:45:00+01:00;0.89;0.900522;0.902076;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.539
+2026-11-14T09:00:00+01:00;0.8917;0.899478;0.901438;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.537
+2026-11-14T09:15:00+01:00;0.8939;0.8983;0.900671;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.53
+2026-11-14T09:30:00+01:00;0.894;0.896989;0.900138;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.519
+2026-11-14T09:45:00+01:00;0.8945;0.895844;0.899505;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.505
+2026-11-14T10:00:00+01:00;0.8923;0.894833;0.899162;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.505
+2026-11-14T10:15:00+01:00;0.896;0.894156;0.899081;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.508
+2026-11-14T10:30:00+01:00;0.897;0.893822;0.899005;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.498
+2026-11-14T10:45:00+01:00;0.8976;0.894111;0.898876;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.476
+2026-11-14T11:00:00+01:00;0.8996;0.895178;0.898757;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.484
+2026-11-14T11:15:00+01:00;0.8976;0.895833;0.898471;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.473
+2026-11-14T11:30:00+01:00;0.8992;0.896422;0.89821;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.455
+2026-11-14T11:45:00+01:00;0.901;0.8972;0.898052;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.445
+2026-11-14T12:00:00+01:00;0.8992;0.897722;0.897962;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.433
+2026-11-14T12:15:00+01:00;0.8988;0.898444;0.89769;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.29% sotto il minimo +2.20% (commissioni);;0.43
+2026-11-14T12:30:00+01:00;0.8982;0.898689;0.897329;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.27% sotto il minimo +2.20% (commissioni);;0.423
+2026-11-14T12:45:00+01:00;0.901;0.899133;0.897148;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.29% sotto il minimo +2.20% (commissioni);;0.429
+2026-11-14T13:00:00+01:00;0.9027;0.8997;0.89721;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.24% sotto il minimo +2.20% (commissioni);;0.412
+2026-11-14T13:15:00+01:00;0.903;0.900078;0.897252;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.20% sotto il minimo +2.20% (commissioni);;0.401
+2026-11-14T13:30:00+01:00;0.9031;0.900689;0.8974;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.16% sotto il minimo +2.20% (commissioni);;0.387
+2026-11-14T13:45:00+01:00;0.9027;0.901078;0.897767;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.14% sotto il minimo +2.20% (commissioni);;0.379
+2026-11-14T14:00:00+01:00;0.9002;0.900989;0.898252;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.15% sotto il minimo +2.20% (commissioni);;0.382
+2026-11-14T14:15:00+01:00;0.8995;0.901022;0.898624;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.16% sotto il minimo +2.20% (commissioni);;0.387
+2026-11-14T14:30:00+01:00;0.8983;0.900967;0.898833;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.15% sotto il minimo +2.20% (commissioni);;0.383
+2026-11-14T14:45:00+01:00;0.9009;0.901267;0.899162;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.14% sotto il minimo +2.20% (commissioni);;0.381
+2026-11-14T15:00:00+01:00;0.9039;0.901589;0.89961;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.18% sotto il minimo +2.20% (commissioni);;0.394
+2026-11-14T15:15:00+01:00;0.8963;0.900878;0.8998;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.34% sotto il minimo +2.20% (commissioni);;0.448
+2026-11-14T15:30:00+01:00;0.8937;0.899844;0.89969;su;+0.000;0;0;0;0;no;attendi;[storico] obiettivo +1.53% sotto il minimo +2.20% (commissioni);;0.511
+2026-11-14T15:45:00+01:00;0.893;0.898722;0.8995;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.519
+2026-11-14T16:00:00+01:00;0.8912;0.897444;0.899195;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.554
+2026-11-14T16:15:00+01:00;0.892;0.896533;0.898833;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.552
+2026-11-14T16:30:00+01:00;0.8836;0.894767;0.898167;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.603
+2026-11-14T16:45:00+01:00;0.8823;0.892989;0.897362;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.61
+2026-11-14T17:00:00+01:00;0.8815;0.890833;0.896433;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.634
+2026-11-14T17:15:00+01:00;0.8736;0.887467;0.895214;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.69
+2026-11-14T17:30:00+01:00;0.8699;0.884533;0.893838;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.712
+2026-11-14T17:45:00+01:00;0.8702;0.881922;0.892505;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.718
+2026-11-14T18:00:00+01:00;0.868;0.879144;0.890933;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.734
+2026-11-14T18:15:00+01:00;0.8629;0.876;0.889038;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.766
+2026-11-14T18:30:00+01:00;0.8745;0.874056;0.887681;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;0.847
+2026-11-14T18:35:08+01:00;0.8744;0.874056;0.887681;giu;-0.407;31;56;56;2;no;attendi;trend 15 minuti non rialzista;XRP Falls Below $1 After Nine Straight Daily Losses - Bitcoin Foundation;0.847

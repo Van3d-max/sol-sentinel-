@@ -1,0 +1,81 @@
+{
+  "nome": "xrp_lento",
+  "coppia": "XRP-EUR",
+  "puntata_eur": 100.0,
+  "commissione_taker": 0.006,
+  "trend": {
+    "media_veloce": 10,
+    "media_lenta": 30,
+    "stop_atr": 3.0,
+    "atr_periodo": 14,
+    "candela": "ONE_DAY",
+    "secondi": 86400
+  },
+  "regole": {
+    "soglia_ingresso": 0.0,
+    "soglia_uscita": -0.5,
+    "max_ingressi_giorno": 1,
+    "pausa_dopo_uscita_ore": 12,
+    "max_perdita_giornaliera_eur": 10.0
+  },
+  "notizie": {
+    "moneta": "XRP (Ripple)",
+    "parole_chiave": [
+      "\\bXRP\\b",
+      "ripple"
+    ],
+    "query_gdelt": "XRP ripple",
+    "gdelt": false,
+    "feed_rss": [
+      "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "https://cointelegraph.com/rss",
+      "https://decrypt.co/feed",
+      "https://bitcoinmagazine.com/.rss/full/",
+      "https://cryptoslate.com/feed/",
+      "https://news.google.com/rss/search?q=XRP+ripple&hl=en-US&gl=US&ceid=US:en"
+    ],
+    "finestra_ore": 48,
+    "emivita_ore": 8,
+    "prudenza": 0.5,
+    "shock_ore": 3,
+    "shock_rilevanza": 0.6,
+    "shock_punteggio": -0.7,
+    "usa_claude": true,
+    "modello": "claude-haiku-5-5"
+  },
+  "dibattito": {
+    "attivo": true,
+    "modello": "claude-haiku-5-5"
+  },
+  "intervallo_minuti": 60,
+  "sl_offset_limite_pct": 1.0,
+  "fuso_orario": "Europe/Rome",
+  "file_decisioni": "decisioni_xrp_lento.csv",
+  "file_operazioni": "operazioni_xrp_lento.csv",
+  "file_log": "agente_xrp_lento.log",
+  "file_cache": "cache_notizie_xrp.json",
+  "file_chiave_api": "cdp_api_key.json",
+  "freno": {
+    "attivo": true,
+    "ultime_operazioni": 5,
+    "perdita_max_eur": 8.0,
+    "perdita_7_giorni_eur": 12.0,
+    "pausa_ore": 48
+  },
+  "filtri_appresi": [],
+  "revisione": {
+    "modello": "claude-sonnet-5-5"
+  },
+  "apprendimento": {
+    "auto": true,
+    "max_filtri": 3,
+    "min_operazioni": 30,
+    "guadagno_min_eur": 8.0,
+    "meta_min_eur": 3.0,
+    "verifica_dopo_operazioni": 8,
+    "nuovi_a_settimana": 1,
+    "quarantena_giorni": 28
+  },
+  "moneta_codice": "xrp",
+  "agente_tipo": "lento"
+}

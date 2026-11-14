@@ -1,0 +1,15 @@
+data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;valutate_claude;shock;posizione;azione;motivo;notizia_principale;atr_pct
+2026-11-02T01:00:00+01:00;1.1204;1.1487;1.2032;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;4.345
+2026-11-03T01:00:00+01:00;1.1156;1.1448;1.1963;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;4.237
+2026-11-04T01:00:00+01:00;1.1387;1.1428;1.1893;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;4.101
+2026-11-05T01:00:00+01:00;1.1613;1.1435;1.1832;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;4.28
+2026-11-06T01:00:00+01:00;1.0746;1.1339;1.1747;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;5.035
+2026-11-07T01:00:00+01:00;1.0572;1.1203;1.1676;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;5.013
+2026-11-08T01:00:00+01:00;1.0431;1.1059;1.1613;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;4.916
+2026-11-09T01:00:00+01:00;0.9977;1.0953;1.1531;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;5.248
+2026-11-10T01:00:00+01:00;0.978;1.0806;1.1440;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;5.32
+2026-11-11T01:00:00+01:00;0.9455;1.0632;1.1336;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;5.573
+2026-11-12T01:00:00+01:00;0.948;1.0460;1.1250;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;5.436
+2026-11-13T01:00:00+01:00;0.9422;1.0286;1.1158;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;5.356
+2026-11-14T01:00:00+01:00;0.9175;1.0065;1.1068;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;5.432
+2026-11-14T18:35:08+01:00;0.8744;1.0065;1.1068;giu;-0.336;56;56;56;2;no;attendi;trend giornaliero non rialzista;XRP Falls Below $1 After Nine Straight Daily Losses - Bitcoin Foundation;5.651

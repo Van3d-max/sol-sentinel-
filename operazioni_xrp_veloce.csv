@@ -1,0 +1,2 @@
+data_apertura;data_chiusura;modalita;coppia;quantita;prezzo_entrata;prezzo_uscita;acquisto_eur;vendita_eur;commissioni_eur;risultato_netto_eur;motivo_uscita;notizie_ingresso;dibattito;id_ordini;durata_ore;ctx_ora;ctx_giorno;ctx_notizie;ctx_distanza_media_pct;ctx_forza_trend_pct;ctx_atr_pct;ctx_obiettivo_pct;ctx_stop_pct
+2026-11-10T19:45:00+01:00;2026-11-10T23:30:00+01:00;storico;XRP-EUR;103.63882807;0.9591;0.95;100.0000;97.8661;1.1907;-2.1339;trend finito;+0.000;storico;storico-435247cc;3.75;19;1;0.0;1.605;0.004;0.755;2.265;1.51

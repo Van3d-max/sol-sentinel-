@@ -1,0 +1,15 @@
+data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;valutate_claude;shock;posizione;azione;motivo;notizia_principale;atr_pct
+2026-11-02T01:00:00+01:00;2038.87;2068.58;2179.34;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;3.62
+2026-11-03T01:00:00+01:00;2010.62;2056.69;2166.74;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;3.679
+2026-11-04T01:00:00+01:00;2027.55;2048.97;2153.58;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;3.598
+2026-11-05T01:00:00+01:00;2155.92;2057.17;2144.93;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;3.81
+2026-11-06T01:00:00+01:00;1991.86;2048.72;2131.41;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;4.54
+2026-11-07T01:00:00+01:00;2006.95;2038.53;2121.72;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;4.331
+2026-11-08T01:00:00+01:00;2009.09;2028.12;2115.07;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;4.107
+2026-11-09T01:00:00+01:00;1906.93;2017.67;2104.63;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;4.576
+2026-11-10T01:00:00+01:00;1899.38;2006.69;2093.37;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;4.533
+2026-11-11T01:00:00+01:00;1836.46;1988.36;2079.19;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;4.767
+2026-11-12T01:00:00+01:00;1852.11;1969.69;2067.84;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;4.64
+2026-11-13T01:00:00+01:00;1826.20;1951.25;2054.41;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;4.661
+2026-11-14T01:00:00+01:00;1750.58;1923.55;2040.71;giu;+0.000;0;0;0;0;no;attendi;[storico] trend non rialzista;;4.979
+2026-11-14T18:34:11+01:00;1673.50;1923.55;2040.70;giu;-0.298;81;81;81;2;no;attendi;trend giornaliero non rialzista;ETH Tanks Another 5% as Ethereum Foundation Keeps Selling and Schiff Sounds the Alarm - CryptoPotato;5.197

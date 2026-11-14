@@ -53,7 +53,7 @@
   "file_decisioni": "decisioni_agente.csv",
   "file_operazioni": "operazioni_agente.csv",
   "file_log": "agente.log",
-  "file_cache": "cache_notizie.json",
+  "file_cache": "cache_notizie_sol.json",
   "file_chiave_api": "cdp_api_key.json",
   "freno": {
     "attivo": true,
@@ -75,5 +75,7 @@
     "verifica_dopo_operazioni": 8,
     "nuovi_a_settimana": 1,
     "quarantena_giorni": 28
-  }
+  },
+  "moneta_codice": "sol",
+  "agente_tipo": "lento"
 }
