@@ -142,3 +142,9 @@
 14/11 23:31:03 INFO       (-0.3 r0.9 claude) Grok AI Predicts How Low XRP Could Fall Before Year-End - Yahoo Finance
 14/11 23:31:03 INFO       (-0.3 r0.9 claude) Grok AI Predicts How Low XRP Could Fall Before Year-End - 24/7 Wall St.
 14/11 23:31:03 INFO    -> ATTENDI: trend 15 minuti non rialzista
+14/11 23:45:46 INFO    === xrp_veloce (XRP-EUR) ===
+14/11 23:45:47 INFO    Prezzo 0.8244 | medie 0.821378/0.840852 trend GIU | notizie -0.26 su 27 (1 nuove, 1 da Claude) | 0.3s
+14/11 23:45:47 INFO       (-0.8 r0.9 claude) Why Is XRP Crashing Today? Ripple Token Falls 18% in a Week as Bitcoin and Ethereum Selloff Deepens - Coinpape
+14/11 23:45:47 INFO       (-0.7 r1.0 claude) Why Is XRP Crashing Below $1? - 24/7 Wall St.
+14/11 23:45:47 INFO       (-0.3 r0.9 claude) Grok AI Predicts How Low XRP Could Fall Before Year-End - Yahoo Finance
+14/11 23:45:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
