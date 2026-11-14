@@ -7634,3 +7634,11 @@
 14/11 03:45:38 INFO       (+0.7 r0.9 claude) Solana Scores Major Wall Street Win as DTCC Plans to Tokenize US Securities on SOL Network - Coinpaper
 14/11 03:45:38 INFO    -> ATTENDI: trend giornaliero non rialzista
 14/11 03:45:38 INFO    Agente fermato.
+14/11 04:01:04 INFO    Agente 'veloce' avviato in modalita' PAPER su SOL-EUR
+14/11 04:01:05 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=40, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+14/11 04:01:06 INFO    Prezzo 68.1700 | medie 68.8778/69.8357 trend GIU | notizie -0.04 su 41 (1 nuove, 1 da Claude) | 1.7s
+14/11 04:01:06 INFO       (-0.6 r0.9 claude) Solana (SOL) drops 2.56% in one hour, hitting $75.48 amid $15.39M long liquidations - Pluang
+14/11 04:01:06 INFO       (+0.2 r0.9 claude) PRIVATE AI: 🤖🔒 The Solana Foundation just launched open-so - KuCoin
+14/11 04:01:06 INFO       (+0.4 r0.9 claude) Solana launches private AI tools with on-chain hardware checks - Crypto News
+14/11 04:01:06 INFO    -> ATTENDI: trend giornaliero non rialzista
+14/11 04:01:06 INFO    Agente fermato.
