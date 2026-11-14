@@ -106,3 +106,9 @@
 14/11 22:01:13 INFO       (-0.6 r1.0 claude) Bitcoin Drops Below $65,000, Extending Weeklong Slide - Yahoo Finance
 14/11 22:01:13 INFO       (-0.7 r0.9 claude) Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K - Cryptonews.net
 14/11 22:01:13 INFO    -> ATTENDI: trend 15 minuti non rialzista
+14/11 22:15:46 INFO    === btc_veloce (BTC-EUR) ===
+14/11 22:15:46 INFO    Prezzo 57857.61 | medie 58857.79/59310.73 trend GIU | notizie -0.34 su 91 (7 nuove, 7 da Claude) | 0.2s
+14/11 22:15:46 INFO       (-0.8 r1.0 claude) Bitcoin falls over 6% as U.S. spot ETF outflows and bearish technicals pressure market - Traders Union
+14/11 22:15:46 INFO       (-0.8 r1.0 claude) Bitcoin falls around 5.3% to $64,734 - TradingView
+14/11 22:15:46 INFO       (-0.6 r1.0 claude) Bitcoin Drops Below $65,000, Extending Weeklong Slide - Yahoo Finance
+14/11 22:15:46 INFO    -> ATTENDI: trend 15 minuti non rialzista
