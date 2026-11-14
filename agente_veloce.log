@@ -8217,3 +8217,9 @@
 14/11 23:01:07 INFO       (-0.7 r0.6 claude) Bitcoin drops below $64,000 and Solana falls un... - Pluang
 14/11 23:01:07 INFO       (-0.5 r1.0 claude) Solana sees $11.55M long liquidations as price drops nearly 2% to $70.74 in one hour - Pluang
 14/11 23:01:07 INFO    -> ATTENDI: trend 15 minuti non rialzista
+14/11 23:15:40 INFO    === veloce (SOL-EUR) ===
+14/11 23:15:40 INFO    Prezzo 62.9900 | medie 63.3256/64.5452 trend GIU | notizie -0.33 su 12 (1 nuove, 1 da Claude) | 0.3s
+14/11 23:15:40 INFO       (-0.7 r0.9 claude) Solana Price Prediction: SOL Crashes 10% Toward $70 - Coinpaper
+14/11 23:15:40 INFO       (-0.4 r0.9 claude) Solana Slips Under $70 as Fear Index Hits 13, Futures Data Hint Traders Haven't Bailed Out - finance.biggo.com
+14/11 23:15:40 INFO       (-0.5 r1.0 claude) Solana sees $11.55M long liquidations as price drops nearly 2% to $70.74 in one hour - Pluang
+14/11 23:15:40 INFO    -> ATTENDI: trend 15 minuti non rialzista
