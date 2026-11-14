@@ -2167,3 +2167,11 @@
 14/11 12:01:03 INFO       (+0.5 r0.9 claude) Solana Price Forecast — SOL ($80.14) $90 Upside Target on ETF Inflow Turn and Oversold RSI - Trading News
 14/11 12:01:03 INFO    -> ATTENDI: trend giornaliero non rialzista
 14/11 12:01:03 INFO    Agente fermato.
+14/11 13:01:04 INFO    Agente 'lenta' avviato in modalita' PAPER su SOL-EUR
+14/11 13:01:05 INFO    Fonti: www.coindesk.com=25, cointelegraph.com=30, decrypt.co=40, bitcoinmagazine.com=10, cryptoslate.com=10, news.google.com=100
+14/11 13:01:07 INFO    Prezzo 68.5800 | medie 77.5020/85.8233 trend GIU | notizie -0.12 su 88 (2 nuove, 2 da Claude) | 2.5s
+14/11 13:01:07 INFO       (-0.7 r1.0 claude) Solana falls over 6% as ETF outflows and technical weakness weigh on sentiment - Traders Union
+14/11 13:01:07 INFO       (-0.7 r0.9 claude) Solana Slides Below $75 for First Time in Three Months as Fed Rate Fears Batter Crypto - BigGo Finance
+14/11 13:01:07 INFO       (-0.6 r0.9 claude) SOL slips as seller pressure and negative momentum weigh on price - Traders Union
+14/11 13:01:07 INFO    -> ATTENDI: trend giornaliero non rialzista
+14/11 13:01:07 INFO    Agente fermato.
