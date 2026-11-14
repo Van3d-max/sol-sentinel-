@@ -144,18 +144,19 @@ def main():
     ap.add_argument("--solo-verifica", action="store_true")
     a = ap.parse_args()
 
-    df = candele(a.coppia, min(a.contesto, 350))
+    df = candele(a.coppia, 350)                       # sempre 350 ore: servono per verificare le vecchie previsioni
+    storia = df.tail(min(a.contesto, 350)).reset_index(drop=True)   # al modello solo le ultime 'contesto' ore
     righe = leggi()
     n = verifica_scadute(righe, df)
     print(f"previsioni verificate ora: {n}")
 
     if not a.solo_verifica:
-        if len(df) < 100:
-            raise SystemExit("candele insufficienti")
+        if len(storia) < 0.9 * min(a.contesto, 350):
+            raise SystemExit("candele insufficienti: %d" % len(storia))
         pred = carica_modello(a.modello)
         t0 = time.time()
-        percorsi = prevedi(pred, df, a.orizzonte, a.scenari)
-        ultimo = float(df["close"].iloc[-1])
+        percorsi = prevedi(pred, storia, a.orizzonte, a.scenari)
+        ultimo = float(storia["close"].iloc[-1])
         s = statistiche(percorsi, ultimo, df["close"].values, a.orizzonte)
         roma = ZoneInfo("Europe/Rome")
         base = datetime.fromtimestamp(int(df["start"].iloc[-1]) + ORA, timezone.utc)
