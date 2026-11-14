@@ -1,0 +1,25 @@
+{
+  "nota": "Monete seguite dagli agenti. Per aggiungerne o toglierne una basta mettere \"attiva\": true/false. I config degli agenti si creano da soli al primo giro, partendo dai modelli di SOL.",
+  "storico_dal": "2026-11-02",
+  "monete": [
+    {"codice": "sol", "coppia": "SOL-EUR", "nome": "Solana (SOL)", "parole_chiave": ["solana", "\\bSOL\\b"],
+     "google": "solana", "attiva": true},
+    {"codice": "eth", "coppia": "ETH-EUR", "nome": "Ethereum (ETH)", "parole_chiave": ["ethereum", "\\bETH\\b", "\\bether\\b"],
+     "google": "ethereum", "attiva": true},
+    {"codice": "btc", "coppia": "BTC-EUR", "nome": "Bitcoin (BTC)", "parole_chiave": ["bitcoin", "\\bBTC\\b"],
+     "google": "bitcoin", "attiva": true},
+    {"codice": "xrp", "coppia": "XRP-EUR", "nome": "XRP (Ripple)", "parole_chiave": ["\\bXRP\\b", "ripple"],
+     "google": "XRP ripple", "attiva": true},
+    {"codice": "shib", "coppia": "SHIB-EUR", "nome": "Shiba Inu (SHIB)", "parole_chiave": ["shiba inu", "\\bSHIB\\b"],
+     "google": "shiba inu", "attiva": true},
+    {"codice": "ada", "coppia": "ADA-EUR", "nome": "Cardano (ADA)", "parole_chiave": ["cardano", "\\bADA\\b"],
+     "google": "cardano crypto", "attiva": false},
+    {"codice": "doge", "coppia": "DOGE-EUR", "nome": "Dogecoin (DOGE)", "parole_chiave": ["dogecoin", "\\bDOGE\\b"],
+     "google": "dogecoin", "attiva": false},
+    {"codice": "link", "coppia": "LINK-EUR", "nome": "Chainlink (LINK)", "parole_chiave": ["chainlink", "\\bLINK\\b"],
+     "google": "chainlink crypto", "attiva": false},
+    {"codice": "avax", "coppia": "AVAX-EUR", "nome": "Avalanche (AVAX)", "parole_chiave": ["avalanche", "\\bAVAX\\b"],
+     "google": "avalanche avax", "attiva": false}
+  ],
+  "agenti": ["veloce", "intermedio", "lento"]
+}

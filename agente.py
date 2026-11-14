@@ -126,6 +126,11 @@ class Stato:
         os.replace(self.file + ".tmp", self.file)
 
 
+def fp(x):
+    """Prezzi leggibili per ogni moneta: 68.35 per SOL, 0.0000098 per SHIB."""
+    return "%.6g" % x if abs(x) < 1 else ("%.4f" % x if abs(x) < 1000 else "%.2f" % x)
+
+
 def scrivi_csv(file, campi, riga):
     nuovo = not os.path.exists(file)
     if not nuovo:                                     # registro vecchio con meno colonne: lo aggiorno
@@ -179,13 +184,19 @@ class Agente:
             self.s.salva()
 
     # ---------------------------------------------------- un controllo completo
-    def controllo(self):
+    def controllo(self, notizie=None):
+        """notizie: (voci gia' valutate, nuove, da_claude) quando le legge il giro comune per tutti gli agenti."""
         cfg, r = self.cfg, self.cfg["regole"]
         self.nuovo_giorno()
         t0 = time.time()
-        voci, fonti = nz.raccogli(cfg, log.info)
-        log.info("Fonti: %s", ", ".join("%s=%s" % (k, v) for k, v in fonti.items()))
-        voci, nuove, da_claude = nz.valuta(voci, cfg, self.cache, log.info)
+        if notizie is None:
+            voci, fonti = nz.raccogli(cfg, log.info)
+            log.info("Fonti: %s", ", ".join("%s=%s" % (k, v) for k, v in fonti.items()))
+            voci, nuove, da_claude = nz.valuta(voci, cfg, self.cache, log.info)
+        else:
+            tutte, nuove, da_claude = notizie
+            limite = time.time() - cfg["notizie"]["finestra_ore"] * 3600
+            voci = [v for v in tutte if v["ts"] >= limite]
         agg = nz.aggrega(voci, cfg)
         tr = cfg["trend"]
         cand = self.m.candele(tr.get("candela", "ONE_DAY"), tr.get("secondi", 86400), 120)
@@ -196,8 +207,15 @@ class Agente:
         if None in (mv, ml, a):
             raise RuntimeError("candele insufficienti per le medie")
         trend = mv > ml
-        log.info("Prezzo %.4f | medie %.4f/%.4f trend %s | notizie %+.2f su %d (%d nuove, %d da Claude) "
-                 "| %.1fs", prezzo, mv, ml, "SU" if trend else "GIU", agg["punteggio"], agg["n"],
+        sup = None
+        if cfg.get("trend_superiore"):                # es. agente intermedio: entra solo col trend giornaliero a favore
+            ts = cfg["trend_superiore"]
+            cs = [c["close"] for c in self.m.candele(ts.get("candela", "ONE_DAY"), ts.get("secondi", 86400), 120)]
+            mvs, mls = sma(cs, ts["media_veloce"])[-1], sma(cs, ts["media_lenta"])[-1]
+            sup = bool(mvs and mls and mvs > mls)
+            log.info("Trend superiore (%s): %s", ts.get("candela", "ONE_DAY"), "SU" if sup else "GIU")
+        log.info("Prezzo %s | medie %s/%s trend %s | notizie %+.2f su %d (%d nuove, %d da Claude) "
+                 "| %.1fs", fp(prezzo), fp(mv), fp(ml), "SU" if trend else "GIU", agg["punteggio"], agg["n"],
                  nuove, da_claude, time.time() - t0)
         for v in agg["principali"]:
             log.info("   (%+.1f r%.1f %s) %s", v["s"], v["r"], v["m"], v["titolo"][:110])
@@ -208,23 +226,27 @@ class Agente:
         if pos:
             azione, motivo = self.gestisci(pos, prezzo, trend, agg)
         else:
-            ok, motivo = self.puo_entrare(trend, agg, ctx)
+            ok, motivo = self.puo_entrare(trend, agg, ctx, sup)
             if ok:
                 azione, motivo = self.prova_ingresso(prezzo, mv, ml, a, agg, ctx)
         principale = agg["principali"][0]["titolo"][:150] if agg["principali"] else ""
         scrivi_csv(cfg["file_decisioni"], CAMPI_DEC, {
-            "data": self.ora(), "prezzo": "%.4f" % prezzo, "media_veloce": "%.4f" % mv,
-            "media_lenta": "%.4f" % ml, "trend": "su" if trend else "giu",
+            "data": self.ora(), "prezzo": fp(prezzo), "media_veloce": fp(mv),
+            "media_lenta": fp(ml), "trend": "su" if trend else "giu",
             "punteggio_notizie": "%+.3f" % agg["punteggio"], "n_notizie": agg["n"], "nuove": nuove,
             "valutate_claude": da_claude, "shock": len(agg["shock"]),
             "posizione": "si" if self.s.d["pos"] else "no", "azione": azione, "motivo": motivo,
             "notizia_principale": principale, "atr_pct": ctx["atr_pct"]})
         log.info("-> %s%s", azione.upper(), (": " + motivo) if motivo else "")
 
-    def puo_entrare(self, trend, agg, ctx=None):
+    def puo_entrare(self, trend, agg, ctx=None, sup=None):
         r = self.cfg["regole"]
+        candela = {"FIFTEEN_MINUTE": "15 minuti", "ONE_HOUR": "orario", "ONE_DAY": "giornaliero"}.get(
+            self.cfg["trend"].get("candela", "ONE_DAY"), self.cfg["trend"].get("candela", ""))
         if not trend:
-            return False, "trend giornaliero non rialzista"
+            return False, "trend %s non rialzista" % candela
+        if sup is False:
+            return False, "trend giornaliero non rialzista (filtro superiore)"
         if agg["shock"]:
             return False, "notizia shock: " + agg["shock"][0]["titolo"][:80]
         if agg["punteggio"] < r["soglia_ingresso"]:
@@ -316,7 +338,7 @@ class Agente:
             return self.esci("notizia shock: " + agg["shock"][0]["titolo"][:80])
         if agg["punteggio"] <= self.cfg["regole"]["soglia_uscita"]:
             return self.esci("notizie molto negative (%+.2f)" % agg["punteggio"])
-        return "tieni", "trend su, notizie %+.2f, stop %.4f" % (agg["punteggio"], pos["sl"])
+        return "tieni", "trend su, notizie %+.2f, stop %s" % (agg["punteggio"], fp(pos["sl"]))
 
     def esci(self, motivo):
         pos, coppia = self.s.d["pos"], self.cfg["coppia"]
@@ -361,8 +383,8 @@ class Agente:
         self.s.salva()
         riga = {
             "data_apertura": pos["apertura"], "data_chiusura": self.ora(), "modalita": self.b.modalita,
-            "coppia": self.cfg["coppia"], "quantita": "%.8f" % q, "prezzo_entrata": "%.4f" % pos["entrata"],
-            "prezzo_uscita": "%.4f" % (lordo / q if q else 0), "acquisto_eur": "%.4f" % pos["costo"],
+            "coppia": self.cfg["coppia"], "quantita": "%.8f" % q, "prezzo_entrata": fp(pos["entrata"]),
+            "prezzo_uscita": fp(lordo / q if q else 0), "acquisto_eur": "%.4f" % pos["costo"],
             "vendita_eur": "%.4f" % (lordo - comm), "commissioni_eur": "%.4f" % (pos["comm"] + comm),
             "risultato_netto_eur": "%.4f" % netto, "motivo_uscita": motivo,
             "notizie_ingresso": "%+.3f" % pos["notizie"], "dibattito": pos["dibattito"],

@@ -36,6 +36,9 @@ td.lunga { white-space:normal; min-width:240px; color:#b9c0b0; }
 .agente.kronos { border-left-color:#3DF5FF; } .agente.kronos .tag { border-color:#3DF5FF; color:#3DF5FF; }
 .barra { height:8px; border-radius:8px; background:#2a1414; overflow:hidden; margin-top:6px; } .barra i { display:block; height:100%; background:var(--acid); }
 footer { color:var(--grigio); font-size:12px; margin:26px 0 10px; }
+nav { display:flex; gap:8px; flex-wrap:wrap; margin:0 0 16px; }
+nav button { padding:6px 14px; font-size:13px; } nav button.attiva { background:var(--acid); color:var(--nero); }
+.riep td:first-child { font-weight:600; } .storico { color:var(--grigio); font-size:11px; }
 </style>
 </head>
 <body>
@@ -43,9 +46,11 @@ footer { color:var(--grigio); font-size:12px; margin:26px 0 10px; }
   <div><h1>SOL <span>SENTINEL</span></h1><div class="sub" id="aggiornato">Carico i dati…</div></div>
   <button onclick="carica()">Aggiorna</button>
 </header>
+<nav id="schede"></nav>
 <div id="avvisi"></div>
+<section id="sez-riep"><h3>Riepilogo di tutti gli agenti</h3><div class="tabella"><table id="t-riep" class="riep"></table></div></section>
 <div class="griglia" id="agenti"></div>
-<section><h3>Previsioni Kronos <span class="sub">· solo test, non influenzano gli agenti</span></h3><div class="tabella"><table id="t-kr"></table></div></section>
+<section id="sez-kr"><h3>Previsioni Kronos <span class="sub">· solo test, non influenzano gli agenti</span></h3><div class="tabella"><table id="t-kr"></table></div></section>
 <section><h3>Operazioni chiuse</h3><div class="tabella"><table id="t-op"></table></div></section>
 <section><h3>Ultime decisioni</h3><div class="tabella"><table id="t-dec"></table></div></section>
 <footer>Solo lettura: la pagina legge i file del repository pubblico e non tocca il bot. Modalità simulazione, nessun soldo reale.</footer>
@@ -53,10 +58,19 @@ footer { color:var(--grigio); font-size:12px; margin:26px 0 10px; }
 <script>
 const REPO = "Van3d-max/sol-sentinel-", RAMO = "main";
 const BASE = new URLSearchParams(location.search).get("base") || `https://raw.githubusercontent.com/${REPO}/${RAMO}/`;
-const AGENTI = [
-  { id: "veloce", nome: "Agente veloce", tag: "15 MIN", dec: "decisioni_veloce.csv", op: "operazioni_veloce.csv", ogni: 15 },
-  { id: "lenta",  nome: "Agente lento",  tag: "GIORNALIERO", dec: "decisioni_agente.csv", op: "operazioni_agente.csv", ogni: 60 },
+// elenco degli agenti: lo scrive il giro in agenti.json (tutte le monete); se manca, i due agenti SOL di sempre
+let AGENTI = [
+  { id: "veloce", moneta: "sol", nome: "Veloce SOL", tag: "15 MIN", dec: "decisioni_veloce.csv", op: "operazioni_veloce.csv", ogni: 15 },
+  { id: "lenta",  moneta: "sol", nome: "Lento SOL",  tag: "GIORNALIERO", dec: "decisioni_agente.csv", op: "operazioni_agente.csv", ogni: 60 },
 ];
+let scelta = (location.hash || "#tutte").slice(1), CACHE = null;
+async function elenco() {
+  try {
+    const r = await fetch(BASE + "agenti.json?t=" + Date.now(), { cache: "no-store" });
+    if (r.ok) { const j = await r.json(); if (Array.isArray(j) && j.length) AGENTI = j; }
+  } catch {}
+}
+const fp = x => isNaN(x) ? "—" : Math.abs(x) < 1 ? x.toPrecision(4) : Math.abs(x) < 1000 ? x.toFixed(2) : x.toFixed(0);
 
 async function csv(nome) {
   try {
@@ -84,7 +98,7 @@ const cls = v => v >= 0 ? "pos" : "neg";
 const quando = s => new Date(s).toLocaleString("it-IT", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" });
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
-function grafico(dec, ops) {
+function grafico(dec, ops, moneta) {
   const pts = dec.map(d => [new Date(d.data).getTime(), num(d.prezzo)]).filter(p => !isNaN(p[1]));
   if (pts.length < 2) return '<div class="sub">Servono almeno 2 controlli per il grafico.</div>';
   const xs = pts.map(p => p[0]), ys = pts.map(p => p[1]);
@@ -96,12 +110,28 @@ function grafico(dec, ops) {
     if (a >= x0) s += `<circle cx="${X(a)}" cy="${Y(num(o.prezzo_entrata))}" r="3" fill="#3DF5FF"/>`;
     if (b >= x0 && b <= x1 + 1) s += `<circle cx="${X(b)}" cy="${Y(num(o.prezzo_uscita))}" r="3" fill="${num(o.risultato_netto_eur) >= 0 ? "#AAFF00" : "#FF5C5C"}"/>`;
   }
-  return s + `</svg><div class="sub">Prezzo SOL ai controlli · <span style="color:#3DF5FF">●</span> acquisto · <span style="color:#FF5C5C">●</span>/<span style="color:#AAFF00">●</span> vendita</div>`;
+  return s + `</svg><div class="sub">Prezzo ${(moneta || "sol").toUpperCase()} ai controlli · <span style="color:#3DF5FF">●</span> acquisto · <span style="color:#FF5C5C">●</span>/<span style="color:#AAFF00">●</span> vendita</div>`;
 }
 
 async function carica() {
   document.getElementById("aggiornato").textContent = "Carico i dati…";
+  await elenco();
   const dati = await Promise.all(AGENTI.map(async a => ({ ...a, d: await csv(a.dec), o: await csv(a.op) })));
+  CACHE = { dati, kr: await csv("kronos_previsioni.csv") };
+  mostra();
+  document.getElementById("aggiornato").textContent = "Aggiornato alle " + new Date().toLocaleTimeString("it-IT", { hour: "2-digit", minute: "2-digit" }) + " · si aggiorna da solo ogni 5 minuti";
+}
+function scegli(m) { scelta = m; location.hash = m; mostra(); }
+function mostra() {
+  if (!CACHE) return;
+  const monete = [...new Set(CACHE.dati.map(a => a.moneta || "sol"))];
+  document.getElementById("schede").innerHTML = ["tutte", ...monete].map(m =>
+    `<button class="${m === scelta ? "attiva" : ""}" onclick="scegli('${m}')">${m === "tutte" ? "Tutte" : m.toUpperCase()}</button>`).join("");
+  riepilogo(CACHE.dati);
+  const tutte = scelta === "tutte";
+  document.getElementById("sez-riep").style.display = tutte ? "" : "none";
+  document.getElementById("sez-kr").style.display = (tutte || scelta === "sol") ? "" : "none";
+  const dati = tutte ? CACHE.dati : CACHE.dati.filter(a => (a.moneta || "sol") === scelta);
   const avvisi = [], schede = [], tutteOp = [], tutteDec = [];
   for (const a of dati) {
     const pnl = a.o.reduce((s, o) => s + num(o.risultato_netto_eur), 0);
@@ -130,23 +160,38 @@ async function carica() {
         <p><span>Ultima azione</span><span>${ult ? esc(ult.azione) : "—"}</span></p>
         <p><span>Commissioni pagate</span><span>${comm.toFixed(2)} €</span></p>
         <p><span>Titoli letti da Claude</span><span>${claude ? claude : '<span class="neg">0 · chiave non attiva</span>'}</span></p>
-      </div>${grafico(a.d, a.o)}</div>`);
+      </div>${grafico(a.d, a.o, a.moneta)}${a.o.some(o => o.modalita === "storico") ? '<div class="storico">Le operazioni prima della partenza sono ricostruite dallo storico prezzi (notizie neutre).</div>' : ""}</div>`);
     a.o.forEach(o => tutteOp.push({ ...o, agente: a.nome }));
     a.d.forEach(d => tutteDec.push({ ...d, agente: a.nome }));
   }
-  const kr = await csv("kronos_previsioni.csv");
-  schede.push(schedaKronos(kr));
-  tabellaKronos(kr);
-  document.getElementById("agenti").innerHTML = schede.join("");
+  const kr = CACHE.kr;
+  if (tutte || scelta === "sol") { schede.push(schedaKronos(kr)); tabellaKronos(kr); }
+  document.getElementById("agenti").innerHTML = tutte ? "" : schede.join("");
   document.getElementById("avvisi").innerHTML = avvisi.map(t => `<div class="avviso">⚠ ${esc(t)}</div>`).join("");
   tutteOp.sort((x, y) => new Date(y.data_chiusura) - new Date(x.data_chiusura));
   document.getElementById("t-op").innerHTML = "<tr><th>Agente</th><th>Aperta</th><th>Chiusa</th><th>Entrata</th><th>Uscita</th><th>Commissioni</th><th>Risultato</th><th>Motivo</th></tr>" +
-    (tutteOp.length ? tutteOp.map(o => `<tr><td>${esc(o.agente)}</td><td>${quando(o.data_apertura)}</td><td>${quando(o.data_chiusura)}</td><td>${num(o.prezzo_entrata).toFixed(2)}</td><td>${num(o.prezzo_uscita).toFixed(2)}</td><td>${num(o.commissioni_eur).toFixed(2)} €</td><td class="${cls(num(o.risultato_netto_eur))}"><b>${eur(num(o.risultato_netto_eur))}</b></td><td>${esc(o.motivo_uscita)}</td></tr>`).join("")
+    (tutteOp.length ? tutteOp.map(o => `<tr><td>${esc(o.agente)}</td><td>${quando(o.data_apertura)}</td><td>${quando(o.data_chiusura)}</td><td>${fp(num(o.prezzo_entrata))}</td><td>${fp(num(o.prezzo_uscita))}</td><td>${num(o.commissioni_eur).toFixed(2)} €</td><td class="${cls(num(o.risultato_netto_eur))}"><b>${eur(num(o.risultato_netto_eur))}</b></td><td>${esc(o.motivo_uscita)}${o.modalita === "storico" ? ' <span class="storico">(storico)</span>' : ""}</td></tr>`).join("")
       : `<tr><td colspan="8">Ancora nessuna operazione chiusa.</td></tr>`);
   tutteDec.sort((x, y) => new Date(y.data) - new Date(x.data));
   document.getElementById("t-dec").innerHTML = "<tr><th>Quando</th><th>Agente</th><th>Prezzo</th><th>Trend</th><th>Notizie</th><th>Azione</th><th>Perché</th><th>Notizia principale</th></tr>" +
-    tutteDec.slice(0, 30).map(d => `<tr><td>${quando(d.data)}</td><td>${esc(d.agente)}</td><td>${num(d.prezzo).toFixed(2)}</td><td>${d.trend === "su" ? "▲" : "▼"}</td><td>${esc(d.punteggio_notizie)}${d.shock === "1" ? " ⚡" : ""}</td><td><b>${esc(d.azione)}</b></td><td class="lunga">${esc(d.motivo)}</td><td class="lunga">${esc(d.notizia_principale)}</td></tr>`).join("");
-  document.getElementById("aggiornato").textContent = "Aggiornato alle " + new Date().toLocaleTimeString("it-IT", { hour: "2-digit", minute: "2-digit" }) + " · si aggiorna da solo ogni 5 minuti";
+    tutteDec.slice(0, 30).map(d => `<tr><td>${quando(d.data)}</td><td>${esc(d.agente)}</td><td>${fp(num(d.prezzo))}</td><td>${d.trend === "su" ? "▲" : "▼"}</td><td>${esc(d.punteggio_notizie)}${d.shock === "1" ? " ⚡" : ""}</td><td><b>${esc(d.azione)}</b></td><td class="lunga">${esc(d.motivo)}</td><td class="lunga">${esc(d.notizia_principale)}</td></tr>`).join("");
+}
+function riepilogo(dati) {
+  const righe = [], perMoneta = {};
+  let tot = 0, totOp = 0;
+  for (const a of dati) {
+    const pnl = a.o.reduce((s, o) => s + num(o.risultato_netto_eur), 0);
+    const vinte = a.o.filter(o => num(o.risultato_netto_eur) > 0).length;
+    const ult = a.d[a.d.length - 1];
+    const m = a.moneta || "sol";
+    perMoneta[m] = (perMoneta[m] || 0) + pnl; tot += pnl; totOp += a.o.length;
+    righe.push(`<tr><td>${esc(a.nome)}</td><td>${esc(a.tag)}</td><td>${a.o.length}</td><td>${a.o.length ? Math.round(vinte / a.o.length * 100) + "%" : "—"}</td>
+      <td class="${cls(pnl)}"><b>${a.o.length ? eur(pnl) : "—"}</b></td><td>${ult && ult.posizione === "si" ? '<b class="pos">aperta</b>' : "—"}</td>
+      <td>${ult ? fp(num(ult.prezzo)) : "—"}</td><td>${ult ? quando(ult.data) : "—"}</td></tr>`);
+  }
+  const monete = Object.entries(perMoneta).map(([m, v]) => `${m.toUpperCase()} <b class="${cls(v)}">${eur(v)}</b>`).join(" · ");
+  document.getElementById("t-riep").innerHTML = "<tr><th>Agente</th><th>Tempo</th><th>Operazioni</th><th>Vinte</th><th>Risultato</th><th>Posizione</th><th>Prezzo</th><th>Ultimo controllo</th></tr>" +
+    righe.join("") + `<tr><td colspan="8">Totale <b class="${cls(tot)}">${eur(tot)}</b> in ${totOp} operazioni · ${monete}</td></tr>`;
 }
 function schedaKronos(kr) {
   const ult = kr[kr.length - 1];
@@ -180,6 +225,7 @@ function tabellaKronos(kr) {
     (r.length ? r.map(x => `<tr><td>${quando(x.data)}</td><td>${num(x.prezzo).toFixed(2)}</td><td>${Math.round(num(x.prob_rialzo) * 100)}%</td><td>${num(x.previsto_medio).toFixed(2)} (${esc(x.variazione_pct)}%)</td><td>${num(x.p10).toFixed(2)} – ${num(x.p90).toFixed(2)}</td><td>${x.prezzo_reale ? `${num(x.prezzo_reale).toFixed(2)} (${esc(x.variazione_reale_pct)}%)` : "—"}</td><td>${es(x.esito)}</td></tr>`).join("")
       : `<tr><td colspan="7">Ancora nessuna previsione: la prima arriva al prossimo giro (ogni 4 ore).</td></tr>`);
 }
+window.addEventListener("hashchange", () => { scelta = (location.hash || "#tutte").slice(1); mostra(); });
 carica(); setInterval(carica, 5 * 60 * 1000);
 </script>
 </body>
