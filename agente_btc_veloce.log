@@ -88,3 +88,9 @@
 14/11 21:15:48 INFO       (-0.7 r0.9 claude) Why Is Bitcoin Crashing This Week? - 24/7 Wall St.
 14/11 21:15:48 INFO       (-0.4 r1.0 claude) Bitcoin Briefly Falls Below $65,000 - bloomingbit
 14/11 21:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
+14/11 21:31:03 INFO    === btc_veloce (BTC-EUR) ===
+14/11 21:31:04 INFO    Prezzo 58589.58 | medie 59235.77/59422.15 trend GIU | notizie -0.31 su 88 (4 nuove, 4 da Claude) | 0.3s
+14/11 21:31:04 INFO       (-0.7 r0.9 claude) Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K - Cryptonews.net
+14/11 21:31:04 INFO       (-0.7 r0.9 claude) Why Is Bitcoin Crashing This Week? - 24/7 Wall St.
+14/11 21:31:04 INFO       (-0.4 r1.0 claude) Bitcoin Briefly Falls Below $65,000 - bloomingbit
+14/11 21:31:04 INFO    -> ATTENDI: trend 15 minuti non rialzista
