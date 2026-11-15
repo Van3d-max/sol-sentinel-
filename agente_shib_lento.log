@@ -139,3 +139,9 @@
 15/11 16:46:33 INFO    === shib_lento (SHIB-EUR) ===
 15/11 16:46:33 INFO    Prezzo 3.55e-06 | medie 3.922e-06/4.20667e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.1s
 15/11 16:46:33 INFO    -> ATTENDI: trend giornaliero non rialzista
+15/11 17:45:48 INFO    === shib_lento (SHIB-EUR) ===
+15/11 17:45:49 INFO    Prezzo 3.54e-06 | medie 3.922e-06/4.20667e-06 trend GIU | notizie -0.32 su 31 (0 nuove, 0 da Claude) | 0.1s
+15/11 17:45:49 INFO       (-1.0 r1.0 claude) All of Shiba Inu's (SHIB) Value on the Verge of Dropping Below $300 Million - U.Today
+15/11 17:45:49 INFO       (-0.6 r1.0 claude) Shiba Inu hits death cross after 14 months, pri... - Pluang
+15/11 17:45:49 INFO       (-0.4 r1.0 claude) Shiba Inu price hits a death cross, trading nea... - Pluang
+15/11 17:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista

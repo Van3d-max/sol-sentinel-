@@ -140,3 +140,9 @@
 15/11 16:46:24 INFO    Prezzo 0.8655 | medie 0.97337/1.0948 trend GIU | notizie -0.37 su 1 (0 nuove, 0 da Claude) | 0.1s
 15/11 16:46:24 INFO       (-1.0 r1.0 claude) XRP crashes to its lowest since November 2024 as money leaves crypto
 15/11 16:46:24 INFO    -> ATTENDI: trend giornaliero non rialzista
+15/11 17:45:47 INFO    === xrp_lento (XRP-EUR) ===
+15/11 17:45:47 INFO    Prezzo 0.863 | medie 0.97337/1.0948 trend GIU | notizie -0.26 su 46 (0 nuove, 0 da Claude) | 0.1s
+15/11 17:45:47 INFO       (-0.7 r0.9 claude) XRP price hits two-year low below $1: Is $0.85 next? - Crypto News
+15/11 17:45:47 INFO       (-0.6 r0.9 claude) XRP Plunges Over 40% This Year as Price Nears $1 Mark: Is It Worth Buying Now? - TradingKey
+15/11 17:45:47 INFO       (-1.0 r1.0 claude) XRP crashes to its lowest since November 2024 as money leaves crypto
+15/11 17:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista
