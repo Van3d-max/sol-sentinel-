@@ -8708,3 +8708,9 @@
 15/11 19:30:57 INFO       (-0.6 r0.9 claude) SOL Hits Lowest Since June Ahead of London Breakpoint - The Defiant
 15/11 19:30:57 INFO       (+0.3 r0.7 claude) Hyperliquid Whale Who Lost $10 Million Now Bets on Solana - BeInCrypto
 15/11 19:30:57 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 19:45:42 INFO    === veloce (SOL-EUR) ===
+15/11 19:45:43 INFO    Prezzo 65.2400 | medie 64.8300/64.8286 trend SU | notizie -0.20 su 43 (1 nuove, 1 da Claude) | 0.3s
+15/11 19:45:43 INFO       (-0.6 r0.9 claude) Solana moves lower as ETF outflows reduce institutional demand and weigh on token price - Traders Union
+15/11 19:45:43 INFO       (-0.8 r0.8 claude) Bitcoin Plunges Below $63,000, Ether Loses 19.5% and Solana Drops 20.7% - FinanceFeeds
+15/11 19:45:43 INFO       (-0.6 r0.9 claude) SOL Hits Lowest Since June Ahead of London Breakpoint - The Defiant
+15/11 19:45:43 INFO    -> ATTENDI: notizie sotto la soglia (-0.20)

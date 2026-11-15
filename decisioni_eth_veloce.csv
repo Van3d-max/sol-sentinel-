@@ -1330,3 +1330,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-15T20:01:11+01:00;1651.03;1648.05;1648.18;giu;-0.272;43;0;0;0;no;attendi;trend 15 minuti non rialzista;Ethereum slips as Fed official signals higher rates could limit liquidity - Traders Union;0.558
 2026-11-15T20:15:49+01:00;1657.22;1649.02;1647.83;su;-0.262;44;1;1;0;no;attendi;notizie sotto la soglia (-0.26);Ethereum slips as Fed official signals higher rates could limit liquidity - Traders Union;0.578
 2026-11-15T20:31:00+01:00;1659.55;1650.09;1647.91;su;-0.247;43;1;1;0;no;attendi;notizie sotto la soglia (-0.25);Ethereum slips as Fed official signals higher rates could limit liquidity - Traders Union;0.563
+2026-11-15T20:45:44+01:00;1658.96;1651.08;1648.43;su;-0.246;43;1;1;0;no;attendi;notizie sotto la soglia (-0.25);Ethereum slips as Fed official signals higher rates could limit liquidity - Traders Union;0.541
