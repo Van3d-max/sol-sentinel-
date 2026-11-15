@@ -490,3 +490,9 @@
 15/11 14:01:11 INFO       (-0.6 r1.0 claude) Bitcoin (BTC) Price Today: $65K Support Under Pressure as Glassnode Maps $60K–$62K Liquidation Cluster - Brave
 15/11 14:01:11 INFO       (-0.7 r0.9 claude) US Bitcoin ETFs Shed $1.91 Billion in Seven Sessions - The Defiant
 15/11 14:01:11 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 14:15:42 INFO    === btc_veloce (BTC-EUR) ===
+15/11 14:15:43 INFO    Prezzo 59428.72 | medie 59572.23/59595.20 trend GIU | notizie -0.41 su 88 (3 nuove, 3 da Claude) | 0.2s
+15/11 14:15:43 INFO       (-0.8 r1.0 claude) Bitcoin Hits Four-Month Low at $62K as Liquidations Pile Up - Bitbo
+15/11 14:15:43 INFO       (-0.6 r1.0 claude) Bitcoin (BTC) Price Today: $65K Support Under Pressure as Glassnode Maps $60K–$62K Liquidation Cluster - Brave
+15/11 14:15:43 INFO       (-0.6 r0.9 claude) Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days
+15/11 14:15:43 INFO    -> ATTENDI: trend 15 minuti non rialzista
