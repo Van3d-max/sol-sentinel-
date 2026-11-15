@@ -2299,3 +2299,9 @@
 15/11 07:01:10 INFO       (-0.7 r0.9 claude) Solana Price Prediction: SOL Crashes 10% Toward $70 - Coinpaper
 15/11 07:01:10 INFO       (-0.5 r1.0 claude) Solana Slips Under $70 as Fear Index Hits 13, Futures Data Hint Traders Haven't Bailed Out - BigGo Finance
 15/11 07:01:10 INFO    -> ATTENDI: trend giornaliero non rialzista
+15/11 08:01:10 INFO    === lenta (SOL-EUR) ===
+15/11 08:01:11 INFO    Prezzo 63.4800 | medie 75.3840/84.8210 trend GIU | notizie -0.28 su 51 (1 nuove, 1 da Claude) | 0.2s
+15/11 08:01:11 INFO       (-0.8 r0.9 claude) Solana price drops to $67.60, lowest since June, amid market sell-off and Fed rate hike fears - Pluang
+15/11 08:01:11 INFO       (-0.7 r0.9 claude) Solana price drops to $70 amid $58M ETF outflows and $69M futures liquidations, testing key support levels. - 
+15/11 08:01:11 INFO       (-0.7 r0.9 claude) Solana price drops over 6% amid crypto market s... - Pluang
+15/11 08:01:11 INFO    -> ATTENDI: trend giornaliero non rialzista
