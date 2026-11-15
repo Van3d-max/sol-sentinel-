@@ -346,3 +346,9 @@
 15/11 08:01:13 INFO       (-0.7 r1.0 claude) Bitcoin price falls to three-month low: Is $60K the next stop? - Crypto News
 15/11 08:01:13 INFO       (-0.6 r0.9 claude) Bitcoin Near $60K As Liquidation Risks Mount - Cointribune
 15/11 08:01:13 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 08:15:43 INFO    === btc_veloce (BTC-EUR) ===
+15/11 08:15:43 INFO    Prezzo 58130.26 | medie 58422.13/58755.77 trend GIU | notizie -0.49 su 83 (3 nuove, 3 da Claude) | 0.3s
+15/11 08:15:43 INFO       (-1.0 r1.0 claude) Bitcoin Hits Four-Month Low as ETF Outflows Persist - The Defiant
+15/11 08:15:43 INFO       (-0.6 r1.0 claude) Bitcoin Slips Under $62K as Anthropic's Mega-IPO Siphons Market Liquidity - BigGo Finance
+15/11 08:15:43 INFO       (-0.7 r1.0 claude) Bitcoin price falls to three-month low: Is $60K the next stop? - Crypto News
+15/11 08:15:43 INFO    -> ATTENDI: trend 15 minuti non rialzista
