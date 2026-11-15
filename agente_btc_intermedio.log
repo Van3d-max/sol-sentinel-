@@ -152,3 +152,10 @@
 15/11 14:45:45 INFO       (-0.7 r0.9 claude) Crypto ETFs Bleed Nearly $1.5 Billion in a Week as Bitcoin Slides Toward $64,000 - finance.biggo.com
 15/11 14:45:45 INFO       (-0.8 r1.0 claude) Bitcoin Slides Toward $62,000 as ETF Outflows and Liquidations Hit Crypto - Around Prague
 15/11 14:45:45 INFO    -> ATTENDI: trend orario non rialzista
+15/11 15:45:43 INFO    === btc_intermedio (BTC-EUR) ===
+15/11 15:45:43 INFO    Trend superiore (ONE_DAY): GIU
+15/11 15:45:43 INFO    Prezzo 58759.15 | medie 58798.66/60313.50 trend GIU | notizie -0.37 su 88 (3 nuove, 3 da Claude) | 0.3s
+15/11 15:45:43 INFO       (-0.6 r1.0 claude) Bitcoin Slides to Three-Month Low as Nvidia, Fed Minutes and Anthropic IPO Collide - BigGo Finance
+15/11 15:45:43 INFO       (-0.7 r0.9 claude) INSTITUTIONAL | Bitcoin ETFs Lose Over $2 Billion as Institutional Demand Weakens - BitKE
+15/11 15:45:43 INFO       (-0.8 r1.0 claude) Bitcoin Hits Four-Month Low at $62K as Liquidations Pile Up - Bitbo
+15/11 15:45:43 INFO    -> ATTENDI: trend orario non rialzista
