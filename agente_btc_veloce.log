@@ -220,3 +220,9 @@
 15/11 02:45:45 INFO       (-0.8 r1.0 claude) Bitcoin Falls Below $64,000 as ¥170 Billion ETF Outflows and ¥110 Billion in Long Liquidations Weigh on Prices
 15/11 02:45:45 INFO       (-0.7 r1.0 claude) Bitcoin drops 6% to $64,118 and revisits its June floor - 24/7 Wall St.
 15/11 02:45:45 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 03:01:16 INFO    === btc_veloce (BTC-EUR) ===
+15/11 03:01:16 INFO    Prezzo 59230.64 | medie 57736.24/57934.48 trend GIU | notizie -0.43 su 86 (2 nuove, 2 da Claude) | 0.2s
+15/11 03:01:16 INFO       (-0.8 r1.0 claude) Bitcoin Falls Below $64,000 as ¥170 Billion ETF Outflows and ¥110 Billion in Long Liquidations Weigh on Prices
+15/11 03:01:16 INFO       (-0.7 r1.0 claude) Bitcoin drops 6% to $64,118 and revisits its June floor - 24/7 Wall St.
+15/11 03:01:16 INFO       (-0.7 r0.9 claude) Bitcoin Falls Below $63,000 to Three-Month Low; 318,700 Traders Liquidated in 24 Hours, $1.9 Billion Wiped Out
+15/11 03:01:16 INFO    -> ATTENDI: trend 15 minuti non rialzista
