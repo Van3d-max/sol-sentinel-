@@ -226,3 +226,9 @@
 15/11 03:01:15 INFO       (-0.7 r1.0 claude) Ethereum falls 8.3% to $1,768, erasing months of recovery gains - 24/7 Wall St.
 15/11 03:01:15 INFO       (-0.7 r0.9 claude) Ethereum Falls 10.37% In Selloff By Investing.com - Investing.com Australia
 15/11 03:01:15 INFO    -> ATTENDI: notizia shock: Ethereum falls 8.3% to $1,768, erasing months of recovery gains - 24/7 Wall St.
+15/11 03:15:52 INFO    === eth_veloce (ETH-EUR) ===
+15/11 03:15:52 INFO    Prezzo 1657.46 | medie 1609.32/1601.12 trend SU | notizie -0.36 su 48 (1 nuove, 1 da Claude) | 0.3s
+15/11 03:15:52 INFO       (-1.0 r1.0 claude) Ethereum Falls 10% In Rout - Investing.com
+15/11 03:15:52 INFO       (-1.0 r1.0 claude) Ethereum Falls 10.37% In Selloff By Investing.com - Investing.com India
+15/11 03:15:52 INFO       (-0.7 r1.0 claude) Ethereum falls 8.3% to $1,768, erasing months of recovery gains - 24/7 Wall St.
+15/11 03:15:52 INFO    -> ATTENDI: notizia shock: Ethereum falls 8.3% to $1,768, erasing months of recovery gains - 24/7 Wall St.
