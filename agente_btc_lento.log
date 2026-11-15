@@ -136,3 +136,9 @@
 15/11 15:45:43 INFO       (-0.8 r1.0 claude) Bitcoin Slides Toward $62,000 as ETF Outflows and Liquidations Hit Crypto - Around Prague
 15/11 15:45:43 INFO       (-1.0 r1.0 claude) Bitcoin falls to four-month low near $62K as crypto selloff deepens
 15/11 15:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista
+15/11 16:46:14 INFO    === btc_lento (BTC-EUR) ===
+15/11 16:46:14 INFO    Prezzo 58785.84 | medie 65542.97/69610.11 trend GIU | notizie -0.36 su 23 (0 nuove, 0 da Claude) | 0.1s
+15/11 16:46:14 INFO       (-1.0 r1.0 claude) Bitcoin falls to four-month low near $62K as crypto selloff deepens
+15/11 16:46:14 INFO       (-0.6 r0.9 claude) Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days
+15/11 16:46:14 INFO       (-0.2 r1.0 claude) Bitcoin now looks cheap by one measure after $1 billion in ETF outflows
+15/11 16:46:14 INFO    -> ATTENDI: trend giornaliero non rialzista

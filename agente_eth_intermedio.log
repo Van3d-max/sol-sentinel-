@@ -159,3 +159,9 @@
 15/11 15:45:41 INFO       (-0.6 r0.9 claude) Is Ethereum the "worst asset of all time," amid estimated $8.83 billion BitMine loss ? - CryptoSlate
 15/11 15:45:41 INFO       (-0.7 r0.8 claude) Ethereum Tumbles As Rising Fed Rate Hike Odds Trigger Crypto Selloff - MarketForces Africa
 15/11 15:45:41 INFO    -> ATTENDI: trend orario non rialzista
+15/11 16:46:04 INFO    === eth_intermedio (ETH-EUR) ===
+15/11 16:46:04 INFO    Trend superiore (ONE_DAY): GIU
+15/11 16:46:04 INFO    Prezzo 1649.23 | medie 1633.55/1689.26 trend GIU | notizie -0.28 su 2 (0 nuove, 0 da Claude) | 0.2s
+15/11 16:46:04 INFO       (-0.6 r0.9 claude) Is Ethereum the “worst asset of all time,” amid estimated $8.83 billion BitMine loss ?
+15/11 16:46:04 INFO       (-0.7 r0.4 claude) Bitcoin falls to four-month low near $62K as crypto selloff deepens
+15/11 16:46:04 INFO    -> ATTENDI: trend orario non rialzista

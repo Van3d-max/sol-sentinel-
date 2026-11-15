@@ -550,3 +550,9 @@
 15/11 16:31:04 INFO       (-0.6 r1.0 claude) Bitcoin hovers near $65,000 after weekend selloff to lowest since July - Investing.com
 15/11 16:31:04 INFO       (-0.6 r1.0 claude) Bitcoin Slides to Three-Month Low as Nvidia, Fed Minutes and Anthropic IPO Collide - BigGo Finance
 15/11 16:31:04 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 16:46:14 INFO    === btc_veloce (BTC-EUR) ===
+15/11 16:46:14 INFO    Prezzo 58785.84 | medie 58815.31/59222.28 trend GIU | notizie -0.28 su 6 (0 nuove, 0 da Claude) | 0.1s
+15/11 16:46:14 INFO       (-0.6 r0.9 claude) Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days
+15/11 16:46:14 INFO       (-1.0 r1.0 claude) Bitcoin falls to four-month low near $62K as crypto selloff deepens
+15/11 16:46:14 INFO       (-0.2 r1.0 claude) Bitcoin now looks cheap by one measure after $1 billion in ETF outflows
+15/11 16:46:14 INFO    -> ATTENDI: trend 15 minuti non rialzista

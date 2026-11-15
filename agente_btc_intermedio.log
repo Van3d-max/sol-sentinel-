@@ -159,3 +159,10 @@
 15/11 15:45:43 INFO       (-0.7 r0.9 claude) INSTITUTIONAL | Bitcoin ETFs Lose Over $2 Billion as Institutional Demand Weakens - BitKE
 15/11 15:45:43 INFO       (-0.8 r1.0 claude) Bitcoin Hits Four-Month Low at $62K as Liquidations Pile Up - Bitbo
 15/11 15:45:43 INFO    -> ATTENDI: trend orario non rialzista
+15/11 16:46:14 INFO    === btc_intermedio (BTC-EUR) ===
+15/11 16:46:14 INFO    Trend superiore (ONE_DAY): GIU
+15/11 16:46:14 INFO    Prezzo 58785.84 | medie 58757.75/60232.14 trend GIU | notizie -0.28 su 6 (0 nuove, 0 da Claude) | 0.2s
+15/11 16:46:14 INFO       (-0.6 r0.9 claude) Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days
+15/11 16:46:14 INFO       (-1.0 r1.0 claude) Bitcoin falls to four-month low near $62K as crypto selloff deepens
+15/11 16:46:14 INFO       (-0.2 r1.0 claude) Bitcoin now looks cheap by one measure after $1 billion in ETF outflows
+15/11 16:46:14 INFO    -> ATTENDI: trend orario non rialzista
