@@ -154,3 +154,9 @@
 15/11 00:01:16 INFO       (-0.7 r0.9 claude) Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend - CryptoSlate
 15/11 00:01:16 INFO       (-0.8 r1.0 claude) Bitcoin falls over 6% as U.S. spot ETF outflows and bearish technicals pressure market - Traders Union
 15/11 00:01:16 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 00:15:45 INFO    === btc_veloce (BTC-EUR) ===
+15/11 00:15:45 INFO    Prezzo 58477.53 | medie 58053.74/58693.04 trend GIU | notizie -0.39 su 86 (0 nuove, 0 da Claude) | 0.3s
+15/11 00:15:45 INFO       (-1.0 r1.0 claude) Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend
+15/11 00:15:45 INFO       (-0.7 r0.9 claude) Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend - CryptoSlate
+15/11 00:15:45 INFO       (-0.8 r1.0 claude) Bitcoin falls around 5.3% to $64,734 - TradingView
+15/11 00:15:45 INFO    -> ATTENDI: trend 15 minuti non rialzista
