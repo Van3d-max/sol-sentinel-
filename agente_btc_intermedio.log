@@ -110,3 +110,10 @@
 15/11 08:45:45 INFO       (-0.6 r1.0 claude) Bitcoin Slips Under $62K as Anthropic's Mega-IPO Siphons Market Liquidity - BigGo Finance
 15/11 08:45:45 INFO       (-0.5 r1.0 claude) [Analysis] Bitcoin Plunge Driven by Thin Weekend Liquidity, Not Heavy Exchange Inflows - bloomingbit
 15/11 08:45:45 INFO    -> ATTENDI: trend orario non rialzista
+15/11 09:45:45 INFO    === btc_intermedio (BTC-EUR) ===
+15/11 09:45:45 INFO    Trend superiore (ONE_DAY): GIU
+15/11 09:45:45 INFO    Prezzo 59482.98 | medie 58908.73/60672.42 trend GIU | notizie -0.41 su 86 (4 nuove, 4 da Claude) | 0.4s
+15/11 09:45:45 INFO       (-1.0 r1.0 claude) Bitcoin Hits Four-Month Low as ETF Outflows Persist - The Defiant
+15/11 09:45:45 INFO       (-0.8 r0.9 claude) Why Is Bitcoin Dropping? $1.9B Fund Exodus Adds Pressure - Bitcoin Foundation
+15/11 09:45:45 INFO       (-0.8 r0.9 claude) Crypto Markets Lost $300B in Days as Bitcoin (BTC) Slumped Below $62K: Weekend Watch - CryptoPotato
+15/11 09:45:45 INFO    -> ATTENDI: trend orario non rialzista
