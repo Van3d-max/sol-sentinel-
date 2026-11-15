@@ -8559,3 +8559,9 @@
 15/11 13:15:43 INFO       (-0.8 r0.9 claude) Solana price drops to $67.60, lowest since June, amid market sell-off and Fed rate hike fears - Pluang
 15/11 13:15:43 INFO       (-0.7 r0.9 claude) Solana price drops to $70 amid $58M ETF outflows and $69M futures liquidations, testing key support levels. - 
 15/11 13:15:43 INFO    -> ATTENDI: notizie sotto la soglia (-0.15)
+15/11 13:31:00 INFO    === veloce (SOL-EUR) ===
+15/11 13:31:00 INFO    Prezzo 66.2600 | medie 66.1367/65.6486 trend SU | notizie -0.12 su 42 (1 nuove, 1 da Claude) | 0.2s
+15/11 13:31:00 INFO       (-0.7 r0.9 claude) Solana Slides Toward $67 as Spot ETFs Bleed for Seventh Straight Session - BigGo Finance
+15/11 13:31:00 INFO       (-0.8 r0.9 claude) Solana price drops to $67.60, lowest since June, amid market sell-off and Fed rate hike fears - Pluang
+15/11 13:31:00 INFO       (-0.7 r0.9 claude) Solana price drops to $70 amid $58M ETF outflows and $69M futures liquidations, testing key support levels. - 
+15/11 13:31:00 INFO    -> ATTENDI: notizie sotto la soglia (-0.12)
