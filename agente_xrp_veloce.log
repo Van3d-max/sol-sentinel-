@@ -442,3 +442,9 @@
 15/11 12:01:13 INFO       (-0.7 r0.8 claude) BTC Dives Below $67K as XRP Breaks Under $1.00 in Fresh Crypto Sell-Off: Weekend Watch - CryptoPotato
 15/11 12:01:13 INFO       (-0.3 r1.0 claude) XRP price prediction after the $1 break. Is $0.80 back in play? - Crypto News
 15/11 12:01:13 INFO    -> ATTENDI: notizia shock: XRP price hits two-year low below $1: Is $0.85 next? - Crypto News
+15/11 12:15:48 INFO    === xrp_veloce (XRP-EUR) ===
+15/11 12:15:48 INFO    Prezzo 0.8783 | medie 0.878089/0.873786 trend SU | notizie -0.20 su 33 (1 nuove, 1 da Claude) | 0.2s
+15/11 12:15:48 INFO       (-0.7 r0.9 claude) XRP price hits two-year low below $1: Is $0.85 next? - Crypto News
+15/11 12:15:48 INFO       (-0.7 r0.8 claude) BTC Dives Below $67K as XRP Breaks Under $1.00 in Fresh Crypto Sell-Off: Weekend Watch - CryptoPotato
+15/11 12:15:48 INFO       (-0.3 r1.0 claude) XRP price prediction after the $1 break. Is $0.80 back in play? - Crypto News
+15/11 12:15:48 INFO    -> ATTENDI: notizie sotto la soglia (-0.20)
