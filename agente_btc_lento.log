@@ -118,3 +118,9 @@
 15/11 12:45:49 INFO       (-0.8 r1.0 claude) Bitcoin Slumps to Four-Month Low Near $62,000 as ETF Outflows Mount - BigGo Finance
 15/11 12:45:49 INFO       (-1.0 r1.0 claude) Bitcoin Hits Four-Month Low as ETF Outflows Persist - The Defiant
 15/11 12:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista
+15/11 13:45:46 INFO    === btc_lento (BTC-EUR) ===
+15/11 13:45:46 INFO    Prezzo 59556.40 | medie 65542.97/69610.11 trend GIU | notizie -0.42 su 119 (0 nuove, 0 da Claude) | 0.1s
+15/11 13:45:46 INFO       (-1.0 r1.0 claude) Bitcoin falls to four-month low near $62K as crypto selloff deepens
+15/11 13:45:46 INFO       (-0.8 r1.0 claude) Bitcoin Slumps to Four-Month Low Near $62,000 as ETF Outflows Mount - BigGo Finance
+15/11 13:45:46 INFO       (-1.0 r1.0 claude) Bitcoin Hits Four-Month Low as ETF Outflows Persist - The Defiant
+15/11 13:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista
