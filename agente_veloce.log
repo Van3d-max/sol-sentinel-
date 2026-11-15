@@ -8744,3 +8744,9 @@
 15/11 21:01:10 INFO       (-0.8 r0.8 claude) Bitcoin Plunges Below $63,000, Ether Loses 19.5% and Solana Drops 20.7% - FinanceFeeds
 15/11 21:01:10 INFO       (-0.6 r0.9 claude) SOL Hits Lowest Since June Ahead of London Breakpoint - The Defiant
 15/11 21:01:10 INFO    -> ATTENDI: notizie sotto la soglia (-0.16)
+15/11 21:15:39 INFO    === veloce (SOL-EUR) ===
+15/11 21:15:39 INFO    Prezzo 65.1700 | medie 65.1156/64.9229 trend SU | notizie -0.16 su 41 (0 nuove, 0 da Claude) | 0.3s
+15/11 21:15:39 INFO       (-0.6 r0.9 claude) Solana moves lower as ETF outflows reduce institutional demand and weigh on token price - Traders Union
+15/11 21:15:39 INFO       (-0.8 r0.8 claude) Bitcoin Plunges Below $63,000, Ether Loses 19.5% and Solana Drops 20.7% - FinanceFeeds
+15/11 21:15:39 INFO       (-0.6 r0.9 claude) SOL Hits Lowest Since June Ahead of London Breakpoint - The Defiant
+15/11 21:15:39 INFO    -> ATTENDI: notizie sotto la soglia (-0.16)
