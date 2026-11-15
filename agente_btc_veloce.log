@@ -430,3 +430,9 @@
 15/11 11:31:00 INFO       (-0.7 r1.0 claude) Bitcoin Wobbles Near $65K After Weekend Plunge as ETF Outflows Top $1.9 Billion - finance.biggo.com
 15/11 11:31:00 INFO       (-0.8 r0.9 claude) Bitcoin falls to four-month low near $62K as crypto selloff deepens - TradingView
 15/11 11:31:00 INFO    -> ATTENDI: notizia shock: Bitcoin Wobbles Near $65K After Weekend Plunge as ETF Outflows Top $1.9 Billion 
+15/11 11:45:46 INFO    === btc_veloce (BTC-EUR) ===
+15/11 11:45:46 INFO    Prezzo 59626.54 | medie 59580.40/59114.28 trend SU | notizie -0.45 su 88 (2 nuove, 2 da Claude) | 0.3s
+15/11 11:45:46 INFO       (-1.0 r1.0 claude) Bitcoin falls to four-month low near $62K as crypto selloff deepens
+15/11 11:45:46 INFO       (-0.7 r1.0 claude) Bitcoin Wobbles Near $65K After Weekend Plunge as ETF Outflows Top $1.9 Billion - finance.biggo.com
+15/11 11:45:46 INFO       (-0.8 r0.9 claude) Bitcoin falls to four-month low near $62K as crypto selloff deepens - TradingView
+15/11 11:45:46 INFO    -> ATTENDI: notizia shock: Bitcoin Wobbles Near $65K After Weekend Plunge as ETF Outflows Top $1.9 Billion 
