@@ -232,3 +232,9 @@
 15/11 03:15:55 INFO       (-0.7 r0.9 claude) Bitcoin Falls to 88.89 Million Won as Nvidia Shock, Rates, ETF Outflows Deliver Triple Blow, Breaking 90 Milli
 15/11 03:15:55 INFO       (-0.7 r1.0 claude) Bitcoin drops 6% to $64,118 and revisits its June floor - 24/7 Wall St.
 15/11 03:15:55 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 03:31:02 INFO    === btc_veloce (BTC-EUR) ===
+15/11 03:31:03 INFO    Prezzo 58999.00 | medie 58131.42/58015.13 trend SU | notizie -0.42 su 87 (0 nuove, 0 da Claude) | 0.3s
+15/11 03:31:03 INFO       (-0.8 r1.0 claude) Bitcoin Falls Below $64,000 as ¥170 Billion ETF Outflows and ¥110 Billion in Long Liquidations Weigh on Prices
+15/11 03:31:03 INFO       (-0.7 r0.9 claude) Bitcoin Falls to 88.89 Million Won as Nvidia Shock, Rates, ETF Outflows Deliver Triple Blow, Breaking 90 Milli
+15/11 03:31:03 INFO       (-0.7 r1.0 claude) Bitcoin drops 6% to $64,118 and revisits its June floor - 24/7 Wall St.
+15/11 03:31:03 INFO    -> ATTENDI: notizia shock: Bitcoin Falls to 88.89 Million Won as Nvidia Shock, Rates, ETF Outflows Deliver 

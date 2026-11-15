@@ -68,3 +68,10 @@
 15/11 02:30:57 INFO       (-0.7 r0.9 claude) Solana Price Prediction: SOL Crashes 10% Toward $70 - Coinpaper
 15/11 02:30:57 INFO       (-0.7 r0.9 claude) Solana (SOL) price drops 11.44% in 24 hours, hi... - Pluang
 15/11 02:30:57 INFO    -> ATTENDI: trend orario non rialzista
+15/11 03:31:01 INFO    === intermedio (SOL-EUR) ===
+15/11 03:31:01 INFO    Trend superiore (ONE_DAY): GIU
+15/11 03:31:01 INFO    Prezzo 64.8700 | medie 66.0715/69.3214 trend GIU | notizie -0.18 su 23 (2 nuove, 2 da Claude) | 0.4s
+15/11 03:31:01 INFO       (+0.4 r0.8 claude) Ether and Solana rebound after crypto selloff b... - Pluang
+15/11 03:31:01 INFO       (-0.7 r0.9 claude) Solana price drops 11% to $71 amid $1.26B crypt... - Pluang
+15/11 03:31:01 INFO       (-0.7 r0.9 claude) Solana Price Prediction: SOL Crashes 10% Toward $70 - Coinpaper
+15/11 03:31:01 INFO    -> ATTENDI: trend orario non rialzista

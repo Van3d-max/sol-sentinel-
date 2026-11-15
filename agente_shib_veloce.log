@@ -232,3 +232,9 @@
 15/11 03:15:57 INFO       (-1.0 r1.0 claude) Shiba Inu price falls below $0.000004, SHIB's lowest level since spring 2021 - CryptoTicker.io
 15/11 03:15:57 INFO       (-0.7 r0.9 claude) Shiba Inu price drops below $0.000004, hitting lowest level since 2021 amid market fear. - Pluang
 15/11 03:15:57 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 03:31:04 INFO    === shib_veloce (SHIB-EUR) ===
+15/11 03:31:05 INFO    Prezzo 3.56e-06 | medie 3.45778e-06/3.47143e-06 trend GIU | notizie -0.29 su 13 (0 nuove, 0 da Claude) | 0.3s
+15/11 03:31:05 INFO       (-1.0 r1.0 claude) Shiba Inu price drops below $0.000004 amid high volume sell-off, losing gains against Bitcoin. - Pluang
+15/11 03:31:05 INFO       (-1.0 r1.0 claude) Shiba Inu price falls below $0.000004, SHIB's lowest level since spring 2021 - CryptoTicker.io
+15/11 03:31:05 INFO       (-0.7 r0.9 claude) Shiba Inu price drops below $0.000004, hitting lowest level since 2021 amid market fear. - Pluang
+15/11 03:31:05 INFO    -> ATTENDI: trend 15 minuti non rialzista
