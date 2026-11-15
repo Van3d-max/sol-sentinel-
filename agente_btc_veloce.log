@@ -166,3 +166,9 @@
 15/11 00:30:57 INFO       (-0.8 r1.0 claude) Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate - Bloomberg.com
 15/11 00:30:57 INFO       (-0.7 r0.9 claude) Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend - CryptoSlate
 15/11 00:30:57 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 00:45:46 INFO    === btc_veloce (BTC-EUR) ===
+15/11 00:45:47 INFO    Prezzo 58086.76 | medie 58021.00/58546.77 trend GIU | notizie -0.39 su 85 (4 nuove, 4 da Claude) | 0.3s
+15/11 00:45:47 INFO       (-1.0 r1.0 claude) Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend
+15/11 00:45:47 INFO       (-0.7 r0.9 claude) Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend - CryptoSlate
+15/11 00:45:47 INFO       (-0.6 r0.9 claude) Crypto liquidations surge past $1.9 billion as Bitcoin nears $63,000 - Crypto Briefing
+15/11 00:45:47 INFO    -> ATTENDI: trend 15 minuti non rialzista

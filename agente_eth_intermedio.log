@@ -47,3 +47,10 @@
 14/11 23:45:43 INFO       (-0.7 r0.9 claude) Ethereum Flashes Death Cross as ETF Outflows Surge, Futures Open Interest Dives - Benzinga
 14/11 23:45:43 INFO       (-0.8 r1.0 claude) ETH Tanks Another 5% as Ethereum Foundation Keeps Selling and Schiff Sounds the Alarm - CryptoRank
 14/11 23:45:43 INFO    -> ATTENDI: trend orario non rialzista
+15/11 00:45:44 INFO    === eth_intermedio (ETH-EUR) ===
+15/11 00:45:44 INFO    Trend superiore (ONE_DAY): GIU
+15/11 00:45:44 INFO    Prezzo 1597.67 | medie 1685.11/1732.08 trend GIU | notizie -0.29 su 45 (0 nuove, 0 da Claude) | 0.4s
+15/11 00:45:44 INFO       (-0.7 r0.7 claude) Why Is Bitcoin Crashing? BTC Breaks Below $64K as Ethereum Falls Toward $1,800 - Coinpaper
+15/11 00:45:44 INFO       (-0.7 r0.9 claude) Ethereum Flashes Death Cross as ETF Outflows Surge, Futures Open Interest Dives - Benzinga
+15/11 00:45:44 INFO       (-0.5 r0.4 claude) Why Is XRP Crashing Today? Ripple Token Falls 18% in a Week as Bitcoin and Ethereum Selloff Deepens - Cryptone
+15/11 00:45:44 INFO    -> ATTENDI: trend orario non rialzista
