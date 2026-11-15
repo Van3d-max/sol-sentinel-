@@ -184,3 +184,9 @@
 15/11 01:15:43 INFO       (-0.7 r0.9 claude) Bitcoin ETF Outflows Hit $2.35B; IBIT Streak Reaches 11 - Brave New Coin
 15/11 01:15:43 INFO       (-0.8 r1.0 claude) Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate - Bloomberg.com
 15/11 01:15:43 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 01:31:01 INFO    === btc_veloce (BTC-EUR) ===
+15/11 01:31:01 INFO    Prezzo 56731.82 | medie 57792.02/58199.60 trend GIU | notizie -0.44 su 85 (2 nuove, 2 da Claude) | 0.2s
+15/11 01:31:01 INFO       (-1.0 r1.0 claude) Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend
+15/11 01:31:01 INFO       (-0.7 r0.9 claude) Why is crypto crashing? Hot inflation data and Fed rate-hike bets pushed bitcoin to about $63,000 - Nacionale
+15/11 01:31:01 INFO       (-0.7 r0.9 claude) Bitcoin ETF Outflows Hit $2.35B; IBIT Streak Reaches 11 - Brave New Coin
+15/11 01:31:01 INFO    -> ATTENDI: trend 15 minuti non rialzista
