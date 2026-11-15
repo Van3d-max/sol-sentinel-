@@ -597,3 +597,9 @@
 15/11 18:31:02 INFO       (-0.4 r1.0 claude) Schiff Warns Ethereum Could Sink to $1,000 as BitMine Sits on $2.5 Billion Paper Loss - BigGo Finance
 15/11 18:31:02 INFO       (+0.3 r0.9 claude) Binance Holds the Least Ethereum Since 2021 - Yahoo Finance
 15/11 18:31:02 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 18:45:43 INFO    === eth_veloce (ETH-EUR) ===
+15/11 18:45:43 INFO    Prezzo 1647.88 | medie 1648.31/1649.06 trend GIU | notizie -0.27 su 43 (1 nuove, 1 da Claude) | 0.3s
+15/11 18:45:43 INFO       (-0.5 r0.9 claude) Ethereum slips as Fed official signals higher rates could limit liquidity - Traders Union
+15/11 18:45:43 INFO       (-0.4 r0.9 claude) Crypto: BitMine loses 8.83 billion $ on its Ethereum bet - Cointribune
+15/11 18:45:43 INFO       (-0.4 r1.0 claude) Schiff Warns Ethereum Could Sink to $1,000 as BitMine Sits on $2.5 Billion Paper Loss - BigGo Finance
+15/11 18:45:43 INFO    -> ATTENDI: trend 15 minuti non rialzista
