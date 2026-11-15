@@ -131,3 +131,10 @@
 15/11 11:45:44 INFO       (-0.4 r0.9 claude) Peter Schiff Warns Of ‘A Black Monday’ For BitMine And Ethereum ETFs If ETH Loses Key Support - Yahoo Finance
 15/11 11:45:44 INFO       (-0.8 r1.0 claude) Ethereum Foundation-Linked Wallet Offloads 7,500 ETH as Ether Slips Below $1,850 - BigGo Finance
 15/11 11:45:44 INFO    -> ATTENDI: trend orario non rialzista
+15/11 12:45:47 INFO    === eth_intermedio (ETH-EUR) ===
+15/11 12:45:47 INFO    Trend superiore (ONE_DAY): GIU
+15/11 12:45:47 INFO    Prezzo 1666.13 | medie 1635.23/1698.58 trend GIU | notizie -0.29 su 51 (1 nuove, 1 da Claude) | 0.2s
+15/11 12:45:47 INFO       (-0.6 r0.9 claude) Is Ethereum the “worst asset of all time,” amid estimated $8.83 billion BitMine loss ?
+15/11 12:45:47 INFO       (-0.6 r0.9 claude) Is Ethereum the "worst asset of all time," amid estimated $8.83 billion BitMine loss ? - CryptoSlate
+15/11 12:45:47 INFO       (-0.7 r0.8 claude) Ethereum Tumbles As Rising Fed Rate Hike Odds Trigger Crypto Selloff - MarketForces Africa
+15/11 12:45:47 INFO    -> ATTENDI: trend orario non rialzista
