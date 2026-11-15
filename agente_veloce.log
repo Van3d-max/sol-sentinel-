@@ -8385,3 +8385,9 @@
 15/11 06:01:05 INFO       (+0.2 r0.9 claude) Solana Price Today: SOL Hovers Near $76 After Alpenglow Goes Live as Remittix Earn Clears $2M in TVL - StreetI
 15/11 06:01:05 INFO       (-0.8 r0.4 claude) Bitcoin drops below $63,000 as Ether and Solana also see double-digit losses - Pluang
 15/11 06:01:05 INFO    -> ATTENDI: notizie sotto la soglia (-0.07)
+15/11 06:15:41 INFO    === veloce (SOL-EUR) ===
+15/11 06:15:41 INFO    Prezzo 63.7600 | medie 64.5444/64.1476 trend SU | notizie -0.05 su 23 (0 nuove, 0 da Claude) | 0.3s
+15/11 06:15:41 INFO       (-0.7 r0.9 claude) Solana Price Prediction: SOL Crashes 10% Toward $70 - Coinpaper
+15/11 06:15:41 INFO       (+0.2 r0.9 claude) Solana Price Today: SOL Hovers Near $76 After Alpenglow Goes Live as Remittix Earn Clears $2M in TVL - StreetI
+15/11 06:15:41 INFO       (-0.5 r1.0 claude) Solana Slips Under $70 as Fear Index Hits 13, Futures Data Hint Traders Haven't Bailed Out - BigGo Finance
+15/11 06:15:41 INFO    -> ATTENDI: notizie sotto la soglia (-0.05)
