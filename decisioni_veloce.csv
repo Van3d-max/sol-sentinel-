@@ -1000,3 +1000,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-15T15:15:40+01:00;65.7900;66.1744;65.8895;su;-0.081;42;0;0;0;no;attendi;notizie sotto la soglia (-0.08);Hyperliquid Whale Who Lost $10 Million Now Bets on Solana - Yahoo Finance;0.641
 2026-11-15T15:30:58+01:00;65.1900;66.1000;65.8614;su;-0.084;44;0;0;0;no;attendi;notizie sotto la soglia (-0.08);Hyperliquid Whale Who Lost $10 Million Now Bets on Solana - Yahoo Finance;0.703
 2026-11-15T15:45:42+01:00;64.9200;65.9444;65.8224;su;-0.082;44;1;1;0;no;attendi;notizie sotto la soglia (-0.08);Hyperliquid Whale Who Lost $10 Million Now Bets on Solana - Yahoo Finance;0.742
+2026-11-15T16:01:11+01:00;64.9200;65.7844;65.7862;giu;-0.064;44;1;1;0;no;attendi;trend 15 minuti non rialzista;Hyperliquid Whale Who Lost $10 Million Now Bets on Solana - Yahoo Finance;0.733
