@@ -610,3 +610,9 @@
 15/11 19:01:13 INFO       (-0.6 r0.9 claude) Bitcoin ETFs Lose $2.35 Billion in Two Weeks as Outflow Streak Extends - TradingView
 15/11 19:01:13 INFO       (-0.7 r1.0 claude) Bitcoin Slides Toward $63,000 as Weekend Selling Tests Market Confidence - TradingView
 15/11 19:01:13 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 19:15:51 INFO    === btc_veloce (BTC-EUR) ===
+15/11 19:15:51 INFO    Prezzo 59073.50 | medie 58779.78/58838.49 trend GIU | notizie -0.30 su 81 (3 nuove, 3 da Claude) | 0.3s
+15/11 19:15:51 INFO       (-0.9 r1.0 claude) Bitcoin falls to four-month low near $62K as crypto selloff deepens - Cryptonews.net
+15/11 19:15:51 INFO       (-0.6 r0.9 claude) Bitcoin ETFs Lose $2.35 Billion in Two Weeks as Outflow Streak Extends - TradingView
+15/11 19:15:51 INFO       (-0.7 r1.0 claude) Bitcoin Slides Toward $63,000 as Weekend Selling Tests Market Confidence - TradingView
+15/11 19:15:51 INFO    -> ATTENDI: trend 15 minuti non rialzista

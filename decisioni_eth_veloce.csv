@@ -1328,3 +1328,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-15T19:31:02+01:00;1646.99;1649.05;1650.12;giu;-0.240;42;1;1;0;no;attendi;trend 15 minuti non rialzista;Crypto: BitMine loses 8.83 billion $ on its Ethereum bet - Cointribune;0.598
 2026-11-15T19:45:43+01:00;1647.88;1648.31;1649.06;giu;-0.273;43;1;1;0;no;attendi;trend 15 minuti non rialzista;Ethereum slips as Fed official signals higher rates could limit liquidity - Traders Union;0.582
 2026-11-15T20:01:11+01:00;1651.03;1648.05;1648.18;giu;-0.272;43;0;0;0;no;attendi;trend 15 minuti non rialzista;Ethereum slips as Fed official signals higher rates could limit liquidity - Traders Union;0.558
+2026-11-15T20:15:49+01:00;1657.22;1649.02;1647.83;su;-0.262;44;1;1;0;no;attendi;notizie sotto la soglia (-0.26);Ethereum slips as Fed official signals higher rates could limit liquidity - Traders Union;0.578

@@ -609,3 +609,9 @@
 15/11 19:01:11 INFO       (-0.4 r0.9 claude) Crypto: BitMine loses 8.83 billion $ on its Ethereum bet - Cointribune
 15/11 19:01:11 INFO       (-0.4 r1.0 claude) Schiff Warns Ethereum Could Sink to $1,000 as BitMine Sits on $2.5 Billion Paper Loss - BigGo Finance
 15/11 19:01:11 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 19:15:49 INFO    === eth_veloce (ETH-EUR) ===
+15/11 19:15:49 INFO    Prezzo 1657.22 | medie 1649.02/1647.83 trend SU | notizie -0.26 su 44 (1 nuove, 1 da Claude) | 0.3s
+15/11 19:15:49 INFO       (-0.5 r0.9 claude) Ethereum slips as Fed official signals higher rates could limit liquidity - Traders Union
+15/11 19:15:49 INFO       (-0.4 r0.9 claude) Crypto: BitMine loses 8.83 billion $ on its Ethereum bet - Cointribune
+15/11 19:15:49 INFO       (-0.2 r0.8 claude) Tom Lee on the Crypto Crash: Here’s What It Means for Ethereum Holders - 24/7 Wall St.
+15/11 19:15:49 INFO    -> ATTENDI: notizie sotto la soglia (-0.26)
