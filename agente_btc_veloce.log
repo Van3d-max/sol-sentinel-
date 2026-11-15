@@ -322,3 +322,9 @@
 15/11 07:01:12 INFO       (-0.7 r1.0 claude) Bitcoin slides toward $60,000 as ETF outflows and liquidations intensify - Investing.com
 15/11 07:01:12 INFO       (-0.8 r1.0 claude) Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate - Bloomberg.com
 15/11 07:01:12 INFO    -> ATTENDI: notizia shock: Bitcoin slides toward $60,000 as ETF outflows and liquidations intensify - Yahoo
+15/11 07:15:44 INFO    === btc_veloce (BTC-EUR) ===
+15/11 07:15:45 INFO    Prezzo 58627.41 | medie 58718.78/58838.65 trend GIU | notizie -0.44 su 83 (4 nuove, 4 da Claude) | 0.1s
+15/11 07:15:45 INFO       (-0.7 r1.0 claude) Bitcoin price falls to three-month low: Is $60K the next stop? - Crypto News
+15/11 07:15:45 INFO       (-0.6 r0.9 claude) Trump Media May Sell Bitcoin as Up to $1 Billion in Debt Repayments Loom - bloomingbit
+15/11 07:15:45 INFO       (-0.7 r1.0 claude) Bitcoin slides toward $60,000 as ETF outflows and liquidations intensify - Investing.com
+15/11 07:15:45 INFO    -> ATTENDI: trend 15 minuti non rialzista
