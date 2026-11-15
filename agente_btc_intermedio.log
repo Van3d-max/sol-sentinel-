@@ -187,3 +187,10 @@
 15/11 19:45:47 INFO       (-0.6 r1.0 claude) Bitcoin's $10,000 Air Pocket: The Bid Disappears as Wall Street Finds a New Trade - The Dark Side Of The Boom
 15/11 19:45:47 INFO       (-0.9 r1.0 claude) Bitcoin falls to four-month low near $62K as crypto selloff deepens - Cryptonews.net
 15/11 19:45:47 INFO    -> ATTENDI: trend orario non rialzista
+15/11 20:45:47 INFO    === btc_intermedio (BTC-EUR) ===
+15/11 20:45:48 INFO    Trend superiore (ONE_DAY): GIU
+15/11 20:45:48 INFO    Prezzo 59001.00 | medie 58850.13/59945.07 trend GIU | notizie -0.29 su 80 (1 nuove, 1 da Claude) | 0.4s
+15/11 20:45:48 INFO       (-0.9 r1.0 claude) Bitcoin Price Prediction: Weekend Panic Sends BTC To $62,000 As Margin Calls Bite - Coinpedia
+15/11 20:45:48 INFO       (-0.6 r1.0 claude) Bitcoin's $10,000 Air Pocket: The Bid Disappears as Wall Street Finds a New Trade - The Dark Side Of The Boom
+15/11 20:45:48 INFO       (-0.5 r1.0 claude) Bitcoin’s Fall to $62,000 Sparks Market Manipulation Claims - BeInCrypto
+15/11 20:45:48 INFO    -> ATTENDI: trend orario non rialzista

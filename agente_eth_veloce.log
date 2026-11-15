@@ -645,3 +645,9 @@
 15/11 20:31:01 INFO       (-0.4 r0.9 claude) Crypto: BitMine loses 8.83 billion $ on its Ethereum bet - Cointribune
 15/11 20:31:01 INFO       (-0.2 r0.8 claude) Tom Lee on the Crypto Crash: Here’s What It Means for Ethereum Holders - 24/7 Wall St.
 15/11 20:31:01 INFO    -> ATTENDI: notizie sotto la soglia (-0.22)
+15/11 20:45:45 INFO    === eth_veloce (ETH-EUR) ===
+15/11 20:45:45 INFO    Prezzo 1658.66 | medie 1655.22/1651.01 trend SU | notizie -0.22 su 43 (0 nuove, 0 da Claude) | 0.3s
+15/11 20:45:45 INFO       (-0.5 r0.9 claude) Ethereum slips as Fed official signals higher rates could limit liquidity - Traders Union
+15/11 20:45:45 INFO       (-0.4 r0.9 claude) Crypto: BitMine loses 8.83 billion $ on its Ethereum bet - Cointribune
+15/11 20:45:45 INFO       (-0.2 r0.8 claude) Tom Lee on the Crypto Crash: Here’s What It Means for Ethereum Holders - 24/7 Wall St.
+15/11 20:45:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.22)
