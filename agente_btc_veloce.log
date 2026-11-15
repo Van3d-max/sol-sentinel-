@@ -334,3 +334,9 @@
 15/11 07:30:58 INFO       (-0.7 r1.0 claude) Bitcoin price falls to three-month low: Is $60K the next stop? - Crypto News
 15/11 07:30:58 INFO       (-0.6 r0.9 claude) Trump Media May Sell Bitcoin as Up to $1 Billion in Debt Repayments Loom - bloomingbit
 15/11 07:30:58 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 07:45:54 INFO    === btc_veloce (BTC-EUR) ===
+15/11 07:45:54 INFO    Prezzo 58033.86 | medie 58567.86/58835.35 trend GIU | notizie -0.49 su 82 (2 nuove, 2 da Claude) | 0.1s
+15/11 07:45:54 INFO       (-1.0 r1.0 claude) Bitcoin Hits Four-Month Low as ETF Outflows Persist - The Defiant
+15/11 07:45:54 INFO       (-0.7 r1.0 claude) Bitcoin price falls to three-month low: Is $60K the next stop? - Crypto News
+15/11 07:45:54 INFO       (-0.6 r0.9 claude) Bitcoin hits three-month low amid FAA woes - Ticker News
+15/11 07:45:54 INFO    -> ATTENDI: trend 15 minuti non rialzista
