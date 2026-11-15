@@ -58,3 +58,9 @@
 15/11 02:45:42 INFO       (-1.0 r1.0 claude) Ethereum Falls 10.37% In Selloff By Investing.com - Investing.com India
 15/11 02:45:42 INFO       (-0.7 r1.0 claude) Ethereum falls 8.3% to $1,768, erasing months of recovery gains - 24/7 Wall St.
 15/11 02:45:42 INFO    -> ATTENDI: trend giornaliero non rialzista
+15/11 03:45:41 INFO    === eth_lento (ETH-EUR) ===
+15/11 03:45:41 INFO    Prezzo 1659.66 | medie 1868.67/2021.77 trend GIU | notizie -0.36 su 83 (2 nuove, 2 da Claude) | 0.1s
+15/11 03:45:41 INFO       (-1.0 r1.0 claude) Ethereum Falls 10% In Rout - Investing.com
+15/11 03:45:41 INFO       (-1.0 r1.0 claude) Ethereum Falls 10.37% In Selloff By Investing.com - Investing.com India
+15/11 03:45:41 INFO       (-0.7 r1.0 claude) Ethereum falls 8.3% to $1,768, erasing months of recovery gains - 24/7 Wall St.
+15/11 03:45:41 INFO    -> ATTENDI: trend giornaliero non rialzista
