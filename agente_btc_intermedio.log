@@ -54,3 +54,10 @@
 15/11 00:45:47 INFO       (-0.7 r0.9 claude) Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend - CryptoSlate
 15/11 00:45:47 INFO       (-0.6 r0.9 claude) Crypto liquidations surge past $1.9 billion as Bitcoin nears $63,000 - Crypto Briefing
 15/11 00:45:47 INFO    -> ATTENDI: trend orario non rialzista
+15/11 01:45:45 INFO    === btc_intermedio (BTC-EUR) ===
+15/11 01:45:46 INFO    Trend superiore (ONE_DAY): GIU
+15/11 01:45:46 INFO    Prezzo 56396.22 | medie 59875.66/61395.05 trend GIU | notizie -0.47 su 86 (5 nuove, 5 da Claude) | 0.3s
+15/11 01:45:46 INFO       (-0.7 r1.0 claude) Bitcoin falls below $64,000 as ETF outflows extend to seventh straight day - Investing.com
+15/11 01:45:46 INFO       (-1.0 r1.0 claude) Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend
+15/11 01:45:46 INFO       (-0.7 r0.9 claude) Binance Liquidations Near $800 Million as Bitcoin Sinks - The Defiant
+15/11 01:45:46 INFO    -> ATTENDI: trend orario non rialzista

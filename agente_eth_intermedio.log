@@ -54,3 +54,10 @@
 15/11 00:45:44 INFO       (-0.7 r0.9 claude) Ethereum Flashes Death Cross as ETF Outflows Surge, Futures Open Interest Dives - Benzinga
 15/11 00:45:44 INFO       (-0.5 r0.4 claude) Why Is XRP Crashing Today? Ripple Token Falls 18% in a Week as Bitcoin and Ethereum Selloff Deepens - Cryptone
 15/11 00:45:44 INFO    -> ATTENDI: trend orario non rialzista
+15/11 01:45:43 INFO    === eth_intermedio (ETH-EUR) ===
+15/11 01:45:43 INFO    Trend superiore (ONE_DAY): GIU
+15/11 01:45:43 INFO    Prezzo 1555.82 | medie 1678.09/1727.35 trend GIU | notizie -0.49 su 46 (1 nuove, 1 da Claude) | 0.4s
+15/11 01:45:43 INFO       (-1.0 r1.0 claude) Ethereum Falls 10% In Rout - Investing.com
+15/11 01:45:43 INFO       (-1.0 r1.0 claude) Ethereum Falls 10.37% In Selloff By Investing.com - Investing.com India
+15/11 01:45:43 INFO       (-0.7 r0.7 claude) Why Is Bitcoin Crashing? BTC Breaks Below $64K as Ethereum Falls Toward $1,800 - Coinpaper
+15/11 01:45:43 INFO    -> ATTENDI: trend orario non rialzista

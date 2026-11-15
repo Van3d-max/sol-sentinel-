@@ -46,3 +46,9 @@
 15/11 00:45:47 INFO       (-0.7 r0.9 claude) Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend - CryptoSlate
 15/11 00:45:47 INFO       (-0.8 r1.0 claude) Bitcoin falls around 5.3% to $64,734 - TradingView
 15/11 00:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista
+15/11 01:45:46 INFO    === btc_lento (BTC-EUR) ===
+15/11 01:45:46 INFO    Prezzo 56396.22 | medie 65542.97/69610.11 trend GIU | notizie -0.43 su 135 (5 nuove, 5 da Claude) | 0.1s
+15/11 01:45:46 INFO       (-1.0 r1.0 claude) Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend
+15/11 01:45:46 INFO       (-0.7 r1.0 claude) Bitcoin falls below $64,000 as ETF outflows extend to seventh straight day - Investing.com
+15/11 01:45:46 INFO       (-0.7 r0.9 claude) Why is crypto crashing? Hot inflation data and Fed rate-hike bets pushed bitcoin to about $63,000 - Nacionale
+15/11 01:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista
