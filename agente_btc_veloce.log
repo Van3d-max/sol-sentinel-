@@ -484,3 +484,9 @@
 15/11 13:45:46 INFO       (-0.8 r1.0 claude) Bitcoin Slumps to Four-Month Low Near $62,000 as ETF Outflows Mount - BigGo Finance
 15/11 13:45:46 INFO       (-1.0 r1.0 claude) Bitcoin falls to four-month low near $62K as crypto selloff deepens
 15/11 13:45:46 INFO    -> ATTENDI: notizia shock: US Bitcoin ETFs Shed $1.91 Billion in Seven Sessions - The Defiant
+15/11 14:01:11 INFO    === btc_veloce (BTC-EUR) ===
+15/11 14:01:11 INFO    Prezzo 59461.85 | medie 59581.26/59590.19 trend GIU | notizie -0.39 su 85 (7 nuove, 7 da Claude) | 0.2s
+15/11 14:01:11 INFO       (-0.8 r1.0 claude) Bitcoin Hits Four-Month Low at $62K as Liquidations Pile Up - Bitbo
+15/11 14:01:11 INFO       (-0.6 r1.0 claude) Bitcoin (BTC) Price Today: $65K Support Under Pressure as Glassnode Maps $60K–$62K Liquidation Cluster - Brave
+15/11 14:01:11 INFO       (-0.7 r0.9 claude) US Bitcoin ETFs Shed $1.91 Billion in Seven Sessions - The Defiant
+15/11 14:01:11 INFO    -> ATTENDI: trend 15 minuti non rialzista
