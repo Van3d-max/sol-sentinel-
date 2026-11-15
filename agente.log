@@ -2287,3 +2287,9 @@
 15/11 05:01:11 INFO       (-0.7 r0.9 claude) Solana Price Prediction: SOL Crashes 10% Toward $70 - Coinpaper
 15/11 05:01:11 INFO       (-0.5 r1.0 claude) Solana Slips Under $70 as Fear Index Hits 13, Futures Data Hint Traders Haven't Bailed Out - BigGo Finance
 15/11 05:01:11 INFO    -> ATTENDI: trend giornaliero non rialzista
+15/11 06:01:05 INFO    === lenta (SOL-EUR) ===
+15/11 06:01:05 INFO    Prezzo 64.2400 | medie 75.3840/84.8210 trend GIU | notizie -0.12 su 51 (0 nuove, 0 da Claude) | 0.2s
+15/11 06:01:05 INFO       (-0.7 r0.9 claude) Solana Price Prediction: SOL Crashes 10% Toward $70 - Coinpaper
+15/11 06:01:05 INFO       (-0.5 r1.0 claude) Solana Slips Under $70 as Fear Index Hits 13, Futures Data Hint Traders Haven't Bailed Out - BigGo Finance
+15/11 06:01:05 INFO       (+0.6 r0.8 claude) Solana News: DTCC Plans to Bring Tokenized Securities to Solana as Remittix Sets a Planned $0.46 RTX Listing P
+15/11 06:01:05 INFO    -> ATTENDI: trend giornaliero non rialzista
