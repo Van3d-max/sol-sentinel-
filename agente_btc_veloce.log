@@ -148,3 +148,9 @@
 14/11 23:45:44 INFO       (-0.8 r1.0 claude) Bitcoin falls around 5.3% to $64,734 - TradingView
 14/11 23:45:44 INFO       (-0.7 r1.0 claude) Why Is Bitcoin Crashing? BTC Breaks Below $64K as Ethereum Falls Toward $1,800 - Coinpaper
 14/11 23:45:44 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 00:01:15 INFO    === btc_veloce (BTC-EUR) ===
+15/11 00:01:16 INFO    Prezzo 58255.65 | medie 58056.64/58739.10 trend GIU | notizie -0.40 su 88 (1 nuove, 1 da Claude) | 0.3s
+15/11 00:01:16 INFO       (-1.0 r1.0 claude) Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend
+15/11 00:01:16 INFO       (-0.7 r0.9 claude) Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend - CryptoSlate
+15/11 00:01:16 INFO       (-0.8 r1.0 claude) Bitcoin falls over 6% as U.S. spot ETF outflows and bearish technicals pressure market - Traders Union
+15/11 00:01:16 INFO    -> ATTENDI: trend 15 minuti non rialzista
