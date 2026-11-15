@@ -316,3 +316,9 @@
 15/11 06:45:47 INFO       (-1.0 r1.0 claude) XRP news: Ripple coin crashes below $1 as money leaves crypto - CoinDesk
 15/11 06:45:47 INFO       (-0.8 r0.9 claude) Why Is XRP Crashing Today? Ripple Token Falls 18% in a Week as Bitcoin and Ethereum Selloff Deepens - Coinpape
 15/11 06:45:47 INFO    -> ATTENDI: notizie sotto la soglia (-0.30)
+15/11 07:01:13 INFO    === xrp_veloce (XRP-EUR) ===
+15/11 07:01:13 INFO    Prezzo 0.8686 | medie 0.875678/0.872214 trend SU | notizie -0.30 su 28 (0 nuove, 0 da Claude) | 0.3s
+15/11 07:01:13 INFO       (-1.0 r1.0 claude) XRP crashes to its lowest since November 2024 as money leaves crypto
+15/11 07:01:13 INFO       (-1.0 r1.0 claude) XRP news: Ripple coin crashes below $1 as money leaves crypto - CoinDesk
+15/11 07:01:13 INFO       (-0.8 r0.9 claude) Why Is XRP Crashing Today? Ripple Token Falls 18% in a Week as Bitcoin and Ethereum Selloff Deepens - Coinpape
+15/11 07:01:13 INFO    -> ATTENDI: notizie sotto la soglia (-0.30)
