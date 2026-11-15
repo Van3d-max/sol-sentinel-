@@ -208,3 +208,9 @@
 15/11 02:15:42 INFO       (-0.7 r0.9 claude) Ethereum Falls 10.37% In Selloff By Investing.com - Investing.com Australia
 15/11 02:15:42 INFO       (-0.7 r0.8 claude) Bitcoin Plunges Below US$69,000, Ethereum Sinks Under US$2,000 In Brutal Weekly Selloff - BusinessToday Malays
 15/11 02:15:42 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 02:30:58 INFO    === eth_veloce (ETH-EUR) ===
+15/11 02:30:58 INFO    Prezzo 1639.77 | medie 1589.32/1596.31 trend GIU | notizie -0.39 su 47 (1 nuove, 1 da Claude) | 0.1s
+15/11 02:30:58 INFO       (-1.0 r1.0 claude) Ethereum Falls 10% In Rout - Investing.com
+15/11 02:30:58 INFO       (-1.0 r1.0 claude) Ethereum Falls 10.37% In Selloff By Investing.com - Investing.com India
+15/11 02:30:58 INFO       (-0.7 r0.8 claude) Bitcoin Plunges Below US$69,000, Ethereum Sinks Under US$2,000 In Brutal Weekly Selloff - BusinessToday Malays
+15/11 02:30:58 INFO    -> ATTENDI: trend 15 minuti non rialzista
