@@ -682,3 +682,9 @@
 15/11 22:01:14 INFO       (-0.9 r1.0 claude) Bitcoin Price Prediction: Weekend Panic Sends BTC To $62,000 As Margin Calls Bite - Coinpedia
 15/11 22:01:14 INFO       (-0.6 r1.0 claude) Bitcoin's $10,000 Air Pocket: The Bid Disappears as Wall Street Finds a New Trade - The Dark Side Of The Boom
 15/11 22:01:14 INFO    -> ATTENDI: notizia shock: Crypto Market Loses $130 Billion as Bitcoin Slump Triggers $1.71 Billion in Liqu
+15/11 22:15:46 INFO    === btc_veloce (BTC-EUR) ===
+15/11 22:15:46 INFO    Prezzo 59181.14 | medie 59012.31/58913.60 trend SU | notizie -0.21 su 81 (2 nuove, 2 da Claude) | 0.2s
+15/11 22:15:46 INFO       (-0.7 r0.7 claude) Crypto Market Loses $130 Billion as Bitcoin Slump Triggers $1.71 Billion in Liquidations - bloomingbit
+15/11 22:15:46 INFO       (-0.9 r1.0 claude) Bitcoin Price Prediction: Weekend Panic Sends BTC To $62,000 As Margin Calls Bite - Coinpedia
+15/11 22:15:46 INFO       (-0.6 r1.0 claude) Bitcoin's $10,000 Air Pocket: The Bid Disappears as Wall Street Finds a New Trade - The Dark Side Of The Boom
+15/11 22:15:46 INFO    -> ATTENDI: notizia shock: Crypto Market Loses $130 Billion as Bitcoin Slump Triggers $1.71 Billion in Liqu
