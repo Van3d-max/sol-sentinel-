@@ -202,3 +202,9 @@
 15/11 02:01:10 INFO       (-0.7 r1.0 claude) Bitcoin falls below $64,000 as ETF outflows extend to seventh straight day - Investing.com
 15/11 02:01:10 INFO       (-1.0 r1.0 claude) Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend
 15/11 02:01:10 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 02:15:44 INFO    === btc_veloce (BTC-EUR) ===
+15/11 02:15:44 INFO    Prezzo 58149.55 | medie 57504.98/57900.89 trend GIU | notizie -0.49 su 86 (7 nuove, 7 da Claude) | 0.3s
+15/11 02:15:44 INFO       (-0.8 r1.0 claude) Bitcoin Falls Below $64,000 as ¥170 Billion ETF Outflows and ¥110 Billion in Long Liquidations Weigh on Prices
+15/11 02:15:44 INFO       (-0.8 r0.9 claude) Bitcoin Plunges Below US$69,000, Ethereum Sinks Under US$2,000 In Brutal Weekly Selloff - BusinessToday Malays
+15/11 02:15:44 INFO       (-0.8 r1.0 claude) Bitcoin tumbles to three-month low as liquidations accelerate - The Edge Malaysia
+15/11 02:15:44 INFO    -> ATTENDI: trend 15 minuti non rialzista
