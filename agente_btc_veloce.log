@@ -544,3 +544,9 @@
 15/11 16:15:42 INFO       (-0.6 r1.0 claude) Bitcoin Slides to Three-Month Low as Nvidia, Fed Minutes and Anthropic IPO Collide - BigGo Finance
 15/11 16:15:42 INFO       (-0.7 r0.9 claude) INSTITUTIONAL | Bitcoin ETFs Lose Over $2 Billion as Institutional Demand Weakens - BitKE
 15/11 16:15:42 INFO    -> ATTENDI: trend 15 minuti non rialzista
+15/11 16:31:04 INFO    === btc_veloce (BTC-EUR) ===
+15/11 16:31:04 INFO    Prezzo 58924.84 | medie 58837.88/59257.13 trend GIU | notizie -0.35 su 87 (4 nuove, 4 da Claude) | 0.3s
+15/11 16:31:04 INFO       (-0.5 r1.0 claude) Bitcoin’s Fall to $62,000 Sparks Market Manipulation Claims - Cryptonews.net
+15/11 16:31:04 INFO       (-0.6 r1.0 claude) Bitcoin hovers near $65,000 after weekend selloff to lowest since July - Investing.com
+15/11 16:31:04 INFO       (-0.6 r1.0 claude) Bitcoin Slides to Three-Month Low as Nvidia, Fed Minutes and Anthropic IPO Collide - BigGo Finance
+15/11 16:31:04 INFO    -> ATTENDI: trend 15 minuti non rialzista
