@@ -52,3 +52,9 @@
 15/11 01:45:46 INFO       (-0.7 r1.0 claude) Bitcoin falls below $64,000 as ETF outflows extend to seventh straight day - Investing.com
 15/11 01:45:46 INFO       (-0.7 r0.9 claude) Why is crypto crashing? Hot inflation data and Fed rate-hike bets pushed bitcoin to about $63,000 - Nacionale
 15/11 01:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista
+15/11 02:45:45 INFO    === btc_lento (BTC-EUR) ===
+15/11 02:45:45 INFO    Prezzo 58873.92 | medie 65542.97/69610.11 trend GIU | notizie -0.43 su 135 (3 nuove, 3 da Claude) | 0.1s
+15/11 02:45:45 INFO       (-0.8 r1.0 claude) Bitcoin Falls Below $63,000 to Three-Month Low; 318,700 Traders Liquidated in 24 Hours, $1.9 Billion Wiped Out
+15/11 02:45:45 INFO       (-1.0 r1.0 claude) Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend
+15/11 02:45:45 INFO       (-0.8 r1.0 claude) Bitcoin Falls Below $64,000 as ¥170 Billion ETF Outflows and ¥110 Billion in Long Liquidations Weigh on Prices
+15/11 02:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista

@@ -61,3 +61,10 @@
 15/11 01:45:46 INFO       (-1.0 r1.0 claude) Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend
 15/11 01:45:46 INFO       (-0.7 r0.9 claude) Binance Liquidations Near $800 Million as Bitcoin Sinks - The Defiant
 15/11 01:45:46 INFO    -> ATTENDI: trend orario non rialzista
+15/11 02:45:45 INFO    === btc_intermedio (BTC-EUR) ===
+15/11 02:45:45 INFO    Trend superiore (ONE_DAY): GIU
+15/11 02:45:45 INFO    Prezzo 58873.92 | medie 59670.68/61241.34 trend GIU | notizie -0.46 su 87 (3 nuove, 3 da Claude) | 0.4s
+15/11 02:45:45 INFO       (-0.8 r1.0 claude) Bitcoin Falls Below $63,000 to Three-Month Low; 318,700 Traders Liquidated in 24 Hours, $1.9 Billion Wiped Out
+15/11 02:45:45 INFO       (-0.8 r1.0 claude) Bitcoin Falls Below $64,000 as ¥170 Billion ETF Outflows and ¥110 Billion in Long Liquidations Weigh on Prices
+15/11 02:45:45 INFO       (-0.7 r1.0 claude) Bitcoin drops 6% to $64,118 and revisits its June floor - 24/7 Wall St.
+15/11 02:45:45 INFO    -> ATTENDI: trend orario non rialzista
