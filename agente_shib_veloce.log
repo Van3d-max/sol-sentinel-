@@ -553,3 +553,9 @@
 15/11 16:46:32 INFO    === shib_veloce (SHIB-EUR) ===
 15/11 16:46:33 INFO    Prezzo 3.55e-06 | medie 3.57444e-06/3.56286e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.2s
 15/11 16:46:33 INFO    -> ATTENDI: obiettivo +1.93% sotto il minimo +2.20% (commissioni)
+15/11 17:01:31 INFO    === shib_veloce (SHIB-EUR) ===
+15/11 17:01:31 INFO    Prezzo 3.54e-06 | medie 3.56889e-06/3.56333e-06 trend SU | notizie -0.30 su 21 (1 nuove, 1 da Claude) | 0.3s
+15/11 17:01:31 INFO       (-0.4 r1.0 claude) Shiba Inu price hits a death cross, trading nea... - Pluang
+15/11 17:01:31 INFO       (-0.4 r1.0 claude) Shiba Inu price: first SHIB death cross in 14 months - CryptoTicker.io
+15/11 17:01:31 INFO       (-0.6 r1.0 claude) Shiba Inu hits death cross after 14 months, pri... - Pluang
+15/11 17:01:31 INFO    -> ATTENDI: notizie sotto la soglia (-0.30)
