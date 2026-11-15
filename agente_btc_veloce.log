@@ -418,3 +418,9 @@
 15/11 11:01:11 INFO       (-0.8 r0.9 claude) Bitcoin falls to four-month low near $62K as crypto selloff deepens - TradingView
 15/11 11:01:11 INFO       (-1.0 r1.0 claude) Bitcoin Hits Four-Month Low as ETF Outflows Persist - The Defiant
 15/11 11:01:11 INFO    -> ATTENDI: notizia shock: Bitcoin falls to four-month low near $62K as crypto selloff deepens
+15/11 11:15:45 INFO    === btc_veloce (BTC-EUR) ===
+15/11 11:15:46 INFO    Prezzo 59460.57 | medie 59626.72/59011.70 trend SU | notizie -0.46 su 88 (5 nuove, 5 da Claude) | 0.2s
+15/11 11:15:46 INFO       (-1.0 r1.0 claude) Bitcoin falls to four-month low near $62K as crypto selloff deepens
+15/11 11:15:46 INFO       (-0.7 r1.0 claude) Bitcoin Wobbles Near $65K After Weekend Plunge as ETF Outflows Top $1.9 Billion - finance.biggo.com
+15/11 11:15:46 INFO       (-0.8 r0.9 claude) Bitcoin falls to four-month low near $62K as crypto selloff deepens - TradingView
+15/11 11:15:46 INFO    -> ATTENDI: notizia shock: Bitcoin Wobbles Near $65K After Weekend Plunge as ETF Outflows Top $1.9 Billion 
