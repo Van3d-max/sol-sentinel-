@@ -1042,3 +1042,9 @@
 16/11 13:15:52 INFO       (-0.8 r0.9 claude) Bitcoin Prices Tumble and Bring Coinbase and Strategy Stocks Down With Them - Barron's
 16/11 13:15:52 INFO       (-0.6 r1.0 claude) Bitcoin News | Bitcoin Extends Losing Streak to Six Weeks, Trading Near $64,300 After Rebound From July Low - 
 16/11 13:15:52 INFO    -> ATTENDI: trend 15 minuti non rialzista
+16/11 13:31:12 INFO    === btc_veloce (BTC-EUR) ===
+16/11 13:31:12 INFO    Prezzo 58377.02 | medie 58334.13/58431.91 trend GIU | notizie -0.20 su 113 (8 nuove, 8 da Claude) | 0.2s
+16/11 13:31:12 INFO       (-0.8 r0.9 claude) Bitcoin Prices Tumble and Bring Coinbase and Strategy Stocks Down With Them - Barron's
+16/11 13:31:12 INFO       (-0.7 r1.0 claude) Bitcoin, Ether Slump Further - WSJ
+16/11 13:31:12 INFO       (-0.7 r0.8 claude) Morning Minute: Crypto Hits Extreme Fear as Bitcoin Plunges
+16/11 13:31:12 INFO    -> ATTENDI: trend 15 minuti non rialzista
