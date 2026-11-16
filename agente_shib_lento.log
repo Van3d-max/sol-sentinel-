@@ -298,3 +298,9 @@
 16/11 19:45:55 INFO    === shib_lento (SHIB-EUR) ===
 16/11 19:45:55 INFO    Prezzo 3.53e-06 | medie 3.875e-06/4.17567e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.1s
 16/11 19:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista
+16/11 20:46:17 INFO    === shib_lento (SHIB-EUR) ===
+16/11 20:46:17 INFO    Prezzo 3.51e-06 | medie 3.875e-06/4.17567e-06 trend GIU | notizie -0.16 su 32 (0 nuove, 0 da Claude) | 0.2s
+16/11 20:46:17 INFO       (-1.0 r1.0 claude) Shiba Inu Posts First Death Cross in 14 Months as SHIB Sinks Below $0.000004 - BigGo Finance
+16/11 20:46:17 INFO       (-1.0 r1.0 claude) Shiba Inu Death Cross Returns After 14 Months as SHIB Price Falls Below $0.000004 - KuCoin
+16/11 20:46:17 INFO       (-0.6 r1.0 claude) Shiba Inu price falls below $0.000004, lowest w... - Pluang
+16/11 20:46:17 INFO    -> ATTENDI: trend giornaliero non rialzista

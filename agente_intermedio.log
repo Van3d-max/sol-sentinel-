@@ -355,3 +355,10 @@
 16/11 19:45:50 INFO       (+0.5 r0.8 claude) NYSE owner deepens Solana ties, eyes validator role - TheStreet
 16/11 19:45:50 INFO       (+0.8 r1.0 claude) 🇺🇸 The company that owns the NYSE is bringing SOLANA into its trading infrastructure and is even considering b
 16/11 19:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+16/11 20:46:05 INFO    === intermedio (SOL-EUR) ===
+16/11 20:46:06 INFO    Trend superiore (ONE_DAY): GIU
+16/11 20:46:06 INFO    Prezzo 64.9100 | medie 64.8020/64.7514 trend SU | notizie +0.21 su 8 (0 nuove, 0 da Claude) | 0.6s
+16/11 20:46:06 INFO       (+0.6 r0.9 claude) Zelle picks Solana for ZelleUSD stablecoin and international payments
+16/11 20:46:06 INFO       (+0.3 r0.9 claude) Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About
+16/11 20:46:06 INFO       (+0.3 r0.9 claude) Solana drops ‘beta’ label after more than six years
+16/11 20:46:06 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

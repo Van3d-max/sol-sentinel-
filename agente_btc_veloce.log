@@ -1216,3 +1216,9 @@
 16/11 20:31:08 INFO       (-0.7 r1.0 claude) Glassnode: Bitcoin Drops 13% as ETF Outflows and Losses Mount - Bitbo
 16/11 20:31:08 INFO       (-0.5 r0.9 claude) Bitcoin Options Traders Brace for Slide to $60,000 After Selloff - Bloomberg.com
 16/11 20:31:08 INFO    -> ATTENDI: notizia shock: Bitcoin Falls Below $64,000 As Nvidia Turmoil Roils Tech Stocks And Crypto - For
+16/11 20:46:10 INFO    === btc_veloce (BTC-EUR) ===
+16/11 20:46:11 INFO    Prezzo 59070.51 | medie 59035.06/58910.46 trend SU | notizie -0.15 su 32 (2 nuove, 2 da Claude) | 0.4s
+16/11 20:46:11 INFO       (-0.6 r0.9 claude) Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off
+16/11 20:46:11 INFO       (-0.5 r1.0 claude) Bitcoin flashes false recovery warning as $64 billion futures frenzy masks weak demand
+16/11 20:46:11 INFO       (-0.6 r1.0 claude) Bitcoin price fails to hold $65K as US stocks drop further on AI nerves
+16/11 20:46:11 INFO    -> ATTENDI: notizie sotto la soglia (-0.15)

@@ -1209,3 +1209,9 @@
 16/11 20:31:09 INFO    Prezzo 0.8704 | medie 0.869922/0.86889 trend SU | notizie -0.13 su 1 (0 nuove, 0 da Claude) | 0.4s
 16/11 20:31:09 INFO       (-0.2 r1.0 claude) XRP’s proposed upgrade could improve trading without boosting token demand
 16/11 20:31:09 INFO    -> ATTENDI: notizie sotto la soglia (-0.13)
+16/11 20:46:15 INFO    === xrp_veloce (XRP-EUR) ===
+16/11 20:46:15 INFO    Prezzo 0.8694 | medie 0.869756/0.869362 trend SU | notizie -0.11 su 47 (5 nuove, 5 da Claude) | 0.4s
+16/11 20:46:15 INFO       (-0.6 r1.0 claude) XRP Price Prediction: Further Pain Ahead as XRP Dips to Our $0.90 Target - FXEmpire
+16/11 20:46:15 INFO       (-0.4 r1.0 claude) Ripple network milestones offer limited support as xrp faces technical pressure - Traders Union
+16/11 20:46:15 INFO       (-0.6 r1.0 claude) Here’s XRP Next Possible Bottom After Falling Below $1 - CryptoRank
+16/11 20:46:15 INFO    -> ATTENDI: notizie sotto la soglia (-0.11)
