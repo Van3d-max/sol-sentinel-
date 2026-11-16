@@ -276,3 +276,10 @@
 16/11 08:45:49 INFO       (+0.2 r1.0 claude) Grok AI XRP Price Prediction: No Cited Forecast Below $1 - Bitcoin Foundation
 16/11 08:45:49 INFO       (-0.4 r1.0 claude) XRP price prediction: Can $0.90 hold as futures leverage plunges? - Crypto News
 16/11 08:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+16/11 09:45:48 INFO    === xrp_intermedio (XRP-EUR) ===
+16/11 09:45:48 INFO    Trend superiore (ONE_DAY): GIU
+16/11 09:45:48 INFO    Prezzo 0.8581 | medie 0.87146/0.871232 trend SU | notizie -0.19 su 29 (1 nuove, 1 da Claude) | 0.2s
+16/11 09:45:48 INFO       (-0.7 r1.0 claude) XRP Price Forecast: Pro-Ripple Lawyer Flags 5 Reasons Behind Crash as Bears Test 2-Year Lows - CoinGape
+16/11 09:45:48 INFO       (-0.6 r0.9 claude) XRP Treasury Giant Evernorth Records $271M Asset Impairment as 346M Tokens Face Market Selloff - Coinpaper
+16/11 09:45:48 INFO       (+0.3 r0.9 claude) Wall Street Giant Reveals a $440 Million XRP Stash, Yet the Price Is Below $1. Why? - BeInCrypto
+16/11 09:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
