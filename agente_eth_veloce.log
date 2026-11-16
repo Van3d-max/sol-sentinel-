@@ -1052,3 +1052,9 @@
 16/11 13:45:50 INFO       (-0.5 r0.5 claude) Is another crypto winter upon us? Why Bitcoin, XRP, and Ethereum fell more than 20% in a month - Fast Company
 16/11 13:45:50 INFO       (-0.5 r0.6 claude) ethereum:native made another 23% drop since the last post, a - KuCoin
 16/11 13:45:50 INFO    -> ATTENDI: trend 15 minuti non rialzista
+16/11 14:01:22 INFO    === eth_veloce (ETH-EUR) ===
+16/11 14:01:23 INFO    Prezzo 1636.53 | medie 1633.73/1635.71 trend GIU | notizie -0.00 su 61 (1 nuove, 1 da Claude) | 0.3s
+16/11 14:01:23 INFO       (-0.5 r0.9 claude) Ethereum Price Prediction: ETH Drops 64% From Record High as $1,700 Becomes Critical - Coinpaper
+16/11 14:01:23 INFO       (+0.3 r0.9 claude) VITALIK BUTERIN TURNS BULLISH ON QUANTUM-SAFE ETHEREUM! #Eth - KuCoin
+16/11 14:01:23 INFO       (-0.5 r0.5 claude) Is another crypto winter upon us? Why Bitcoin, XRP, and Ethereum fell more than 20% in a month - Fast Company
+16/11 14:01:23 INFO    -> ATTENDI: trend 15 minuti non rialzista
