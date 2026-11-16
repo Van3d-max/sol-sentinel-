@@ -1078,3 +1078,9 @@
 16/11 14:46:02 INFO       (-0.7 r1.0 claude) Bitcoin sinks to under $65K, pulling down crypto names (BTC-USD:Cryptocurrency) - Seeking Alpha
 16/11 14:46:02 INFO       (-0.8 r1.0 claude) Bitcoin Drops to $64,000 After Brutal Weekend Selloff: What Is Going On? - Benzinga
 16/11 14:46:02 INFO    -> ATTENDI: trend 15 minuti non rialzista
+16/11 15:01:25 INFO    === btc_veloce (BTC-EUR) ===
+16/11 15:01:25 INFO    Prezzo 59060.98 | medie 58525.72/58501.19 trend SU | notizie -0.30 su 118 (7 nuove, 7 da Claude) | 0.2s
+16/11 15:01:25 INFO       (-0.8 r1.0 claude) Bitcoin falls as low as $62,000 as forced liquidations mount - Quartz
+16/11 15:01:25 INFO       (-0.7 r1.0 claude) Bitcoin sinks to under $65K, pulling down crypto names - TradingView
+16/11 15:01:25 INFO       (-0.7 r1.0 claude) Bitcoin sinks to under $65K, pulling down crypto names (BTC-USD:Cryptocurrency) - Seeking Alpha
+16/11 15:01:25 INFO    -> ATTENDI: notizia shock: Bitcoin falls as low as $62,000 as forced liquidations mount - Quartz
