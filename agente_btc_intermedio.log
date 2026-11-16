@@ -292,3 +292,10 @@
 16/11 10:45:53 INFO       (-0.9 r0.9 claude) Bitcoin Price Plunges Below $65,000 – What’s Triggering the Massive Sell-off Across the Crypto Market? - Coinp
 16/11 10:45:53 INFO       (-0.8 r1.0 claude) Bitcoin crashes near $62,000 over weekend as crypto liquidations topped $1.8 billion
 16/11 10:45:53 INFO    -> ATTENDI: trend orario non rialzista
+16/11 11:45:47 INFO    === btc_intermedio (BTC-EUR) ===
+16/11 11:45:48 INFO    Trend superiore (ONE_DAY): GIU
+16/11 11:45:48 INFO    Prezzo 58611.71 | medie 58845.38/59116.04 trend GIU | notizie -0.25 su 109 (4 nuove, 4 da Claude) | 0.2s
+16/11 11:45:48 INFO       (-0.7 r1.0 claude) Bitcoin Falls to $64,000 as Rate Fears Grip the Market - www.trendingtopics.eu
+16/11 11:45:48 INFO       (-0.6 r0.9 claude) Cryptocurrency Stocks Fall in Premarket Trading as Bitcoin Drops Towards $64,600 - Yahoo Finance
+16/11 11:45:48 INFO       (-0.6 r1.0 claude) Crypto Today: Bitcoin, Ethereum, XRP come under heavier selling pressure amid ETF outflows - www.tmgm.com
+16/11 11:45:48 INFO    -> ATTENDI: trend orario non rialzista

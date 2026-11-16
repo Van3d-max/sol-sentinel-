@@ -290,3 +290,10 @@
 16/11 10:45:56 INFO       (-0.7 r1.0 claude) XRP Price Forecast: Pro-Ripple Lawyer Flags 5 Reasons Behind Crash as Bears Test 2-Year Lows - CoinGape
 16/11 10:45:56 INFO       (-0.6 r0.9 claude) XRP Treasury Giant Evernorth Records $271M Asset Impairment as 346M Tokens Face Market Selloff - Coinpaper
 16/11 10:45:56 INFO    -> ATTENDI: trend orario non rialzista
+16/11 11:45:49 INFO    === xrp_intermedio (XRP-EUR) ===
+16/11 11:45:50 INFO    Trend superiore (ONE_DAY): GIU
+16/11 11:45:50 INFO    Prezzo 0.8687 | medie 0.87006/0.87002 trend SU | notizie -0.32 su 37 (3 nuove, 3 da Claude) | 0.2s
+16/11 11:45:50 INFO       (-0.9 r1.0 claude) MARKET ANALYSIS | XRP Crashes to 2-Year Low as Crypto Liquid - KuCoin
+16/11 11:45:50 INFO       (-0.7 r0.9 claude) XRP Price Forecast: Pro-Ripple Lawyer Flags 5 Reasons Behind Crash as Bears Test 2-Year Lows - Cryptonews.net
+16/11 11:45:50 INFO       (-0.5 r1.0 claude) XRP Price Prediction: XRP Plunges 26% in a Month, Crashing to $0.89 - Coinpaper
+16/11 11:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
