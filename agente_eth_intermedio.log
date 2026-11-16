@@ -235,3 +235,10 @@
 16/11 02:45:41 INFO       (-0.7 r0.9 claude) BitMine (NASDAQ: BMNR) Sits On $2.5 Billion Unrealized Loss As Ethereum Slides To July Lows And Crash Warnings
 16/11 02:45:41 INFO       (-0.4 r0.5 claude) Crypto Markets Today, November 15, 2026: Bitcoin Rebounds From $62,000 as Ethereum, Solana Slide - Eurasia Bus
 16/11 02:45:41 INFO    -> ATTENDI: trend orario non rialzista
+16/11 03:45:43 INFO    === eth_intermedio (ETH-EUR) ===
+16/11 03:45:43 INFO    Trend superiore (ONE_DAY): GIU
+16/11 03:45:43 INFO    Prezzo 1653.87 | medie 1652.45/1666.37 trend GIU | notizie -0.01 su 39 (2 nuove, 2 da Claude) | 0.4s
+16/11 03:45:43 INFO       (+0.4 r1.0 claude) Ethereum (ETH) Price Prediction: $1,700 Support Holds as Falling Exchange Reserves Strengthen the Recovery Cas
+16/11 03:45:43 INFO       (+0.7 r0.9 claude) Ethereum rises over 5% as outflows ease and oversold conditions hint at rebound - Traders Union
+16/11 03:45:43 INFO       (-0.7 r0.9 claude) BitMine (NASDAQ: BMNR) Sits On $2.5 Billion Unrealized Loss As Ethereum Slides To July Lows And Crash Warnings
+16/11 03:45:43 INFO    -> ATTENDI: trend orario non rialzista
