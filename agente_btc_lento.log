@@ -220,3 +220,9 @@
 16/11 05:45:50 INFO       (-0.7 r1.0 claude) Weekend - Bitcoin fell to four-month low near $62,000 as crypto liquidations top $2 billion - investingLive
 16/11 05:45:50 INFO       (-0.5 r1.0 claude) Bitcoin pinned below $65k as crypto sentiment dithers, ETF outflows persist - Investing.com
 16/11 05:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista
+16/11 06:45:50 INFO    === btc_lento (BTC-EUR) ===
+16/11 06:45:50 INFO    Prezzo 58660.39 | medie 64701.01/69168.02 trend GIU | notizie -0.24 su 105 (2 nuove, 2 da Claude) | 0.1s
+16/11 06:45:50 INFO       (-0.6 r1.0 claude) Bitcoin may drop 40% or more as it nears technical warning level, strategist says - CNBC
+16/11 06:45:50 INFO       (-0.6 r1.0 claude) Bitcoin pinned below $65k as crypto sentiment dithers, ETF outflows persist - Yahoo Finance
+16/11 06:45:50 INFO       (-0.6 r1.0 claude) US Spot Bitcoin ETFs See $1.065 Billion in Outflows Last Week, Marking Third Straight Week of Withdrawals - bl
+16/11 06:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista
