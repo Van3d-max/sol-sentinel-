@@ -2459,3 +2459,9 @@
 16/11 10:01:27 INFO       (-0.7 r0.9 claude) Solana Price Forecast: SOL drops to a four-month low as ETF outflows extend to six straight weeks - FXStreet
 16/11 10:01:27 INFO       (-0.4 r0.9 claude) Solana spot ETFs see $32M outflows in a week, s... - Pluang
 16/11 10:01:27 INFO    -> ATTENDI: trend giornaliero non rialzista
+16/11 11:01:20 INFO    === lenta (SOL-EUR) ===
+16/11 11:01:20 INFO    Prezzo 65.1700 | medie 74.0340/83.9270 trend GIU | notizie +0.01 su 61 (1 nuove, 1 da Claude) | 0.1s
+16/11 11:01:20 INFO       (-0.7 r0.9 claude) Four-month low for SOL: Solana Price Forecast as ETF outflows reach six consecutive weeks - www.tmgm.com
+16/11 11:01:20 INFO       (-0.7 r0.9 claude) Solana Price Forecast: SOL drops to a four-month low as ETF outflows extend to six straight weeks - FXStreet
+16/11 11:01:20 INFO       (+0.3 r0.8 claude) CoW Swap launches alpha on Solana with USDC and wSOL trading, waiving fees for 12 months - Pluang
+16/11 11:01:20 INFO    -> ATTENDI: trend giornaliero non rialzista
