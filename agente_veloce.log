@@ -9072,3 +9072,9 @@
 16/11 11:01:20 INFO       (+0.3 r0.8 claude) CoW Swap launches alpha on Solana with USDC and wSOL trading, waiving fees for 12 months - Pluang
 16/11 11:01:20 INFO       (+0.2 r0.9 claude) Solana drops the mainnet beta label and introduces Solana 1.0 - Crypto Briefing
 16/11 11:01:20 INFO    -> ATTENDI: obiettivo +1.60% sotto il minimo +2.20% (commissioni)
+16/11 11:15:52 INFO    === veloce (SOL-EUR) ===
+16/11 11:15:52 INFO    Prezzo 65.1000 | medie 64.5878/64.5095 trend SU | notizie -0.04 su 48 (3 nuove, 3 da Claude) | 0.2s
+16/11 11:15:52 INFO       (-0.4 r0.8 claude) Solana Breakpoint Warning Follows Wallet-Theft Claim - The Defiant
+16/11 11:15:52 INFO       (-0.3 r0.9 claude) Solana’s stablecoin market shrinks $919 million as USDC grows
+16/11 11:15:52 INFO       (-0.7 r0.9 claude) Four-month low for SOL: Solana Price Forecast as ETF outflows reach six consecutive weeks - www.tmgm.com
+16/11 11:15:52 INFO    -> ATTENDI: notizie sotto la soglia (-0.04)
