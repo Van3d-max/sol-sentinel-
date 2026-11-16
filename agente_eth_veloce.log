@@ -1254,3 +1254,9 @@
 16/11 21:46:00 INFO       (+0.4 r1.0 claude) Bitmine adds 7,653 ETH as holdings reach 6.08 million - Crypto News
 16/11 21:46:00 INFO       (-0.7 r1.0 claude) Ethereum price falls 14% as four-year support comes into focus - Crypto News
 16/11 21:46:00 INFO    -> ATTENDI: obiettivo +1.40% sotto il minimo +2.20% (commissioni)
+16/11 22:01:14 INFO    === eth_veloce (ETH-EUR) ===
+16/11 22:01:14 INFO    Prezzo 1664.61 | medie 1657.19/1655.63 trend SU | notizie +0.03 su 83 (3 nuove, 3 da Claude) | 0.3s
+16/11 22:01:14 INFO       (+0.4 r1.0 claude) Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump
+16/11 22:01:14 INFO       (+0.4 r1.0 claude) Bitmine adds 7,653 ETH as holdings reach 6.08 million - Crypto News
+16/11 22:01:14 INFO       (-0.7 r1.0 claude) Ethereum price falls 14% as four-year support comes into focus - Crypto News
+16/11 22:01:14 INFO    -> ATTENDI: obiettivo +1.36% sotto il minimo +2.20% (commissioni)
