@@ -304,3 +304,10 @@
 16/11 12:46:03 INFO       (-0.9 r1.0 claude) MARKET ANALYSIS | XRP Crashes to 2-Year Low as Crypto Liquid - KuCoin
 16/11 12:46:03 INFO       (-0.7 r0.9 claude) XRP Price Forecast: Pro-Ripple Lawyer Flags 5 Reasons Behind Crash as Bears Test 2-Year Lows - Cryptonews.net
 16/11 12:46:03 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+16/11 13:45:56 INFO    === xrp_intermedio (XRP-EUR) ===
+16/11 13:45:57 INFO    Trend superiore (ONE_DAY): GIU
+16/11 13:45:57 INFO    Prezzo 0.8631 | medie 0.869795/0.868652 trend SU | notizie -0.27 su 40 (1 nuove, 1 da Claude) | 0.3s
+16/11 13:45:57 INFO       (-0.7 r1.0 claude) XRP Loses $1 After 12% Weekly Crash: What Is Going On? - Benzinga
+16/11 13:45:57 INFO       (-0.9 r1.0 claude) MARKET ANALYSIS | XRP Crashes to 2-Year Low as Crypto Liquid - KuCoin
+16/11 13:45:57 INFO       (-0.6 r0.9 claude) Ripple Price Forecast: XRP’s Decline Gathers Pace Below $1.00 as Retail Participation Wanes - www.tmgm.com
+16/11 13:45:57 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

@@ -305,3 +305,10 @@
 16/11 12:45:50 INFO       (-0.3 r0.8 claude) Ethereum to $1,000? Peter Schiff Warns of ‘Black Monday’ for Tom Lee’s Bitmine - CCN.com
 16/11 12:45:50 INFO       (+0.4 r0.7 claude) South Korea’s Toss to launch Ethereum, USDT, USDC wallet for 30M users - Crypto News
 16/11 12:45:50 INFO    -> ATTENDI: trend orario non rialzista
+16/11 13:45:50 INFO    === eth_intermedio (ETH-EUR) ===
+16/11 13:45:50 INFO    Trend superiore (ONE_DAY): GIU
+16/11 13:45:50 INFO    Prezzo 1638.26 | medie 1648.04/1649.37 trend GIU | notizie -0.02 su 60 (1 nuove, 1 da Claude) | 0.4s
+16/11 13:45:50 INFO       (-0.5 r0.9 claude) Ethereum Price Prediction: ETH Drops 64% From Record High as $1,700 Becomes Critical - Coinpaper
+16/11 13:45:50 INFO       (-0.5 r0.5 claude) Is another crypto winter upon us? Why Bitcoin, XRP, and Ethereum fell more than 20% in a month - Fast Company
+16/11 13:45:50 INFO       (-0.5 r0.6 claude) ethereum:native made another 23% drop since the last post, a - KuCoin
+16/11 13:45:50 INFO    -> ATTENDI: trend orario non rialzista

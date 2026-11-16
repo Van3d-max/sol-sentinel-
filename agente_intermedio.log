@@ -306,3 +306,10 @@
 16/11 12:45:48 INFO       (-0.4 r0.9 claude) Solana’s stablecoin market shrinks $919 million as USDC grows - CryptoSlate
 16/11 12:45:48 INFO       (+0.3 r0.7 claude) Bitso's Mexican Peso Stablecoin MXNB Heads to Solana - The Defiant
 16/11 12:45:48 INFO    -> ATTENDI: trend orario non rialzista
+16/11 13:45:48 INFO    === intermedio (SOL-EUR) ===
+16/11 13:45:48 INFO    Trend superiore (ONE_DAY): GIU
+16/11 13:45:48 INFO    Prezzo 64.4300 | medie 64.9920/65.1284 trend GIU | notizie +0.10 su 63 (1 nuove, 1 da Claude) | 0.4s
+16/11 13:45:48 INFO       (-0.8 r1.0 claude) Solana price drops to four-month low as ETF outflows hit 6 weeks - Crypto News
+16/11 13:45:48 INFO       (+0.4 r1.0 claude) Solana upgrades protocol to version 1.0, ending 'mainnet beta' label with faster transaction finality. - Pluan
+16/11 13:45:48 INFO       (+0.4 r1.0 claude) Solana drops beta label after more than six years — CoinDesk - UA.NEWS
+16/11 13:45:48 INFO    -> ATTENDI: trend orario non rialzista

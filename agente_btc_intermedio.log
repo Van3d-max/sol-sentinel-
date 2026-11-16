@@ -306,3 +306,10 @@
 16/11 12:46:02 INFO       (-0.8 r1.0 claude) Live updates: Bitcoin holding weekend plunge as November losses deepen to 17% - CoinDesk
 16/11 12:46:02 INFO       (-0.7 r0.9 claude) Bitcoin Price Today: BTC Loses $65K Support: CZ Weighs Anthropic IPO and ETF Outflows - Brave New Coin
 16/11 12:46:02 INFO    -> ATTENDI: trend orario non rialzista
+16/11 13:45:54 INFO    === btc_intermedio (BTC-EUR) ===
+16/11 13:45:55 INFO    Trend superiore (ONE_DAY): GIU
+16/11 13:45:55 INFO    Prezzo 58426.74 | medie 58797.48/59005.37 trend GIU | notizie -0.23 su 117 (14 nuove, 14 da Claude) | 0.4s
+16/11 13:45:55 INFO       (-0.8 r0.9 claude) Bitcoin Prices Tumble and Bring Coinbase and Strategy Stocks Down With Them - Barron's
+16/11 13:45:55 INFO       (-0.7 r1.0 claude) Bitcoin, Ether Slump Further - WSJ
+16/11 13:45:55 INFO       (-0.6 r1.0 claude) Bitcoin slides to $62,000 as analysts eye $60,000 as the line in the sand - Crypto Briefing
+16/11 13:45:55 INFO    -> ATTENDI: trend orario non rialzista

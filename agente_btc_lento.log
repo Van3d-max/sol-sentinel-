@@ -262,3 +262,9 @@
 16/11 12:46:02 INFO       (-0.8 r0.9 claude) Bitcoin Prices Tumble and Bring Coinbase and Strategy Stocks Down With Them - Barron's
 16/11 12:46:02 INFO       (-0.7 r0.9 claude) Bitcoin Price Today: BTC Loses $65K Support: CZ Weighs Anthropic IPO and ETF Outflows - Brave New Coin
 16/11 12:46:02 INFO    -> ATTENDI: trend giornaliero non rialzista
+16/11 13:45:55 INFO    === btc_lento (BTC-EUR) ===
+16/11 13:45:55 INFO    Prezzo 58426.74 | medie 64701.01/69168.02 trend GIU | notizie -0.24 su 124 (14 nuove, 14 da Claude) | 0.1s
+16/11 13:45:55 INFO       (-0.8 r0.9 claude) Bitcoin Prices Tumble and Bring Coinbase and Strategy Stocks Down With Them - Barron's
+16/11 13:45:55 INFO       (-0.7 r1.0 claude) Bitcoin, Ether Slump Further - WSJ
+16/11 13:45:55 INFO       (-0.6 r1.0 claude) Bitcoin slides to $62,000 as analysts eye $60,000 as the line in the sand - Crypto Briefing
+16/11 13:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista
