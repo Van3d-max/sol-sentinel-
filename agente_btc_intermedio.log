@@ -271,3 +271,10 @@
 16/11 07:45:24 INFO       (-0.6 r1.0 claude) Bitcoin may drop 40% or more as it nears technical warning level, strategist says - CNBC
 16/11 07:45:24 INFO       (-0.5 r1.0 claude) Bitcoin Below $65,000: Why the $60,000 Support Zone Matters - Moomoo
 16/11 07:45:24 INFO    -> ATTENDI: trend orario non rialzista
+16/11 08:45:48 INFO    === btc_intermedio (BTC-EUR) ===
+16/11 08:45:48 INFO    Trend superiore (ONE_DAY): GIU
+16/11 08:45:48 INFO    Prezzo 58583.91 | medie 58973.13/59263.64 trend GIU | notizie -0.24 su 99 (6 nuove, 6 da Claude) | 0.2s
+16/11 08:45:48 INFO       (-0.6 r1.0 claude) Bitcoin Fear Index Falls to 10; Prolonged Weakness Could Test $58,000 - bloomingbit
+16/11 08:45:48 INFO       (-0.6 r0.9 claude) Cryptocurrency Exchange Bitfinex Expects Bitcoin Decline to Continue Due to Insufficient Clearing of Leveraged
+16/11 08:45:48 INFO       (-0.5 r1.0 claude) Bitcoin’s Fall to $62,000 Sparks Market Manipulation Claims - BeInCrypto
+16/11 08:45:48 INFO    -> ATTENDI: trend orario non rialzista

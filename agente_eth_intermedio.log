@@ -270,3 +270,10 @@
 16/11 07:45:20 INFO       (+0.4 r1.0 claude) Ethereum (ETH) Price Prediction: $1,700 Support Holds as Falling Exchange Reserves Strengthen the Recovery Cas
 16/11 07:45:20 INFO       (-0.3 r1.0 claude) BitMine Marks 6.07 Million ETH at $2,234. The Market Is Paying $1,822 - Cryptonews.net
 16/11 07:45:20 INFO    -> ATTENDI: trend orario non rialzista
+16/11 08:45:45 INFO    === eth_intermedio (ETH-EUR) ===
+16/11 08:45:45 INFO    Trend superiore (ONE_DAY): GIU
+16/11 08:45:45 INFO    Prezzo 1641.35 | medie 1652.43/1658.45 trend GIU | notizie +0.02 su 49 (2 nuove, 2 da Claude) | 0.2s
+16/11 08:45:45 INFO       (-0.4 r1.0 claude) Ethereum hit by $2B crypto liquidation wave: Can oversold conditions spark a rebound? - Traders Union
+16/11 08:45:45 INFO       (+0.2 r1.0 claude) Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum
+16/11 08:45:45 INFO       (+0.2 r1.0 claude) Vitalik Buterin turns bullish on leanPCS in Ethereum’s EIP-8288 push - Crypto News
+16/11 08:45:45 INFO    -> ATTENDI: trend orario non rialzista

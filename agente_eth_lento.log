@@ -232,3 +232,9 @@
 16/11 07:45:21 INFO       (-0.7 r0.9 claude) BitMine (NASDAQ: BMNR) Sits On $2.5 Billion Unrealized Loss As Ethereum Slides To July Lows And Crash Warnings
 16/11 07:45:21 INFO       (+0.4 r1.0 claude) Ethereum (ETH) Price Prediction: $1,700 Support Holds as Falling Exchange Reserves Strengthen the Recovery Cas
 16/11 07:45:21 INFO    -> ATTENDI: trend giornaliero non rialzista
+16/11 08:45:45 INFO    === eth_lento (ETH-EUR) ===
+16/11 08:45:45 INFO    Prezzo 1641.35 | medie 1835.96/2005.45 trend GIU | notizie -0.05 su 69 (2 nuove, 2 da Claude) | 0.1s
+16/11 08:45:45 INFO       (-0.4 r1.0 claude) Ethereum hit by $2B crypto liquidation wave: Can oversold conditions spark a rebound? - Traders Union
+16/11 08:45:45 INFO       (+0.7 r0.9 claude) Ethereum rises over 5% as outflows ease and oversold conditions hint at rebound - Traders Union
+16/11 08:45:45 INFO       (-0.7 r0.9 claude) BitMine (NASDAQ: BMNR) Sits On $2.5 Billion Unrealized Loss As Ethereum Slides To July Lows And Crash Warnings
+16/11 08:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista
