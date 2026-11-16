@@ -214,3 +214,9 @@
 16/11 04:45:45 INFO       (-0.6 r1.0 claude) Bitcoin Plunges 13% in a Week as Market Retreats to $60,000 Level - TradingKey
 16/11 04:45:45 INFO       (-0.7 r1.0 claude) Bitcoin Falls to $62K, Its Weakest Level Since July - CoinMarketCap
 16/11 04:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista
+16/11 05:45:50 INFO    === btc_lento (BTC-EUR) ===
+16/11 05:45:50 INFO    Prezzo 58696.83 | medie 64701.01/69168.02 trend GIU | notizie -0.21 su 103 (7 nuove, 7 da Claude) | 0.2s
+16/11 05:45:50 INFO       (-0.6 r1.0 claude) US Spot Bitcoin ETFs See $1.065 Billion in Outflows Last Week, Marking Third Straight Week of Withdrawals - bl
+16/11 05:45:50 INFO       (-0.7 r1.0 claude) Weekend - Bitcoin fell to four-month low near $62,000 as crypto liquidations top $2 billion - investingLive
+16/11 05:45:50 INFO       (-0.5 r1.0 claude) Bitcoin pinned below $65k as crypto sentiment dithers, ETF outflows persist - Investing.com
+16/11 05:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista
