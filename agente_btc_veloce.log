@@ -868,3 +868,9 @@
 16/11 05:45:50 INFO       (-0.5 r1.0 claude) Bitcoin pinned below $65k as crypto sentiment dithers, ETF outflows persist - Investing.com
 16/11 05:45:50 INFO       (-0.5 r0.9 claude) Another Brutal Week Ahead for Bitcoin? 4 Catalysts Traders Can’t Ignore - CryptoPotato
 16/11 05:45:50 INFO    -> ATTENDI: trend 15 minuti non rialzista
+16/11 06:01:26 INFO    === btc_veloce (BTC-EUR) ===
+16/11 06:01:26 INFO    Prezzo 58426.93 | medie 58801.61/58887.37 trend GIU | notizie -0.18 su 88 (4 nuove, 4 da Claude) | 0.3s
+16/11 06:01:26 INFO       (-0.6 r1.0 claude) US Spot Bitcoin ETFs See $1.065 Billion in Outflows Last Week, Marking Third Straight Week of Withdrawals - bl
+16/11 06:01:26 INFO       (-0.6 r1.0 claude) Bitcoin Price Forecast: ETF outflows hit $1.07 billion as BTC struggles to recover from oversold levels - FXSt
+16/11 06:01:26 INFO       (-0.5 r1.0 claude) Bitcoin pinned below $65k as crypto sentiment dithers, ETF outflows persist - Investing.com
+16/11 06:01:26 INFO    -> ATTENDI: trend 15 minuti non rialzista
