@@ -299,3 +299,10 @@
 16/11 11:45:48 INFO       (-0.6 r0.9 claude) Cryptocurrency Stocks Fall in Premarket Trading as Bitcoin Drops Towards $64,600 - Yahoo Finance
 16/11 11:45:48 INFO       (-0.6 r1.0 claude) Crypto Today: Bitcoin, Ethereum, XRP come under heavier selling pressure amid ETF outflows - www.tmgm.com
 16/11 11:45:48 INFO    -> ATTENDI: trend orario non rialzista
+16/11 12:46:01 INFO    === btc_intermedio (BTC-EUR) ===
+16/11 12:46:02 INFO    Trend superiore (ONE_DAY): GIU
+16/11 12:46:02 INFO    Prezzo 58312.81 | medie 58827.44/59062.74 trend GIU | notizie -0.26 su 110 (8 nuove, 8 da Claude) | 0.2s
+16/11 12:46:02 INFO       (-0.8 r0.9 claude) Bitcoin Prices Tumble and Bring Coinbase and Strategy Stocks Down With Them - Barron's
+16/11 12:46:02 INFO       (-0.8 r1.0 claude) Live updates: Bitcoin holding weekend plunge as November losses deepen to 17% - CoinDesk
+16/11 12:46:02 INFO       (-0.7 r0.9 claude) Bitcoin Price Today: BTC Loses $65K Support: CZ Weighs Anthropic IPO and ETF Outflows - Brave New Coin
+16/11 12:46:02 INFO    -> ATTENDI: trend orario non rialzista

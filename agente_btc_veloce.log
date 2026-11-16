@@ -1024,3 +1024,9 @@
 16/11 12:31:10 INFO       (-0.6 r0.9 claude) Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.
 16/11 12:31:10 INFO       (-0.5 r1.0 claude) Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why. - CoinDesk
 16/11 12:31:10 INFO    -> ATTENDI: trend 15 minuti non rialzista
+16/11 12:46:01 INFO    === btc_veloce (BTC-EUR) ===
+16/11 12:46:01 INFO    Prezzo 58312.81 | medie 58478.68/58525.84 trend GIU | notizie -0.26 su 110 (8 nuove, 8 da Claude) | 0.2s
+16/11 12:46:01 INFO       (-0.8 r0.9 claude) Bitcoin Prices Tumble and Bring Coinbase and Strategy Stocks Down With Them - Barron's
+16/11 12:46:01 INFO       (-0.8 r1.0 claude) Live updates: Bitcoin holding weekend plunge as November losses deepen to 17% - CoinDesk
+16/11 12:46:01 INFO       (-0.7 r0.9 claude) Bitcoin Price Today: BTC Loses $65K Support: CZ Weighs Anthropic IPO and ETF Outflows - Brave New Coin
+16/11 12:46:01 INFO    -> ATTENDI: trend 15 minuti non rialzista

@@ -256,3 +256,9 @@
 16/11 11:45:48 INFO       (-0.8 r1.0 claude) Bitcoin crashes near $62,000 over weekend as crypto liquidations topped $1.8 billion
 16/11 11:45:48 INFO       (-0.7 r1.0 claude) Bitcoin Falls to $64,000 as Rate Fears Grip the Market - www.trendingtopics.eu
 16/11 11:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista
+16/11 12:46:02 INFO    === btc_lento (BTC-EUR) ===
+16/11 12:46:02 INFO    Prezzo 58312.81 | medie 64701.01/69168.02 trend GIU | notizie -0.26 su 121 (8 nuove, 8 da Claude) | 0.1s
+16/11 12:46:02 INFO       (-0.8 r1.0 claude) Live updates: Bitcoin holding weekend plunge as November losses deepen to 17% - CoinDesk
+16/11 12:46:02 INFO       (-0.8 r0.9 claude) Bitcoin Prices Tumble and Bring Coinbase and Strategy Stocks Down With Them - Barron's
+16/11 12:46:02 INFO       (-0.7 r0.9 claude) Bitcoin Price Today: BTC Loses $65K Support: CZ Weighs Anthropic IPO and ETF Outflows - Brave New Coin
+16/11 12:46:02 INFO    -> ATTENDI: trend giornaliero non rialzista
