@@ -184,3 +184,9 @@
 15/11 23:45:41 INFO       (-0.5 r0.9 claude) Ethereum slips as Fed official signals higher rates could limit liquidity - Traders Union
 15/11 23:45:41 INFO       (-0.4 r0.9 claude) Crypto: BitMine loses 8.83 billion $ on its Ethereum bet - Cointribune
 15/11 23:45:41 INFO    -> ATTENDI: trend giornaliero non rialzista
+16/11 00:45:41 INFO    === eth_lento (ETH-EUR) ===
+16/11 00:45:41 INFO    Prezzo 1640.93 | medie 1835.96/2005.45 trend GIU | notizie -0.23 su 65 (0 nuove, 0 da Claude) | 0.1s
+16/11 00:45:41 INFO       (+0.7 r0.9 claude) Ethereum rises over 5% as outflows ease and oversold conditions hint at rebound - Traders Union
+16/11 00:45:41 INFO       (-0.7 r0.9 claude) BitMine (NASDAQ: BMNR) Sits On $2.5 Billion Unrealized Loss As Ethereum Slides To July Lows And Crash Warnings
+16/11 00:45:41 INFO       (-0.5 r0.9 claude) Ethereum slips as Fed official signals higher rates could limit liquidity - Traders Union
+16/11 00:45:41 INFO    -> ATTENDI: trend giornaliero non rialzista

@@ -184,3 +184,9 @@
 15/11 23:45:44 INFO       (-0.8 r0.8 claude) Bitcoin's Weekend Plunge Wipes $130 Billion Off Crypto Market Cap; $1.7 Billion in Forced Liquidations - BigGo
 15/11 23:45:44 INFO       (-0.6 r0.9 claude) US sellers drive Bitcoin crash, Jensen plots comeback: Hodler’s Digest
 15/11 23:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista
+16/11 00:45:43 INFO    === btc_lento (BTC-EUR) ===
+16/11 00:45:43 INFO    Prezzo 58756.07 | medie 64701.01/69168.02 trend GIU | notizie -0.27 su 100 (4 nuove, 4 da Claude) | 0.1s
+16/11 00:45:43 INFO       (-0.7 r1.0 claude) Bitcoin Falls to $62K, Its Weakest Level Since July - CoinMarketCap
+16/11 00:45:43 INFO       (-0.6 r1.0 claude) US Spot Bitcoin ETFs See $2.35 Billion in Outflows Over Two Weeks, Led by BlackRock Fund - bloomingbit
+16/11 00:45:43 INFO       (-0.9 r1.0 claude) Bitcoin Price Prediction: Weekend Panic Sends BTC To $62,000 As Margin Calls Bite - Coinpedia
+16/11 00:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista
