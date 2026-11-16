@@ -946,3 +946,9 @@
 16/11 09:01:20 INFO       (-0.6 r1.0 claude) Bitcoin Fear Index Falls to 10; Prolonged Weakness Could Test $58,000 - bloomingbit
 16/11 09:01:20 INFO       (-0.6 r0.9 claude) Cryptocurrency Exchange Bitfinex Expects Bitcoin Decline to Continue Due to Insufficient Clearing of Leveraged
 16/11 09:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
+16/11 09:15:48 INFO    === btc_veloce (BTC-EUR) ===
+16/11 09:15:48 INFO    Prezzo 58127.95 | medie 58625.43/58663.72 trend GIU | notizie -0.27 su 102 (3 nuove, 3 da Claude) | 0.2s
+16/11 09:15:48 INFO       (-0.8 r1.0 claude) Bitcoin crashes near $62,000 over weekend as crypto liquidations topped $1.8 billion
+16/11 09:15:48 INFO       (-0.6 r0.9 claude) Bitcoin Whales Face Record $8B in Paper Losses as Sentiment Slumps - CCN.com
+16/11 09:15:48 INFO       (-0.6 r1.0 claude) Bitcoin Fear Index Falls to 10; Prolonged Weakness Could Test $58,000 - bloomingbit
+16/11 09:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
