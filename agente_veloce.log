@@ -9238,3 +9238,11 @@
 16/11 17:45:50 INFO       rialzista: Il prezzo (64.8) è sopra sia la media a 10 periodi (64.56) sia quella a 30 (64.53), e le notizie su adozione istituzionale da parte di ICE e Zelle danno un punteggio positivo (0.255).
 16/11 17:45:50 INFO       ribassista: Il prezzo supera le medie di appena lo 0,4%, le due medie sono quasi piatte e quasi coincidenti, quindi non c'è un trend chiaro, e l'ingresso di ICE è ancora un'ipotesi ("sta considerando") mentre le notizie possono essere già scontate dal mercato.
 16/11 17:45:50 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è troppo debole, con il prezzo appena sopra medie quasi piatte, e il sentiment positivo si basa su annunci in parte speculativi, quindi le prove non giustificano l'acquisto.
+16/11 18:01:23 INFO    === veloce (SOL-EUR) ===
+16/11 18:01:23 INFO    Prezzo 64.4900 | medie 64.6344/64.5495 trend SU | notizie +0.25 su 93 (3 nuove, 3 da Claude) | 0.3s
+16/11 18:01:23 INFO       (+0.8 r1.0 claude) 🇺🇸 The company that owns the NYSE is bringing SOLANA into its trading infrastructure and is even considering b
+16/11 18:01:23 INFO       (+0.7 r0.9 claude) Zelle picks Solana for ZelleUSD stablecoin and international payments push - Cryptonews.net
+16/11 18:01:23 INFO       (+0.7 r0.9 claude) Zelle Adopts Solana for ZelleUSD Stablecoin and Cross-Border Payments - bloomingbit
+16/11 18:01:27 INFO       rialzista: Le notizie istituzionali su Solana (ICE/NYSE come possibile validatore, Zelle che adotta SOL per ZelleUSD e pagamenti transfrontalieri) sono forti e potrebbero spingere la domanda e il prezzo verso l'alto.
+16/11 18:01:27 INFO       ribassista: Il prezzo (64,49) è sotto sia la media a 10 periodi (64,63) sia quella a 30 (64,55), quindi il trend di breve e medio termine non conferma il rialzo, e le notizie sono in gran parte annunci o intenzioni già potenzialmente scontati dal mercato.
+16/11 18:01:27 INFO    -> BLOCCATO DAL DIBATTITO: Il punteggio delle notizie è moderato (0,247) e il prezzo non ha ancora superato le medie mobili, quindi le prove a favore dell'acquisto sono insufficienti; conviene attendere una chiusura stabilmente sopra le medie con conferma di volume.
