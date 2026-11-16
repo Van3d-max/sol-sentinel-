@@ -940,3 +940,9 @@
 16/11 08:45:48 INFO       (-0.6 r0.9 claude) Cryptocurrency Exchange Bitfinex Expects Bitcoin Decline to Continue Due to Insufficient Clearing of Leveraged
 16/11 08:45:48 INFO       (-0.5 r1.0 claude) Bitcoin’s Fall to $62,000 Sparks Market Manipulation Claims - BeInCrypto
 16/11 08:45:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
+16/11 09:01:20 INFO    === btc_veloce (BTC-EUR) ===
+16/11 09:01:20 INFO    Prezzo 58411.97 | medie 58685.57/58705.13 trend GIU | notizie -0.26 su 100 (4 nuove, 4 da Claude) | 0.3s
+16/11 09:01:20 INFO       (-0.6 r0.9 claude) Bitcoin Whales Face Record $8B in Paper Losses as Sentiment Slumps - CCN.com
+16/11 09:01:20 INFO       (-0.6 r1.0 claude) Bitcoin Fear Index Falls to 10; Prolonged Weakness Could Test $58,000 - bloomingbit
+16/11 09:01:20 INFO       (-0.6 r0.9 claude) Cryptocurrency Exchange Bitfinex Expects Bitcoin Decline to Continue Due to Insufficient Clearing of Leveraged
+16/11 09:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
