@@ -2437,3 +2437,7 @@
 16/11 06:01:23 INFO       (-0.4 r0.9 claude) Solana spot ETFs see $32M outflows in a week, s... - Pluang
 16/11 06:01:23 INFO       (+0.5 r0.9 claude) DTCC Adds Solana to Wall Street Tokenization Plans, Targeting 2027 - CryptoPotato
 16/11 06:01:23 INFO    -> ATTENDI: trend giornaliero non rialzista
+16/11 07:01:24 INFO    === lenta (SOL-EUR) ===
+16/11 07:01:24 INFO    Prezzo 64.7200 | medie 74.0340/83.9270 trend GIU | notizie -0.06 su 1 (0 nuove, 0 da Claude) | 0.2s
+16/11 07:01:24 INFO       (-0.7 r0.3 claude) Bitcoin falls to 4-month low near $62K as crypto selloff deepens
+16/11 07:01:24 INFO    -> ATTENDI: trend giornaliero non rialzista

@@ -891,3 +891,8 @@
 16/11 06:45:47 INFO       (+0.4 r1.0 claude) Ethereum (ETH) Price Prediction: $1,700 Support Holds as Falling Exchange Reserves Strengthen the Recovery Cas
 16/11 06:45:47 INFO       (-0.3 r1.0 claude) BitMine Marks 6.07 Million ETH at $2,234. The Market Is Paying $1,822 - Cryptonews.net
 16/11 06:45:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
+16/11 07:01:30 INFO    === eth_veloce (ETH-EUR) ===
+16/11 07:01:30 INFO    Prezzo 1650.33 | medie 1645.76/1649.96 trend GIU | notizie -0.02 su 2 (0 nuove, 0 da Claude) | 0.2s
+16/11 07:01:30 INFO       (-0.6 r0.9 claude) Is Ethereum the “worst asset of all time,” amid estimated $8.83 billion BitMine loss ?
+16/11 07:01:30 INFO       (-0.7 r0.3 claude) Bitcoin falls to 4-month low near $62K as crypto selloff deepens
+16/11 07:01:30 INFO    -> ATTENDI: trend 15 minuti non rialzista
