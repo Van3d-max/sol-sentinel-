@@ -1060,3 +1060,9 @@
 16/11 14:01:24 INFO       (-0.7 r1.0 claude) Bitcoin Price Trades Near $64,000 After Weekend Plunge to $62,000 - Bitcoin Magazine
 16/11 14:01:24 INFO       (-0.8 r0.9 claude) Bitcoin Prices Tumble and Bring Coinbase and Strategy Stocks Down With Them - Barron's
 16/11 14:01:24 INFO    -> ATTENDI: trend 15 minuti non rialzista
+16/11 14:15:54 INFO    === btc_veloce (BTC-EUR) ===
+16/11 14:15:54 INFO    Prezzo 58549.14 | medie 58253.49/58409.97 trend GIU | notizie -0.27 su 117 (3 nuove, 3 da Claude) | 0.3s
+16/11 14:15:54 INFO       (-0.8 r1.0 claude) Bitcoin Drops to $64,000 After Brutal Weekend Selloff: What Is Going On? - Benzinga
+16/11 14:15:54 INFO       (-0.7 r1.0 claude) Bitcoin Price Trades Near $64,000 After Weekend Plunge to $62,000 - Bitcoin Magazine
+16/11 14:15:54 INFO       (-0.8 r0.9 claude) Bitcoin Prices Tumble and Bring Coinbase and Strategy Stocks Down With Them - Barron's
+16/11 14:15:54 INFO    -> ATTENDI: trend 15 minuti non rialzista
