@@ -1128,3 +1128,9 @@
 16/11 16:31:19 INFO       rialzista: Il prezzo (1657,35) sopra la media mobile a 30 giorni (1645,69) suggerisce un trend rialzista di fondo, sostenuto dagli acquisti di ETH da parte di Bitmine e dall'accumulo tesoreria.
 16/11 16:31:19 INFO       ribassista: Il prezzo coincide con la media a 10 giorni (1657,27), il punteggio notizie è quasi neutro (0,088), e il calo del 5% di BMNR mostra che il sentiment legato a Bitmine non si traduce automaticamente in forza per ETH.
 16/11 16:31:19 INFO    -> BLOCCATO DAL DIBATTITO: Le evidenze sono deboli: il segnale di trend è modesto, il sentiment quasi neutro dipende da un solo grande detentore, e in assenza di un catalizzatore chiaro non giustifico un acquisto spot senza una tesi di rischio/rendimento definita.
+16/11 16:45:56 INFO    === eth_veloce (ETH-EUR) ===
+16/11 16:45:56 INFO    Prezzo 1654.97 | medie 1657.09/1646.30 trend SU | notizie +0.11 su 77 (14 nuove, 14 da Claude) | 0.2s
+16/11 16:45:56 INFO       (+0.6 r0.9 claude) BitMine Buys 7,653 More Ethereum, Lifting Holdings Above 6.07 Million ETH - bloomingbit
+16/11 16:45:56 INFO       (-0.5 r1.0 claude) Ethereum (ETH) Crashed 26% in a Month: Can Whales Stop the Free Fall? - CryptoRank
+16/11 16:45:56 INFO       (+0.5 r0.9 claude) Bitmine Adds 7,653 ETH as Tom Lee Defends Ethereum Fundamentals - Yahoo Finance
+16/11 16:45:56 INFO    -> ATTENDI: obiettivo +2.15% sotto il minimo +2.20% (commissioni)

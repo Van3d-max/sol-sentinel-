@@ -9206,3 +9206,9 @@
 16/11 16:31:14 INFO       rialzista: Il prezzo (64.52) è sopra sia la media a 10 periodi (64.48) sia quella a 30 (64.48), e le notizie istituzionali su ICE, Zelle e DeFi Development Corp. sono nettamente positive (punteggio 0.25).
 16/11 16:31:14 INFO       ribassista: Il prezzo è praticamente appiattito sulle medie, con uno scarto di circa 0.04 contro un ATR giornaliero di 0.56, quindi il segnale di trend è rumore, e le notizie parlano di intenzioni future ("considering") più che di catalizzatori immediati.
 16/11 16:31:14 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono deboli: il segnale tecnico è indistinguibile dal rumore con uno scarto di circa 0.04 rispetto a un ATR di 0.56, e le notizie positive non giustificano ancora un ingresso spot.
+16/11 16:45:52 INFO    === veloce (SOL-EUR) ===
+16/11 16:45:52 INFO    Prezzo 64.4600 | medie 64.4322/64.4552 trend GIU | notizie +0.26 su 84 (10 nuove, 10 da Claude) | 0.2s
+16/11 16:45:52 INFO       (+0.8 r1.0 claude) 🇺🇸 The company that owns the NYSE is bringing SOLANA into its trading infrastructure and is even considering b
+16/11 16:45:52 INFO       (+0.7 r0.9 claude) Zelle picks Solana for ZelleUSD stablecoin and international payments push - Cryptonews.net
+16/11 16:45:52 INFO       (+0.7 r0.9 claude) Zelle Adopts Solana for ZelleUSD Stablecoin and Cross-Border Payments - bloomingbit
+16/11 16:45:52 INFO    -> ATTENDI: trend 15 minuti non rialzista

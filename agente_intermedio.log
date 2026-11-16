@@ -327,3 +327,10 @@
 16/11 15:45:50 INFO       (+0.6 r0.9 claude) Zelle picks Solana for ZelleUSD stablecoin and international payments
 16/11 15:45:50 INFO       (+0.6 r0.8 claude) Zelle taps Solana for stablecoin-based international expansion - TradingView
 16/11 15:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+16/11 16:45:52 INFO    === intermedio (SOL-EUR) ===
+16/11 16:45:52 INFO    Trend superiore (ONE_DAY): GIU
+16/11 16:45:52 INFO    Prezzo 64.4600 | medie 64.9505/64.8840 trend SU | notizie +0.26 su 84 (10 nuove, 10 da Claude) | 0.3s
+16/11 16:45:52 INFO       (+0.8 r1.0 claude) 🇺🇸 The company that owns the NYSE is bringing SOLANA into its trading infrastructure and is even considering b
+16/11 16:45:52 INFO       (+0.7 r0.9 claude) Zelle picks Solana for ZelleUSD stablecoin and international payments push - Cryptonews.net
+16/11 16:45:52 INFO       (+0.7 r0.9 claude) Zelle Adopts Solana for ZelleUSD Stablecoin and Cross-Border Payments - bloomingbit
+16/11 16:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

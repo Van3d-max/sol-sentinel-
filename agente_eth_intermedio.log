@@ -326,3 +326,10 @@
 16/11 15:45:54 INFO       (-0.4 r0.8 claude) Tom Lee Says Ethereum’s Slide Ahead Of Anthropic IPO Mirrors Its Sell-Off Before SpaceX IPO - Yahoo Finance
 16/11 15:45:54 INFO       (-0.3 r0.9 claude) Ethereum Price Prediction: ETH Holds Near $1,824 as ETF Outflows Continue - FXLeaders
 16/11 15:45:54 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+16/11 16:45:56 INFO    === eth_intermedio (ETH-EUR) ===
+16/11 16:45:57 INFO    Trend superiore (ONE_DAY): GIU
+16/11 16:45:57 INFO    Prezzo 1654.97 | medie 1648.69/1645.21 trend SU | notizie +0.11 su 77 (14 nuove, 14 da Claude) | 0.4s
+16/11 16:45:57 INFO       (+0.6 r0.9 claude) BitMine Buys 7,653 More Ethereum, Lifting Holdings Above 6.07 Million ETH - bloomingbit
+16/11 16:45:57 INFO       (-0.5 r1.0 claude) Ethereum (ETH) Crashed 26% in a Month: Can Whales Stop the Free Fall? - CryptoRank
+16/11 16:45:57 INFO       (+0.5 r0.9 claude) Bitmine Adds 7,653 ETH as Tom Lee Defends Ethereum Fundamentals - Yahoo Finance
+16/11 16:45:57 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

@@ -327,3 +327,10 @@
 16/11 15:45:57 INFO       (-0.7 r1.0 claude) Bitcoin sinks to under $65K, pulling down crypto names (BTC-USD:Cryptocurrency) - Seeking Alpha
 16/11 15:45:57 INFO       (-0.6 r1.0 claude) Bitcoin’s Chart Is Flashing Red — One Strategist Sees $38,000 - Benzinga
 16/11 15:45:57 INFO    -> ATTENDI: trend orario non rialzista
+16/11 16:45:58 INFO    === btc_intermedio (BTC-EUR) ===
+16/11 16:45:59 INFO    Trend superiore (ONE_DAY): GIU
+16/11 16:45:59 INFO    Prezzo 58683.22 | medie 58773.03/58874.06 trend GIU | notizie -0.25 su 117 (6 nuove, 6 da Claude) | 0.4s
+16/11 16:45:59 INFO       (-0.6 r1.0 claude) Bitcoin price fails to hold $65K as US stocks drop further on AI nerves
+16/11 16:45:59 INFO       (-0.6 r1.0 claude) Bitcoin price fails to hold $65K as US stocks drop further on AI nerves - TradingView
+16/11 16:45:59 INFO       (-0.6 r0.9 claude) Bitcoin Traders Load Up on $60K Puts After 12% Slide - Briefs Finance
+16/11 16:45:59 INFO    -> ATTENDI: trend orario non rialzista

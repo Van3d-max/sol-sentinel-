@@ -325,3 +325,10 @@
 16/11 15:45:58 INFO       (-0.7 r1.0 claude) XRP Loses $1 After 12% Weekly Crash: What Is Going On? - Benzinga
 16/11 15:45:58 INFO       (-0.9 r1.0 claude) MARKET ANALYSIS | XRP Crashes to 2-Year Low as Crypto Liquid - KuCoin
 16/11 15:45:58 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+16/11 16:46:00 INFO    === xrp_intermedio (XRP-EUR) ===
+16/11 16:46:00 INFO    Trend superiore (ONE_DAY): GIU
+16/11 16:46:00 INFO    Prezzo 0.8669 | medie 0.8699/0.866572 trend SU | notizie -0.11 su 40 (0 nuove, 0 da Claude) | 0.3s
+16/11 16:46:00 INFO       (+0.4 r1.0 claude) Ripple's XRP rises 2.38% in one hour with $510K short liquidations on Binance. - Pluang
+16/11 16:46:00 INFO       (-0.7 r1.0 claude) XRP Loses $1 After 12% Weekly Crash: What Is Going On? - Benzinga
+16/11 16:46:00 INFO       (-0.9 r1.0 claude) MARKET ANALYSIS | XRP Crashes to 2-Year Low as Crypto Liquid - KuCoin
+16/11 16:46:00 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
