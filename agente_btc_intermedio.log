@@ -229,3 +229,10 @@
 16/11 01:45:58 INFO       (-0.7 r1.0 claude) Bitcoin Falls to $62K, Its Weakest Level Since July - CoinMarketCap
 16/11 01:45:58 INFO       (+0.4 r1.0 claude) Bitcoin Price Rebounds Above $65K After Defending $62K Support: Has BTC Found Bottom? - FXLeaders
 16/11 01:45:58 INFO    -> ATTENDI: trend orario non rialzista
+16/11 02:45:44 INFO    === btc_intermedio (BTC-EUR) ===
+16/11 02:45:44 INFO    Trend superiore (ONE_DAY): GIU
+16/11 02:45:44 INFO    Prezzo 59104.65 | medie 59050.80/59557.57 trend GIU | notizie -0.18 su 89 (4 nuove, 4 da Claude) | 0.4s
+16/11 02:45:44 INFO       (-0.7 r1.0 claude) Weekend - Bitcoin fell to four-month low near $62,000 as crypto liquidations top $2 billion - investingLive
+16/11 02:45:44 INFO       (-0.6 r1.0 claude) Bitcoin Plunges 13% in a Week as Market Retreats to $60,000 Level - TradingKey
+16/11 02:45:44 INFO       (-0.5 r0.9 claude) Bitcoin short-term holder whales face record $8B in unrealized losses - Crypto Briefing
+16/11 02:45:44 INFO    -> ATTENDI: trend orario non rialzista
