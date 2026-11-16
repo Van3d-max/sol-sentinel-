@@ -9246,3 +9246,11 @@
 16/11 18:01:27 INFO       rialzista: Le notizie istituzionali su Solana (ICE/NYSE come possibile validatore, Zelle che adotta SOL per ZelleUSD e pagamenti transfrontalieri) sono forti e potrebbero spingere la domanda e il prezzo verso l'alto.
 16/11 18:01:27 INFO       ribassista: Il prezzo (64,49) è sotto sia la media a 10 periodi (64,63) sia quella a 30 (64,55), quindi il trend di breve e medio termine non conferma il rialzo, e le notizie sono in gran parte annunci o intenzioni già potenzialmente scontati dal mercato.
 16/11 18:01:27 INFO    -> BLOCCATO DAL DIBATTITO: Il punteggio delle notizie è moderato (0,247) e il prezzo non ha ancora superato le medie mobili, quindi le prove a favore dell'acquisto sono insufficienti; conviene attendere una chiusura stabilmente sopra le medie con conferma di volume.
+16/11 18:15:55 INFO    === veloce (SOL-EUR) ===
+16/11 18:15:55 INFO    Prezzo 64.9000 | medie 64.6911/64.5810 trend SU | notizie +0.27 su 90 (2 nuove, 2 da Claude) | 0.4s
+16/11 18:15:55 INFO       (+0.8 r1.0 claude) 🇺🇸 The company that owns the NYSE is bringing SOLANA into its trading infrastructure and is even considering b
+16/11 18:15:55 INFO       (+0.7 r0.9 claude) Zelle picks Solana for ZelleUSD stablecoin and international payments push - Cryptonews.net
+16/11 18:15:55 INFO       (+0.5 r0.9 claude) Zelle Adopts Solana for ZelleUSD Stablecoin and Cross-Border Payments: 8 outlets compared - NewsCord
+16/11 18:15:59 INFO       rialzista: Il prezzo (64.9) è sopra la media mobile a 10 e a 30 periodi, e le notizie istituzionali su Zelle e ICE indicano un crescente interesse di adozione per Solana.
+16/11 18:15:59 INFO       ribassista: Il prezzo supera le medie di appena lo 0,3%, con un ATR giornaliero di circa 0,74%, quindi il segnale di trend è debole, e i titoli sono in gran parte promozionali o speculativi ("considering", "push").
+16/11 18:15:59 INFO    -> BLOCCATO DAL DIBATTITO: Il trend è troppo debole, con il prezzo appena sopra le medie mobili, e le notizie positive sono per lo più speculative o promozionali, quindi le prove non giustificano l'ingresso.
