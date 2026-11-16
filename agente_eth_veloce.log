@@ -1096,3 +1096,11 @@
 16/11 15:31:14 INFO       rialzista: Il prezzo (1645,23) è sopra la media a 30 giorni (1643,54), la posizione in acquisto di Bitmine suggerisce domanda istituzionale e la volatilità giornaliera contenuta (ATR 12,5) limita il rischio di un ingresso spot.
 16/11 15:31:14 INFO       ribassista: Il prezzo è sotto la media a 10 giorni (1652,29), il punteggio delle notizie è neutro (0,011), i deflussi dagli ETF e il calo citato prima dell'IPO di Anthropic indicano pressione di vendita senza un segnale di trend chiaro.
 16/11 15:31:14 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole e contraddittorio: prezzo e medie non indicano una direzione, le notizie sono neutre con deflussi dagli ETF, e un titolo riporta un prezzo di 1.824 dollari incoerente con i dati di mercato, quindi non c'è evidenza sufficiente per un acquisto spot.
+16/11 15:45:50 INFO    === eth_veloce (ETH-EUR) ===
+16/11 15:45:50 INFO    Prezzo 1654.04 | medie 1653.83/1644.05 trend SU | notizie +0.01 su 63 (0 nuove, 0 da Claude) | 0.3s
+16/11 15:45:50 INFO       (+0.5 r0.9 claude) Bitmine expands Ethereum holdings as treasury position reaches 6.08 million ETH - Traders Union
+16/11 15:45:50 INFO       (-0.4 r0.8 claude) Tom Lee Says Ethereum’s Slide Ahead Of Anthropic IPO Mirrors Its Sell-Off Before SpaceX IPO - Yahoo Finance
+16/11 15:45:50 INFO       (-0.3 r0.9 claude) Ethereum Price Prediction: ETH Holds Near $1,824 as ETF Outflows Continue - FXLeaders
+16/11 15:45:53 INFO       rialzista: Il prezzo (1654,04) è sopra la media mobile a 10 periodi (1653,83) e a 30 periodi (1644,05), con un leggero trend rialzista e l'accumulo di ETH da parte di Bitmine.
+16/11 15:45:53 INFO       ribassista: Le notizie sono nel complesso negative (deflusso dagli ETF, Tom Lee che parla di un ribasso simile a quello pre-SpaceX) e il punteggio complessivo di 0,011 è sostanzialmente neutro, quindi non c'è un vantaggio chiaro.
+16/11 15:45:53 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è appena sopra le medie con un ATR di circa 12,5 (circa lo 0,75% al giorno), il sentiment è neutro e uno dei titoli cita un prezzo di 1.824 dollari, incoerente con i dati di mercato, quindi non si giustifica un acquisto spot senza una conferma più solida.

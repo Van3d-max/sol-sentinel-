@@ -320,3 +320,10 @@
 16/11 14:45:56 INFO       (+0.6 r0.9 claude) NYSE platform to support Solana-based tokenized stocks with 24/7 trading and instant settlement. - Pluang
 16/11 14:45:56 INFO       (+0.4 r0.9 claude) NYSE Parent ICE Weighs Becoming a Solana Validator - The Defiant
 16/11 14:45:56 INFO    -> ATTENDI: trend orario non rialzista
+16/11 15:45:49 INFO    === intermedio (SOL-EUR) ===
+16/11 15:45:50 INFO    Trend superiore (ONE_DAY): GIU
+16/11 15:45:50 INFO    Prezzo 64.2400 | medie 64.9905/64.9684 trend SU | notizie +0.23 su 71 (3 nuove, 3 da Claude) | 0.4s
+16/11 15:45:50 INFO       (+0.6 r0.9 claude) Zelle picks Solana for ZelleUSD stablecoin and international payments push - Crypto Briefing
+16/11 15:45:50 INFO       (+0.6 r0.9 claude) Zelle picks Solana for ZelleUSD stablecoin and international payments
+16/11 15:45:50 INFO       (+0.6 r0.8 claude) Zelle taps Solana for stablecoin-based international expansion - TradingView
+16/11 15:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

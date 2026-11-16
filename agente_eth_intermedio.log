@@ -319,3 +319,10 @@
 16/11 14:45:58 INFO       (-0.5 r0.9 claude) Ethereum Price Prediction: ETH Drops 64% From Record High as $1,700 Becomes Critical - Coinpaper
 16/11 14:45:58 INFO       (+0.3 r0.9 claude) VITALIK BUTERIN TURNS BULLISH ON QUANTUM-SAFE ETHEREUM! #Eth - KuCoin
 16/11 14:45:58 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+16/11 15:45:53 INFO    === eth_intermedio (ETH-EUR) ===
+16/11 15:45:54 INFO    Trend superiore (ONE_DAY): GIU
+16/11 15:45:54 INFO    Prezzo 1654.12 | medie 1648.88/1646.51 trend SU | notizie +0.01 su 63 (0 nuove, 0 da Claude) | 0.4s
+16/11 15:45:54 INFO       (+0.5 r0.9 claude) Bitmine expands Ethereum holdings as treasury position reaches 6.08 million ETH - Traders Union
+16/11 15:45:54 INFO       (-0.4 r0.8 claude) Tom Lee Says Ethereum’s Slide Ahead Of Anthropic IPO Mirrors Its Sell-Off Before SpaceX IPO - Yahoo Finance
+16/11 15:45:54 INFO       (-0.3 r0.9 claude) Ethereum Price Prediction: ETH Holds Near $1,824 as ETF Outflows Continue - FXLeaders
+16/11 15:45:54 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
