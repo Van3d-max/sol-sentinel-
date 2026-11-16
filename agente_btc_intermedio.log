@@ -313,3 +313,10 @@
 16/11 13:45:55 INFO       (-0.7 r1.0 claude) Bitcoin, Ether Slump Further - WSJ
 16/11 13:45:55 INFO       (-0.6 r1.0 claude) Bitcoin slides to $62,000 as analysts eye $60,000 as the line in the sand - Crypto Briefing
 16/11 13:45:55 INFO    -> ATTENDI: trend orario non rialzista
+16/11 14:46:02 INFO    === btc_intermedio (BTC-EUR) ===
+16/11 14:46:02 INFO    Trend superiore (ONE_DAY): GIU
+16/11 14:46:02 INFO    Prezzo 59179.61 | medie 58776.64/58949.07 trend GIU | notizie -0.29 su 117 (12 nuove, 12 da Claude) | 0.3s
+16/11 14:46:02 INFO       (-0.7 r1.0 claude) Bitcoin sinks to under $65K, pulling down crypto names - TradingView
+16/11 14:46:02 INFO       (-0.7 r1.0 claude) Bitcoin sinks to under $65K, pulling down crypto names (BTC-USD:Cryptocurrency) - Seeking Alpha
+16/11 14:46:02 INFO       (-0.8 r1.0 claude) Bitcoin Drops to $64,000 After Brutal Weekend Selloff: What Is Going On? - Benzinga
+16/11 14:46:02 INFO    -> ATTENDI: trend orario non rialzista
