@@ -1108,3 +1108,9 @@
 16/11 16:01:42 INFO       (-0.6 r1.0 claude) Bitcoin price drops 14%: Can BTC recover after $62K low? - Crypto News
 16/11 16:01:42 INFO       (-0.7 r1.0 claude) Bitcoin sinks to under $65K, pulling down crypto names - TradingView
 16/11 16:01:42 INFO    -> ATTENDI: notizia shock: Bitcoin sinks to under $65K, pulling down crypto names - TradingView
+16/11 16:16:05 INFO    === btc_veloce (BTC-EUR) ===
+16/11 16:16:06 INFO    Prezzo 58534.41 | medie 58653.90/58485.89 trend SU | notizie -0.26 su 123 (6 nuove, 6 da Claude) | 0.1s
+16/11 16:16:06 INFO       (-0.8 r1.0 claude) Bitcoin falls as low as $62,000 as forced liquidations mount - Quartz
+16/11 16:16:06 INFO       (-0.6 r0.9 claude) Bitcoin Traders Load Up on $60K Puts After 12% Slide - Briefs Finance
+16/11 16:16:06 INFO       (-0.7 r1.0 claude) Bitcoin ETF Outflows and $3B in Liquidations Put Market Under Pressure - Coinpedia
+16/11 16:16:06 INFO    -> ATTENDI: notizia shock: Bitcoin falls as low as $62,000 as forced liquidations mount - Quartz
