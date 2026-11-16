@@ -362,3 +362,10 @@
 16/11 20:46:12 INFO       (-0.5 r1.0 claude) Bitcoin flashes false recovery warning as $64 billion futures frenzy masks weak demand
 16/11 20:46:12 INFO       (-0.6 r1.0 claude) Bitcoin price fails to hold $65K as US stocks drop further on AI nerves
 16/11 20:46:12 INFO    -> ATTENDI: trend orario non rialzista
+16/11 21:46:03 INFO    === btc_intermedio (BTC-EUR) ===
+16/11 21:46:04 INFO    Trend superiore (ONE_DAY): GIU
+16/11 21:46:04 INFO    Prezzo 59346.77 | medie 58758.22/58816.46 trend GIU | notizie -0.15 su 124 (5 nuove, 5 da Claude) | 0.4s
+16/11 21:46:04 INFO       (-0.6 r0.9 claude) Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off
+16/11 21:46:04 INFO       (-0.6 r0.9 claude) Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off - CoinDesk
+16/11 21:46:04 INFO       (-0.7 r0.9 claude) Bitcoin Falls Below $64,000 As Nvidia Turmoil Roils Tech Stocks And Crypto - Forbes
+16/11 21:46:04 INFO    -> ATTENDI: trend orario non rialzista

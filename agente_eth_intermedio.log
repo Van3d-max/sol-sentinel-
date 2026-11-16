@@ -361,3 +361,10 @@
 16/11 20:46:09 INFO       (+0.3 r0.9 claude) Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum
 16/11 20:46:09 INFO       (+0.2 r1.0 claude) Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum
 16/11 20:46:09 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+16/11 21:46:00 INFO    === eth_intermedio (ETH-EUR) ===
+16/11 21:46:00 INFO    Trend superiore (ONE_DAY): GIU
+16/11 21:46:00 INFO    Prezzo 1660.70 | medie 1648.98/1643.95 trend SU | notizie +0.02 su 81 (1 nuove, 1 da Claude) | 0.4s
+16/11 21:46:00 INFO       (+0.4 r1.0 claude) Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump
+16/11 21:46:00 INFO       (+0.4 r1.0 claude) Bitmine adds 7,653 ETH as holdings reach 6.08 million - Crypto News
+16/11 21:46:00 INFO       (-0.7 r1.0 claude) Ethereum price falls 14% as four-year support comes into focus - Crypto News
+16/11 21:46:00 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

@@ -1240,3 +1240,9 @@
 16/11 21:31:08 INFO       (-0.5 r1.0 claude) Bitcoin flashes false recovery warning as $64 billion futures frenzy masks weak demand
 16/11 21:31:08 INFO       (+0.4 r0.9 claude) T. Rowe Price’s Blue Macellari: Institutions “Not Backing Away” From Bitcoin
 16/11 21:31:08 INFO    -> ATTENDI: notizie sotto la soglia (-0.11)
+16/11 21:46:03 INFO    === btc_veloce (BTC-EUR) ===
+16/11 21:46:03 INFO    Prezzo 59346.77 | medie 59136.89/59034.85 trend SU | notizie -0.15 su 124 (5 nuove, 5 da Claude) | 0.3s
+16/11 21:46:03 INFO       (-0.6 r0.9 claude) Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off
+16/11 21:46:03 INFO       (-0.6 r0.9 claude) Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off - CoinDesk
+16/11 21:46:03 INFO       (-0.7 r0.9 claude) Bitcoin Falls Below $64,000 As Nvidia Turmoil Roils Tech Stocks And Crypto - Forbes
+16/11 21:46:03 INFO    -> ATTENDI: notizia shock: Bitcoin Falls Below $64,000 As Nvidia Turmoil Roils Tech Stocks And Crypto - For
