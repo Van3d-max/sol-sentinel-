@@ -793,3 +793,9 @@
 16/11 02:45:46 INFO       (-0.6 r1.0 claude) Shiba Inu price falls below $0.000004, lowest w... - Pluang
 16/11 02:45:46 INFO       (-0.4 r1.0 claude) Shiba Inu price hits a death cross, trading nea... - Pluang
 16/11 02:45:46 INFO    -> ATTENDI: notizie sotto la soglia (-0.15)
+16/11 03:01:27 INFO    === shib_veloce (SHIB-EUR) ===
+16/11 03:01:27 INFO    Prezzo 3.56e-06 | medie 3.56667e-06/3.55762e-06 trend SU | notizie -0.15 su 20 (0 nuove, 0 da Claude) | 0.3s
+16/11 03:01:27 INFO       (-1.0 r1.0 claude) Shiba Inu Death Cross Returns After 14 Months as SHIB Price Falls Below $0.000004 - KuCoin
+16/11 03:01:27 INFO       (-0.6 r1.0 claude) Shiba Inu price falls below $0.000004, lowest w... - Pluang
+16/11 03:01:27 INFO       (-0.4 r1.0 claude) Shiba Inu price hits a death cross, trading nea... - Pluang
+16/11 03:01:27 INFO    -> ATTENDI: notizie sotto la soglia (-0.15)
