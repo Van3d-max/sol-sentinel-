@@ -334,3 +334,10 @@
 16/11 16:45:59 INFO       (-0.6 r1.0 claude) Bitcoin price fails to hold $65K as US stocks drop further on AI nerves - TradingView
 16/11 16:45:59 INFO       (-0.6 r0.9 claude) Bitcoin Traders Load Up on $60K Puts After 12% Slide - Briefs Finance
 16/11 16:45:59 INFO    -> ATTENDI: trend orario non rialzista
+16/11 17:45:55 INFO    === btc_intermedio (BTC-EUR) ===
+16/11 17:45:55 INFO    Trend superiore (ONE_DAY): GIU
+16/11 17:45:55 INFO    Prezzo 58965.56 | medie 58765.44/58857.02 trend GIU | notizie -0.26 su 116 (4 nuove, 4 da Claude) | 0.2s
+16/11 17:45:55 INFO       (-0.7 r0.9 claude) Bitcoin's $62,000 drop is only the start, and AI will deepen the crash - Startup Fortune
+16/11 17:45:55 INFO       (-0.7 r1.0 claude) Bitcoin sinks near $64,500 and drags Strategy, Coinbase and Circle down with Nasdaq - Startup Fortune
+16/11 17:45:55 INFO       (-0.7 r0.9 claude) Crypto Market Loses About $330 Billion in a Week as Bitcoin Slides and Inflation Fears Mount - Yahoo Finance
+16/11 17:45:55 INFO    -> ATTENDI: trend orario non rialzista
