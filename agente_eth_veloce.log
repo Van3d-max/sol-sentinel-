@@ -1120,3 +1120,11 @@
 16/11 16:16:03 INFO       rialzista: Il prezzo (1650,85) resta sopra la media mobile a 30 periodi (1644,97) e le notizie sui grandi detentori istituzionali di ETH sono costantemente positive.
 16/11 16:16:03 INFO       ribassista: Il prezzo è sotto la media a 10 periodi (1656,87), il punteggio delle notizie è quasi neutro (0,059) e i titoli sono in gran parte aneddotici e non misurano una domanda reale.
 16/11 16:16:03 INFO    -> BLOCCATO DAL DIBATTITO: Segnali tecnici misti e un sentiment appena positivo non giustificano un acquisto spot senza una conferma più solida, considerando una volatilità giornaliera di circa 12 dollari (0,7%).
+16/11 16:31:15 INFO    === eth_veloce (ETH-EUR) ===
+16/11 16:31:16 INFO    Prezzo 1657.35 | medie 1657.27/1645.69 trend SU | notizie +0.09 su 66 (2 nuove, 2 da Claude) | 0.3s
+16/11 16:31:16 INFO       (+0.5 r0.9 claude) Bitmine Adds 7,653 ETH as Tom Lee Defends Ethereum Fundamentals - Yahoo Finance
+16/11 16:31:16 INFO       (+0.5 r0.9 claude) Bitmine expands Ethereum holdings as treasury position reaches 6.08 million ETH - Traders Union
+16/11 16:31:16 INFO       (+0.3 r0.8 claude) BitMine Hits 6M ETH Holdings but BMNR Drops 5%: What's Going On? - Benzinga
+16/11 16:31:19 INFO       rialzista: Il prezzo (1657,35) sopra la media mobile a 30 giorni (1645,69) suggerisce un trend rialzista di fondo, sostenuto dagli acquisti di ETH da parte di Bitmine e dall'accumulo tesoreria.
+16/11 16:31:19 INFO       ribassista: Il prezzo coincide con la media a 10 giorni (1657,27), il punteggio notizie è quasi neutro (0,088), e il calo del 5% di BMNR mostra che il sentiment legato a Bitmine non si traduce automaticamente in forza per ETH.
+16/11 16:31:19 INFO    -> BLOCCATO DAL DIBATTITO: Le evidenze sono deboli: il segnale di trend è modesto, il sentiment quasi neutro dipende da un solo grande detentore, e in assenza di un catalizzatore chiaro non giustifico un acquisto spot senza una tesi di rischio/rendimento definita.
