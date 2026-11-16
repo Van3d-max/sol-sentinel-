@@ -376,3 +376,10 @@
 16/11 22:45:46 INFO       (-0.7 r1.0 claude) Solana Price Prediction: Is $60 Next? SOL ETF Outflows Hit 6 Weeks, Fear & Greed at 12 - CoinGape
 16/11 22:45:46 INFO       (+0.3 r0.9 claude) Spot Solana ETF Volumes - The Block
 16/11 22:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+16/11 23:45:45 INFO    === intermedio (SOL-EUR) ===
+16/11 23:45:45 INFO    Trend superiore (ONE_DAY): GIU
+16/11 23:45:45 INFO    Prezzo 64.6800 | medie 64.8005/64.7588 trend SU | notizie +0.16 su 8 (0 nuove, 0 da Claude) | 0.4s
+16/11 23:45:45 INFO       (+0.6 r0.9 claude) Zelle picks Solana for ZelleUSD stablecoin and international payments
+16/11 23:45:45 INFO       (+0.3 r0.9 claude) Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About
+16/11 23:45:45 INFO       (+0.3 r0.9 claude) Solana drops ‘beta’ label after more than six years
+16/11 23:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

@@ -376,3 +376,10 @@
 16/11 22:45:51 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000 - Yahoo Finance
 16/11 22:45:51 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000 - Decrypt
 16/11 22:45:51 INFO    -> ATTENDI: trend orario non rialzista
+16/11 23:45:47 INFO    === btc_intermedio (BTC-EUR) ===
+16/11 23:45:47 INFO    Trend superiore (ONE_DAY): GIU
+16/11 23:45:47 INFO    Prezzo 58934.01 | medie 58803.61/58820.41 trend GIU | notizie -0.22 su 128 (0 nuove, 0 da Claude) | 0.3s
+16/11 23:45:47 INFO       (-0.5 r1.0 claude) Why Bitcoin’s June Low May Not Be The Bottom — $58K The Key Test - Bitcoin Magazine
+16/11 23:45:47 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000
+16/11 23:45:47 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000 - Yahoo Finance
+16/11 23:45:47 INFO    -> ATTENDI: trend orario non rialzista
