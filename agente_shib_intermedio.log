@@ -345,3 +345,7 @@
 16/11 18:46:00 INFO       (+0.1 r1.0 claude) Shiba Inu burns 155 million tokens worth $606 i... - Pluang
 16/11 18:46:00 INFO       (+0.1 r1.0 claude) Shiba Inu price: a week of SHIB burns is worth $606 - CryptoTicker.io
 16/11 18:46:00 INFO    -> ATTENDI: trend orario non rialzista
+16/11 19:45:55 INFO    === shib_intermedio (SHIB-EUR) ===
+16/11 19:45:55 INFO    Trend superiore (ONE_DAY): GIU
+16/11 19:45:55 INFO    Prezzo 3.53e-06 | medie 3.5285e-06/3.568e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
+16/11 19:45:55 INFO    -> ATTENDI: trend orario non rialzista

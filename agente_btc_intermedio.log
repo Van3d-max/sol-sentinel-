@@ -348,3 +348,10 @@
 16/11 18:45:56 INFO       (-0.6 r1.0 claude) Bitcoin Price Sheds 14% in a Week as Market Recovery Faces Fresh Test - Bitcoin News
 16/11 18:45:56 INFO       (-0.6 r1.0 claude) Bitcoin Slips Under $65K Ahead of Nvidia Earnings, Anthropic IPO - Bitbo
 16/11 18:45:56 INFO    -> ATTENDI: trend orario non rialzista
+16/11 19:45:53 INFO    === btc_intermedio (BTC-EUR) ===
+16/11 19:45:53 INFO    Trend superiore (ONE_DAY): GIU
+16/11 19:45:53 INFO    Prezzo 58819.50 | medie 58756.40/58839.46 trend GIU | notizie -0.25 su 123 (2 nuove, 2 da Claude) | 0.3s
+16/11 19:45:53 INFO       (-0.7 r1.0 claude) Glassnode: Bitcoin Drops 13% as ETF Outflows and Losses Mount - Bitbo
+16/11 19:45:53 INFO       (-0.6 r0.9 claude) Coinbase Stocks Fall 7.54% as Bitcoin Slides Toward $64,000 and Trading Volumes Shrink - TradingView
+16/11 19:45:53 INFO       (-0.5 r1.0 claude) Bitcoin flashes false recovery warning as $64 billion futures frenzy masks weak demand
+16/11 19:45:53 INFO    -> ATTENDI: trend orario non rialzista
