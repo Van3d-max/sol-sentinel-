@@ -339,3 +339,10 @@
 16/11 17:45:57 INFO       (+0.4 r1.0 claude) Ripple's XRP rises 2.38% in one hour with $510K short liquidations on Binance. - Pluang
 16/11 17:45:57 INFO       (-0.7 r1.0 claude) XRP Loses $1 After 12% Weekly Crash: What Is Going On? - Benzinga
 16/11 17:45:57 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+16/11 18:45:58 INFO    === xrp_intermedio (XRP-EUR) ===
+16/11 18:45:58 INFO    Trend superiore (ONE_DAY): GIU
+16/11 18:45:58 INFO    Prezzo 0.8707 | medie 0.86967/0.86596 trend SU | notizie -0.19 su 46 (3 nuove, 3 da Claude) | 0.4s
+16/11 18:45:58 INFO       (-0.6 r1.0 claude) XRP Price Prediction: Further Pain Ahead as XRP Dips to Our $0.90 Target - FXEmpire
+16/11 18:45:58 INFO       (-0.6 r1.0 claude) Here’s XRP Next Possible Bottom After Falling Below $1 - CryptoRank
+16/11 18:45:58 INFO       (-0.3 r1.0 claude) $XRP could face another correction before its next major ral - KuCoin
+16/11 18:45:58 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

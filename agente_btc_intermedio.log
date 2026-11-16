@@ -341,3 +341,10 @@
 16/11 17:45:55 INFO       (-0.7 r1.0 claude) Bitcoin sinks near $64,500 and drags Strategy, Coinbase and Circle down with Nasdaq - Startup Fortune
 16/11 17:45:55 INFO       (-0.7 r0.9 claude) Crypto Market Loses About $330 Billion in a Week as Bitcoin Slides and Inflation Fears Mount - Yahoo Finance
 16/11 17:45:55 INFO    -> ATTENDI: trend orario non rialzista
+16/11 18:45:55 INFO    === btc_intermedio (BTC-EUR) ===
+16/11 18:45:56 INFO    Trend superiore (ONE_DAY): GIU
+16/11 18:45:56 INFO    Prezzo 59095.66 | medie 58760.72/58843.06 trend GIU | notizie -0.22 su 119 (9 nuove, 9 da Claude) | 0.5s
+16/11 18:45:56 INFO       (-0.7 r0.9 claude) Bitcoin's $62,000 drop is only the start, and AI will deepen the crash - Startup Fortune
+16/11 18:45:56 INFO       (-0.6 r1.0 claude) Bitcoin Price Sheds 14% in a Week as Market Recovery Faces Fresh Test - Bitcoin News
+16/11 18:45:56 INFO       (-0.6 r1.0 claude) Bitcoin Slips Under $65K Ahead of Nvidia Earnings, Anthropic IPO - Bitbo
+16/11 18:45:56 INFO    -> ATTENDI: trend orario non rialzista
