@@ -784,3 +784,9 @@
 16/11 02:15:45 INFO       (-0.6 r1.0 claude) Bitcoin Plunges 13% in a Week as Market Retreats to $60,000 Level - TradingKey
 16/11 02:15:45 INFO       (-0.6 r1.0 claude) US Spot Bitcoin ETFs See $2.35 Billion in Outflows Over Two Weeks, Led by BlackRock Fund - bloomingbit
 16/11 02:15:45 INFO    -> ATTENDI: trend 15 minuti non rialzista
+16/11 02:31:00 INFO    === btc_veloce (BTC-EUR) ===
+16/11 02:31:00 INFO    Prezzo 59132.35 | medie 58872.08/59019.59 trend GIU | notizie -0.17 su 88 (2 nuove, 2 da Claude) | 0.2s
+16/11 02:31:00 INFO       (-0.7 r1.0 claude) Weekend - Bitcoin fell to four-month low near $62,000 as crypto liquidations top $2 billion - investingLive
+16/11 02:31:00 INFO       (-0.6 r1.0 claude) Bitcoin Plunges 13% in a Week as Market Retreats to $60,000 Level - TradingKey
+16/11 02:31:00 INFO       (-0.6 r1.0 claude) US Spot Bitcoin ETFs See $2.35 Billion in Outflows Over Two Weeks, Led by BlackRock Fund - bloomingbit
+16/11 02:31:00 INFO    -> ATTENDI: trend 15 minuti non rialzista
