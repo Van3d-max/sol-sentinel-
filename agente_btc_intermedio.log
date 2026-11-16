@@ -264,3 +264,10 @@
 16/11 06:45:50 INFO       (-0.6 r1.0 claude) Bitcoin pinned below $65k as crypto sentiment dithers, ETF outflows persist - Yahoo Finance
 16/11 06:45:50 INFO       (-0.6 r0.9 claude) Bitcoin Traders Should Brace for Volatility After $217 Bln Rout -- Market Talk - Moomoo
 16/11 06:45:50 INFO    -> ATTENDI: trend orario non rialzista
+16/11 07:45:24 INFO    === btc_intermedio (BTC-EUR) ===
+16/11 07:45:24 INFO    Trend superiore (ONE_DAY): GIU
+16/11 07:45:24 INFO    Prezzo 58885.73 | medie 58999.89/59305.07 trend GIU | notizie -0.24 su 92 (5 nuove, 5 da Claude) | 0.4s
+16/11 07:45:24 INFO       (-0.6 r0.9 claude) 5 Reasons Behind Bitcoin's Fall, CZ Reveals - Cointribune
+16/11 07:45:24 INFO       (-0.6 r1.0 claude) Bitcoin may drop 40% or more as it nears technical warning level, strategist says - CNBC
+16/11 07:45:24 INFO       (-0.5 r1.0 claude) Bitcoin Below $65,000: Why the $60,000 Support Zone Matters - Moomoo
+16/11 07:45:24 INFO    -> ATTENDI: trend orario non rialzista
