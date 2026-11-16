@@ -1258,3 +1258,9 @@
 16/11 22:15:49 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000 - Yahoo Finance
 16/11 22:15:49 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000 - Decrypt
 16/11 22:15:49 INFO    -> ATTENDI: notizie sotto la soglia (-0.18)
+16/11 22:31:06 INFO    === btc_veloce (BTC-EUR) ===
+16/11 22:31:06 INFO    Prezzo 59410.48 | medie 59273.19/59112.14 trend SU | notizie -0.19 su 128 (5 nuove, 5 da Claude) | 0.3s
+16/11 22:31:06 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000
+16/11 22:31:06 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000 - Yahoo Finance
+16/11 22:31:06 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000 - Decrypt
+16/11 22:31:06 INFO    -> ATTENDI: notizie sotto la soglia (-0.19)

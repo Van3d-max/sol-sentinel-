@@ -1243,3 +1243,6 @@
 16/11 22:15:51 INFO       (-0.6 r1.0 claude) Shiba Inu price prediction: market cap halves as SHIB slips to No. 38 behind PayPal's stablecoin - CryptoTicke
 16/11 22:15:51 INFO       (-1.0 r1.0 claude) Shiba Inu Posts First Death Cross in 14 Months as SHIB Sinks Below $0.000004 - BigGo Finance
 16/11 22:15:51 INFO    -> ATTENDI: notizie sotto la soglia (-0.28)
+16/11 22:31:07 INFO    === shib_veloce (SHIB-EUR) ===
+16/11 22:31:07 INFO    Prezzo 3.52e-06 | medie 3.51667e-06/3.5119e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
+16/11 22:31:07 INFO    -> ATTENDI: obiettivo +1.48% sotto il minimo +2.20% (commissioni)
