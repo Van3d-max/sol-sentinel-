@@ -1104,3 +1104,11 @@
 16/11 15:45:53 INFO       rialzista: Il prezzo (1654,04) è sopra la media mobile a 10 periodi (1653,83) e a 30 periodi (1644,05), con un leggero trend rialzista e l'accumulo di ETH da parte di Bitmine.
 16/11 15:45:53 INFO       ribassista: Le notizie sono nel complesso negative (deflusso dagli ETF, Tom Lee che parla di un ribasso simile a quello pre-SpaceX) e il punteggio complessivo di 0,011 è sostanzialmente neutro, quindi non c'è un vantaggio chiaro.
 16/11 15:45:53 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è appena sopra le medie con un ATR di circa 12,5 (circa lo 0,75% al giorno), il sentiment è neutro e uno dei titoli cita un prezzo di 1.824 dollari, incoerente con i dati di mercato, quindi non si giustifica un acquisto spot senza una conferma più solida.
+16/11 16:01:36 INFO    === eth_veloce (ETH-EUR) ===
+16/11 16:01:36 INFO    Prezzo 1655.34 | medie 1655.51/1644.67 trend SU | notizie +0.06 su 64 (3 nuove, 3 da Claude) | 0.1s
+16/11 16:01:36 INFO       (+0.5 r0.9 claude) Bitmine Adds 7,653 ETH as Tom Lee Defends Ethereum Fundamentals - Yahoo Finance
+16/11 16:01:36 INFO       (+0.5 r0.9 claude) Bitmine expands Ethereum holdings as treasury position reaches 6.08 million ETH - Traders Union
+16/11 16:01:36 INFO       (+0.3 r0.9 claude) Ethereum Quantum-Safe Upgrade Gets Vitalik’s leanPCS Backing - Coinpedia
+16/11 16:01:39 INFO       rialzista: Il prezzo (1655,34) è sopra la media mobile a 30 giorni (1644,67), e i titoli sugli acquisti di ETH da parte di Bitmine e sull'aggiornamento quantum-safe suggeriscono un sostegno fondamentale.
+16/11 16:01:39 INFO       ribassista: Il prezzo è leggermente sotto la media a 10 giorni (1655,51), il punteggio delle notizie è quasi neutro (0,057) e i titoli si concentrano su una sola narrativa di accumulo da parte di una singola società.
+16/11 16:01:39 INFO    -> BLOCCATO DAL DIBATTITO: I segnali sono misti e deboli: il prezzo è sotto la media a 10 giorni, il sentiment è quasi neutro e non c'è un vantaggio chiaro che giustifichi l'ingresso, anche se senza leva il rischio resta limitato.
