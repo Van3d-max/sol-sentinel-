@@ -369,3 +369,10 @@
 16/11 21:45:58 INFO       (-0.7 r1.0 claude) Solana Price Prediction: Is $60 Next? SOL ETF Outflows Hit 6 Weeks, Fear & Greed at 12 - CoinGape
 16/11 21:45:58 INFO       (+0.3 r0.9 claude) Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows - Cryptonews.net
 16/11 21:45:58 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+16/11 22:45:46 INFO    === intermedio (SOL-EUR) ===
+16/11 22:45:46 INFO    Trend superiore (ONE_DAY): GIU
+16/11 22:45:46 INFO    Prezzo 65.5100 | medie 64.8235/64.7348 trend SU | notizie +0.16 su 101 (3 nuove, 3 da Claude) | 0.3s
+16/11 22:45:46 INFO       (-0.7 r1.0 claude) Solana Price Prediction: Is $60 Next? SOL ETF Outflows Hit 6 Weeks, Fear & Greed at 12 - Cryptonews.net
+16/11 22:45:46 INFO       (-0.7 r1.0 claude) Solana Price Prediction: Is $60 Next? SOL ETF Outflows Hit 6 Weeks, Fear & Greed at 12 - CoinGape
+16/11 22:45:46 INFO       (+0.3 r0.9 claude) Spot Solana ETF Volumes - The Block
+16/11 22:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

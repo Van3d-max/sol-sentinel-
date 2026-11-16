@@ -369,3 +369,10 @@
 16/11 21:46:04 INFO       (-0.6 r0.9 claude) Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off - CoinDesk
 16/11 21:46:04 INFO       (-0.7 r0.9 claude) Bitcoin Falls Below $64,000 As Nvidia Turmoil Roils Tech Stocks And Crypto - Forbes
 16/11 21:46:04 INFO    -> ATTENDI: trend orario non rialzista
+16/11 22:45:50 INFO    === btc_intermedio (BTC-EUR) ===
+16/11 22:45:51 INFO    Trend superiore (ONE_DAY): GIU
+16/11 22:45:51 INFO    Prezzo 59525.79 | medie 58795.48/58810.13 trend GIU | notizie -0.18 su 128 (2 nuove, 2 da Claude) | 0.5s
+16/11 22:45:51 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000
+16/11 22:45:51 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000 - Yahoo Finance
+16/11 22:45:51 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000 - Decrypt
+16/11 22:45:51 INFO    -> ATTENDI: trend orario non rialzista
