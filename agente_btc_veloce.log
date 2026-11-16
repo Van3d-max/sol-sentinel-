@@ -754,3 +754,9 @@
 16/11 01:01:15 INFO       (-0.7 r1.0 claude) Bitcoin Falls to $62K, Its Weakest Level Since July - CoinMarketCap
 16/11 01:01:15 INFO       (-0.8 r0.8 claude) Bitcoin's Weekend Plunge Wipes $130 Billion Off Crypto Market Cap; $1.7 Billion in Forced Liquidations - BigGo
 16/11 01:01:15 INFO    -> ATTENDI: notizia shock: Bitcoin Falls to $62K, Its Weakest Level Since July - CoinMarketCap
+16/11 01:16:05 INFO    === btc_veloce (BTC-EUR) ===
+16/11 01:16:05 INFO    Prezzo 58835.10 | medie 59032.92/59045.01 trend GIU | notizie -0.13 su 87 (9 nuove, 9 da Claude) | 0.3s
+16/11 01:16:05 INFO       (-0.8 r1.0 claude) Bitcoin tumbles to three-month low as liquidations accelerate - The Edge Malaysia
+16/11 01:16:05 INFO       (-0.6 r1.0 claude) US Spot Bitcoin ETFs See $2.35 Billion in Outflows Over Two Weeks, Led by BlackRock Fund - bloomingbit
+16/11 01:16:05 INFO       (-0.7 r1.0 claude) Bitcoin Falls to $62K, Its Weakest Level Since July - CoinMarketCap
+16/11 01:16:05 INFO    -> ATTENDI: trend 15 minuti non rialzista
