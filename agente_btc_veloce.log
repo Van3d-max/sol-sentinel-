@@ -880,3 +880,9 @@
 16/11 06:15:46 INFO       (-0.6 r1.0 claude) US Spot Bitcoin ETFs See $1.065 Billion in Outflows Last Week, Marking Third Straight Week of Withdrawals - bl
 16/11 06:15:46 INFO       (-0.6 r1.0 claude) Bitcoin Price Forecast: ETF outflows hit $1.07 billion as BTC struggles to recover from oversold levels - FXSt
 16/11 06:15:46 INFO    -> ATTENDI: trend 15 minuti non rialzista
+16/11 06:31:05 INFO    === btc_veloce (BTC-EUR) ===
+16/11 06:31:05 INFO    Prezzo 58529.71 | medie 58670.28/58839.40 trend GIU | notizie -0.26 su 91 (5 nuove, 5 da Claude) | 0.2s
+16/11 06:31:05 INFO       (-0.6 r1.0 claude) Bitcoin may drop 40% or more as it nears technical warning level, strategist says - CNBC
+16/11 06:31:05 INFO       (-0.6 r1.0 claude) Bitcoin pinned below $65k as crypto sentiment dithers, ETF outflows persist - Yahoo Finance
+16/11 06:31:05 INFO       (-0.6 r0.9 claude) Bitcoin Traders Should Brace for Volatility After $217 Bln Rout -- Market Talk - Moomoo
+16/11 06:31:05 INFO    -> ATTENDI: trend 15 minuti non rialzista
