@@ -283,3 +283,10 @@
 16/11 09:45:48 INFO       (-0.6 r0.9 claude) XRP Treasury Giant Evernorth Records $271M Asset Impairment as 346M Tokens Face Market Selloff - Coinpaper
 16/11 09:45:48 INFO       (+0.3 r0.9 claude) Wall Street Giant Reveals a $440 Million XRP Stash, Yet the Price Is Below $1. Why? - BeInCrypto
 16/11 09:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+16/11 10:45:56 INFO    === xrp_intermedio (XRP-EUR) ===
+16/11 10:45:56 INFO    Trend superiore (ONE_DAY): GIU
+16/11 10:45:56 INFO    Prezzo 0.8637 | medie 0.87021/0.87054 trend GIU | notizie -0.28 su 33 (2 nuove, 2 da Claude) | 0.2s
+16/11 10:45:56 INFO       (-0.7 r0.9 claude) XRP Price Forecast: Pro-Ripple Lawyer Flags 5 Reasons Behind Crash as Bears Test 2-Year Lows - Cryptonews.net
+16/11 10:45:56 INFO       (-0.7 r1.0 claude) XRP Price Forecast: Pro-Ripple Lawyer Flags 5 Reasons Behind Crash as Bears Test 2-Year Lows - CoinGape
+16/11 10:45:56 INFO       (-0.6 r0.9 claude) XRP Treasury Giant Evernorth Records $271M Asset Impairment as 346M Tokens Face Market Selloff - Coinpaper
+16/11 10:45:56 INFO    -> ATTENDI: trend orario non rialzista
