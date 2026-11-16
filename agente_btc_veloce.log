@@ -760,3 +760,9 @@
 16/11 01:16:05 INFO       (-0.6 r1.0 claude) US Spot Bitcoin ETFs See $2.35 Billion in Outflows Over Two Weeks, Led by BlackRock Fund - bloomingbit
 16/11 01:16:05 INFO       (-0.7 r1.0 claude) Bitcoin Falls to $62K, Its Weakest Level Since July - CoinMarketCap
 16/11 01:16:05 INFO    -> ATTENDI: trend 15 minuti non rialzista
+16/11 01:31:13 INFO    === btc_veloce (BTC-EUR) ===
+16/11 01:31:14 INFO    Prezzo 58880.39 | medie 59010.77/59049.79 trend GIU | notizie -0.14 su 85 (5 nuove, 5 da Claude) | 0.3s
+16/11 01:31:14 INFO       (-0.6 r1.0 claude) US Spot Bitcoin ETFs See $2.35 Billion in Outflows Over Two Weeks, Led by BlackRock Fund - bloomingbit
+16/11 01:31:14 INFO       (-0.7 r1.0 claude) Bitcoin Falls to $62K, Its Weakest Level Since July - CoinMarketCap
+16/11 01:31:14 INFO       (+0.4 r0.9 claude) Galaxy Digital Says Now Is the Time to Buy Bitcoin. Here's Why It's Right. - The Motley Fool
+16/11 01:31:14 INFO    -> ATTENDI: trend 15 minuti non rialzista
