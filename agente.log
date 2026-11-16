@@ -2441,3 +2441,9 @@
 16/11 07:01:24 INFO    Prezzo 64.7200 | medie 74.0340/83.9270 trend GIU | notizie -0.06 su 1 (0 nuove, 0 da Claude) | 0.2s
 16/11 07:01:24 INFO       (-0.7 r0.3 claude) Bitcoin falls to 4-month low near $62K as crypto selloff deepens
 16/11 07:01:24 INFO    -> ATTENDI: trend giornaliero non rialzista
+16/11 08:01:12 INFO    === lenta (SOL-EUR) ===
+16/11 08:01:12 INFO    Prezzo 64.6900 | medie 74.0340/83.9270 trend GIU | notizie -0.07 su 52 (0 nuove, 0 da Claude) | 0.1s
+16/11 08:01:12 INFO       (-0.7 r0.9 claude) Four-month low for SOL: Solana Price Forecast as ETF outflows reach six consecutive weeks - www.tmgm.com
+16/11 08:01:12 INFO       (-0.7 r0.9 claude) Solana Price Forecast: SOL drops to a four-month low as ETF outflows extend to six straight weeks - FXStreet
+16/11 08:01:12 INFO       (-0.4 r0.9 claude) Solana spot ETFs see $32M outflows in a week, s... - Pluang
+16/11 08:01:12 INFO    -> ATTENDI: trend giornaliero non rialzista
