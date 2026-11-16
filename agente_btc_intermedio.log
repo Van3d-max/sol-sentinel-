@@ -243,3 +243,10 @@
 16/11 03:45:47 INFO       (-0.7 r1.0 claude) Weekend - Bitcoin fell to four-month low near $62,000 as crypto liquidations top $2 billion - investingLive
 16/11 03:45:47 INFO       (-0.6 r1.0 claude) Bitcoin Plunges 13% in a Week as Market Retreats to $60,000 Level - TradingKey
 16/11 03:45:47 INFO    -> ATTENDI: trend orario non rialzista
+16/11 04:45:45 INFO    === btc_intermedio (BTC-EUR) ===
+16/11 04:45:45 INFO    Trend superiore (ONE_DAY): GIU
+16/11 04:45:45 INFO    Prezzo 58831.97 | medie 59121.52/59442.81 trend GIU | notizie -0.15 su 85 (1 nuove, 1 da Claude) | 0.4s
+16/11 04:45:45 INFO       (-0.5 r1.0 claude) Bitcoin’s Most Reliable Bull Signal Since 2022 Just Failed - Coinpedia
+16/11 04:45:45 INFO       (-0.7 r1.0 claude) Weekend - Bitcoin fell to four-month low near $62,000 as crypto liquidations top $2 billion - investingLive
+16/11 04:45:45 INFO       (-0.6 r1.0 claude) Bitcoin Plunges 13% in a Week as Market Retreats to $60,000 Level - TradingKey
+16/11 04:45:45 INFO    -> ATTENDI: trend orario non rialzista
