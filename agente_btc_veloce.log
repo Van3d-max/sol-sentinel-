@@ -1036,3 +1036,9 @@
 16/11 13:01:28 INFO       (-0.6 r1.0 claude) Bitcoin News | Bitcoin Extends Losing Streak to Six Weeks, Trading Near $64,300 After Rebound From July Low - 
 16/11 13:01:28 INFO       (-0.7 r0.9 claude) Bitcoin Price Today: BTC Loses $65K Support: CZ Weighs Anthropic IPO and ETF Outflows - Brave New Coin
 16/11 13:01:28 INFO    -> ATTENDI: trend 15 minuti non rialzista
+16/11 13:15:52 INFO    === btc_veloce (BTC-EUR) ===
+16/11 13:15:52 INFO    Prezzo 58259.79 | medie 58382.01/58455.25 trend GIU | notizie -0.20 su 109 (9 nuove, 9 da Claude) | 0.3s
+16/11 13:15:52 INFO       (-0.7 r1.0 claude) Bitcoin, Ether Slump Further - WSJ
+16/11 13:15:52 INFO       (-0.8 r0.9 claude) Bitcoin Prices Tumble and Bring Coinbase and Strategy Stocks Down With Them - Barron's
+16/11 13:15:52 INFO       (-0.6 r1.0 claude) Bitcoin News | Bitcoin Extends Losing Streak to Six Weeks, Trading Near $64,300 After Rebound From July Low - 
+16/11 13:15:52 INFO    -> ATTENDI: trend 15 minuti non rialzista
