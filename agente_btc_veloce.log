@@ -1762,3 +1762,9 @@
 17/11 19:15:50 INFO       (-0.6 r1.0 claude) Bitcoin Falls Below $70,000. Here's Where It Could Finish the Year - Yahoo Finance
 17/11 19:15:50 INFO       (-0.5 r1.0 claude) Bitcoin Falls Below $70,000. Here's Where It Could Finish the Year - The Motley Fool
 17/11 19:15:50 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 19:31:10 INFO    === btc_veloce (BTC-EUR) ===
+17/11 19:31:10 INFO    Prezzo 57817.32 | medie 57867.82/58210.68 trend GIU | notizie -0.07 su 121 (4 nuove, 4 da Claude) | 0.3s
+17/11 19:31:10 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below $64,000, 24% Plunge Blamed on Anthropic IPO's 'Capital Vacuum' - BigGo Finance
+17/11 19:31:10 INFO       (-0.8 r1.0 claude) Bitcoin slides as much as 23% in November 2026, reviving 2022 bear market comparisons - Cryptonews.net
+17/11 19:31:10 INFO       (-0.6 r1.0 claude) Bitcoin Falls Below $70,000. Here's Where It Could Finish the Year - Yahoo Finance
+17/11 19:31:10 INFO    -> ATTENDI: trend 15 minuti non rialzista
