@@ -9772,3 +9772,11 @@
 17/11 15:45:52 INFO       rialzista: Il sentiment delle notizie è leggermente positivo (punteggio 0.182), con l'adozione istituzionale di Mitsui e l'interesse per la tokenizzazione degli asset reali che potrebbero sostenere una ripresa.
 17/11 15:45:52 INFO       ribassista: Il prezzo (65.57) è sotto sia la media mobile a 10 periodi (66.84) sia quella a 30 periodi (66.70), segno di un trend debole, e le notizie sono miste, con il titolo MarketWatch che parla di un quadro frammentato.
 17/11 15:45:52 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo si trova sotto entrambe le medie mobili, il sentiment è solo debolmente positivo e i segnali di trend non confermano un ingresso long, quindi l'evidenza non è sufficiente per giustificare l'acquisto spot.
+17/11 16:01:18 INFO    === veloce (SOL-EUR) ===
+17/11 16:01:18 INFO    Prezzo 65.8500 | medie 66.7156/66.6981 trend SU | notizie +0.14 su 9 (0 nuove, 0 da Claude) | 0.2s
+17/11 16:01:18 INFO       (+0.2 r0.7 claude) Solana Foundation takes majority interest in crypto data firm CoinGecko
+17/11 16:01:18 INFO       (+0.2 r0.8 claude) 'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents
+17/11 16:01:18 INFO       (+0.2 r0.6 claude) Solana Foundation takes majority stake in crypto data provider CoinGecko
+17/11 16:01:22 INFO       rialzista: Il prezzo è vicino ai massimi recenti e il sentiment è leggermente positivo, con notizie su CoinGecko e sugli agenti AI che suggeriscono un possibile interesse istituzionale e di ecosistema per SOL.
+17/11 16:01:22 INFO       ribassista: Il prezzo (65,85) è sotto sia la media a 10 periodi (66,72) sia quella a 30 periodi (66,70), segnale di trend debole, e il punteggio notizie di 0,14 si basa in parte su titoli duplicati, quindi l'evidenza è scarsa.
+17/11 16:01:22 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo chiude sotto entrambe le medie mobili, il punteggio notizie è debole e ripetuto, e senza leva un movimento avverso resta non coperto, quindi il rischio non è giustificato dalle evidenze.
