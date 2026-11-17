@@ -376,3 +376,9 @@
 17/11 07:46:01 INFO       (-0.6 r0.9 claude) Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says - CoinDesk
 17/11 07:46:01 INFO       (-0.8 r1.0 claude) On the Chain: Bitcoin slips below US$65,000 as ETF exodus deepens and crypto markets remain on edge - Proactiv
 17/11 07:46:01 INFO    -> ATTENDI: trend giornaliero non rialzista
+17/11 08:45:51 INFO    === btc_lento (BTC-EUR) ===
+17/11 08:45:51 INFO    Prezzo 58512.77 | medie 63797.13/68716.80 trend GIU | notizie -0.17 su 133 (1 nuove, 1 da Claude) | 0.2s
+17/11 08:45:51 INFO       (-0.7 r0.9 claude) Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says
+17/11 08:45:51 INFO       (-0.6 r0.9 claude) Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says - CoinDesk
+17/11 08:45:51 INFO       (+0.6 r0.9 claude) Wells Fargo reports 103% jump in BlackRock Bitcoin ETF holdings to $2.35B - Crypto News
+17/11 08:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista
