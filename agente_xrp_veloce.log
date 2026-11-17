@@ -1786,3 +1786,9 @@
 17/11 22:01:36 INFO    Prezzo 0.8802 | medie 0.879589/0.87391 trend SU | notizie -0.01 su 1 (0 nuove, 0 da Claude) | 0.2s
 17/11 22:01:36 INFO       (-0.4 r0.8 claude) Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%
 17/11 22:01:36 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
+17/11 22:15:51 INFO    === xrp_veloce (XRP-EUR) ===
+17/11 22:15:51 INFO    Prezzo 0.8824 | medie 0.880211/0.874614 trend SU | notizie -0.10 su 49 (1 nuove, 1 da Claude) | 0.2s
+17/11 22:15:51 INFO       (-0.5 r1.0 claude) XRP Price Prediction: XRP Long/Short Ratio Signals a Stronger Drop Ahead - FXEmpire
+17/11 22:15:51 INFO       (-0.7 r1.0 claude) XRP ETF Is Down $216M as Ripple Token Falls 35%: Can The Price Recover to $1.71? - TradingView
+17/11 22:15:51 INFO       (-0.4 r0.9 claude) Why Is Ripple-Backed Evernorth Writing Down Its XRP Again? - BeInCrypto
+17/11 22:15:51 INFO    -> ATTENDI: notizie sotto la soglia (-0.10)
