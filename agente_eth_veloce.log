@@ -1494,3 +1494,9 @@
 17/11 07:45:51 INFO       (-0.5 r0.6 claude) Cathie Wood's ARK Sells Solana And Ethereum Staking Funds, Buys Three Crypto Stocks Amid Bitcoin Slide - Tradi
 17/11 07:45:51 INFO       (+0.3 r0.9 claude) Ethereum co-founder signals long-term focus: ETH gains momentum - Traders Union
 17/11 07:45:51 INFO    -> ATTENDI: notizie sotto la soglia (-0.00)
+17/11 08:01:18 INFO    === eth_veloce (ETH-EUR) ===
+17/11 08:01:19 INFO    Prezzo 1665.23 | medie 1660.97/1661.01 trend GIU | notizie -0.08 su 7 (0 nuove, 0 da Claude) | 0.3s
+17/11 08:01:19 INFO       (-0.4 r0.9 claude) Ethereum test exposes flaw that lets transactions skip payments
+17/11 08:01:19 INFO       (+0.4 r1.0 claude) Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump
+17/11 08:01:19 INFO       (-0.2 r0.9 claude) Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip
+17/11 08:01:19 INFO    -> ATTENDI: trend 15 minuti non rialzista
