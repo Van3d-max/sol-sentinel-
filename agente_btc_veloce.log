@@ -1846,3 +1846,9 @@
 17/11 22:45:47 INFO       (-0.6 r0.9 claude) Bitcoin losses deepen with 51% of supply now underwater - www.tmgm.com
 17/11 22:45:47 INFO       (-0.6 r0.9 claude) Bitcoin sell-off deepens as 51% of supply falls underwater - FXStreet
 17/11 22:45:47 INFO    -> ATTENDI: notizia shock: Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100 - Bitcoin 
+17/11 23:01:20 INFO    === btc_veloce (BTC-EUR) ===
+17/11 23:01:21 INFO    Prezzo 58896.43 | medie 58517.73/58172.35 trend SU | notizie -0.12 su 112 (1 nuove, 1 da Claude) | 0.1s
+17/11 23:01:21 INFO       (-0.8 r1.0 claude) Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100 - Bitcoin Magazine
+17/11 23:01:21 INFO       (-0.6 r0.9 claude) Bitcoin losses deepen with 51% of supply now underwater - www.tmgm.com
+17/11 23:01:21 INFO       (-0.6 r0.9 claude) Bitcoin sell-off deepens as 51% of supply falls underwater - FXStreet
+17/11 23:01:21 INFO    -> ATTENDI: notizia shock: Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100 - Bitcoin 
