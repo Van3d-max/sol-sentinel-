@@ -1738,3 +1738,9 @@
 17/11 18:15:53 INFO       (-0.7 r0.9 claude) Tech sell-off drags Bitcoin below $64,000 ahead of Nvidia earnings - Crypto Briefing
 17/11 18:15:53 INFO       (-0.6 r1.0 claude) Bitcoin Briefly Falls Below $64,000 - bloomingbit
 17/11 18:15:53 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 18:31:09 INFO    === btc_veloce (BTC-EUR) ===
+17/11 18:31:09 INFO    Prezzo 57962.00 | medie 57891.29/58459.08 trend GIU | notizie -0.02 su 119 (4 nuove, 4 da Claude) | 0.2s
+17/11 18:31:09 INFO       (-0.8 r1.0 claude) Bitcoin slides as much as 23% in November 2026, reviving 2022 bear market comparisons - Cryptonews.net
+17/11 18:31:09 INFO       (-0.5 r1.0 claude) Bitcoin Falls Below $70,000. Here's Where It Could Finish the Year - The Motley Fool
+17/11 18:31:09 INFO       (-0.6 r0.9 claude) Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings
+17/11 18:31:09 INFO    -> ATTENDI: trend 15 minuti non rialzista
