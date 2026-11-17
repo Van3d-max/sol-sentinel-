@@ -1780,3 +1780,9 @@
 17/11 20:01:17 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below $64,000, 24% Plunge Blamed on Anthropic IPO's 'Capital Vacuum' - BigGo Finance
 17/11 20:01:17 INFO       (-0.8 r1.0 claude) Bitcoin slides as much as 23% in November 2026, reviving 2022 bear market comparisons - Cryptonews.net
 17/11 20:01:17 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 20:16:02 INFO    === btc_veloce (BTC-EUR) ===
+17/11 20:16:02 INFO    Prezzo 57929.84 | medie 57876.99/58035.58 trend GIU | notizie -0.08 su 123 (6 nuove, 6 da Claude) | 0.3s
+17/11 20:16:02 INFO       (-0.8 r1.0 claude) Bitcoin crashes to $62K as realized losses hit cycle lows - Crypto Briefing
+17/11 20:16:02 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below $64,000, 24% Plunge Blamed on Anthropic IPO's 'Capital Vacuum' - BigGo Finance
+17/11 20:16:02 INFO       (-0.6 r0.9 claude) Wintermute Warns Bitcoin Could Plunge to $50,000 Range: "The Bear Market Isn't Over Yet" - BigGo Finance
+17/11 20:16:02 INFO    -> ATTENDI: trend 15 minuti non rialzista
