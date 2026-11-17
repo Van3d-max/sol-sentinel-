@@ -424,3 +424,10 @@
 17/11 05:45:48 INFO       (-0.4 r0.9 claude) Ethereum test exposes flaw that lets transactions skip payments
 17/11 05:45:48 INFO       (-0.4 r0.9 claude) Ethereum test exposes flaw that lets transactions skip payments - CryptoSlate
 17/11 05:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+17/11 06:45:56 INFO    === eth_intermedio (ETH-EUR) ===
+17/11 06:45:57 INFO    Trend superiore (ONE_DAY): GIU
+17/11 06:45:57 INFO    Prezzo 1653.74 | medie 1654.46/1651.46 trend SU | notizie +0.02 su 83 (4 nuove, 4 da Claude) | 0.2s
+17/11 06:45:57 INFO       (-0.5 r0.6 claude) Cathie Wood's ARK Sells Solana And Ethereum Staking Funds, Buys Three Crypto Stocks Amid Bitcoin Slide - Tradi
+17/11 06:45:57 INFO       (+0.3 r0.9 claude) Ethereum co-founder signals long-term focus: ETH gains momentum - Traders Union
+17/11 06:45:57 INFO       (-0.5 r0.6 claude) Cathie Wood's ARK Sells Solana And Ethereum Staking Funds, Buys Three Crypto Stocks Amid Bitcoin Slide - Yahoo
+17/11 06:45:57 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

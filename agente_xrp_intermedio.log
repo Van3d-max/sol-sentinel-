@@ -421,3 +421,8 @@
 17/11 05:45:51 INFO       (-0.8 r1.0 claude) XRP Drops Below $1 to Two-Year Low, Risks Another 50% Plunge Amid Bearish Pressure - TradingKey
 17/11 05:45:51 INFO       (-0.4 r0.8 claude) Evernorth writes down pre-listing XRP holdings as accounting rules weigh on 2026 results - Traders Union
 17/11 05:45:51 INFO    -> ATTENDI: trend orario non rialzista
+17/11 06:45:59 INFO    === xrp_intermedio (XRP-EUR) ===
+17/11 06:46:00 INFO    Trend superiore (ONE_DAY): GIU
+17/11 06:46:00 INFO    Prezzo 0.8675 | medie 0.870045/0.871232 trend GIU | notizie -0.21 su 1 (0 nuove, 0 da Claude) | 0.2s
+17/11 06:46:00 INFO       (-0.4 r0.8 claude) Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%
+17/11 06:46:00 INFO    -> ATTENDI: trend orario non rialzista

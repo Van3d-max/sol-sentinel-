@@ -1433,3 +1433,7 @@
 17/11 06:31:07 INFO       (-0.4 r0.8 claude) Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%
 17/11 06:31:07 INFO       (-0.2 r1.0 claude) XRP’s proposed upgrade could improve trading without boosting token demand
 17/11 06:31:07 INFO    -> ATTENDI: notizie sotto la soglia (-0.21)
+17/11 06:45:59 INFO    === xrp_veloce (XRP-EUR) ===
+17/11 06:45:59 INFO    Prezzo 0.8675 | medie 0.874067/0.873081 trend SU | notizie -0.21 su 1 (0 nuove, 0 da Claude) | 0.2s
+17/11 06:45:59 INFO       (-0.4 r0.8 claude) Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%
+17/11 06:45:59 INFO    -> ATTENDI: notizie sotto la soglia (-0.21)

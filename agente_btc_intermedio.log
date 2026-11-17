@@ -425,3 +425,10 @@
 17/11 05:45:50 INFO       (-0.8 r1.0 claude) On the Chain: Bitcoin slips below US$65,000 as ETF exodus deepens and crypto markets remain on edge - Proactiv
 17/11 05:45:50 INFO       (-0.7 r0.9 claude) Bitcoin Bears Target $60K As Nvidia Earnings, Anthropic IPO, Bond Yields And Fed Hike Odds Weigh On Crypto Rec
 17/11 05:45:50 INFO    -> ATTENDI: trend orario non rialzista
+17/11 06:45:58 INFO    === btc_intermedio (BTC-EUR) ===
+17/11 06:45:59 INFO    Trend superiore (ONE_DAY): GIU
+17/11 06:45:59 INFO    Prezzo 58478.35 | medie 58866.22/58919.78 trend GIU | notizie -0.21 su 126 (4 nuove, 4 da Claude) | 0.2s
+17/11 06:45:59 INFO       (-0.7 r0.9 claude) Bitcoin has fallen for six consecutive weeks, with the $60,000 support level under pressure ahead of NVIDIA's 
+17/11 06:45:59 INFO       (-0.8 r1.0 claude) On the Chain: Bitcoin slips below US$65,000 as ETF exodus deepens and crypto markets remain on edge - Proactiv
+17/11 06:45:59 INFO       (-0.7 r0.9 claude) Bitcoin Bears Target $60K As Nvidia Earnings, Anthropic IPO, Bond Yields And Fed Hike Odds Weigh On Crypto Rec
+17/11 06:45:59 INFO    -> ATTENDI: trend orario non rialzista

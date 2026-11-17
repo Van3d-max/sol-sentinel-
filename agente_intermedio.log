@@ -425,3 +425,10 @@
 17/11 05:45:46 INFO       (+0.6 r0.9 claude) Zelle Taps Solana to Run ZelleUSD Overseas, Betting on Speed and Uptime - BigGo Finance
 17/11 05:45:46 INFO       (+0.6 r0.9 claude) Zelle Picks Solana for ZelleUSD International Payments - CoinMarketCap
 17/11 05:45:46 INFO    -> ATTENDI: trend orario non rialzista
+17/11 06:45:54 INFO    === intermedio (SOL-EUR) ===
+17/11 06:45:54 INFO    Trend superiore (ONE_DAY): GIU
+17/11 06:45:54 INFO    Prezzo 65.6900 | medie 65.0910/65.0426 trend SU | notizie +0.16 su 98 (1 nuove, 1 da Claude) | 0.2s
+17/11 06:45:54 INFO       (-0.4 r0.6 claude) Cathie Wood's ARK Sells Solana And Ethereum Staking Funds, Buys Three Crypto Stocks Amid Bitcoin Slide - Yahoo
+17/11 06:45:54 INFO       (+0.6 r0.9 claude) Zelle Launches ZelleUSD Stablecoin on Solana for Cross-Border Payments - KuCoin
+17/11 06:45:54 INFO       (+0.6 r0.9 claude) Zelle Taps Solana to Run ZelleUSD Overseas, Betting on Speed and Uptime - BigGo Finance
+17/11 06:45:54 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
