@@ -1639,3 +1639,6 @@
 17/11 17:01:23 INFO    === shib_veloce (SHIB-EUR) ===
 17/11 17:01:24 INFO    Prezzo 3.44e-06 | medie 3.46667e-06/3.48238e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 17/11 17:01:24 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 17:15:54 INFO    === shib_veloce (SHIB-EUR) ===
+17/11 17:15:54 INFO    Prezzo 3.45e-06 | medie 3.46222e-06/3.48e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
+17/11 17:15:54 INFO    -> ATTENDI: trend 15 minuti non rialzista
