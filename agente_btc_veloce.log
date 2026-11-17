@@ -1696,3 +1696,9 @@
 17/11 16:31:09 INFO       (+0.6 r0.9 claude) Wells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion
 17/11 16:31:09 INFO       (-0.7 r1.0 claude) Bitcoin Dragged by Broader Risk Asset Rout - Market Talk -- Market Talk - Moomoo
 17/11 16:31:09 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 16:45:57 INFO    === btc_veloce (BTC-EUR) ===
+17/11 16:45:57 INFO    Prezzo 57775.54 | medie 58540.81/58851.86 trend GIU | notizie -0.04 su 121 (5 nuove, 5 da Claude) | 0.2s
+17/11 16:45:57 INFO       (-0.6 r1.0 claude) Bitcoin Briefly Falls Below $64,000 - bloomingbit
+17/11 16:45:57 INFO       (-0.6 r0.9 claude) Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings
+17/11 16:45:57 INFO       (-0.6 r1.0 claude) Bitcoin Hovers Below $65,000 as Rate Fears, ETF Outflows Weigh on Market - Yahoo Finance
+17/11 16:45:57 INFO    -> ATTENDI: trend 15 minuti non rialzista

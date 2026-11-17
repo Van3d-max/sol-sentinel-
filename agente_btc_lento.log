@@ -424,3 +424,9 @@
 17/11 15:46:06 INFO       (-0.5 r1.0 claude) Could Bitcoin Crash to $50,000? If These 4 Bearish Catalysts Remain, It Could - Benzinga
 17/11 15:46:06 INFO       (+0.6 r0.9 claude) Goldman Sachs Doubles Bitcoin ETF Holdings - Yahoo Finance
 17/11 15:46:06 INFO    -> ATTENDI: trend giornaliero non rialzista
+17/11 16:45:57 INFO    === btc_lento (BTC-EUR) ===
+17/11 16:45:57 INFO    Prezzo 57775.54 | medie 63797.13/68716.80 trend GIU | notizie -0.06 su 133 (5 nuove, 5 da Claude) | 0.1s
+17/11 16:45:57 INFO       (-0.7 r1.0 claude) Bitcoin Dragged by Broader Risk Asset Rout - Market Talk -- Market Talk - Moomoo
+17/11 16:45:57 INFO       (-0.6 r1.0 claude) Bitcoin Briefly Falls Below $64,000 - bloomingbit
+17/11 16:45:57 INFO       (-0.6 r1.0 claude) Bitcoin Hovers Below $65,000 as Rate Fears, ETF Outflows Weigh on Market - Yahoo Finance
+17/11 16:45:57 INFO    -> ATTENDI: trend giornaliero non rialzista
