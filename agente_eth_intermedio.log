@@ -452,3 +452,10 @@
 17/11 09:45:49 INFO       (+0.3 r0.9 claude) Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps
 17/11 09:45:49 INFO       (+0.3 r1.0 claude) Ethereum price prediction: Can whale buying fuel rebound toward $2,000? - Traders Union
 17/11 09:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+17/11 10:45:50 INFO    === eth_intermedio (ETH-EUR) ===
+17/11 10:45:51 INFO    Trend superiore (ONE_DAY): GIU
+17/11 10:45:51 INFO    Prezzo 1628.23 | medie 1657.97/1653.24 trend SU | notizie +0.08 su 78 (4 nuove, 4 da Claude) | 0.4s
+17/11 10:45:51 INFO       (-0.5 r0.9 claude) Ethereum's bearish trend could extend further without a dovish Fed pivot or a US-Iran breakthrough - investing
+17/11 10:45:51 INFO       (+0.5 r0.9 claude) BitMine Keeps Buying Ethereum Despite Crypto Market Crash - Cointribune
+17/11 10:45:51 INFO       (+0.5 r1.0 claude) Goldman Sachs’ Ethereum ETF Holdings Jump Sixfold in Q3 to $1.22 Billion - bloomingbit
+17/11 10:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

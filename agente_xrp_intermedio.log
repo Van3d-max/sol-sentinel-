@@ -447,3 +447,10 @@
 17/11 09:45:52 INFO       (-0.4 r0.9 claude) Ripple-Backed Evernorth Reports $505 Million XRP Impairment on Pre-Listing Holdings - CoinGape
 17/11 09:45:52 INFO       (-0.4 r0.9 claude) Evernorth writes down pre-listing XRP holdings by 60% to $342 million - Crypto News
 17/11 09:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+17/11 10:45:54 INFO    === xrp_intermedio (XRP-EUR) ===
+17/11 10:45:55 INFO    Trend superiore (ONE_DAY): GIU
+17/11 10:45:55 INFO    Prezzo 0.8714 | medie 0.87141/0.871168 trend SU | notizie -0.11 su 43 (0 nuove, 0 da Claude) | 0.4s
+17/11 10:45:55 INFO       (+0.4 r1.0 claude) XRP Signals Whale Accumulation Below $1 as Binance Logs $127 Million in Net Outflows - bloomingbit
+17/11 10:45:55 INFO       (-0.4 r0.9 claude) Why Is Ripple-Backed Evernorth Writing Down Its XRP Again? - BeInCrypto
+17/11 10:45:55 INFO       (-0.4 r0.9 claude) Ripple-Backed Evernorth Reports $505 Million XRP Impairment on Pre-Listing Holdings - CoinGape
+17/11 10:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

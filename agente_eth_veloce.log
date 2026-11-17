@@ -1560,3 +1560,9 @@
 17/11 10:31:05 INFO       (+0.5 r1.0 claude) Goldman Sachs’ Ethereum ETF Holdings Jump Sixfold in Q3 to $1.22 Billion - bloomingbit
 17/11 10:31:05 INFO       (+0.4 r0.9 claude) Goldman Sachs' Ether ETF Stake Jumps Sixfold to $1.22 Billion as ETHA Holdings Surge 352% - BigGo Finance
 17/11 10:31:05 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 10:45:50 INFO    === eth_veloce (ETH-EUR) ===
+17/11 10:45:50 INFO    Prezzo 1628.23 | medie 1643.63/1653.92 trend GIU | notizie +0.08 su 78 (4 nuove, 4 da Claude) | 0.3s
+17/11 10:45:50 INFO       (-0.5 r0.9 claude) Ethereum's bearish trend could extend further without a dovish Fed pivot or a US-Iran breakthrough - investing
+17/11 10:45:50 INFO       (+0.5 r0.9 claude) BitMine Keeps Buying Ethereum Despite Crypto Market Crash - Cointribune
+17/11 10:45:50 INFO       (+0.5 r1.0 claude) Goldman Sachs’ Ethereum ETF Holdings Jump Sixfold in Q3 to $1.22 Billion - bloomingbit
+17/11 10:45:50 INFO    -> ATTENDI: trend 15 minuti non rialzista
