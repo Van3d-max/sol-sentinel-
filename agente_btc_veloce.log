@@ -1576,3 +1576,9 @@
 17/11 11:31:21 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below Four-Year Trendline as Market Maker Wintermute Warns of Possible Slide to $50,000 Range -
 17/11 11:31:21 INFO       (-0.4 r0.9 claude) Bitcoin realized loss metric beats June high as open interest eyes 2-year low
 17/11 11:31:21 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 11:45:51 INFO    === btc_veloce (BTC-EUR) ===
+17/11 11:45:51 INFO    Prezzo 58931.04 | medie 58502.58/58551.87 trend GIU | notizie -0.11 su 123 (4 nuove, 4 da Claude) | 0.2s
+17/11 11:45:51 INFO       (-0.5 r0.9 claude) Bitcoin Erases Nearly 90% of Its Gains: Is $62,000 the Bottom, or the End of a Bear Market Rally? - Moomoo
+17/11 11:45:51 INFO       (-0.4 r1.0 claude) Bitcoin stalls below $65,000 after weekend selloff as Nvidia earnings loom - CoinDesk
+17/11 11:45:51 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below Four-Year Trendline as Market Maker Wintermute Warns of Possible Slide to $50,000 Range -
+17/11 11:45:51 INFO    -> ATTENDI: trend 15 minuti non rialzista

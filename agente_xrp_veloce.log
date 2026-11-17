@@ -1545,3 +1545,9 @@
 17/11 11:31:22 INFO       (-0.4 r0.9 claude) Why Is Ripple-Backed Evernorth Writing Down Its XRP Again? - BeInCrypto
 17/11 11:31:22 INFO       (-0.2 r0.9 claude) Will XRP Price Go Back Up Again? - Coinpedia
 17/11 11:31:22 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 11:45:53 INFO    === xrp_veloce (XRP-EUR) ===
+17/11 11:45:54 INFO    Prezzo 0.8802 | medie 0.872689/0.871667 trend SU | notizie -0.07 su 51 (2 nuove, 2 da Claude) | 0.3s
+17/11 11:45:54 INFO       (+0.5 r0.8 claude) Mastercard Touts XRP Ledger as AI Agents Clear 500,000 Payments a Day - finance.biggo.com
+17/11 11:45:54 INFO       (+0.4 r1.0 claude) XRP Signals Whale Accumulation Below $1 as Binance Logs $127 Million in Net Outflows - bloomingbit
+17/11 11:45:54 INFO       (-0.4 r0.9 claude) Why Is Ripple-Backed Evernorth Writing Down Its XRP Again? - BeInCrypto
+17/11 11:45:54 INFO    -> ATTENDI: notizie sotto la soglia (-0.07)
