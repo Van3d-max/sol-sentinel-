@@ -474,3 +474,10 @@
 17/11 12:45:54 INFO       (-0.5 r0.9 claude) Bitcoin Erases Nearly 90% of Its Gains: Is $62,000 the Bottom, or the End of a Bear Market Rally? - Moomoo
 17/11 12:45:54 INFO       (+0.5 r0.7 claude) Russia opens Bitcoin, Ethereum, USDT access to retail investors under new rules - Crypto News
 17/11 12:45:54 INFO    -> ATTENDI: trend orario non rialzista
+17/11 13:45:56 INFO    === btc_intermedio (BTC-EUR) ===
+17/11 13:45:56 INFO    Trend superiore (ONE_DAY): GIU
+17/11 13:45:56 INFO    Prezzo 59091.70 | medie 58896.94/58879.58 trend SU | notizie -0.09 su 120 (9 nuove, 9 da Claude) | 0.4s
+17/11 13:45:56 INFO       (-0.6 r0.9 claude) IBIT Led $2.35B Bitcoin ETF Exodus: Is Wall Street Selling Too Soon? - iShares Bitcoin Trust (NASDAQ:IBIT - Be
+17/11 13:45:56 INFO       (-0.5 r1.0 claude) Bitcoin may fall to the $50,000 level — forecast - Українські Національні Новини (УНН)
+17/11 13:45:56 INFO       (-0.6 r0.9 claude) Three Reasons Behind Bitcoin’s Selloff This Month - WSJ
+17/11 13:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

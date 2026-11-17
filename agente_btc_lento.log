@@ -406,3 +406,9 @@
 17/11 12:45:54 INFO       (-0.5 r1.0 claude) Bitcoin Heading for $40K? Deribit Traders Sound the Alarm With $60K Put Bets - Cryptonews.net
 17/11 12:45:54 INFO       (-0.7 r1.0 claude) BTC forecast: Prices could slide into the $50,000s, Wintermute warns - CoinDesk
 17/11 12:45:54 INFO    -> ATTENDI: trend giornaliero non rialzista
+17/11 13:45:56 INFO    === btc_lento (BTC-EUR) ===
+17/11 13:45:56 INFO    Prezzo 59091.70 | medie 63797.13/68716.80 trend GIU | notizie -0.12 su 131 (9 nuove, 9 da Claude) | 0.1s
+17/11 13:45:56 INFO       (-0.7 r0.9 claude) Bitcoin Price Forecast: Wintermute Warns of $50K Crash as BTC Open Interest Hits Two-Year Low - CoinGape
+17/11 13:45:56 INFO       (-0.6 r0.9 claude) IBIT Led $2.35B Bitcoin ETF Exodus: Is Wall Street Selling Too Soon? - iShares Bitcoin Trust (NASDAQ:IBIT - Be
+17/11 13:45:56 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below Four-Year Trendline as Market Maker Wintermute Warns of Possible Slide to $50,000 Range -
+17/11 13:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista

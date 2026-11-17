@@ -473,3 +473,10 @@
 17/11 12:45:51 INFO       (-0.6 r0.9 claude) Ethereum Price and $1.16B Selling Threat: North Korea’s Binance Hacker Moves $137M - Cryptonews
 17/11 12:45:51 INFO       (-0.5 r0.9 claude) Ethereum's bearish trend could extend further without a dovish Fed pivot or a US-Iran breakthrough - investing
 17/11 12:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+17/11 13:45:52 INFO    === eth_intermedio (ETH-EUR) ===
+17/11 13:45:52 INFO    Trend superiore (ONE_DAY): GIU
+17/11 13:45:52 INFO    Prezzo 1658.30 | medie 1655.34/1652.61 trend SU | notizie -0.04 su 83 (2 nuove, 2 da Claude) | 0.4s
+17/11 13:45:52 INFO       (-0.5 r1.0 claude) Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps
+17/11 13:45:52 INFO       (-0.5 r1.0 claude) ETH news: Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps - CoinDesk
+17/11 13:45:52 INFO       (+0.5 r0.9 claude) Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps - Cryptonews.net
+17/11 13:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

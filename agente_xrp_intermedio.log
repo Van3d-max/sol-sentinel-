@@ -468,3 +468,10 @@
 17/11 12:45:56 INFO       (-0.4 r1.0 claude) XRP Slides Toward $0.79 as Traders Weigh Historic December Pattern After 24% Monthly Rout - finance.biggo.com
 17/11 12:45:56 INFO       (+0.5 r0.8 claude) Mastercard Touts XRP Ledger as AI Agents Clear 500,000 Payments a Day - BigGo Finance
 17/11 12:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+17/11 13:45:58 INFO    === xrp_intermedio (XRP-EUR) ===
+17/11 13:45:59 INFO    Trend superiore (ONE_DAY): GIU
+17/11 13:45:59 INFO    Prezzo 0.8841 | medie 0.872585/0.871384 trend SU | notizie -0.14 su 49 (3 nuove, 3 da Claude) | 0.5s
+17/11 13:45:59 INFO       (-0.6 r1.0 claude) XRP Slides Toward $0.79 as Traders Weigh Historic December Pattern After 24% Monthly Rout - BigGo Finance
+17/11 13:45:59 INFO       (-0.5 r0.9 claude) Evernorth Writes Down Ripple Holdings: What Does This Mean for XRP’s Price? - CryptoPotato
+17/11 13:45:59 INFO       (+0.5 r0.8 claude) Mastercard Touts XRP Ledger as AI Agents Clear 500,000 Payments a Day - BigGo Finance
+17/11 13:45:59 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
