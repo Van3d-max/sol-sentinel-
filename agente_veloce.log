@@ -9780,3 +9780,9 @@
 17/11 16:01:22 INFO       rialzista: Il prezzo è vicino ai massimi recenti e il sentiment è leggermente positivo, con notizie su CoinGecko e sugli agenti AI che suggeriscono un possibile interesse istituzionale e di ecosistema per SOL.
 17/11 16:01:22 INFO       ribassista: Il prezzo (65,85) è sotto sia la media a 10 periodi (66,72) sia quella a 30 periodi (66,70), segnale di trend debole, e il punteggio notizie di 0,14 si basa in parte su titoli duplicati, quindi l'evidenza è scarsa.
 17/11 16:01:22 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo chiude sotto entrambe le medie mobili, il punteggio notizie è debole e ripetuto, e senza leva un movimento avverso resta non coperto, quindi il rischio non è giustificato dalle evidenze.
+17/11 16:15:48 INFO    === veloce (SOL-EUR) ===
+17/11 16:15:49 INFO    Prezzo 65.9000 | medie 66.5811/66.7138 trend GIU | notizie +0.19 su 85 (3 nuove, 3 da Claude) | 0.4s
+17/11 16:15:49 INFO       (+0.4 r0.8 claude) Large cryptocurrencies mixed as Solana increases - MarketWatch
+17/11 16:15:49 INFO       (+0.3 r0.7 claude) CoinGecko Gets Solana Foundation Backing and Plans Solana-Powered Trading - Yahoo Finance
+17/11 16:15:49 INFO       (+0.5 r0.8 claude) Mitsui to Use Solana for Gold, Real-World Asset Tokenization in Strategic Shift - bloomingbit
+17/11 16:15:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
