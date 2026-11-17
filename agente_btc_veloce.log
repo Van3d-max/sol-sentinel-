@@ -1546,3 +1546,9 @@
 17/11 10:16:06 INFO       (-0.7 r1.0 claude) BTC forecast: Prices could slide into the $50,000s, Wintermute warns - CoinDesk
 17/11 10:16:06 INFO       (-0.7 r0.9 claude) Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says
 17/11 10:16:06 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 10:31:06 INFO    === btc_veloce (BTC-EUR) ===
+17/11 10:31:06 INFO    Prezzo 58359.97 | medie 58456.30/58621.87 trend GIU | notizie -0.15 su 125 (1 nuove, 1 da Claude) | 0.3s
+17/11 10:31:06 INFO       (-0.6 r0.9 claude) Bitcoin’s path to $58K opens wider as $5 Trillion in risk assets reprice and Gold loses $3,900 - FXStreet
+17/11 10:31:06 INFO       (-0.6 r0.9 claude) Bitcoin, Ether Lose Over 13% in Week as Rebound Fades - The Defiant
+17/11 10:31:06 INFO       (-0.7 r1.0 claude) BTC forecast: Prices could slide into the $50,000s, Wintermute warns - CoinDesk
+17/11 10:31:06 INFO    -> ATTENDI: trend 15 minuti non rialzista
