@@ -1302,3 +1302,9 @@
 16/11 23:45:46 INFO       (+0.3 r0.9 claude) VitalikButerin backs Ethereum EIP 8037, supporting higher s - KuCoin
 16/11 23:45:46 INFO       (+0.4 r1.0 claude) Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump
 16/11 23:45:46 INFO    -> ATTENDI: obiettivo +1.22% sotto il minimo +2.20% (commissioni)
+17/11 00:01:21 INFO    === eth_veloce (ETH-EUR) ===
+17/11 00:01:22 INFO    Prezzo 1654.51 | medie 1661.38/1657.46 trend SU | notizie +0.08 su 6 (0 nuove, 0 da Claude) | 0.3s
+17/11 00:01:22 INFO       (+0.4 r1.0 claude) Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump
+17/11 00:01:22 INFO       (-0.2 r0.9 claude) Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip
+17/11 00:01:22 INFO       (+0.3 r0.9 claude) Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum
+17/11 00:01:22 INFO    -> ATTENDI: obiettivo +1.18% sotto il minimo +2.20% (commissioni)
