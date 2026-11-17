@@ -1564,3 +1564,9 @@
 17/11 11:01:20 INFO       (-0.6 r0.9 claude) Bitcoin, Ether Lose Over 13% in Week as Rebound Fades - The Defiant
 17/11 11:01:20 INFO       (-0.7 r1.0 claude) BTC forecast: Prices could slide into the $50,000s, Wintermute warns - CoinDesk
 17/11 11:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 11:15:53 INFO    === btc_veloce (BTC-EUR) ===
+17/11 11:15:53 INFO    Prezzo 58481.80 | medie 58421.82/58548.43 trend GIU | notizie -0.11 su 121 (1 nuove, 1 da Claude) | 0.2s
+17/11 11:15:53 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below Four-Year Trendline as Market Maker Wintermute Warns of Possible Slide to $50,000 Range -
+17/11 11:15:53 INFO       (-0.6 r0.9 claude) Bitcoin, Ether Lose Over 13% in Week as Rebound Fades - The Defiant
+17/11 11:15:53 INFO       (-0.7 r1.0 claude) BTC forecast: Prices could slide into the $50,000s, Wintermute warns - CoinDesk
+17/11 11:15:53 INFO    -> ATTENDI: trend 15 minuti non rialzista
