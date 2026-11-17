@@ -400,3 +400,9 @@
 17/11 11:45:49 INFO       (-0.5 r0.9 claude) Ethereum Price Selling Threat From North Korea Binance Hacker - Cryptonews
 17/11 11:45:49 INFO       (+0.5 r1.0 claude) Goldman Sachs’ Ethereum ETF Holdings Jump Sixfold in Q3 to $1.22 Billion - bloomingbit
 17/11 11:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista
+17/11 12:45:51 INFO    === eth_lento (ETH-EUR) ===
+17/11 12:45:51 INFO    Prezzo 1656.13 | medie 1800.72/1989.38 trend GIU | notizie +0.01 su 100 (2 nuove, 2 da Claude) | 0.1s
+17/11 12:45:51 INFO       (-0.6 r1.0 claude) Why Is Ethereum Falling? Two Warning Signals Put ETH Investors on Alert - Coinpedia
+17/11 12:45:51 INFO       (-0.6 r0.9 claude) Ethereum Price and $1.16B Selling Threat: North Korea’s Binance Hacker Moves $137M - Cryptonews
+17/11 12:45:51 INFO       (+0.5 r1.0 claude) Goldman Sachs’ Ethereum ETF Holdings Jump Sixfold in Q3 to $1.22 Billion - bloomingbit
+17/11 12:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista

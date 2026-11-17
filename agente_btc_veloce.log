@@ -1600,3 +1600,9 @@
 17/11 12:31:03 INFO       (-0.7 r0.9 claude) Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says
 17/11 12:31:03 INFO       (+0.3 r0.9 claude) BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear
 17/11 12:31:03 INFO    -> ATTENDI: notizie sotto la soglia (-0.08)
+17/11 12:45:53 INFO    === btc_veloce (BTC-EUR) ===
+17/11 12:45:54 INFO    Prezzo 59057.22 | medie 58756.48/58625.92 trend SU | notizie -0.07 su 123 (6 nuove, 6 da Claude) | 0.3s
+17/11 12:45:54 INFO       (-0.5 r1.0 claude) Bitcoin Heading for $40K? Deribit Traders Sound the Alarm With $60K Put Bets - Cryptonews.net
+17/11 12:45:54 INFO       (-0.5 r0.9 claude) Bitcoin Erases Nearly 90% of Its Gains: Is $62,000 the Bottom, or the End of a Bear Market Rally? - Moomoo
+17/11 12:45:54 INFO       (+0.5 r0.7 claude) Russia opens Bitcoin, Ethereum, USDT access to retail investors under new rules - Crypto News
+17/11 12:45:54 INFO    -> ATTENDI: notizie sotto la soglia (-0.07)

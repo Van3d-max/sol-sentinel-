@@ -467,3 +467,10 @@
 17/11 11:45:52 INFO       (-0.4 r1.0 claude) Bitcoin stalls below $65,000 after weekend selloff as Nvidia earnings loom - CoinDesk
 17/11 11:45:52 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below Four-Year Trendline as Market Maker Wintermute Warns of Possible Slide to $50,000 Range -
 17/11 11:45:52 INFO    -> ATTENDI: trend orario non rialzista
+17/11 12:45:54 INFO    === btc_intermedio (BTC-EUR) ===
+17/11 12:45:54 INFO    Trend superiore (ONE_DAY): GIU
+17/11 12:45:54 INFO    Prezzo 59057.22 | medie 58889.17/58890.43 trend GIU | notizie -0.07 su 123 (6 nuove, 6 da Claude) | 0.4s
+17/11 12:45:54 INFO       (-0.5 r1.0 claude) Bitcoin Heading for $40K? Deribit Traders Sound the Alarm With $60K Put Bets - Cryptonews.net
+17/11 12:45:54 INFO       (-0.5 r0.9 claude) Bitcoin Erases Nearly 90% of Its Gains: Is $62,000 the Bottom, or the End of a Bear Market Rally? - Moomoo
+17/11 12:45:54 INFO       (+0.5 r0.7 claude) Russia opens Bitcoin, Ethereum, USDT access to retail investors under new rules - Crypto News
+17/11 12:45:54 INFO    -> ATTENDI: trend orario non rialzista

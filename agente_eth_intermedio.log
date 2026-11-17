@@ -466,3 +466,10 @@
 17/11 11:45:49 INFO       (-0.5 r0.9 claude) Ethereum Price Selling Threat From North Korea Binance Hacker - Cryptonews
 17/11 11:45:49 INFO       (-0.5 r0.9 claude) Ethereum's bearish trend could extend further without a dovish Fed pivot or a US-Iran breakthrough - investing
 17/11 11:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+17/11 12:45:50 INFO    === eth_intermedio (ETH-EUR) ===
+17/11 12:45:51 INFO    Trend superiore (ONE_DAY): GIU
+17/11 12:45:51 INFO    Prezzo 1656.13 | medie 1655.57/1652.80 trend SU | notizie -0.00 su 81 (2 nuove, 2 da Claude) | 0.4s
+17/11 12:45:51 INFO       (-0.6 r1.0 claude) Why Is Ethereum Falling? Two Warning Signals Put ETH Investors on Alert - Coinpedia
+17/11 12:45:51 INFO       (-0.6 r0.9 claude) Ethereum Price and $1.16B Selling Threat: North Korea’s Binance Hacker Moves $137M - Cryptonews
+17/11 12:45:51 INFO       (-0.5 r0.9 claude) Ethereum's bearish trend could extend further without a dovish Fed pivot or a US-Iran breakthrough - investing
+17/11 12:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
