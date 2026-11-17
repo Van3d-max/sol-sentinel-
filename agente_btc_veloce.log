@@ -1468,3 +1468,9 @@
 17/11 07:01:20 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000
 17/11 07:01:20 INFO       (-0.6 r0.9 claude) Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off
 17/11 07:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 07:15:46 INFO    === btc_veloce (BTC-EUR) ===
+17/11 07:15:46 INFO    Prezzo 58684.53 | medie 58756.86/58819.94 trend GIU | notizie -0.00 su 31 (0 nuove, 0 da Claude) | 0.2s
+17/11 07:15:46 INFO       (+0.3 r0.9 claude) Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion
+17/11 07:15:46 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000
+17/11 07:15:46 INFO       (-0.6 r0.9 claude) Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off
+17/11 07:15:46 INFO    -> ATTENDI: trend 15 minuti non rialzista
