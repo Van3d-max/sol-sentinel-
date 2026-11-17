@@ -346,3 +346,9 @@
 17/11 02:45:49 INFO       (-0.5 r1.0 claude) Bitcoin’s Worst May Not Be Over: Could a 40% Crash Come Next? - BeInCrypto
 17/11 02:45:49 INFO       (-0.7 r0.9 claude) Bitcoin Falls Below $64,000 As Nvidia Turmoil Roils Tech Stocks And Crypto - Forbes
 17/11 02:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista
+17/11 03:45:49 INFO    === btc_lento (BTC-EUR) ===
+17/11 03:45:49 INFO    Prezzo 59087.52 | medie 63797.13/68716.80 trend GIU | notizie -0.24 su 132 (2 nuove, 2 da Claude) | 0.1s
+17/11 03:45:49 INFO       (-0.8 r1.0 claude) On the Chain: Bitcoin slips below US$65,000 as ETF exodus deepens and crypto markets remain on edge - Proactiv
+17/11 03:45:49 INFO       (-0.6 r1.0 claude) Bitcoin Stays Under $65,000 as Bearish Mood Persists -- Market Talk - Moomoo
+17/11 03:45:49 INFO       (-0.6 r0.9 claude) Three Reasons Behind Bitcoin’s Selloff This Month - WSJ
+17/11 03:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista
