@@ -516,3 +516,8 @@
 17/11 19:45:56 INFO       (-0.7 r1.0 claude) XRP ETF Is Down $216M as Ripple Token Falls 35%: Can The Price Recover to $1.71? - TradingView
 17/11 19:45:56 INFO       (-0.6 r0.9 claude) Ripple-Backed Evernorth Takes Massive $505 Million XRP Hit - U.Today
 17/11 19:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+17/11 20:46:24 INFO    === xrp_intermedio (XRP-EUR) ===
+17/11 20:46:25 INFO    Trend superiore (ONE_DAY): GIU
+17/11 20:46:25 INFO    Prezzo 0.8793 | medie 0.87435/0.871718 trend SU | notizie -0.02 su 1 (0 nuove, 0 da Claude) | 0.3s
+17/11 20:46:25 INFO       (-0.4 r0.8 claude) Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%
+17/11 20:46:25 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

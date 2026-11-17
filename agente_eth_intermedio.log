@@ -522,3 +522,10 @@
 17/11 19:45:51 INFO       (-0.5 r0.9 claude) Ethereum dips while macroeconomic uncertainty and capital outflows pressure demand - Traders Union
 17/11 19:45:51 INFO       (-0.6 r1.0 claude) Ethereum Price Prediction: Retest of $1.5K Likely as ETFs Book 7-Week Streak of Outflows - FXEmpire
 17/11 19:45:51 INFO    -> ATTENDI: trend orario non rialzista
+17/11 20:46:09 INFO    === eth_intermedio (ETH-EUR) ===
+17/11 20:46:09 INFO    Trend superiore (ONE_DAY): GIU
+17/11 20:46:09 INFO    Prezzo 1632.70 | medie 1646.16/1649.30 trend GIU | notizie -0.18 su 8 (0 nuove, 0 da Claude) | 0.3s
+17/11 20:46:09 INFO       (-0.4 r0.8 claude) Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence
+17/11 20:46:09 INFO       (-0.2 r0.9 claude) Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps
+17/11 20:46:09 INFO       (-0.5 r1.0 claude) Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps
+17/11 20:46:09 INFO    -> ATTENDI: trend orario non rialzista

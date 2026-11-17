@@ -1792,3 +1792,9 @@
 17/11 20:31:04 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below $64,000, 24% Plunge Blamed on Anthropic IPO's 'Capital Vacuum' - BigGo Finance
 17/11 20:31:04 INFO       (-0.6 r0.9 claude) Wintermute Warns Bitcoin Could Plunge to $50,000 Range: "The Bear Market Isn't Over Yet" - BigGo Finance
 17/11 20:31:04 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 20:46:16 INFO    === btc_veloce (BTC-EUR) ===
+17/11 20:46:17 INFO    Prezzo 58086.34 | medie 57922.57/57958.27 trend GIU | notizie +0.07 su 30 (1 nuove, 1 da Claude) | 0.2s
+17/11 20:46:17 INFO       (+0.3 r0.9 claude) Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal
+17/11 20:46:17 INFO       (-0.6 r0.9 claude) Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings
+17/11 20:46:17 INFO       (+0.6 r0.9 claude) Wells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion
+17/11 20:46:17 INFO    -> ATTENDI: trend 15 minuti non rialzista
