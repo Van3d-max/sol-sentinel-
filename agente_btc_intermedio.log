@@ -446,3 +446,10 @@
 17/11 08:45:51 INFO       (+0.6 r0.9 claude) Wells Fargo reports 103% jump in BlackRock Bitcoin ETF holdings to $2.35B - Crypto News
 17/11 08:45:51 INFO       (-0.6 r0.9 claude) Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says - CoinDesk
 17/11 08:45:51 INFO    -> ATTENDI: trend orario non rialzista
+17/11 09:45:51 INFO    === btc_intermedio (BTC-EUR) ===
+17/11 09:45:51 INFO    Trend superiore (ONE_DAY): GIU
+17/11 09:45:51 INFO    Prezzo 58530.73 | medie 58893.84/58912.03 trend GIU | notizie -0.09 su 126 (3 nuove, 3 da Claude) | 0.2s
+17/11 09:45:51 INFO       (-0.7 r0.9 claude) Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says
+17/11 09:45:51 INFO       (+0.6 r0.9 claude) Wells Fargo reports 103% jump in BlackRock Bitcoin ETF holdings to $2.35B - Crypto News
+17/11 09:45:51 INFO       (-0.6 r0.9 claude) Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says - CoinDesk
+17/11 09:45:51 INFO    -> ATTENDI: trend orario non rialzista
