@@ -1339,3 +1339,7 @@
 17/11 02:15:54 INFO       (-0.6 r1.0 claude) XRP Price Prediction: Further Pain Ahead as XRP Dips to Our $0.90 Target - FXEmpire
 17/11 02:15:54 INFO       (-0.5 r0.4 claude) Bitcoin, XRP, Dogecoin Slide, Ethereum Steady as ‘Extreme Fear’ Persists: Analyst Says ‘Selling Hasn’t St - Be
 17/11 02:15:54 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 02:31:03 INFO    === xrp_veloce (XRP-EUR) ===
+17/11 02:31:03 INFO    Prezzo 0.8675 | medie 0.868456/0.869676 trend GIU | notizie -0.06 su 1 (0 nuove, 0 da Claude) | 0.2s
+17/11 02:31:03 INFO       (-0.2 r1.0 claude) XRP’s proposed upgrade could improve trading without boosting token demand
+17/11 02:31:03 INFO    -> ATTENDI: trend 15 minuti non rialzista
