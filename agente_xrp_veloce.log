@@ -1628,3 +1628,9 @@
 17/11 15:01:27 INFO       (-0.4 r0.8 claude) Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%
 17/11 15:01:27 INFO       (-0.1 r1.0 claude) XRP volume surges 99% to $62M, yet small sellers lose out
 17/11 15:01:27 INFO    -> ATTENDI: notizie sotto la soglia (-0.07)
+17/11 15:15:57 INFO    === xrp_veloce (XRP-EUR) ===
+17/11 15:15:57 INFO    Prezzo 0.8772 | medie 0.885444/0.880624 trend SU | notizie -0.16 su 54 (1 nuove, 1 da Claude) | 0.3s
+17/11 15:15:57 INFO       (-0.6 r1.0 claude) Ripple Price Prediction: XRP Struggles Below $1 as Bears Eye Another Drop to $0.89 - CryptoPotato
+17/11 15:15:57 INFO       (-0.6 r0.9 claude) Ripple-Backed Evernorth Cuts XRP Holdings by 60% - U.Today
+17/11 15:15:57 INFO       (-0.6 r1.0 claude) XRP Slides Toward $0.79 as Traders Weigh Historic December Pattern After 24% Monthly Rout - BigGo Finance
+17/11 15:15:57 INFO    -> ATTENDI: notizie sotto la soglia (-0.16)
