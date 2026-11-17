@@ -1420,3 +1420,9 @@
 17/11 05:01:17 INFO       (-0.6 r0.9 claude) Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off
 17/11 05:01:17 INFO       (-0.3 r1.0 claude) Why Bitcoin’s June Low May Not Be the Bottom — $58K the Key Test
 17/11 05:01:17 INFO    -> ATTENDI: notizie sotto la soglia (-0.14)
+17/11 05:15:45 INFO    === btc_veloce (BTC-EUR) ===
+17/11 05:15:46 INFO    Prezzo 58835.79 | medie 58973.36/58840.59 trend SU | notizie -0.14 su 29 (0 nuove, 0 da Claude) | 0.3s
+17/11 05:15:46 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000
+17/11 05:15:46 INFO       (-0.6 r0.9 claude) Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off
+17/11 05:15:46 INFO       (-0.3 r1.0 claude) Why Bitcoin’s June Low May Not Be the Bottom — $58K the Key Test
+17/11 05:15:46 INFO    -> ATTENDI: notizie sotto la soglia (-0.14)
