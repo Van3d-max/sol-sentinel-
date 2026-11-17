@@ -502,3 +502,10 @@
 17/11 16:45:53 INFO       (+0.4 r0.8 claude) Large cryptocurrencies mixed as Solana increases - MarketWatch
 17/11 16:45:53 INFO       (+0.3 r0.7 claude) CoinGecko Gets Solana Foundation Backing and Plans Solana-Powered Trading - Yahoo Finance
 17/11 16:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+17/11 17:45:55 INFO    === intermedio (SOL-EUR) ===
+17/11 17:45:56 INFO    Trend superiore (ONE_DAY): GIU
+17/11 17:45:56 INFO    Prezzo 65.6300 | medie 65.9165/65.3222 trend SU | notizie +0.21 su 80 (2 nuove, 2 da Claude) | 0.2s
+17/11 17:45:56 INFO       (+0.5 r0.9 claude) Mitsui selects Solana for commodity tokenization, cites efficiency - Crypto Briefing
+17/11 17:45:56 INFO       (+0.4 r0.9 claude) Solana Drops Beta Label After Six Years as Network Moves to Version 1.0 - Coinpaper
+17/11 17:45:56 INFO       (+0.4 r0.8 claude) Large cryptocurrencies mixed as Solana increases - MarketWatch
+17/11 17:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
