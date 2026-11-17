@@ -1714,3 +1714,9 @@
 17/11 17:15:51 INFO       (-0.6 r1.0 claude) Bitcoin Briefly Falls Below $64,000 - bloomingbit
 17/11 17:15:51 INFO       (-0.6 r0.9 claude) Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings
 17/11 17:15:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 17:31:10 INFO    === btc_veloce (BTC-EUR) ===
+17/11 17:31:10 INFO    Prezzo 57805.89 | medie 58152.09/58690.28 trend GIU | notizie -0.05 su 121 (3 nuove, 3 da Claude) | 0.2s
+17/11 17:31:10 INFO       (-0.7 r0.9 claude) Tech sell-off drags Bitcoin below $64,000 ahead of Nvidia earnings - Crypto Briefing
+17/11 17:31:10 INFO       (-0.6 r1.0 claude) Bitcoin Briefly Falls Below $64,000 - bloomingbit
+17/11 17:31:10 INFO       (-0.6 r0.9 claude) Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings
+17/11 17:31:10 INFO    -> ATTENDI: trend 15 minuti non rialzista
