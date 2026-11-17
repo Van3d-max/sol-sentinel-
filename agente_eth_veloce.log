@@ -1380,3 +1380,9 @@
 17/11 03:01:24 INFO       (+0.4 r1.0 claude) Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump
 17/11 03:01:24 INFO       (-0.2 r0.9 claude) Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip
 17/11 03:01:24 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 03:15:49 INFO    === eth_veloce (ETH-EUR) ===
+17/11 03:15:49 INFO    Prezzo 1651.60 | medie 1652.18/1655.29 trend GIU | notizie +0.01 su 82 (3 nuove, 3 da Claude) | 0.3s
+17/11 03:15:49 INFO       (-0.4 r0.9 claude) Ethereum test exposes flaw that lets transactions skip payments
+17/11 03:15:49 INFO       (-0.4 r0.9 claude) Ethereum test exposes flaw that lets transactions skip payments - CryptoSlate
+17/11 03:15:49 INFO       (+0.3 r0.9 claude) Why is smart money adding bullish Ethereum exposure as ETH ETFs bleed? - AMBCrypto
+17/11 03:15:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
