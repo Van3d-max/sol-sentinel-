@@ -1804,3 +1804,9 @@
 17/11 21:01:19 INFO       (-0.6 r0.9 claude) Bitcoin Price Hits $65K Wall Again as Analysts Warn of More Pain Ahead - Cryptonews.net
 17/11 21:01:19 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below $64,000, 24% Plunge Blamed on Anthropic IPO's 'Capital Vacuum' - BigGo Finance
 17/11 21:01:19 INFO    -> ATTENDI: notizia shock: Bitcoin crashes to $62K as realized losses hit cycle lows - Crypto Briefing
+17/11 21:15:47 INFO    === btc_veloce (BTC-EUR) ===
+17/11 21:15:47 INFO    Prezzo 58165.71 | medie 57987.13/57944.90 trend SU | notizie -0.08 su 122 (4 nuove, 4 da Claude) | 0.2s
+17/11 21:15:47 INFO       (-0.6 r0.9 claude) Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100
+17/11 21:15:47 INFO       (-0.8 r1.0 claude) Bitcoin crashes to $62K as realized losses hit cycle lows - Crypto Briefing
+17/11 21:15:47 INFO       (-0.6 r0.9 claude) Bitcoin Price Hits $65K Wall Again as Analysts Warn of More Pain Ahead - Cryptonews.net
+17/11 21:15:47 INFO    -> ATTENDI: notizia shock: Bitcoin crashes to $62K as realized losses hit cycle lows - Crypto Briefing
