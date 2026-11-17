@@ -1422,3 +1422,9 @@
 17/11 04:45:47 INFO       (-0.4 r0.9 claude) Ethereum test exposes flaw that lets transactions skip payments
 17/11 04:45:47 INFO       (-0.4 r0.9 claude) Ethereum test exposes flaw that lets transactions skip payments - CryptoSlate
 17/11 04:45:47 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
+17/11 05:01:17 INFO    === eth_veloce (ETH-EUR) ===
+17/11 05:01:17 INFO    Prezzo 1667.34 | medie 1659.84/1655.50 trend SU | notizie -0.12 su 7 (0 nuove, 0 da Claude) | 0.2s
+17/11 05:01:17 INFO       (-0.4 r0.9 claude) Ethereum test exposes flaw that lets transactions skip payments
+17/11 05:01:17 INFO       (+0.4 r1.0 claude) Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump
+17/11 05:01:17 INFO       (-0.2 r0.9 claude) Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip
+17/11 05:01:17 INFO    -> ATTENDI: notizie sotto la soglia (-0.12)

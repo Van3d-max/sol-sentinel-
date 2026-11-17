@@ -1414,3 +1414,9 @@
 17/11 04:45:49 INFO       (-0.8 r1.0 claude) On the Chain: Bitcoin slips below US$65,000 as ETF exodus deepens and crypto markets remain on edge - Proactiv
 17/11 04:45:49 INFO       (-0.7 r0.9 claude) Bitcoin Bears Target $60K As Nvidia Earnings, Anthropic IPO, Bond Yields And Fed Hike Odds Weigh On Crypto Rec
 17/11 04:45:49 INFO    -> ATTENDI: notizia shock: Bitcoin has fallen for six consecutive weeks, with the $60,000 support level und
+17/11 05:01:17 INFO    === btc_veloce (BTC-EUR) ===
+17/11 05:01:17 INFO    Prezzo 59013.56 | medie 58945.19/58845.23 trend SU | notizie -0.14 su 30 (0 nuove, 0 da Claude) | 0.2s
+17/11 05:01:17 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000
+17/11 05:01:17 INFO       (-0.6 r0.9 claude) Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off
+17/11 05:01:17 INFO       (-0.3 r1.0 claude) Why Bitcoin’s June Low May Not Be the Bottom — $58K the Key Test
+17/11 05:01:17 INFO    -> ATTENDI: notizie sotto la soglia (-0.14)
