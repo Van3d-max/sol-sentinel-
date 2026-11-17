@@ -454,3 +454,9 @@
 17/11 20:46:17 INFO       (+0.6 r0.9 claude) Wells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion
 17/11 20:46:17 INFO       (+0.3 r0.9 claude) Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal
 17/11 20:46:17 INFO    -> ATTENDI: trend giornaliero non rialzista
+17/11 21:45:51 INFO    === btc_lento (BTC-EUR) ===
+17/11 21:45:51 INFO    Prezzo 58487.53 | medie 63797.13/68716.80 trend GIU | notizie -0.08 su 134 (7 nuove, 7 da Claude) | 0.1s
+17/11 21:45:51 INFO       (-0.8 r1.0 claude) Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100 - Bitcoin Magazine
+17/11 21:45:51 INFO       (-0.8 r1.0 claude) Bitcoin crashes to $62K as realized losses hit cycle lows - Crypto Briefing
+17/11 21:45:51 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below $64,000, 24% Plunge Blamed on Anthropic IPO's 'Capital Vacuum' - BigGo Finance
+17/11 21:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista

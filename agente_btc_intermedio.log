@@ -530,3 +530,10 @@
 17/11 20:46:17 INFO       (-0.6 r0.9 claude) Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings
 17/11 20:46:17 INFO       (+0.6 r0.9 claude) Wells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion
 17/11 20:46:17 INFO    -> ATTENDI: trend orario non rialzista
+17/11 21:45:50 INFO    === btc_intermedio (BTC-EUR) ===
+17/11 21:45:51 INFO    Trend superiore (ONE_DAY): GIU
+17/11 21:45:51 INFO    Prezzo 58487.53 | medie 58570.02/58749.58 trend GIU | notizie -0.11 su 118 (7 nuove, 7 da Claude) | 0.3s
+17/11 21:45:51 INFO       (-0.8 r1.0 claude) Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100 - Bitcoin Magazine
+17/11 21:45:51 INFO       (-0.6 r0.9 claude) Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100
+17/11 21:45:51 INFO       (-0.8 r1.0 claude) Bitcoin crashes to $62K as realized losses hit cycle lows - Crypto Briefing
+17/11 21:45:51 INFO    -> ATTENDI: trend orario non rialzista
