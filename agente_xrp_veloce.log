@@ -1463,3 +1463,9 @@
 17/11 08:01:22 INFO    Prezzo 0.8744 | medie 0.872289/0.873752 trend GIU | notizie -0.18 su 1 (0 nuove, 0 da Claude) | 0.2s
 17/11 08:01:22 INFO       (-0.4 r0.8 claude) Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%
 17/11 08:01:22 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 08:16:00 INFO    === xrp_veloce (XRP-EUR) ===
+17/11 08:16:01 INFO    Prezzo 0.873 | medie 0.872167/0.87399 trend GIU | notizie -0.19 su 53 (2 nuove, 2 da Claude) | 1.1s
+17/11 08:16:01 INFO       (-0.4 r0.9 claude) Ripple-Backed Evernorth Reports $505 Million XRP Impairment on Pre-Listing Holdings - CoinGape
+17/11 08:16:01 INFO       (-0.4 r0.9 claude) Evernorth writes down pre-listing XRP holdings by 60% to $342 million - Crypto News
+17/11 08:16:01 INFO       (-0.6 r0.8 claude) Ripple and Stellar outlook: What next as XRP returns to November 2024 levels and XLM touches a two-year low? -
+17/11 08:16:01 INFO    -> ATTENDI: trend 15 minuti non rialzista
