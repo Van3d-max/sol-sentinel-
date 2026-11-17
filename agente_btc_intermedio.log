@@ -481,3 +481,10 @@
 17/11 13:45:56 INFO       (-0.5 r1.0 claude) Bitcoin may fall to the $50,000 level — forecast - Українські Національні Новини (УНН)
 17/11 13:45:56 INFO       (-0.6 r0.9 claude) Three Reasons Behind Bitcoin’s Selloff This Month - WSJ
 17/11 13:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+17/11 14:45:58 INFO    === btc_intermedio (BTC-EUR) ===
+17/11 14:45:58 INFO    Trend superiore (ONE_DAY): GIU
+17/11 14:45:58 INFO    Prezzo 59183.12 | medie 58913.41/58875.28 trend SU | notizie -0.07 su 118 (6 nuove, 6 da Claude) | 0.5s
+17/11 14:45:58 INFO       (+0.6 r0.9 claude) Goldman Sachs Doubles Bitcoin ETF Holdings - Yahoo Finance
+17/11 14:45:58 INFO       (-0.6 r0.9 claude) IBIT Led $2.35B Bitcoin ETF Exodus: Is Wall Street Selling Too Soon? - iShares Bitcoin Trust (NASDAQ:IBIT - Be
+17/11 14:45:58 INFO       (-0.6 r0.7 claude) It's not just AI — the dollar 'wrecking ball' is leveling gold and bitcoin as the debasement trade unravels - 
+17/11 14:45:58 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

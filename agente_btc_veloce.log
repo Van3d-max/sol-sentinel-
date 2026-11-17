@@ -1648,3 +1648,9 @@
 17/11 14:31:12 INFO       (-0.6 r0.9 claude) IBIT Led $2.35B Bitcoin ETF Exodus: Is Wall Street Selling Too Soon? - iShares Bitcoin Trust (NASDAQ:IBIT - Be
 17/11 14:31:12 INFO       (-0.5 r0.9 claude) Is Bitcoin's Price Drop Due to Anthropic's IPO? Vaneck Sees December Low - Cryptonews.net
 17/11 14:31:12 INFO    -> ATTENDI: notizia shock: Bitcoin Price Forecast: Wintermute Warns of $50K Crash as BTC Open Interest Hits
+17/11 14:45:57 INFO    === btc_veloce (BTC-EUR) ===
+17/11 14:45:58 INFO    Prezzo 59183.12 | medie 59135.62/58848.55 trend SU | notizie -0.07 su 118 (6 nuove, 6 da Claude) | 0.3s
+17/11 14:45:58 INFO       (+0.6 r0.9 claude) Goldman Sachs Doubles Bitcoin ETF Holdings - Yahoo Finance
+17/11 14:45:58 INFO       (-0.6 r0.9 claude) IBIT Led $2.35B Bitcoin ETF Exodus: Is Wall Street Selling Too Soon? - iShares Bitcoin Trust (NASDAQ:IBIT - Be
+17/11 14:45:58 INFO       (-0.6 r0.7 claude) It's not just AI — the dollar 'wrecking ball' is leveling gold and bitcoin as the debasement trade unravels - 
+17/11 14:45:58 INFO    -> ATTENDI: notizie sotto la soglia (-0.07)

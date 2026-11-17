@@ -475,3 +475,10 @@
 17/11 13:45:59 INFO       (-0.5 r0.9 claude) Evernorth Writes Down Ripple Holdings: What Does This Mean for XRP’s Price? - CryptoPotato
 17/11 13:45:59 INFO       (+0.5 r0.8 claude) Mastercard Touts XRP Ledger as AI Agents Clear 500,000 Payments a Day - BigGo Finance
 17/11 13:45:59 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+17/11 14:46:00 INFO    === xrp_intermedio (XRP-EUR) ===
+17/11 14:46:00 INFO    Trend superiore (ONE_DAY): GIU
+17/11 14:46:00 INFO    Prezzo 0.8868 | medie 0.87357/0.871622 trend SU | notizie -0.16 su 51 (1 nuove, 1 da Claude) | 0.4s
+17/11 14:46:00 INFO       (-0.6 r1.0 claude) Ripple Price Prediction: XRP Struggles Below $1 as Bears Eye Another Drop to $0.89 - CryptoPotato
+17/11 14:46:00 INFO       (-0.6 r0.9 claude) Ripple-Backed Evernorth Cuts XRP Holdings by 60% - U.Today
+17/11 14:46:00 INFO       (-0.6 r1.0 claude) XRP Slides Toward $0.79 as Traders Weigh Historic December Pattern After 24% Monthly Rout - BigGo Finance
+17/11 14:46:00 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
