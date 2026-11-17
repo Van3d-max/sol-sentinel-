@@ -431,3 +431,10 @@
 17/11 06:45:57 INFO       (+0.3 r0.9 claude) Ethereum co-founder signals long-term focus: ETH gains momentum - Traders Union
 17/11 06:45:57 INFO       (-0.5 r0.6 claude) Cathie Wood's ARK Sells Solana And Ethereum Staking Funds, Buys Three Crypto Stocks Amid Bitcoin Slide - Yahoo
 17/11 06:45:57 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+17/11 07:45:51 INFO    === eth_intermedio (ETH-EUR) ===
+17/11 07:45:52 INFO    Trend superiore (ONE_DAY): GIU
+17/11 07:45:52 INFO    Prezzo 1659.45 | medie 1655.21/1651.64 trend SU | notizie -0.00 su 81 (0 nuove, 0 da Claude) | 0.6s
+17/11 07:45:52 INFO       (-0.3 r0.9 claude) REALITY CHECK | Ethereum Upgrade Tests Expose Flaw that Could Allow Payments to Fail While Transactions Succee
+17/11 07:45:52 INFO       (-0.5 r0.6 claude) Cathie Wood's ARK Sells Solana And Ethereum Staking Funds, Buys Three Crypto Stocks Amid Bitcoin Slide - Tradi
+17/11 07:45:52 INFO       (+0.3 r0.9 claude) Ethereum co-founder signals long-term focus: ETH gains momentum - Traders Union
+17/11 07:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

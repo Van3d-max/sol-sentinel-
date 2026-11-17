@@ -1432,3 +1432,9 @@
 17/11 07:31:12 INFO    === shib_veloce (SHIB-EUR) ===
 17/11 07:31:12 INFO    Prezzo 3.5e-06 | medie 3.50222e-06/3.50952e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.2s
 17/11 07:31:12 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 07:46:08 INFO    === shib_veloce (SHIB-EUR) ===
+17/11 07:46:09 INFO    Prezzo 3.5e-06 | medie 3.50222e-06/3.50952e-06 trend GIU | notizie -0.09 su 9 (0 nuove, 0 da Claude) | 0.8s
+17/11 07:46:09 INFO       (-0.6 r1.0 claude) Shiba Inu market cap drops 55% in a year, now r... - Pluang
+17/11 07:46:09 INFO       (-0.6 r1.0 claude) Shiba Inu price prediction: market cap halves as SHIB slips to No. 38 behind PayPal's stablecoin - CryptoTicke
+17/11 07:46:09 INFO       (+0.1 r0.5 claude) Shiba Inu (SHIB) Bearish Rally is Fading, Solana (SOL) Death Cross Isn't Dangerous, Stellar (XLM) Recovery Sig
+17/11 07:46:09 INFO    -> ATTENDI: trend 15 minuti non rialzista

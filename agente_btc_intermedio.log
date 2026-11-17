@@ -432,3 +432,10 @@
 17/11 06:45:59 INFO       (-0.8 r1.0 claude) On the Chain: Bitcoin slips below US$65,000 as ETF exodus deepens and crypto markets remain on edge - Proactiv
 17/11 06:45:59 INFO       (-0.7 r0.9 claude) Bitcoin Bears Target $60K As Nvidia Earnings, Anthropic IPO, Bond Yields And Fed Hike Odds Weigh On Crypto Rec
 17/11 06:45:59 INFO    -> ATTENDI: trend orario non rialzista
+17/11 07:46:00 INFO    === btc_intermedio (BTC-EUR) ===
+17/11 07:46:01 INFO    Trend superiore (ONE_DAY): GIU
+17/11 07:46:01 INFO    Prezzo 58647.77 | medie 58864.64/58911.06 trend GIU | notizie -0.18 su 129 (9 nuove, 9 da Claude) | 0.8s
+17/11 07:46:01 INFO       (-0.7 r0.9 claude) Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says
+17/11 07:46:01 INFO       (-0.6 r0.9 claude) Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says - CoinDesk
+17/11 07:46:01 INFO       (-0.6 r0.9 claude) Three Reasons Behind Bitcoin’s Selloff This Month - WSJ
+17/11 07:46:01 INFO    -> ATTENDI: trend orario non rialzista
