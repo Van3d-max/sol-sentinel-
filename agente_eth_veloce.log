@@ -1752,3 +1752,9 @@
 17/11 18:31:07 INFO       (-0.5 r1.0 claude) Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps
 17/11 18:31:07 INFO       (+0.3 r0.9 claude) Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps
 17/11 18:31:07 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 18:45:49 INFO    === eth_veloce (ETH-EUR) ===
+17/11 18:45:49 INFO    Prezzo 1623.08 | medie 1620.06/1632.44 trend GIU | notizie -0.14 su 82 (1 nuove, 1 da Claude) | 0.2s
+17/11 18:45:49 INFO       (-0.5 r0.9 claude) Ethereum dips while macroeconomic uncertainty and capital outflows pressure demand - Traders Union
+17/11 18:45:49 INFO       (-0.6 r1.0 claude) Ethereum Price Prediction: Retest of $1.5K Likely as ETFs Book 7-Week Streak of Outflows - FXEmpire
+17/11 18:45:49 INFO       (+0.3 r1.0 claude) Ethereum Price Analysis: Are Whales Preparing for a Rebound as Retail Traders Exit - Coinpedia
+17/11 18:45:49 INFO    -> ATTENDI: trend 15 minuti non rialzista

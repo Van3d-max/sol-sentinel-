@@ -502,3 +502,10 @@
 17/11 17:46:03 INFO       (-0.4 r0.9 claude) Evernorth Writes Down Ripple Holdings: What Does This Mean for XRP’s Price? - CryptoRank
 17/11 17:46:03 INFO       (-0.6 r1.0 claude) Ripple Price Prediction: XRP Struggles Below $1 as Bears Eye Another Drop to $0.89 - CryptoPotato
 17/11 17:46:03 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+17/11 18:45:53 INFO    === xrp_intermedio (XRP-EUR) ===
+17/11 18:45:54 INFO    Trend superiore (ONE_DAY): GIU
+17/11 18:45:54 INFO    Prezzo 0.8683 | medie 0.87399/0.871422 trend SU | notizie -0.12 su 54 (1 nuove, 1 da Claude) | 0.2s
+17/11 18:45:54 INFO       (-0.7 r1.0 claude) XRP ETF Is Down $216M as Ripple Token Falls 35%: Can The Price Recover to $1.71? - TradingView
+17/11 18:45:54 INFO       (-0.6 r0.9 claude) Ripple-Backed Evernorth Takes Massive $505 Million XRP Hit - U.Today
+17/11 18:45:54 INFO       (-0.4 r0.9 claude) Evernorth Writes Down Ripple Holdings: What Does This Mean for XRP’s Price? - CryptoRank
+17/11 18:45:54 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
