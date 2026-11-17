@@ -1612,3 +1612,9 @@
 17/11 13:01:23 INFO       (-0.7 r0.9 claude) Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says
 17/11 13:01:23 INFO       (+0.3 r0.9 claude) BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear
 17/11 13:01:23 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
+17/11 13:16:02 INFO    === btc_veloce (BTC-EUR) ===
+17/11 13:16:02 INFO    Prezzo 59156.71 | medie 58932.69/58662.26 trend SU | notizie -0.09 su 122 (2 nuove, 2 da Claude) | 0.1s
+17/11 13:16:02 INFO       (-0.7 r0.9 claude) Bitcoin Price Forecast: Wintermute Warns of $50K Crash as BTC Open Interest Hits Two-Year Low - CoinGape
+17/11 13:16:02 INFO       (-0.5 r1.0 claude) Bitcoin Heading for $40K? Deribit Traders Sound the Alarm With $60K Put Bets - Cryptonews.net
+17/11 13:16:02 INFO       (-0.5 r0.9 claude) Bitcoin Erases Nearly 90% of Its Gains: Is $62,000 the Bottom, or the End of a Bear Market Rally? - Moomoo
+17/11 13:16:02 INFO    -> ATTENDI: notizia shock: Bitcoin Price Forecast: Wintermute Warns of $50K Crash as BTC Open Interest Hits
