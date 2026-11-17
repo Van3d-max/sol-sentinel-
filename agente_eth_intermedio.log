@@ -389,3 +389,10 @@
 17/11 00:45:46 INFO       (+0.3 r0.9 claude) Ethereum Price Forecast: Why does BitMine see a SpaceX IPO-like trend in ETH ahead of Anthropic IPO? - www.tmg
 17/11 00:45:46 INFO       (+0.3 r0.9 claude) VitalikButerin backs Ethereum EIP 8037, supporting higher s - KuCoin
 17/11 00:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+17/11 01:45:45 INFO    === eth_intermedio (ETH-EUR) ===
+17/11 01:45:45 INFO    Trend superiore (ONE_DAY): GIU
+17/11 01:45:45 INFO    Prezzo 1657.18 | medie 1650.47/1646.92 trend SU | notizie +0.07 su 83 (0 nuove, 0 da Claude) | 0.3s
+17/11 01:45:45 INFO       (+0.3 r0.8 claude) Invesco's Stablecoin Reserve Fund Goes Live on Ethereum - The Defiant
+17/11 01:45:45 INFO       (+0.3 r0.8 claude) GENIUS-compliant fund transactions debut on Ethereum, Robert Leshner notes - Traders Union
+17/11 01:45:45 INFO       (+0.3 r0.9 claude) Ethereum Price Forecast: Why does BitMine see a SpaceX IPO-like trend in ETH ahead of Anthropic IPO? - www.tmg
+17/11 01:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
