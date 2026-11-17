@@ -328,3 +328,9 @@
 16/11 23:45:47 INFO       (-0.7 r1.0 claude) Glassnode: Bitcoin Drops 13% as ETF Outflows and Losses Mount - Bitbo
 16/11 23:45:47 INFO       (-0.6 r0.9 claude) Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off
 16/11 23:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista
+17/11 00:45:47 INFO    === btc_lento (BTC-EUR) ===
+17/11 00:45:47 INFO    Prezzo 58712.14 | medie 63797.13/68716.80 trend GIU | notizie -0.24 su 136 (0 nuove, 0 da Claude) | 0.1s
+17/11 00:45:47 INFO       (-0.6 r0.9 claude) Three Reasons Behind Bitcoin’s Selloff This Month - WSJ
+17/11 00:45:47 INFO       (-0.7 r0.9 claude) Bitcoin Falls Below $64,000 As Nvidia Turmoil Roils Tech Stocks And Crypto - Forbes
+17/11 00:45:47 INFO       (-0.7 r1.0 claude) Glassnode: Bitcoin Drops 13% as ETF Outflows and Losses Mount - Bitbo
+17/11 00:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista

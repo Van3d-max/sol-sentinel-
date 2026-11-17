@@ -1320,3 +1320,9 @@
 17/11 00:31:04 INFO       (+0.3 r0.9 claude) Ethereum Price Forecast: Why does BitMine see a SpaceX IPO-like trend in ETH ahead of Anthropic IPO? - www.tmg
 17/11 00:31:04 INFO       (+0.3 r0.9 claude) VitalikButerin backs Ethereum EIP 8037, supporting higher s - KuCoin
 17/11 00:31:04 INFO    -> ATTENDI: obiettivo +1.15% sotto il minimo +2.20% (commissioni)
+17/11 00:45:45 INFO    === eth_veloce (ETH-EUR) ===
+17/11 00:45:45 INFO    Prezzo 1649.99 | medie 1656.35/1657.35 trend GIU | notizie +0.07 su 81 (0 nuove, 0 da Claude) | 0.2s
+17/11 00:45:45 INFO       (+0.4 r0.9 claude) Ethereum Price Forecast: BitMine sees SpaceX IPO-like trend in ETH ahead of Anthropic IPO - FXStreet
+17/11 00:45:45 INFO       (+0.3 r0.9 claude) Ethereum Price Forecast: Why does BitMine see a SpaceX IPO-like trend in ETH ahead of Anthropic IPO? - www.tmg
+17/11 00:45:45 INFO       (+0.3 r0.9 claude) VitalikButerin backs Ethereum EIP 8037, supporting higher s - KuCoin
+17/11 00:45:45 INFO    -> ATTENDI: trend 15 minuti non rialzista

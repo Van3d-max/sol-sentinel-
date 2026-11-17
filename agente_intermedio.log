@@ -383,3 +383,10 @@
 16/11 23:45:45 INFO       (+0.3 r0.9 claude) Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About
 16/11 23:45:45 INFO       (+0.3 r0.9 claude) Solana drops ‘beta’ label after more than six years
 16/11 23:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+17/11 00:45:44 INFO    === intermedio (SOL-EUR) ===
+17/11 00:45:45 INFO    Trend superiore (ONE_DAY): GIU
+17/11 00:45:45 INFO    Prezzo 64.9700 | medie 64.7765/64.7890 trend GIU | notizie +0.20 su 99 (2 nuove, 2 da Claude) | 0.4s
+17/11 00:45:45 INFO       (+0.6 r0.9 claude) Zelle Taps Solana to Run ZelleUSD Overseas, Betting on Speed and Uptime - BigGo Finance
+17/11 00:45:45 INFO       (+0.6 r0.9 claude) Zelle Picks Solana for ZelleUSD International Payments - CoinMarketCap
+17/11 00:45:45 INFO       (-0.7 r1.0 claude) Solana Price Prediction: Is $60 Next? SOL ETF Outflows Hit 6 Weeks, Fear & Greed at 12 - Cryptonews.net
+17/11 00:45:45 INFO    -> ATTENDI: trend orario non rialzista
