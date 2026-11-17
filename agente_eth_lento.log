@@ -418,3 +418,9 @@
 17/11 14:45:55 INFO       (-0.5 r1.0 claude) Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps
 17/11 14:45:55 INFO       (-0.5 r1.0 claude) ETH news: Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps - CoinDesk
 17/11 14:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista
+17/11 15:45:56 INFO    === eth_lento (ETH-EUR) ===
+17/11 15:45:56 INFO    Prezzo 1616.62 | medie 1800.72/1989.38 trend GIU | notizie -0.10 su 104 (4 nuove, 4 da Claude) | 0.1s
+17/11 15:45:56 INFO       (-0.6 r1.0 claude) Ethereum Price Prediction: Retest of $1.5K Likely as ETFs Book 7-Week Streak of Outflows - FXEmpire
+17/11 15:45:56 INFO       (-0.6 r0.9 claude) ETH Risks Another Drop to $1.71K as This Pattern Signals Trouble (Ethereum Price Analysis) - CryptoPotato
+17/11 15:45:56 INFO       (-0.5 r1.0 claude) ETH Risks Another Drop to $1.71K as This Pattern Signals Trouble (Ethereum Price Analysis) - CryptoRank
+17/11 15:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista

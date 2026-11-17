@@ -488,3 +488,10 @@
 17/11 14:45:58 INFO       (-0.6 r0.9 claude) IBIT Led $2.35B Bitcoin ETF Exodus: Is Wall Street Selling Too Soon? - iShares Bitcoin Trust (NASDAQ:IBIT - Be
 17/11 14:45:58 INFO       (-0.6 r0.7 claude) It's not just AI — the dollar 'wrecking ball' is leveling gold and bitcoin as the debasement trade unravels - 
 17/11 14:45:58 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+17/11 15:46:06 INFO    === btc_intermedio (BTC-EUR) ===
+17/11 15:46:06 INFO    Trend superiore (ONE_DAY): GIU
+17/11 15:46:06 INFO    Prezzo 58243.08 | medie 58912.89/58865.41 trend SU | notizie +0.01 su 118 (1 nuove, 1 da Claude) | 0.4s
+17/11 15:46:06 INFO       (-0.7 r1.0 claude) Bitcoin Dragged by Broader Risk Asset Rout - Market Talk -- Market Talk - Moomoo
+17/11 15:46:06 INFO       (-0.5 r1.0 claude) Could Bitcoin Crash to $50,000? If These 4 Bearish Catalysts Remain, It Could - Benzinga
+17/11 15:46:06 INFO       (+0.5 r0.9 claude) Goldman Sachs More Than Doubles Its Bitcoin ETF Holdings to $1.28 Billion - Bitcoin Magazine
+17/11 15:46:06 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

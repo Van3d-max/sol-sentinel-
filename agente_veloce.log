@@ -9764,3 +9764,11 @@
 17/11 15:31:07 INFO       (+0.5 r0.8 claude) Mitsui to Use Solana for Gold, Real-World Asset Tokenization in Strategic Shift - bloomingbit
 17/11 15:31:07 INFO       (+0.3 r0.9 claude) Solana's Trump memecoin launch tested infrastructure ahead of institutional push, Lily Liu says - The Block
 17/11 15:31:07 INFO    -> ATTENDI: obiettivo +2.02% sotto il minimo +2.20% (commissioni)
+17/11 15:45:49 INFO    === veloce (SOL-EUR) ===
+17/11 15:45:50 INFO    Prezzo 65.5700 | medie 66.8367/66.6962 trend SU | notizie +0.18 su 87 (1 nuove, 1 da Claude) | 0.3s
+17/11 15:45:50 INFO       (+0.4 r0.8 claude) Large cryptocurrencies mixed as Solana increases - MarketWatch
+17/11 15:45:50 INFO       (+0.5 r0.8 claude) Mitsui to Use Solana for Gold, Real-World Asset Tokenization in Strategic Shift - bloomingbit
+17/11 15:45:50 INFO       (+0.3 r0.9 claude) Solana's Trump memecoin launch tested infrastructure ahead of institutional push, Lily Liu says - The Block
+17/11 15:45:52 INFO       rialzista: Il sentiment delle notizie è leggermente positivo (punteggio 0.182), con l'adozione istituzionale di Mitsui e l'interesse per la tokenizzazione degli asset reali che potrebbero sostenere una ripresa.
+17/11 15:45:52 INFO       ribassista: Il prezzo (65.57) è sotto sia la media mobile a 10 periodi (66.84) sia quella a 30 periodi (66.70), segno di un trend debole, e le notizie sono miste, con il titolo MarketWatch che parla di un quadro frammentato.
+17/11 15:45:52 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo si trova sotto entrambe le medie mobili, il sentiment è solo debolmente positivo e i segnali di trend non confermano un ingresso long, quindi l'evidenza non è sufficiente per giustificare l'acquisto spot.

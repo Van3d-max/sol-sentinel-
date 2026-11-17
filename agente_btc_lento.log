@@ -418,3 +418,9 @@
 17/11 14:45:58 INFO       (-0.7 r0.9 claude) Bitcoin Price Forecast: Wintermute Warns of $50K Crash as BTC Open Interest Hits Two-Year Low - CoinGape
 17/11 14:45:58 INFO       (-0.6 r0.9 claude) IBIT Led $2.35B Bitcoin ETF Exodus: Is Wall Street Selling Too Soon? - iShares Bitcoin Trust (NASDAQ:IBIT - Be
 17/11 14:45:58 INFO    -> ATTENDI: trend giornaliero non rialzista
+17/11 15:46:06 INFO    === btc_lento (BTC-EUR) ===
+17/11 15:46:06 INFO    Prezzo 58243.08 | medie 63797.13/68716.80 trend GIU | notizie -0.03 su 131 (1 nuove, 1 da Claude) | 0.1s
+17/11 15:46:06 INFO       (-0.7 r1.0 claude) Bitcoin Dragged by Broader Risk Asset Rout - Market Talk -- Market Talk - Moomoo
+17/11 15:46:06 INFO       (-0.5 r1.0 claude) Could Bitcoin Crash to $50,000? If These 4 Bearish Catalysts Remain, It Could - Benzinga
+17/11 15:46:06 INFO       (+0.6 r0.9 claude) Goldman Sachs Doubles Bitcoin ETF Holdings - Yahoo Finance
+17/11 15:46:06 INFO    -> ATTENDI: trend giornaliero non rialzista
