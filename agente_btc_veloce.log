@@ -1330,3 +1330,9 @@
 17/11 01:15:48 INFO       (-0.5 r1.0 claude) Why Bitcoin’s June Low May Not Be The Bottom — $58K The Key Test - Bitcoin Magazine
 17/11 01:15:48 INFO       (-0.5 r0.9 claude) Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000
 17/11 01:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 01:31:05 INFO    === btc_veloce (BTC-EUR) ===
+17/11 01:31:05 INFO    Prezzo 58749.53 | medie 58854.32/59111.41 trend GIU | notizie -0.25 su 128 (2 nuove, 2 da Claude) | 0.2s
+17/11 01:31:05 INFO       (-0.7 r0.9 claude) Bitcoin Slides to $60,000 Range as AI Rout Fuels Risk Aversion - Businesskorea
+17/11 01:31:05 INFO       (-0.6 r0.9 claude) Crypto Traders Cash Out Stablecoins as Bitcoin Hits 4-Month Low - PYMNTS.com
+17/11 01:31:05 INFO       (-0.5 r1.0 claude) Bitcoin’s Worst May Not Be Over: Could a 40% Crash Come Next? - BeInCrypto
+17/11 01:31:05 INFO    -> ATTENDI: trend 15 minuti non rialzista
