@@ -1588,3 +1588,9 @@
 17/11 12:01:20 INFO       (-0.5 r0.9 claude) Bitcoin Erases Nearly 90% of Its Gains: Is $62,000 the Bottom, or the End of a Bear Market Rally? - Moomoo
 17/11 12:01:20 INFO       (-0.5 r0.9 claude) Bitcoin realized loss metric beats June high as open interest eyes 2-year low - TradingView
 17/11 12:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 12:15:56 INFO    === btc_veloce (BTC-EUR) ===
+17/11 12:15:56 INFO    Prezzo 58929.45 | medie 58619.12/58594.59 trend SU | notizie -0.10 su 122 (4 nuove, 4 da Claude) | 0.1s
+17/11 12:15:56 INFO       (-0.5 r1.0 claude) Bitcoin Heading for $40K? Deribit Traders Sound the Alarm With $60K Put Bets - Cryptonews.net
+17/11 12:15:56 INFO       (-0.5 r0.9 claude) Bitcoin Erases Nearly 90% of Its Gains: Is $62,000 the Bottom, or the End of a Bear Market Rally? - Moomoo
+17/11 12:15:56 INFO       (-0.5 r0.9 claude) Bitcoin realized loss metric beats June high as open interest eyes 2-year low - TradingView
+17/11 12:15:56 INFO    -> ATTENDI: notizie sotto la soglia (-0.10)
