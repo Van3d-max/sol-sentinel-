@@ -1410,3 +1410,9 @@
 17/11 04:15:57 INFO       (-0.4 r0.9 claude) Ethereum test exposes flaw that lets transactions skip payments - CryptoSlate
 17/11 04:15:57 INFO       (+0.3 r0.9 claude) Why is smart money adding bullish Ethereum exposure as ETH ETFs bleed? - AMBCrypto
 17/11 04:15:57 INFO    -> ATTENDI: obiettivo +1.15% sotto il minimo +2.20% (commissioni)
+17/11 04:31:12 INFO    === eth_veloce (ETH-EUR) ===
+17/11 04:31:12 INFO    Prezzo 1659.40 | medie 1656.43/1654.47 trend SU | notizie -0.02 su 83 (2 nuove, 2 da Claude) | 0.3s
+17/11 04:31:12 INFO       (-0.6 r1.0 claude) Ether Slides 26% in a Month to Test $1,700 as ETF Outflows Swell and Whales Buy - BigGo Finance
+17/11 04:31:12 INFO       (-0.4 r0.9 claude) Ethereum test exposes flaw that lets transactions skip payments
+17/11 04:31:12 INFO       (-0.4 r0.9 claude) Ethereum test exposes flaw that lets transactions skip payments - CryptoSlate
+17/11 04:31:12 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)

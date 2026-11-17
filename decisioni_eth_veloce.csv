@@ -1460,3 +1460,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-17T04:45:46+01:00;1663.77;1654.39;1654.81;giu;+0.020;80;2;2;0;no;attendi;trend 15 minuti non rialzista;Ethereum test exposes flaw that lets transactions skip payments;0.407
 2026-11-17T05:01:20+01:00;1664.74;1654.96;1654.68;su;-0.126;7;0;0;0;no;attendi;notizie sotto la soglia (-0.13);Ethereum test exposes flaw that lets transactions skip payments;0.39
 2026-11-17T05:15:57+01:00;1660.18;1655.44;1654.61;su;+0.014;82;2;2;0;no;attendi;obiettivo +1.15% sotto il minimo +2.20% (commissioni);Ethereum test exposes flaw that lets transactions skip payments;0.384
+2026-11-17T05:31:12+01:00;1659.40;1656.43;1654.47;su;-0.023;83;2;2;0;no;attendi;notizie sotto la soglia (-0.02);Ether Slides 26% in a Month to Test $1,700 as ETF Outflows Swell and Whales Buy - BigGo Finance;0.369
