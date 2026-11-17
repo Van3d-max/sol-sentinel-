@@ -1858,3 +1858,9 @@
 17/11 23:15:56 INFO       (-0.8 r1.0 claude) Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100 - Bitcoin Magazine
 17/11 23:15:56 INFO       (-0.6 r0.9 claude) Bitcoin losses deepen with 51% of supply now underwater - www.tmgm.com
 17/11 23:15:56 INFO    -> ATTENDI: notizia shock: Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100 - Bitcoin 
+17/11 23:31:06 INFO    === btc_veloce (BTC-EUR) ===
+17/11 23:31:06 INFO    Prezzo 59070.38 | medie 58741.01/58297.68 trend SU | notizie -0.08 su 27 (0 nuove, 0 da Claude) | 0.2s
+17/11 23:31:06 INFO       (-0.6 r0.9 claude) Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100
+17/11 23:31:06 INFO       (-0.5 r1.0 claude) Mark Yusko: Why Bitcoin Is Falling — $58k is the Key Level to Watch
+17/11 23:31:06 INFO       (+0.3 r0.9 claude) Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal
+17/11 23:31:06 INFO    -> ATTENDI: notizie sotto la soglia (-0.08)
