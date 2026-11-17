@@ -1506,3 +1506,9 @@
 17/11 08:15:57 INFO       (-0.3 r0.9 claude) REALITY CHECK | Ethereum Upgrade Tests Expose Flaw that Could Allow Payments to Fail While Transactions Succee
 17/11 08:15:57 INFO       (-0.5 r0.6 claude) Cathie Wood's ARK Sells Solana And Ethereum Staking Funds, Buys Three Crypto Stocks Amid Bitcoin Slide - Tradi
 17/11 08:15:57 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 08:31:19 INFO    === eth_veloce (ETH-EUR) ===
+17/11 08:31:20 INFO    Prezzo 1657.46 | medie 1660.35/1662.19 trend GIU | notizie +0.04 su 77 (1 nuove, 1 da Claude) | 0.3s
+17/11 08:31:20 INFO       (+0.3 r1.0 claude) Ethereum price prediction: Can whale buying fuel rebound toward $2,000? - Traders Union
+17/11 08:31:20 INFO       (-0.3 r0.9 claude) REALITY CHECK | Ethereum Upgrade Tests Expose Flaw that Could Allow Payments to Fail While Transactions Succee
+17/11 08:31:20 INFO       (-0.5 r0.6 claude) Cathie Wood's ARK Sells Solana And Ethereum Staking Funds, Buys Three Crypto Stocks Amid Bitcoin Slide - Tradi
+17/11 08:31:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
