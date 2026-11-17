@@ -1458,3 +1458,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-17T04:15:49+01:00;1651.60;1652.18;1655.29;giu;+0.014;82;3;3;0;no;attendi;trend 15 minuti non rialzista;Ethereum test exposes flaw that lets transactions skip payments;0.395
 2026-11-17T04:31:04+01:00;1663.41;1652.93;1654.95;giu;+0.011;80;0;0;0;no;attendi;trend 15 minuti non rialzista;Ethereum test exposes flaw that lets transactions skip payments;0.411
 2026-11-17T04:45:46+01:00;1663.77;1654.39;1654.81;giu;+0.020;80;2;2;0;no;attendi;trend 15 minuti non rialzista;Ethereum test exposes flaw that lets transactions skip payments;0.407
+2026-11-17T05:01:20+01:00;1664.74;1654.96;1654.68;su;-0.126;7;0;0;0;no;attendi;notizie sotto la soglia (-0.13);Ethereum test exposes flaw that lets transactions skip payments;0.39
