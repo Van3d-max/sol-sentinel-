@@ -1720,3 +1720,9 @@
 17/11 20:46:32 INFO    === shib_veloce (SHIB-EUR) ===
 17/11 20:46:32 INFO    Prezzo 3.46e-06 | medie 3.45222e-06/3.47286e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 17/11 20:46:32 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 21:01:21 INFO    === shib_veloce (SHIB-EUR) ===
+17/11 21:01:21 INFO    Prezzo 3.48e-06 | medie 3.45444e-06/3.47333e-06 trend GIU | notizie -0.16 su 18 (1 nuove, 1 da Claude) | 0.2s
+17/11 21:01:21 INFO       (-1.0 r1.0 claude) Shiba Inu Faces Further Pressure as Bearish Momentum Builds - KuCoin
+17/11 21:01:21 INFO       (+0.4 r1.0 claude) Shiba Inu Sets New Record as SHIB Holder Addresses Surpass 1.7 Million - Kriptofoni
+17/11 21:01:21 INFO       (-0.6 r1.0 claude) Shiba Inu (SHIB) Outflow Reaches 312 Billion Tokens as Price Stays Near Lows - www.tokenpost.com
+17/11 21:01:21 INFO    -> ATTENDI: trend 15 minuti non rialzista

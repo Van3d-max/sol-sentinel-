@@ -1798,3 +1798,9 @@
 17/11 20:46:17 INFO       (-0.6 r0.9 claude) Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings
 17/11 20:46:17 INFO       (+0.6 r0.9 claude) Wells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion
 17/11 20:46:17 INFO    -> ATTENDI: trend 15 minuti non rialzista
+17/11 21:01:19 INFO    === btc_veloce (BTC-EUR) ===
+17/11 21:01:19 INFO    Prezzo 58192.18 | medie 57950.90/57949.04 trend SU | notizie -0.05 su 122 (4 nuove, 4 da Claude) | 0.2s
+17/11 21:01:19 INFO       (-0.8 r1.0 claude) Bitcoin crashes to $62K as realized losses hit cycle lows - Crypto Briefing
+17/11 21:01:19 INFO       (-0.6 r0.9 claude) Bitcoin Price Hits $65K Wall Again as Analysts Warn of More Pain Ahead - Cryptonews.net
+17/11 21:01:19 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below $64,000, 24% Plunge Blamed on Anthropic IPO's 'Capital Vacuum' - BigGo Finance
+17/11 21:01:19 INFO    -> ATTENDI: notizia shock: Bitcoin crashes to $62K as realized losses hit cycle lows - Crypto Briefing

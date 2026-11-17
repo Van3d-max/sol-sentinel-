@@ -1760,3 +1760,7 @@
 17/11 20:46:24 INFO    Prezzo 0.8793 | medie 0.873733/0.871814 trend SU | notizie -0.02 su 1 (0 nuove, 0 da Claude) | 0.1s
 17/11 20:46:24 INFO       (-0.4 r0.8 claude) Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%
 17/11 20:46:24 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)
+17/11 21:01:20 INFO    === xrp_veloce (XRP-EUR) ===
+17/11 21:01:20 INFO    Prezzo 0.8818 | medie 0.874967/0.872219 trend SU | notizie -0.01 su 1 (0 nuove, 0 da Claude) | 0.1s
+17/11 21:01:20 INFO       (-0.4 r0.8 claude) Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%
+17/11 21:01:20 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
