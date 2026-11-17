@@ -1482,3 +1482,9 @@
 17/11 07:15:45 INFO       (+0.4 r1.0 claude) Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump
 17/11 07:15:45 INFO       (-0.2 r0.9 claude) Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip
 17/11 07:15:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.09)
+17/11 07:31:08 INFO    === eth_veloce (ETH-EUR) ===
+17/11 07:31:08 INFO    Prezzo 1663.44 | medie 1662.54/1659.91 trend SU | notizie -0.00 su 83 (1 nuove, 1 da Claude) | 0.2s
+17/11 07:31:08 INFO       (-0.3 r0.9 claude) REALITY CHECK | Ethereum Upgrade Tests Expose Flaw that Could Allow Payments to Fail While Transactions Succee
+17/11 07:31:08 INFO       (-0.5 r0.6 claude) Cathie Wood's ARK Sells Solana And Ethereum Staking Funds, Buys Three Crypto Stocks Amid Bitcoin Slide - Tradi
+17/11 07:31:08 INFO       (+0.3 r0.9 claude) Ethereum co-founder signals long-term focus: ETH gains momentum - Traders Union
+17/11 07:31:08 INFO    -> ATTENDI: notizie sotto la soglia (-0.00)
