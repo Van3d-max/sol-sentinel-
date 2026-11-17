@@ -516,3 +516,10 @@
 17/11 18:45:52 INFO       (-0.5 r1.0 claude) Bitcoin Falls Below $70,000. Here's Where It Could Finish the Year - The Motley Fool
 17/11 18:45:52 INFO       (-0.7 r0.9 claude) Tech sell-off drags Bitcoin below $64,000 ahead of Nvidia earnings - Crypto Briefing
 17/11 18:45:52 INFO    -> ATTENDI: trend orario non rialzista
+17/11 19:45:53 INFO    === btc_intermedio (BTC-EUR) ===
+17/11 19:45:54 INFO    Trend superiore (ONE_DAY): GIU
+17/11 19:45:54 INFO    Prezzo 57907.93 | medie 58657.37/58779.91 trend GIU | notizie -0.06 su 123 (2 nuove, 2 da Claude) | 0.4s
+17/11 19:45:54 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below $64,000, 24% Plunge Blamed on Anthropic IPO's 'Capital Vacuum' - BigGo Finance
+17/11 19:45:54 INFO       (-0.8 r1.0 claude) Bitcoin slides as much as 23% in November 2026, reviving 2022 bear market comparisons - Cryptonews.net
+17/11 19:45:54 INFO       (-0.5 r1.0 claude) Bitcoin Falls Below $70,000. Here's Where It Could Finish the Year - The Motley Fool
+17/11 19:45:54 INFO    -> ATTENDI: trend orario non rialzista

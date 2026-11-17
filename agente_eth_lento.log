@@ -442,3 +442,9 @@
 17/11 18:45:49 INFO       (-0.5 r0.9 claude) Ethereum dips while macroeconomic uncertainty and capital outflows pressure demand - Traders Union
 17/11 18:45:49 INFO       (-0.6 r0.9 claude) ETH Risks Another Drop to $1.71K as This Pattern Signals Trouble (Ethereum Price Analysis) - CryptoPotato
 17/11 18:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista
+17/11 19:45:51 INFO    === eth_lento (ETH-EUR) ===
+17/11 19:45:52 INFO    Prezzo 1627.01 | medie 1800.72/1989.38 trend GIU | notizie -0.12 su 106 (6 nuove, 6 da Claude) | 0.2s
+17/11 19:45:52 INFO       (-0.5 r1.0 claude) Ethereum Price Forecast: ETH falls below $1,800 ahead of Nvidia's earnings - FXStreet
+17/11 19:45:52 INFO       (-0.6 r1.0 claude) Ethereum Price Prediction: Retest of $1.5K Likely as ETFs Book 7-Week Streak of Outflows - FXEmpire
+17/11 19:45:52 INFO       (-0.5 r0.9 claude) Ethereum dips while macroeconomic uncertainty and capital outflows pressure demand - Traders Union
+17/11 19:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista
