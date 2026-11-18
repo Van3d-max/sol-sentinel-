@@ -677,3 +677,10 @@
 18/11 17:45:52 INFO       (-0.6 r1.0 claude) Mark Yusko: Bitcoin Is in a 'Bad Liquidation Cycle,' $58,000 Is Key - Benzinga
 18/11 17:45:52 INFO       (-0.6 r1.0 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg.com
 18/11 17:45:52 INFO    -> ATTENDI: trend orario non rialzista
+18/11 18:43:33 INFO    === btc_intermedio (BTC-EUR) ===
+18/11 18:43:33 INFO    Trend superiore (ONE_DAY): GIU
+18/11 18:43:33 INFO    Prezzo 57561.55 | medie 58453.09/58610.32 trend GIU | notizie -0.25 su 122 (2 nuove, 2 da Claude) | 0.2s
+18/11 18:43:33 INFO       (-0.7 r0.9 claude) Strategy Stock Drops as Bitcoin Falls Below $63,000 - Benzinga
+18/11 18:43:33 INFO       (-0.6 r1.0 claude) Bitcoin Tests $63K Demand Wall as Whales Keep Dumping: Can the Floor Hold? - BigGo Finance
+18/11 18:43:33 INFO       (-0.7 r0.8 claude) Rate Hikes and Selloffs Hitting Bitcoin All at Once -- Market Talk - Moomoo
+18/11 18:43:33 INFO    -> ATTENDI: trend orario non rialzista
