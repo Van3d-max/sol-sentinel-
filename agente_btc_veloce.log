@@ -2218,3 +2218,9 @@
 18/11 14:15:58 INFO       (-0.6 r0.9 claude) Bitcoin Price Trades Near $64,000 As Waller Floats Big Hike - Bitcoin Magazine
 18/11 14:15:58 INFO       (-0.6 r1.0 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg.com
 18/11 14:15:58 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 14:31:12 INFO    === btc_veloce (BTC-EUR) ===
+18/11 14:31:12 INFO    Prezzo 58295.84 | medie 58351.42/58519.26 trend GIU | notizie -0.13 su 119 (7 nuove, 7 da Claude) | 0.3s
+18/11 14:31:12 INFO       (-0.6 r0.9 claude) Bitcoin Price Trades Near $64,000 as Fed’s Waller Floats Half-Point Hike
+18/11 14:31:12 INFO       (-0.6 r0.9 claude) Bitcoin Price Trades Near $64,000 as Fed’s Waller Floats Half-Point Hike - Bitcoin Magazine
+18/11 14:31:12 INFO       (-0.6 r1.0 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg.com
+18/11 14:31:12 INFO    -> ATTENDI: trend 15 minuti non rialzista
