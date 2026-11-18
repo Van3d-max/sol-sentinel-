@@ -2068,3 +2068,9 @@
 18/11 08:01:19 INFO       (-1.0 r1.0 claude) Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.
 18/11 08:01:19 INFO       (-0.4 r0.9 claude) Live updates: Bitcoin stuck near $65,000 as basis traders move to stock perps - CoinDesk
 18/11 08:01:19 INFO    -> ATTENDI: notizie sotto la soglia (-0.16)
+18/11 08:15:48 INFO    === btc_veloce (BTC-EUR) ===
+18/11 08:15:49 INFO    Prezzo 58842.01 | medie 58860.69/58748.78 trend SU | notizie -0.17 su 114 (4 nuove, 4 da Claude) | 0.2s
+18/11 08:15:49 INFO       (-0.6 r0.9 claude) Bitcoin Price Forecast: BTC stalls as ETF outflows mount ahead of Fed Minutes - FXStreet
+18/11 08:15:49 INFO       (-1.0 r1.0 claude) Bitcoin price stuck below $65,000 as ETF outflows and bearish signals persist - Crypto News
+18/11 08:15:49 INFO       (-1.0 r1.0 claude) Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.
+18/11 08:15:49 INFO    -> ATTENDI: notizie sotto la soglia (-0.17)
