@@ -2314,3 +2314,9 @@
 18/11 18:16:02 INFO       (-0.7 r0.8 claude) Rate Hikes and Selloffs Hitting Bitcoin All at Once -- Market Talk - Moomoo
 18/11 18:16:02 INFO       (-0.8 r1.0 claude) Bitcoin Slips Below $64,000 as Fed Rate Talk and $2 Billion Liquidation Wave Hit Crypto Markets - BigGo Financ
 18/11 18:16:02 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 18:31:09 INFO    === btc_veloce (BTC-EUR) ===
+18/11 18:31:09 INFO    Prezzo 57530.90 | medie 57310.16/57671.54 trend GIU | notizie -0.25 su 120 (5 nuove, 5 da Claude) | 0.3s
+18/11 18:31:09 INFO       (-0.7 r0.9 claude) Strategy Stock Drops as Bitcoin Falls Below $63,000 - Benzinga
+18/11 18:31:09 INFO       (-0.6 r1.0 claude) Bitcoin Tests $63K Demand Wall as Whales Keep Dumping: Can the Floor Hold? - BigGo Finance
+18/11 18:31:09 INFO       (-0.7 r0.8 claude) Rate Hikes and Selloffs Hitting Bitcoin All at Once -- Market Talk - Moomoo
+18/11 18:31:09 INFO    -> ATTENDI: trend 15 minuti non rialzista
