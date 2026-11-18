@@ -2418,3 +2418,9 @@
 18/11 22:16:03 INFO       (-0.4 r0.6 claude) Why Citigroup Just Cut Its Bitcoin and Ethereum Price Forecasts - Coinpedia
 18/11 22:16:03 INFO       (-0.6 r0.9 claude) Ethereum slips while Federal Reserve signals and institutional ETF withdrawals dampen sentiment - Traders Unio
 18/11 22:16:03 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 22:31:09 INFO    === eth_veloce (ETH-EUR) ===
+18/11 22:31:09 INFO    Prezzo 1606.89 | medie 1600.65/1604.86 trend GIU | notizie -0.22 su 70 (1 nuove, 1 da Claude) | 0.2s
+18/11 22:31:09 INFO       (-0.6 r1.0 claude) Ethereum Price Forecast: ETH fails to recover $1,800 after futures and spot distribution - FXStreet
+18/11 22:31:09 INFO       (-0.4 r0.6 claude) Why Citigroup Just Cut Its Bitcoin and Ethereum Price Forecasts - Coinpedia
+18/11 22:31:09 INFO       (-0.6 r0.9 claude) Ethereum slips while Federal Reserve signals and institutional ETF withdrawals dampen sentiment - Traders Unio
+18/11 22:31:09 INFO    -> ATTENDI: trend 15 minuti non rialzista
