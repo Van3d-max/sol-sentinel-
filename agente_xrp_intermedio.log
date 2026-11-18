@@ -611,3 +611,10 @@
 18/11 09:45:51 INFO       (-0.6 r0.9 claude) Ripple news: XRP whales moved $270 million as token dropped 15% - CoinDesk
 18/11 09:45:51 INFO       (-0.5 r1.0 claude) XRP Price Hit a Red Flag Not Seen Since 2024: What Does It Mean? - BeInCrypto
 18/11 09:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+18/11 10:45:51 INFO    === xrp_intermedio (XRP-EUR) ===
+18/11 10:45:51 INFO    Trend superiore (ONE_DAY): GIU
+18/11 10:45:51 INFO    Prezzo 0.9084 | medie 0.88701/0.877476 trend SU | notizie +0.16 su 43 (0 nuove, 0 da Claude) | 0.3s
+18/11 10:45:51 INFO       (-0.6 r0.9 claude) Ripple news: XRP whales moved $270 million as token dropped 15% - CoinDesk
+18/11 10:45:51 INFO       (+0.5 r1.0 claude) XRP price reclaims $1 as Ripple’s lending plans advance, but can the recovery hold? - Crypto News
+18/11 10:45:51 INFO       (+0.4 r0.9 claude) Ripple (XRP) Reclaims $1 as Bitcoin (BTC) Remains Under $65K: Market Watch - CryptoPotato
+18/11 10:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

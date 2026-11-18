@@ -2136,3 +2136,9 @@
 18/11 10:31:09 INFO       (-0.6 r1.0 claude) Ethereum struggles to recover above $1,850 as ETF outflows and Treasury yields weigh - Traders Union
 18/11 10:31:09 INFO       (-0.5 r0.9 claude) Ethereum Slips Toward $1,710 Floor as U.S. Strikes on Iran Split Crypto Market - BigGo Finance
 18/11 10:31:09 INFO    -> ATTENDI: notizie sotto la soglia (-0.15)
+18/11 10:45:47 INFO    === eth_veloce (ETH-EUR) ===
+18/11 10:45:47 INFO    Prezzo 1642.11 | medie 1649.37/1649.56 trend GIU | notizie -0.16 su 65 (2 nuove, 2 da Claude) | 0.2s
+18/11 10:45:47 INFO       (-0.5 r0.9 claude) Ethereum weekly outlook: Support comes into focus after a stretched decline as spot ETF outflows pressure sent
+18/11 10:45:47 INFO       (-0.6 r1.0 claude) Ethereum struggles to recover above $1,850 as ETF outflows and Treasury yields weigh - Traders Union
+18/11 10:45:47 INFO       (-0.5 r0.9 claude) Ethereum Slips Toward $1,710 Floor as U.S. Strikes on Iran Split Crypto Market - BigGo Finance
+18/11 10:45:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
