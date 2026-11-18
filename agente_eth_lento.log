@@ -574,3 +574,9 @@
 18/11 16:45:53 INFO       (-0.6 r0.9 claude) CoinShares sells entire Ethereum holdings to fund share buybacks - Traders Union
 18/11 16:45:53 INFO       (-0.6 r0.8 claude) CoinShares sells all treasury ETH, halves SOL holdings for buybacks
 18/11 16:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista
+18/11 17:45:50 INFO    === eth_lento (ETH-EUR) ===
+18/11 17:45:50 INFO    Prezzo 1613.65 | medie 1765.61/1973.14 trend GIU | notizie -0.20 su 101 (2 nuove, 2 da Claude) | 0.1s
+18/11 17:45:50 INFO       (-0.6 r0.9 claude) Ethereum slips while Federal Reserve signals and institutional ETF withdrawals dampen sentiment - Traders Unio
+18/11 17:45:50 INFO       (-0.6 r0.9 claude) Europe's Largest Crypto Asset Manager Sells Its Entire Ethereum Treasury - Yahoo Finance
+18/11 17:45:50 INFO       (-0.6 r0.9 claude) CoinShares sells entire Ethereum holdings to fund share buybacks - Traders Union
+18/11 17:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista

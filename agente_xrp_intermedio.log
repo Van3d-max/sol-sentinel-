@@ -660,3 +660,10 @@
 18/11 16:45:57 INFO       (-0.6 r0.9 claude) XRP price faces selling pressure amid broader market weakness, falling below $1.00: How can holders turn the s
 18/11 16:45:57 INFO       (+0.4 r1.0 claude) XRP Eyes $1 Recovery as Major Banks Disclose ETF Holdings - Benzinga
 18/11 16:45:57 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+18/11 17:45:53 INFO    === xrp_intermedio (XRP-EUR) ===
+18/11 17:45:54 INFO    Trend superiore (ONE_DAY): GIU
+18/11 17:45:54 INFO    Prezzo 0.8931 | medie 0.895085/0.881926 trend SU | notizie +0.08 su 39 (0 nuove, 0 da Claude) | 0.4s
+18/11 17:45:54 INFO       (+0.5 r0.9 claude) XRP LEDGER $Ripple (XRP.CC)$ BECOMES THE FIRST PUBLIC, PERMISSIONLESS LAYER-1 TO PASS INDEPENDENT VERIFICATION
+18/11 17:45:54 INFO       (-0.6 r0.9 claude) XRP price faces selling pressure amid broader market weakness, falling below $1.00: How can holders turn the s
+18/11 17:45:54 INFO       (+0.4 r1.0 claude) XRP Eyes $1 Recovery as Major Banks Disclose ETF Holdings - Benzinga
+18/11 17:45:54 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

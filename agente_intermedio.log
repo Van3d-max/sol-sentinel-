@@ -670,3 +670,10 @@
 18/11 16:45:51 INFO       (+0.7 r1.0 claude) SOL comes out of Breakpoint 7% higher as Solana exits beta - Cryptonews.net
 18/11 16:45:51 INFO       (-0.4 r0.8 claude) CoinShares Offloads Entire Ether Treasury, Half Its Solana for $19.3M to Bankroll Buyback - BigGo Finance
 18/11 16:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+18/11 17:45:48 INFO    === intermedio (SOL-EUR) ===
+18/11 17:45:48 INFO    Trend superiore (ONE_DAY): GIU
+18/11 17:45:48 INFO    Prezzo 67.1100 | medie 67.7730/66.5264 trend SU | notizie +0.08 su 57 (2 nuove, 2 da Claude) | 0.4s
+18/11 17:45:48 INFO       (+0.6 r1.0 claude) Solana outperforms crypto market as Breakpoint announcements fuel momentum - marketscreener.com
+18/11 17:45:48 INFO       (+0.7 r1.0 claude) SOL comes out of Breakpoint 7% higher as Solana exits beta - Cryptonews.net
+18/11 17:45:48 INFO       (-0.4 r0.8 claude) CoinShares Offloads Entire Ether Treasury, Half Its Solana for $19.3M to Bankroll Buyback - BigGo Finance
+18/11 17:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
