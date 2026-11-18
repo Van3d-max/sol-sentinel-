@@ -2406,3 +2406,9 @@
 18/11 21:45:51 INFO       (-0.4 r0.6 claude) Why Citigroup Just Cut Its Bitcoin and Ethereum Price Forecasts - Coinpedia
 18/11 21:45:51 INFO       (-0.6 r0.9 claude) Ethereum slips while Federal Reserve signals and institutional ETF withdrawals dampen sentiment - Traders Unio
 18/11 21:45:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 22:01:16 INFO    === eth_veloce (ETH-EUR) ===
+18/11 22:01:16 INFO    Prezzo 1605.74 | medie 1599.43/1603.80 trend GIU | notizie -0.16 su 5 (0 nuove, 0 da Claude) | 0.2s
+18/11 22:01:16 INFO       (-0.3 r0.8 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana
+18/11 22:01:16 INFO       (-0.6 r0.8 claude) CoinShares sells all treasury ETH, halves SOL holdings for buybacks
+18/11 22:01:16 INFO       (+0.2 r0.8 claude) U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud
+18/11 22:01:16 INFO    -> ATTENDI: trend 15 minuti non rialzista
