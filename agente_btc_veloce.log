@@ -2248,3 +2248,9 @@
 18/11 15:31:11 INFO       (-0.6 r1.0 claude) Bitcoin whales move $540M to exchanges as selling pressure mounts - Crypto News
 18/11 15:31:11 INFO       (-0.6 r0.9 claude) Bitcoin Price Trades Near $64,000 as Fed’s Waller Floats Half-Point Hike
 18/11 15:31:11 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 15:45:55 INFO    === btc_veloce (BTC-EUR) ===
+18/11 15:45:55 INFO    Prezzo 57581.86 | medie 58021.03/58284.96 trend GIU | notizie -0.14 su 124 (3 nuove, 3 da Claude) | 0.4s
+18/11 15:45:55 INFO       (-0.7 r1.0 claude) Bitcoin Plunges to $64,000 as Crypto Market Cap Evaporates 20% in a Month - BigGo Finance
+18/11 15:45:55 INFO       (-0.6 r1.0 claude) Bitcoin whales move $540M to exchanges as selling pressure mounts - Crypto News
+18/11 15:45:55 INFO       (-0.6 r0.9 claude) Bitcoin Price Trades Near $64,000 as Fed’s Waller Floats Half-Point Hike
+18/11 15:45:55 INFO    -> ATTENDI: trend 15 minuti non rialzista
