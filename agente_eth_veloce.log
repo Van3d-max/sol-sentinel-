@@ -2436,3 +2436,9 @@
 18/11 23:01:24 INFO       (+0.3 r0.9 claude) Tom Lee Says Ethereum Becoming Store of Value Like Bitcoin - CoinMarketCap
 18/11 23:01:24 INFO       (-0.4 r0.6 claude) Why Citigroup Just Cut Its Bitcoin and Ethereum Price Forecasts - Coinpedia
 18/11 23:01:24 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 23:15:46 INFO    === eth_veloce (ETH-EUR) ===
+18/11 23:15:47 INFO    Prezzo 1610.09 | medie 1604.78/1603.80 trend SU | notizie -0.16 su 71 (2 nuove, 2 da Claude) | 0.2s
+18/11 23:15:47 INFO       (-0.6 r1.0 claude) Ethereum Price Forecast: ETH fails to recover $1,800 after futures and spot distribution - FXStreet
+18/11 23:15:47 INFO       (-0.5 r0.5 claude) Citigroup Lowers Bitcoin and Ethereum Price Targets Amid Weak Institutional Demand - KuCoin
+18/11 23:15:47 INFO       (+0.3 r0.9 claude) Tom Lee Says Ethereum Becoming Store of Value Like Bitcoin - CoinMarketCap
+18/11 23:15:47 INFO    -> ATTENDI: notizie sotto la soglia (-0.16)
