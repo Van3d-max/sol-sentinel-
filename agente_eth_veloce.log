@@ -2124,3 +2124,9 @@
 18/11 10:01:20 INFO       (-0.5 r0.9 claude) Ethereum Slips Toward $1,710 Floor as U.S. Strikes on Iran Split Crypto Market - BigGo Finance
 18/11 10:01:20 INFO       (-0.5 r0.5 claude) Bitcoin and Ethereum ETFs Record $269M in Outflows on November 17 - KuCoin
 18/11 10:01:20 INFO    -> ATTENDI: notizie sotto la soglia (-0.11)
+18/11 10:15:48 INFO    === eth_veloce (ETH-EUR) ===
+18/11 10:15:48 INFO    Prezzo 1649.61 | medie 1650.62/1649.88 trend SU | notizie -0.10 su 67 (1 nuove, 1 da Claude) | 0.2s
+18/11 10:15:48 INFO       (-0.6 r1.0 claude) Ethereum struggles to recover above $1,850 as ETF outflows and Treasury yields weigh - Traders Union
+18/11 10:15:48 INFO       (-0.5 r0.9 claude) Ethereum Slips Toward $1,710 Floor as U.S. Strikes on Iran Split Crypto Market - BigGo Finance
+18/11 10:15:48 INFO       (-0.5 r0.5 claude) Bitcoin and Ethereum ETFs Record $269M in Outflows on November 17 - KuCoin
+18/11 10:15:48 INFO    -> ATTENDI: notizie sotto la soglia (-0.10)
