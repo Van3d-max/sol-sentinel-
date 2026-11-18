@@ -2212,3 +2212,9 @@
 18/11 14:01:44 INFO       (-0.6 r0.9 claude) Bitcoin’s failed Nvidia earnings rally puts $62,000 support back in the spotlight
 18/11 14:01:44 INFO       (-0.4 r0.7 claude) Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans
 18/11 14:01:44 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 14:15:58 INFO    === btc_veloce (BTC-EUR) ===
+18/11 14:15:58 INFO    Prezzo 58278.71 | medie 58378.73/58551.51 trend GIU | notizie -0.14 su 118 (14 nuove, 14 da Claude) | 0.2s
+18/11 14:15:58 INFO       (-0.6 r0.9 claude) Bitcoin Price Trades Near $64,000 as Fed’s Waller Floats Half-Point Hike
+18/11 14:15:58 INFO       (-0.6 r0.9 claude) Bitcoin Price Trades Near $64,000 As Waller Floats Big Hike - Bitcoin Magazine
+18/11 14:15:58 INFO       (-0.6 r1.0 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg.com
+18/11 14:15:58 INFO    -> ATTENDI: trend 15 minuti non rialzista
