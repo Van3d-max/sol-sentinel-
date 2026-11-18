@@ -604,3 +604,9 @@
 18/11 21:45:52 INFO       (-0.6 r0.9 claude) Ethereum slips while Federal Reserve signals and institutional ETF withdrawals dampen sentiment - Traders Unio
 18/11 21:45:52 INFO       (-0.6 r0.9 claude) Europe's Largest Crypto Asset Manager Sells Its Entire Ethereum Treasury - Yahoo Finance
 18/11 21:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista
+18/11 22:46:00 INFO    === eth_lento (ETH-EUR) ===
+18/11 22:46:00 INFO    Prezzo 1606.63 | medie 1765.61/1973.14 trend GIU | notizie -0.20 su 95 (1 nuove, 1 da Claude) | 0.1s
+18/11 22:46:00 INFO       (-0.6 r1.0 claude) Ethereum Price Forecast: ETH fails to recover $1,800 after futures and spot distribution - FXStreet
+18/11 22:46:00 INFO       (-0.6 r0.9 claude) Ethereum slips while Federal Reserve signals and institutional ETF withdrawals dampen sentiment - Traders Unio
+18/11 22:46:00 INFO       (-0.6 r0.9 claude) Europe's Largest Crypto Asset Manager Sells Its Entire Ethereum Treasury - Yahoo Finance
+18/11 22:46:00 INFO    -> ATTENDI: trend giornaliero non rialzista
