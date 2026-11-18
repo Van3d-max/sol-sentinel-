@@ -526,3 +526,9 @@
 18/11 08:45:51 INFO       (-1.0 r1.0 claude) Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.
 18/11 08:45:51 INFO       (-0.6 r0.9 claude) Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase
 18/11 08:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista
+18/11 09:45:49 INFO    === btc_lento (BTC-EUR) ===
+18/11 09:45:49 INFO    Prezzo 58853.10 | medie 62897.18/68248.44 trend GIU | notizie -0.15 su 130 (0 nuove, 0 da Claude) | 0.1s
+18/11 09:45:49 INFO       (-0.8 r1.0 claude) Bitcoin Slips to Four-Month Low and Re-enters Bear Market; Realized Losses Hit 25,800 BTC, Bottom Confirmation
+18/11 09:45:49 INFO       (-1.0 r1.0 claude) Bitcoin price stuck below $65,000 as ETF outflows and bearish signals persist - Crypto News
+18/11 09:45:49 INFO       (-1.0 r1.0 claude) Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.
+18/11 09:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista
