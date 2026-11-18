@@ -2110,3 +2110,9 @@
 18/11 09:45:48 INFO       (-0.6 r0.9 claude) Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase
 18/11 09:45:48 INFO       (-0.6 r0.9 claude) Bitcoin Price Forecast: BTC stalls as ETF outflows mount ahead of Fed Minutes - FXStreet
 18/11 09:45:48 INFO    -> ATTENDI: notizia shock: Bitcoin Slips to Four-Month Low and Re-enters Bear Market; Realized Losses Hit 2
+18/11 10:01:22 INFO    === btc_veloce (BTC-EUR) ===
+18/11 10:01:22 INFO    Prezzo 58819.99 | medie 58936.89/58860.15 trend SU | notizie -0.15 su 111 (1 nuove, 1 da Claude) | 0.3s
+18/11 10:01:22 INFO       (-0.8 r1.0 claude) Bitcoin Slips to Four-Month Low and Re-enters Bear Market; Realized Losses Hit 25,800 BTC, Bottom Confirmation
+18/11 10:01:22 INFO       (-0.6 r0.9 claude) Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase
+18/11 10:01:22 INFO       (-0.6 r0.9 claude) Bitcoin Price Forecast: BTC stalls as ETF outflows mount ahead of Fed Minutes - FXStreet
+18/11 10:01:22 INFO    -> ATTENDI: notizia shock: Bitcoin Slips to Four-Month Low and Re-enters Bear Market; Realized Losses Hit 2
