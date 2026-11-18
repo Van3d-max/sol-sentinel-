@@ -1906,3 +1906,9 @@
 18/11 01:15:59 INFO       (+0.5 r0.9 claude) Billionaire Paul Tudor Jones doubles stake in BlackRock's Bitcoin ETF - Yahoo Finance
 18/11 01:15:59 INFO       (-0.6 r1.0 claude) Bitcoin Faces Historic Capitulation Levels: Can $62,000 Support Hold? - Benzinga
 18/11 01:15:59 INFO    -> ATTENDI: notizie sotto la soglia (-0.12)
+18/11 01:31:00 INFO    === btc_veloce (BTC-EUR) ===
+18/11 01:31:00 INFO    Prezzo 58712.22 | medie 58905.72/58676.88 trend SU | notizie -0.14 su 115 (2 nuove, 2 da Claude) | 0.2s
+18/11 01:31:00 INFO       (-0.6 r0.9 claude) OTC WHALE SELLS ANOTHER $41.57M IN BITCOIN A Cumberland linked OTC whale sent 640 $Bitcoin (BTC.CC)$ (~$41.57M
+18/11 01:31:00 INFO       (+0.5 r0.9 claude) Billionaire Paul Tudor Jones doubles stake in BlackRock's Bitcoin ETF - Yahoo Finance
+18/11 01:31:00 INFO       (-0.6 r1.0 claude) Bitcoin Faces Historic Capitulation Levels: Can $62,000 Support Hold? - Benzinga
+18/11 01:31:00 INFO    -> ATTENDI: notizie sotto la soglia (-0.14)
