@@ -599,3 +599,10 @@
 18/11 06:45:44 INFO       (+0.5 r0.9 claude) Bitmine Adds 7,653 ETH as Ethereum Treasury Climbs Above 6.08 Million Tokens - Cryptonews.net
 18/11 06:45:44 INFO       (-0.6 r1.0 claude) Ethereum Price Prediction: Retest of $1.5K Likely as ETFs Book 7-Week Streak of Outflows - FXEmpire
 18/11 06:45:44 INFO    -> ATTENDI: trend orario non rialzista
+18/11 07:45:47 INFO    === eth_intermedio (ETH-EUR) ===
+18/11 07:45:47 INFO    Trend superiore (ONE_DAY): GIU
+18/11 07:45:47 INFO    Prezzo 1649.03 | medie 1640.83/1647.40 trend GIU | notizie -0.06 su 73 (0 nuove, 0 da Claude) | 0.2s
+18/11 07:45:47 INFO       (+0.3 r0.8 claude) Hayes names ETH $2,800, ZEC $1,800 as his ‘Four Horsemen’ - CryptoRank
+18/11 07:45:47 INFO       (+0.5 r0.9 claude) Bitmine Adds 7,653 ETH as Ethereum Treasury Climbs Above 6.08 Million Tokens - Cryptonews.net
+18/11 07:45:47 INFO       (-0.6 r1.0 claude) Ethereum Price Prediction: Retest of $1.5K Likely as ETFs Book 7-Week Streak of Outflows - FXEmpire
+18/11 07:45:47 INFO    -> ATTENDI: trend orario non rialzista

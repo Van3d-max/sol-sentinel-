@@ -590,3 +590,10 @@
 18/11 06:45:48 INFO       (-0.5 r1.0 claude) XRP Price Prediction: XRP Long/Short Ratio Signals a Stronger Drop Ahead - FXEmpire
 18/11 06:45:48 INFO       (+0.4 r0.9 claude) Binance to Distribute 600,000 XRP to Eligible RLUSD Holders - TradingView
 18/11 06:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+18/11 07:45:50 INFO    === xrp_intermedio (XRP-EUR) ===
+18/11 07:45:51 INFO    Trend superiore (ONE_DAY): GIU
+18/11 07:45:51 INFO    Prezzo 0.9058 | medie 0.883095/0.87483 trend SU | notizie +0.04 su 39 (0 nuove, 0 da Claude) | 0.2s
+18/11 07:45:51 INFO       (-0.5 r1.0 claude) XRP Price Prediction: XRP Long/Short Ratio Signals a Stronger Drop Ahead - FXEmpire
+18/11 07:45:51 INFO       (+0.3 r0.7 claude) Crypto Price Analysis, ETH, XRP, SOL, INJ and PUMP, Nov. 18: XRP Clears $0.979 as Solana Gains 5% and PUMP Hit
+18/11 07:45:51 INFO       (+0.3 r1.0 claude) XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges
+18/11 07:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
