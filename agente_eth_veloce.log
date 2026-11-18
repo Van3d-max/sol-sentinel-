@@ -2400,3 +2400,9 @@
 18/11 21:31:08 INFO       (-0.6 r0.9 claude) Ethereum slips while Federal Reserve signals and institutional ETF withdrawals dampen sentiment - Traders Unio
 18/11 21:31:08 INFO       (-0.3 r1.0 claude) Ethereum (ETH) Weekly Forecast: Dead-Cat Bounce to $2,000 Likely as RSI Flashes Oversold - FXEmpire
 18/11 21:31:08 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 21:45:51 INFO    === eth_veloce (ETH-EUR) ===
+18/11 21:45:51 INFO    Prezzo 1606.40 | medie 1599.15/1602.78 trend GIU | notizie -0.24 su 70 (2 nuove, 2 da Claude) | 0.2s
+18/11 21:45:51 INFO       (-0.6 r0.9 claude) Ethereum Price Forecast: ETH fails to recover $1,800 after futures and spot distribution - www.tmgm.com
+18/11 21:45:51 INFO       (-0.4 r0.6 claude) Why Citigroup Just Cut Its Bitcoin and Ethereum Price Forecasts - Coinpedia
+18/11 21:45:51 INFO       (-0.6 r0.9 claude) Ethereum slips while Federal Reserve signals and institutional ETF withdrawals dampen sentiment - Traders Unio
+18/11 21:45:51 INFO    -> ATTENDI: trend 15 minuti non rialzista

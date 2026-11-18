@@ -698,3 +698,10 @@
 18/11 20:45:56 INFO       (-0.4 r0.7 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana - Decrypt
 18/11 20:45:56 INFO       (+0.6 r1.0 claude) Solana outperforms crypto market as Breakpoint announcements fuel momentum - marketscreener.com
 18/11 20:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+18/11 21:45:49 INFO    === intermedio (SOL-EUR) ===
+18/11 21:45:50 INFO    Trend superiore (ONE_DAY): GIU
+18/11 21:45:50 INFO    Prezzo 66.4400 | medie 67.6105/66.6954 trend SU | notizie +0.02 su 48 (1 nuove, 1 da Claude) | 0.3s
+18/11 21:45:50 INFO       (-0.4 r0.7 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana
+18/11 21:45:50 INFO       (-0.4 r0.7 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana - Decrypt
+18/11 21:45:50 INFO       (+0.3 r0.5 claude) Tom Lee: Bitcoin, Ethereum, Solana Are ‘Still at the Beginning’ - Benzinga
+18/11 21:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

@@ -598,3 +598,9 @@
 18/11 20:46:02 INFO       (-0.3 r0.8 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana
 18/11 20:46:02 INFO       (+0.2 r0.8 claude) U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud
 18/11 20:46:02 INFO    -> ATTENDI: trend giornaliero non rialzista
+18/11 21:45:52 INFO    === eth_lento (ETH-EUR) ===
+18/11 21:45:52 INFO    Prezzo 1606.40 | medie 1765.61/1973.14 trend GIU | notizie -0.23 su 98 (2 nuove, 2 da Claude) | 0.1s
+18/11 21:45:52 INFO       (-0.6 r0.9 claude) Ethereum Price Forecast: ETH fails to recover $1,800 after futures and spot distribution - www.tmgm.com
+18/11 21:45:52 INFO       (-0.6 r0.9 claude) Ethereum slips while Federal Reserve signals and institutional ETF withdrawals dampen sentiment - Traders Unio
+18/11 21:45:52 INFO       (-0.6 r0.9 claude) Europe's Largest Crypto Asset Manager Sells Its Entire Ethereum Treasury - Yahoo Finance
+18/11 21:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista

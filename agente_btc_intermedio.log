@@ -698,3 +698,10 @@
 18/11 20:46:11 INFO       (-0.4 r0.9 claude) Germany moves to freeze Bitcoin for up to 180 days, even without access to private keys
 18/11 20:46:11 INFO       (-0.5 r0.9 claude) Bitcoin options flash warning as downside premiums surge ahead of Fed minutes
 18/11 20:46:11 INFO    -> ATTENDI: trend orario non rialzista
+18/11 21:45:54 INFO    === btc_intermedio (BTC-EUR) ===
+18/11 21:45:54 INFO    Trend superiore (ONE_DAY): GIU
+18/11 21:45:54 INFO    Prezzo 56770.60 | medie 58202.49/58502.98 trend GIU | notizie -0.27 su 121 (5 nuove, 5 da Claude) | 0.2s
+18/11 21:45:54 INFO       (-0.8 r1.0 claude) Bitcoin Price Crashes Below $65K as MARA Holdings Sells BTC and Investors Prepare to Allocate Capital to Anthr
+18/11 21:45:54 INFO       (-0.6 r1.0 claude) Bitcoin Forecast: BTC Loses Momentum and Approaches $60K After the Fed Minutes - FOREX.com
+18/11 21:45:54 INFO       (-0.5 r1.0 claude) Bitcoin's Rebound Fades With Price 50% Below Record - The Defiant
+18/11 21:45:54 INFO    -> ATTENDI: trend orario non rialzista
