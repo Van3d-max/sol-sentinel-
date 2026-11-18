@@ -586,3 +586,9 @@
 18/11 18:43:33 INFO       (-0.7 r0.9 claude) Strategy Stock Drops as Bitcoin Falls Below $63,000 - Benzinga
 18/11 18:43:33 INFO       (-0.6 r1.0 claude) Bitcoin Tests $63K Demand Wall as Whales Keep Dumping: Can the Floor Hold? - BigGo Finance
 18/11 18:43:33 INFO    -> ATTENDI: trend giornaliero non rialzista
+18/11 19:45:53 INFO    === btc_lento (BTC-EUR) ===
+18/11 19:45:53 INFO    Prezzo 57095.73 | medie 62897.18/68248.44 trend GIU | notizie -0.26 su 139 (5 nuove, 5 da Claude) | 0.1s
+18/11 19:45:53 INFO       (-0.8 r1.0 claude) Bitcoin Slips Below $64,000 as Fed Rate Talk and $2 Billion Liquidation Wave Hit Crypto Markets - BigGo Financ
+18/11 19:45:53 INFO       (-0.7 r1.0 claude) Bitcoin Nears $62,000 as Citi Cuts Its Forecast - The Defiant
+18/11 19:45:53 INFO       (-0.7 r0.9 claude) Strategy Stock Drops as Bitcoin Falls Below $63,000 - Benzinga
+18/11 19:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista

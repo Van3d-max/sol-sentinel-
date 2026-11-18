@@ -684,3 +684,10 @@
 18/11 18:43:33 INFO       (-0.6 r1.0 claude) Bitcoin Tests $63K Demand Wall as Whales Keep Dumping: Can the Floor Hold? - BigGo Finance
 18/11 18:43:33 INFO       (-0.7 r0.8 claude) Rate Hikes and Selloffs Hitting Bitcoin All at Once -- Market Talk - Moomoo
 18/11 18:43:33 INFO    -> ATTENDI: trend orario non rialzista
+18/11 19:45:53 INFO    === btc_intermedio (BTC-EUR) ===
+18/11 19:45:53 INFO    Trend superiore (ONE_DAY): GIU
+18/11 19:45:53 INFO    Prezzo 57095.73 | medie 58388.55/58581.35 trend GIU | notizie -0.30 su 127 (5 nuove, 5 da Claude) | 0.3s
+18/11 19:45:53 INFO       (-0.6 r0.9 claude) Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?
+18/11 19:45:53 INFO       (-0.6 r0.9 claude) Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI? - Decrypt
+18/11 19:45:53 INFO       (-0.7 r0.9 claude) Strategy Stock Drops as Bitcoin Falls Below $63,000 - Benzinga
+18/11 19:45:53 INFO    -> ATTENDI: trend orario non rialzista
