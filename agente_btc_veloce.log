@@ -1990,3 +1990,9 @@
 18/11 04:46:00 INFO       (+0.4 r1.0 claude) Bitcoin's RSI Drops To 24: VanEck's Matthew Sigel Spots A Bullish Signal In Its 12-Month Track Record - Yahoo 
 18/11 04:46:00 INFO       (+0.4 r1.0 claude) Bitcoin's RSI Drops To 24: VanEck's Matthew Sigel Spots A Bullish Signal In Its 12-Month Track Record - Tradin
 18/11 04:46:00 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 05:01:27 INFO    === btc_veloce (BTC-EUR) ===
+18/11 05:01:28 INFO    Prezzo 58510.40 | medie 58577.89/58663.92 trend GIU | notizie -0.20 su 116 (2 nuove, 2 da Claude) | 0.3s
+18/11 05:01:28 INFO       (-1.0 r1.0 claude) Bitcoin price stuck below $65,000 as ETF outflows and bearish signals persist - Crypto News
+18/11 05:01:28 INFO       (-1.0 r1.0 claude) Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.
+18/11 05:01:28 INFO       (-0.6 r1.0 claude) Bitcoin falls 12% below its 200-week average as analysts warn of a deeper slide - Crypto Briefing
+18/11 05:01:28 INFO    -> ATTENDI: trend 15 minuti non rialzista
