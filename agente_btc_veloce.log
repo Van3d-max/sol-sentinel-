@@ -2260,3 +2260,9 @@
 18/11 16:01:21 INFO       (-0.7 r1.0 claude) Bitcoin Plunges to $64,000 as Crypto Market Cap Evaporates 20% in a Month - BigGo Finance
 18/11 16:01:21 INFO       (-0.6 r1.0 claude) Bitcoin whales move $540M to exchanges as selling pressure mounts - Crypto News
 18/11 16:01:21 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 16:15:54 INFO    === btc_veloce (BTC-EUR) ===
+18/11 16:15:54 INFO    Prezzo 57235.15 | medie 57822.34/58168.75 trend GIU | notizie -0.16 su 123 (8 nuove, 8 da Claude) | 0.3s
+18/11 16:15:54 INFO       (-0.7 r1.0 claude) Live updates: Bitcoin falls below $63,000, with Strategy’s STRC hitting lowest since August - CoinDesk
+18/11 16:15:54 INFO       (-0.7 r1.0 claude) Bitcoin falls 14% in a week as $62K support comes into focus - Crypto News
+18/11 16:15:54 INFO       (-0.7 r1.0 claude) Bitcoin Plunges to $64,000 as Crypto Market Cap Evaporates 20% in a Month - BigGo Finance
+18/11 16:15:54 INFO    -> ATTENDI: trend 15 minuti non rialzista
