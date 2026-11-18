@@ -1909,3 +1909,9 @@
 18/11 03:15:57 INFO       (-0.2 r0.5 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates, ETH and XRP stall - FXStreet
 18/11 03:15:57 INFO       (-0.7 r1.0 claude) XRP ETF Is Down $216M as Ripple Token Falls 35%: Can The Price Recover to $1.71? - TradingView
 18/11 03:15:57 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 03:31:04 INFO    === xrp_veloce (XRP-EUR) ===
+18/11 03:31:05 INFO    Prezzo 0.888 | medie 0.886911/0.889038 trend GIU | notizie -0.14 su 45 (0 nuove, 0 da Claude) | 0.3s
+18/11 03:31:05 INFO       (-0.5 r1.0 claude) XRP Price Prediction: XRP Long/Short Ratio Signals a Stronger Drop Ahead - FXEmpire
+18/11 03:31:05 INFO       (-0.2 r0.5 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates, ETH and XRP stall - FXStreet
+18/11 03:31:05 INFO       (-0.7 r1.0 claude) XRP ETF Is Down $216M as Ripple Token Falls 35%: Can The Price Recover to $1.71? - TradingView
+18/11 03:31:05 INFO    -> ATTENDI: trend 15 minuti non rialzista

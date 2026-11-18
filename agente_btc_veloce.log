@@ -1954,3 +1954,9 @@
 18/11 03:15:56 INFO       (+0.5 r0.9 claude) Goldman Doubles Bitcoin ETF Holdings to $1.28B - Briefs Finance
 18/11 03:15:56 INFO       (+0.5 r0.9 claude) Billionaire Paul Tudor Jones doubles stake in BlackRock's Bitcoin ETF - Yahoo Finance
 18/11 03:15:56 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 03:31:04 INFO    === btc_veloce (BTC-EUR) ===
+18/11 03:31:04 INFO    Prezzo 58610.03 | medie 58568.30/58769.33 trend GIU | notizie -0.12 su 27 (0 nuove, 0 da Claude) | 0.3s
+18/11 03:31:04 INFO       (-0.4 r0.8 claude) Bitcoin faces a liquidity drain as Anthropic IPO unlocks millions
+18/11 03:31:04 INFO       (-0.6 r0.9 claude) Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100
+18/11 03:31:04 INFO       (-0.5 r1.0 claude) Mark Yusko: Why Bitcoin Is Falling — $58k is the Key Level to Watch
+18/11 03:31:04 INFO    -> ATTENDI: trend 15 minuti non rialzista
