@@ -1888,3 +1888,9 @@
 18/11 00:31:05 INFO       (-0.6 r1.0 claude) Bitcoin struggles below $65,000 as crypto liquidity drains away - Crypto Briefing
 18/11 00:31:05 INFO       (-0.8 r1.0 claude) Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100 - Bitcoin Magazine
 18/11 00:31:05 INFO    -> ATTENDI: notizie sotto la soglia (-0.15)
+18/11 00:45:47 INFO    === btc_veloce (BTC-EUR) ===
+18/11 00:45:47 INFO    Prezzo 58845.24 | medie 58971.88/58550.63 trend SU | notizie -0.13 su 114 (2 nuove, 2 da Claude) | 0.3s
+18/11 00:45:47 INFO       (+0.5 r0.9 claude) Billionaire Paul Tudor Jones doubles stake in BlackRock's Bitcoin ETF - Yahoo Finance
+18/11 00:45:47 INFO       (-0.6 r1.0 claude) Bitcoin Faces Historic Capitulation Levels: Can $62,000 Support Hold? - Benzinga
+18/11 00:45:47 INFO       (-0.6 r1.0 claude) Bitcoin struggles below $65,000 as crypto liquidity drains away - Crypto Briefing
+18/11 00:45:47 INFO    -> ATTENDI: notizie sotto la soglia (-0.13)

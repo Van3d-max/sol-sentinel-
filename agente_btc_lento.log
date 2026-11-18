@@ -472,3 +472,9 @@
 17/11 23:45:46 INFO       (-0.6 r1.0 claude) Bitcoin Faces Historic Capitulation Levels: Can $62,000 Support Hold? - Benzinga
 17/11 23:45:46 INFO       (-1.0 r1.0 claude) Bitcoin falls below $70,000 as sell-off raises buying questions - Cryptonews.net
 17/11 23:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista
+18/11 00:45:48 INFO    === btc_lento (BTC-EUR) ===
+18/11 00:45:48 INFO    Prezzo 58845.24 | medie 62897.18/68248.44 trend GIU | notizie -0.11 su 133 (2 nuove, 2 da Claude) | 0.1s
+18/11 00:45:48 INFO       (-0.8 r1.0 claude) Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100 - Bitcoin Magazine
+18/11 00:45:48 INFO       (-0.6 r1.0 claude) Bitcoin Faces Historic Capitulation Levels: Can $62,000 Support Hold? - Benzinga
+18/11 00:45:48 INFO       (-1.0 r1.0 claude) Bitcoin falls below $70,000 as sell-off raises buying questions - Cryptonews.net
+18/11 00:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista
