@@ -1882,3 +1882,9 @@
 18/11 00:15:58 INFO       (-0.6 r1.0 claude) Bitcoin struggles below $65,000 as crypto liquidity drains away - Crypto Briefing
 18/11 00:15:58 INFO       (-0.8 r1.0 claude) Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100 - Bitcoin Magazine
 18/11 00:15:58 INFO    -> ATTENDI: notizie sotto la soglia (-0.16)
+18/11 00:31:05 INFO    === btc_veloce (BTC-EUR) ===
+18/11 00:31:05 INFO    Prezzo 58938.36 | medie 58955.70/58502.34 trend SU | notizie -0.15 su 113 (0 nuove, 0 da Claude) | 0.2s
+18/11 00:31:05 INFO       (-0.6 r1.0 claude) Bitcoin Faces Historic Capitulation Levels: Can $62,000 Support Hold? - Benzinga
+18/11 00:31:05 INFO       (-0.6 r1.0 claude) Bitcoin struggles below $65,000 as crypto liquidity drains away - Crypto Briefing
+18/11 00:31:05 INFO       (-0.8 r1.0 claude) Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100 - Bitcoin Magazine
+18/11 00:31:05 INFO    -> ATTENDI: notizie sotto la soglia (-0.15)
