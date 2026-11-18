@@ -563,3 +563,10 @@
 18/11 02:45:55 INFO       (-0.7 r1.0 claude) XRP ETF Is Down $216M as Ripple Token Falls 35%: Can The Price Recover to $1.71? - TradingView
 18/11 02:45:55 INFO       (-0.4 r0.9 claude) Why Is Ripple-Backed Evernorth Writing Down Its XRP Again? - BeInCrypto
 18/11 02:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+18/11 03:45:56 INFO    === xrp_intermedio (XRP-EUR) ===
+18/11 03:45:57 INFO    Trend superiore (ONE_DAY): GIU
+18/11 03:45:57 INFO    Prezzo 0.8907 | medie 0.87886/0.873228 trend SU | notizie -0.14 su 45 (0 nuove, 0 da Claude) | 0.3s
+18/11 03:45:57 INFO       (-0.5 r1.0 claude) XRP Price Prediction: XRP Long/Short Ratio Signals a Stronger Drop Ahead - FXEmpire
+18/11 03:45:57 INFO       (-0.2 r0.5 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates, ETH and XRP stall - FXStreet
+18/11 03:45:57 INFO       (-0.7 r1.0 claude) XRP ETF Is Down $216M as Ripple Token Falls 35%: Can The Price Recover to $1.71? - TradingView
+18/11 03:45:57 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

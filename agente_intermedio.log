@@ -572,3 +572,10 @@
 18/11 02:45:44 INFO       (+0.2 r0.6 claude) acquired. The Solana Foundation took a majority stake in Coi - KuCoin
 18/11 02:45:44 INFO       (-0.6 r0.9 claude) Forward Industries chairman Kyle Samani hints the Solana treasury firm could sell SOL - Crypto Briefing
 18/11 02:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+18/11 03:45:52 INFO    === intermedio (SOL-EUR) ===
+18/11 03:45:52 INFO    Trend superiore (ONE_DAY): GIU
+18/11 03:45:52 INFO    Prezzo 68.1500 | medie 66.6310/65.6772 trend SU | notizie +0.19 su 76 (0 nuove, 0 da Claude) | 0.3s
+18/11 03:45:52 INFO       (+0.7 r0.9 claude) Solana Rallies 5% on Record ETF Inflows, Coinbase, CoinGecko Deals - Cryptonews.net
+18/11 03:45:52 INFO       (+0.2 r0.5 claude) CoinGecko secures Solana Foundation backing and eyes crypto trading
+18/11 03:45:52 INFO       (+0.2 r0.6 claude) acquired. The Solana Foundation took a majority stake in Coi - KuCoin
+18/11 03:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

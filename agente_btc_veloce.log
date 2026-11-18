@@ -1960,3 +1960,9 @@
 18/11 03:31:04 INFO       (-0.6 r0.9 claude) Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100
 18/11 03:31:04 INFO       (-0.5 r1.0 claude) Mark Yusko: Why Bitcoin Is Falling — $58k is the Key Level to Watch
 18/11 03:31:04 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 03:45:55 INFO    === btc_veloce (BTC-EUR) ===
+18/11 03:45:55 INFO    Prezzo 58630.33 | medie 58557.98/58766.17 trend GIU | notizie -0.12 su 112 (1 nuove, 1 da Claude) | 0.4s
+18/11 03:45:55 INFO       (-0.6 r0.9 claude) OTC WHALE SELLS ANOTHER $41.57M IN BITCOIN A Cumberland linked OTC whale sent 640 $Bitcoin (BTC.CC)$ (~$41.57M
+18/11 03:45:55 INFO       (+0.5 r0.9 claude) Goldman Doubles Bitcoin ETF Holdings to $1.28B - Briefs Finance
+18/11 03:45:55 INFO       (-0.6 r1.0 claude) Bitcoin Faces Historic Capitulation Levels: Can $62,000 Support Hold? - Benzinga
+18/11 03:45:55 INFO    -> ATTENDI: trend 15 minuti non rialzista

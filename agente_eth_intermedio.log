@@ -571,3 +571,10 @@
 18/11 02:45:45 INFO       (+0.4 r0.9 claude) Bitmine Adds 7,653 ETH as Ethereum Treasury Climbs Above 6.08 Million Tokens - TradingView
 18/11 02:45:45 INFO       (-0.5 r0.9 claude) Ethereum Derivatives Market in Freefall as Open Interest Crashes to $9.12 Billion: What’s Going On? - CryptoRa
 18/11 02:45:45 INFO    -> ATTENDI: trend orario non rialzista
+18/11 03:45:53 INFO    === eth_intermedio (ETH-EUR) ===
+18/11 03:45:54 INFO    Trend superiore (ONE_DAY): GIU
+18/11 03:45:54 INFO    Prezzo 1641.62 | medie 1641.67/1647.88 trend GIU | notizie -0.09 su 8 (0 nuove, 0 da Claude) | 0.4s
+18/11 03:45:54 INFO       (-0.4 r0.8 claude) Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence
+18/11 03:45:54 INFO       (-0.2 r0.9 claude) Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps
+18/11 03:45:54 INFO       (-0.5 r1.0 claude) Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps
+18/11 03:45:54 INFO    -> ATTENDI: trend orario non rialzista
