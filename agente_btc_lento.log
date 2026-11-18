@@ -538,3 +538,9 @@
 18/11 10:45:50 INFO       (-1.0 r1.0 claude) Bitcoin price stuck below $65,000 as ETF outflows and bearish signals persist - Crypto News
 18/11 10:45:50 INFO       (-1.0 r1.0 claude) Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.
 18/11 10:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista
+18/11 11:45:52 INFO    === btc_lento (BTC-EUR) ===
+18/11 11:45:52 INFO    Prezzo 58483.22 | medie 62897.18/68248.44 trend GIU | notizie -0.18 su 131 (3 nuove, 3 da Claude) | 0.2s
+18/11 11:45:52 INFO       (-0.7 r1.0 claude) Bitcoin Erases Summer Rally as ETF Outflows Persist - The Defiant
+18/11 11:45:52 INFO       (-0.7 r1.0 claude) Bitcoin remains under pressure amid the negative risk sentiment caused by hawkish Fed and US-Iran tensions - i
+18/11 11:45:52 INFO       (-0.6 r1.0 claude) Bitcoin Sheds Most of Post-Nvidia Bounce in 35 Minutes - The Defiant
+18/11 11:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista

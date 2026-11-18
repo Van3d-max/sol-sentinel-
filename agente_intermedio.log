@@ -628,3 +628,10 @@
 18/11 10:45:45 INFO       (+0.5 r1.0 claude) Solana Sheds Beta Label After Six Years as SOL Outpaces Bitcoin, Ether at Breakpoint - BigGo Finance
 18/11 10:45:45 INFO       (+0.5 r1.0 claude) SOL comes out of Breakpoint 7% higher as Solana exits beta - TradingView
 18/11 10:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+18/11 11:45:48 INFO    === intermedio (SOL-EUR) ===
+18/11 11:45:48 INFO    Trend superiore (ONE_DAY): GIU
+18/11 11:45:48 INFO    Prezzo 67.8700 | medie 67.3165/66.2052 trend SU | notizie +0.26 su 75 (2 nuove, 2 da Claude) | 0.5s
+18/11 11:45:48 INFO       (+0.6 r0.9 claude) Solana ETFs snap 24-day drought with $11.6 million in net inflows - Crypto Briefing
+18/11 11:45:48 INFO       (+0.5 r1.0 claude) Solana Sheds Beta Label After Six Years as SOL Outpaces Bitcoin, Ether at Breakpoint - BigGo Finance
+18/11 11:45:48 INFO       (+0.4 r0.9 claude) SOL comes out of breakpoint 7% higher as Solana exits beta - FXStreet
+18/11 11:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

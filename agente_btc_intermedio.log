@@ -628,3 +628,10 @@
 18/11 10:45:50 INFO       (-0.6 r0.9 claude) Bitcoin’s failed Nvidia earnings rally puts $62,000 support back in the spotlight
 18/11 10:45:50 INFO       (-0.6 r1.0 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg.com
 18/11 10:45:50 INFO    -> ATTENDI: trend orario non rialzista
+18/11 11:45:52 INFO    === btc_intermedio (BTC-EUR) ===
+18/11 11:45:52 INFO    Trend superiore (ONE_DAY): GIU
+18/11 11:45:52 INFO    Prezzo 58483.22 | medie 58493.94/58697.26 trend GIU | notizie -0.22 su 110 (3 nuove, 3 da Claude) | 0.5s
+18/11 11:45:52 INFO       (-0.7 r1.0 claude) Bitcoin Erases Summer Rally as ETF Outflows Persist - The Defiant
+18/11 11:45:52 INFO       (-0.6 r1.0 claude) Bitcoin Sheds Most of Post-Nvidia Bounce in 35 Minutes - The Defiant
+18/11 11:45:52 INFO       (-0.7 r1.0 claude) Bitcoin remains under pressure amid the negative risk sentiment caused by hawkish Fed and US-Iran tensions - i
+18/11 11:45:52 INFO    -> ATTENDI: trend orario non rialzista
