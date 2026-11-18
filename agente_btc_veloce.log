@@ -2206,3 +2206,9 @@
 18/11 13:45:55 INFO       (-0.6 r0.9 claude) Analysts Recorded Selective Capital Rotation and Predicted Bitcoin Could Fall to $50,000 - Incrypted
 18/11 13:45:55 INFO       (-0.6 r1.0 claude) Bitcoin (BTC) price drops as basis trade dries up and Fed minutes loom - CoinDesk
 18/11 13:45:55 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 14:01:43 INFO    === btc_veloce (BTC-EUR) ===
+18/11 14:01:44 INFO    Prezzo 58245.59 | medie 58413.54/58585.12 trend GIU | notizie -0.13 su 27 (0 nuove, 0 da Claude) | 0.4s
+18/11 14:01:44 INFO       (+0.4 r0.9 claude) Bitcoin buyers pile 66,000 BTC into critical $62,000 support zone
+18/11 14:01:44 INFO       (-0.6 r0.9 claude) Bitcoin’s failed Nvidia earnings rally puts $62,000 support back in the spotlight
+18/11 14:01:44 INFO       (-0.4 r0.7 claude) Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans
+18/11 14:01:44 INFO    -> ATTENDI: trend 15 minuti non rialzista
