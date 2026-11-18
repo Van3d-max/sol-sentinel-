@@ -649,3 +649,10 @@
 18/11 13:45:51 INFO       (+0.6 r0.9 claude) Solana ETFs snap 24-day drought with $11.6 million in net inflows - Crypto Briefing
 18/11 13:45:51 INFO       (-0.4 r0.7 claude) CoinShares Sells All Ether Holdings, Half of Solana to Fund Share Buyback - bloomingbit
 18/11 13:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+18/11 14:45:49 INFO    === intermedio (SOL-EUR) ===
+18/11 14:45:49 INFO    Trend superiore (ONE_DAY): GIU
+18/11 14:45:49 INFO    Prezzo 66.9700 | medie 67.6400/66.3832 trend SU | notizie +0.10 su 57 (2 nuove, 2 da Claude) | 0.4s
+18/11 14:45:49 INFO       (+0.7 r1.0 claude) SOL comes out of Breakpoint 7% higher as Solana exits beta - Cryptonews.net
+18/11 14:45:49 INFO       (+0.3 r1.0 claude) Solana At $74 As Bitwise Reveals A $1,100 Bull Case - Cointribune
+18/11 14:45:49 INFO       (-0.4 r0.7 claude) CoinShares sells all treasury ETH, halves SOL holdings for buybacks
+18/11 14:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

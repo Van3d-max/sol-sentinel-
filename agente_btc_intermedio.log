@@ -649,3 +649,10 @@
 18/11 13:45:56 INFO       (-0.6 r0.9 claude) Analysts Recorded Selective Capital Rotation and Predicted Bitcoin Could Fall to $50,000 - Incrypted
 18/11 13:45:56 INFO       (-0.6 r1.0 claude) Bitcoin (BTC) price drops as basis trade dries up and Fed minutes loom - CoinDesk
 18/11 13:45:56 INFO    -> ATTENDI: trend orario non rialzista
+18/11 14:45:53 INFO    === btc_intermedio (BTC-EUR) ===
+18/11 14:45:54 INFO    Trend superiore (ONE_DAY): GIU
+18/11 14:45:54 INFO    Prezzo 57490.63 | medie 58556.83/58690.83 trend GIU | notizie -0.16 su 120 (9 nuove, 9 da Claude) | 0.4s
+18/11 14:45:54 INFO       (-0.6 r1.0 claude) Bitcoin whales move $540M to exchanges as selling pressure mounts - Crypto News
+18/11 14:45:54 INFO       (-0.6 r0.9 claude) Bitcoin Price Trades Near $64,000 as Fed’s Waller Floats Half-Point Hike
+18/11 14:45:54 INFO       (-0.6 r0.9 claude) Bitcoin Price Trades Near $64,000 as Fed’s Waller Floats Half-Point Hike - Bitcoin Magazine
+18/11 14:45:54 INFO    -> ATTENDI: trend orario non rialzista

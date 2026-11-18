@@ -648,3 +648,10 @@
 18/11 13:45:53 INFO       (-0.6 r0.9 claude) Ethereum Futures Open Interest Falls to $9.12 Billion, Lowest Since October 2024 as ETF Outflows Mount - finan
 18/11 13:45:53 INFO       (-0.4 r0.8 claude) CoinShares Liquidates Entire Ethereum Holdings to Fund $40 Million Share Buyback - BigGo Finance
 18/11 13:45:53 INFO    -> ATTENDI: trend orario non rialzista
+18/11 14:45:49 INFO    === eth_intermedio (ETH-EUR) ===
+18/11 14:45:50 INFO    Trend superiore (ONE_DAY): GIU
+18/11 14:45:50 INFO    Prezzo 1600.00 | medie 1642.30/1647.64 trend GIU | notizie -0.18 su 66 (0 nuove, 0 da Claude) | 0.4s
+18/11 14:45:50 INFO       (-0.6 r0.8 claude) CoinShares sells all treasury ETH, halves SOL holdings for buybacks
+18/11 14:45:50 INFO       (-0.5 r0.8 claude) Binance Hack-Linked Wallet Shifts $142M in ETH Across Seven Transfers - Bitcoin Foundation
+18/11 14:45:50 INFO       (+0.4 r0.8 claude) Binance leads the opening of new Ethereum positions after a deleveraging wave - Crypto Briefing
+18/11 14:45:50 INFO    -> ATTENDI: trend orario non rialzista

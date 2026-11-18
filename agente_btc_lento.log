@@ -556,3 +556,9 @@
 18/11 13:45:56 INFO       (-0.7 r1.0 claude) Bitcoin remains under pressure amid the negative risk sentiment caused by hawkish Fed and US-Iran tensions - i
 18/11 13:45:56 INFO       (-0.6 r1.0 claude) Bitcoin (BTC) price drops as basis trade dries up and Fed minutes loom - CoinDesk
 18/11 13:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista
+18/11 14:45:54 INFO    === btc_lento (BTC-EUR) ===
+18/11 14:45:54 INFO    Prezzo 57490.63 | medie 62897.18/68248.44 trend GIU | notizie -0.16 su 136 (9 nuove, 9 da Claude) | 0.1s
+18/11 14:45:54 INFO       (-0.6 r1.0 claude) Bitcoin whales move $540M to exchanges as selling pressure mounts - Crypto News
+18/11 14:45:54 INFO       (-0.6 r1.0 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg.com
+18/11 14:45:54 INFO       (-0.6 r0.9 claude) Bitcoin Price Trades Near $64,000 as Fed’s Waller Floats Half-Point Hike
+18/11 14:45:54 INFO    -> ATTENDI: trend giornaliero non rialzista
