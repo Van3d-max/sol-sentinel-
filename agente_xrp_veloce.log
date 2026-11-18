@@ -1886,3 +1886,8 @@
 18/11 02:15:49 INFO       (-0.7 r1.0 claude) XRP ETF Is Down $216M as Ripple Token Falls 35%: Can The Price Recover to $1.71? - TradingView
 18/11 02:15:49 INFO       (-0.4 r0.9 claude) Why Is Ripple-Backed Evernorth Writing Down Its XRP Again? - BeInCrypto
 18/11 02:15:49 INFO    -> ATTENDI: notizie sotto la soglia (-0.14)
+18/11 02:31:06 INFO    === xrp_veloce (XRP-EUR) ===
+18/11 02:31:06 INFO    Prezzo 0.8876 | medie 0.888222/0.888076 trend SU | notizie -0.04 su 2 (0 nuove, 0 da Claude) | 0.3s
+18/11 02:31:06 INFO       (-0.1 r0.9 claude) Three wallets hoard $52.7M on XRP’s sidechain, and nobody is trading it
+18/11 02:31:06 INFO       (-0.4 r0.8 claude) Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%
+18/11 02:31:06 INFO    -> ATTENDI: notizie sotto la soglia (-0.04)
