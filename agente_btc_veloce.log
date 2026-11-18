@@ -2440,3 +2440,9 @@
 18/11 23:31:07 INFO       (-0.6 r1.0 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg.com
 18/11 23:31:07 INFO       (-0.6 r1.0 claude) Bitcoin bearish signals deepen as demand contracts by 400K BTC - FXStreet
 18/11 23:31:07 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 23:45:51 INFO    === btc_veloce (BTC-EUR) ===
+18/11 23:45:51 INFO    Prezzo 57391.68 | medie 56926.64/57050.27 trend GIU | notizie -0.22 su 123 (5 nuove, 5 da Claude) | 0.2s
+18/11 23:45:51 INFO       (-0.6 r1.0 claude) Bitcoin stalls below $65k as bears maintain control - Cryptonews.net
+18/11 23:45:51 INFO       (-0.6 r0.8 claude) Gold and Bitcoin Are Falling Together: Is a Strong Dollar Triggering a Global Liquidity Squeeze? - Cryptonews.
+18/11 23:45:51 INFO       (-0.6 r1.0 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg.com
+18/11 23:45:51 INFO    -> ATTENDI: trend 15 minuti non rialzista

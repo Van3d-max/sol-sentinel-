@@ -610,3 +610,9 @@
 18/11 22:46:02 INFO       (-0.6 r1.0 claude) Bitcoin bearish signals deepen as demand contracts by 400K BTC - FXStreet
 18/11 22:46:02 INFO       (-0.8 r0.9 claude) Bitcoin Breaks Below $63K as Waller Calls for 'Shock' Rate Hike - Bitbo
 18/11 22:46:02 INFO    -> ATTENDI: trend giornaliero non rialzista
+18/11 23:45:51 INFO    === btc_lento (BTC-EUR) ===
+18/11 23:45:51 INFO    Prezzo 57391.68 | medie 62897.18/68248.44 trend GIU | notizie -0.22 su 131 (5 nuove, 5 da Claude) | 0.1s
+18/11 23:45:51 INFO       (-0.8 r1.0 claude) Bitcoin Price Crashes Below $65K as MARA Holdings Sells BTC and Investors Prepare to Allocate Capital to Anthr
+18/11 23:45:51 INFO       (-0.6 r1.0 claude) Bitcoin stalls below $65k as bears maintain control - Cryptonews.net
+18/11 23:45:51 INFO       (-0.7 r1.0 claude) Bitcoin enters bearish phase as demand shrinks, traders face 20% losses - Cryptonews.net
+18/11 23:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista

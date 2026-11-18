@@ -712,3 +712,10 @@
 18/11 22:46:02 INFO       (-0.8 r1.0 claude) Bitcoin Price Crashes Below $65K as MARA Holdings Sells BTC and Investors Prepare to Allocate Capital to Anthr
 18/11 22:46:02 INFO       (-0.6 r1.0 claude) Why is Bitcoin Price Falling Continuously and Is $58K Next? - Coinpedia
 18/11 22:46:02 INFO    -> ATTENDI: trend orario non rialzista
+18/11 23:45:51 INFO    === btc_intermedio (BTC-EUR) ===
+18/11 23:45:51 INFO    Trend superiore (ONE_DAY): GIU
+18/11 23:45:51 INFO    Prezzo 57391.68 | medie 58024.51/58406.07 trend GIU | notizie -0.22 su 123 (5 nuove, 5 da Claude) | 0.3s
+18/11 23:45:51 INFO       (-0.6 r1.0 claude) Bitcoin stalls below $65k as bears maintain control - Cryptonews.net
+18/11 23:45:51 INFO       (-0.6 r0.8 claude) Gold and Bitcoin Are Falling Together: Is a Strong Dollar Triggering a Global Liquidity Squeeze? - Cryptonews.
+18/11 23:45:51 INFO       (-0.6 r1.0 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg.com
+18/11 23:45:51 INFO    -> ATTENDI: trend orario non rialzista
