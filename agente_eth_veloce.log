@@ -2082,3 +2082,9 @@
 18/11 08:15:47 INFO       (+0.3 r0.8 claude) Hayes names ETH $2,800, ZEC $1,800 as his ‘Four Horsemen’ - CryptoRank
 18/11 08:15:47 INFO       (-0.4 r0.9 claude) Ethereum’s Glamsterdam Gas Changes May Break 15,000 Contracts - Cryptonews.net
 18/11 08:15:47 INFO    -> ATTENDI: notizie sotto la soglia (-0.10)
+18/11 08:31:02 INFO    === eth_veloce (ETH-EUR) ===
+18/11 08:31:03 INFO    Prezzo 1652.14 | medie 1650.21/1646.54 trend SU | notizie +0.06 su 9 (0 nuove, 0 da Claude) | 0.3s
+18/11 08:31:03 INFO       (+0.2 r0.8 claude) U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud
+18/11 08:31:03 INFO       (-0.4 r0.8 claude) Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence
+18/11 08:31:03 INFO       (-0.2 r0.9 claude) Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps
+18/11 08:31:03 INFO    -> ATTENDI: obiettivo +1.10% sotto il minimo +2.20% (commissioni)

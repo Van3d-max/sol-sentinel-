@@ -2027,3 +2027,9 @@
 18/11 08:15:50 INFO       (-0.5 r1.0 claude) XRP Price Prediction: XRP Long/Short Ratio Signals a Stronger Drop Ahead - FXEmpire
 18/11 08:15:50 INFO       (+0.3 r0.7 claude) Crypto Price Analysis, ETH, XRP, SOL, INJ and PUMP, Nov. 18: XRP Clears $0.979 as Solana Gains 5% and PUMP Hit
 18/11 08:15:50 INFO    -> ATTENDI: notizie sotto la soglia (-0.07)
+18/11 08:31:06 INFO    === xrp_veloce (XRP-EUR) ===
+18/11 08:31:06 INFO    Prezzo 0.9142 | medie 0.904644/0.897643 trend SU | notizie -0.04 su 36 (1 nuove, 1 da Claude) | 0.3s
+18/11 08:31:06 INFO       (-0.6 r0.9 claude) Ripple news: XRP whales moved $270 million as token dropped 15% - CoinDesk
+18/11 08:31:06 INFO       (-0.5 r1.0 claude) XRP Price Prediction: XRP Long/Short Ratio Signals a Stronger Drop Ahead - FXEmpire
+18/11 08:31:06 INFO       (+0.3 r0.7 claude) Crypto Price Analysis, ETH, XRP, SOL, INJ and PUMP, Nov. 18: XRP Clears $0.979 as Solana Gains 5% and PUMP Hit
+18/11 08:31:06 INFO    -> ATTENDI: notizie sotto la soglia (-0.04)
