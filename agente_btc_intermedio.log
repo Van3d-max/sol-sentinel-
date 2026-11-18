@@ -642,3 +642,10 @@
 18/11 12:45:54 INFO       (-0.6 r1.0 claude) Bitcoin (BTC) price drops as basis trade dries up and Fed minutes loom - CoinDesk
 18/11 12:45:54 INFO       (-0.6 r0.9 claude) MARA Offloads $3 Billion in Bitcoin in 2026, Taps Reserves to Repay Debt - BigGo Finance
 18/11 12:45:54 INFO    -> ATTENDI: trend orario non rialzista
+18/11 13:45:55 INFO    === btc_intermedio (BTC-EUR) ===
+18/11 13:45:56 INFO    Trend superiore (ONE_DAY): GIU
+18/11 13:45:56 INFO    Prezzo 58271.31 | medie 58538.69/58695.85 trend GIU | notizie -0.14 su 118 (4 nuove, 4 da Claude) | 0.4s
+18/11 13:45:56 INFO       (-0.5 r0.9 claude) Citi cuts Bitcoin price target to $99,532, Ethereum to $2,838 - Cryptonews.net
+18/11 13:45:56 INFO       (-0.6 r0.9 claude) Analysts Recorded Selective Capital Rotation and Predicted Bitcoin Could Fall to $50,000 - Incrypted
+18/11 13:45:56 INFO       (-0.6 r1.0 claude) Bitcoin (BTC) price drops as basis trade dries up and Fed minutes loom - CoinDesk
+18/11 13:45:56 INFO    -> ATTENDI: trend orario non rialzista

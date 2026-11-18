@@ -2208,3 +2208,9 @@
 18/11 13:31:05 INFO       (-0.6 r0.9 claude) Ethereum Futures Open Interest Falls to $9.12 Billion, Lowest Since October 2024 as ETF Outflows Mount - finan
 18/11 13:31:05 INFO       (-0.4 r0.8 claude) CoinShares Liquidates Entire Ethereum Holdings to Fund $40 Million Share Buyback - BigGo Finance
 18/11 13:31:05 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 13:45:53 INFO    === eth_veloce (ETH-EUR) ===
+18/11 13:45:53 INFO    Prezzo 1632.74 | medie 1637.97/1643.21 trend GIU | notizie -0.19 su 65 (1 nuove, 1 da Claude) | 0.3s
+18/11 13:45:53 INFO       (-0.5 r0.7 claude) Citi cuts Bitcoin price target to $99,532, Ethereum to $2,838 - Cryptonews.net
+18/11 13:45:53 INFO       (-0.6 r0.9 claude) Ethereum Futures Open Interest Falls to $9.12 Billion, Lowest Since October 2024 as ETF Outflows Mount - finan
+18/11 13:45:53 INFO       (-0.4 r0.8 claude) CoinShares Liquidates Entire Ethereum Holdings to Fund $40 Million Share Buyback - BigGo Finance
+18/11 13:45:53 INFO    -> ATTENDI: trend 15 minuti non rialzista
