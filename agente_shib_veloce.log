@@ -2227,3 +2227,9 @@
 18/11 19:01:29 INFO    === shib_veloce (SHIB-EUR) ===
 18/11 19:01:29 INFO    Prezzo 3.45e-06 | medie 3.44444e-06/3.47286e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.2s
 18/11 19:01:29 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 19:15:56 INFO    === shib_veloce (SHIB-EUR) ===
+18/11 19:15:56 INFO    Prezzo 3.45e-06 | medie 3.44222e-06/3.46952e-06 trend GIU | notizie +0.09 su 9 (0 nuove, 0 da Claude) | 0.3s
+18/11 19:15:56 INFO       (+0.6 r1.0 claude) Shiba Inu News Today: SHIB Price Jumps on Burn Surge and Holder Growth - Coin Gabbar
+18/11 19:15:56 INFO       (+0.2 r0.9 claude) Shiba Inu Price Prediction: SHIB Burn Rate Up 629%, Will Price Follow? - Coin Gabbar
+18/11 19:15:56 INFO       (+0.2 r0.8 claude) Lbank launches $150,000 rewards campaign in partnership with Shiba Inu - Traders Union
+18/11 19:15:56 INFO    -> ATTENDI: trend 15 minuti non rialzista
