@@ -2368,3 +2368,9 @@
 18/11 20:31:10 INFO       (-0.5 r0.9 claude) Bitcoin options flash warning as downside premiums surge ahead of Fed minutes
 18/11 20:31:10 INFO       (-0.5 r0.6 claude) MARA prices $185M debt offering after $1.1B Bitcoin sale
 18/11 20:31:10 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 20:46:10 INFO    === btc_veloce (BTC-EUR) ===
+18/11 20:46:11 INFO    Prezzo 56949.32 | medie 57225.37/57296.81 trend GIU | notizie -0.23 su 32 (1 nuove, 1 da Claude) | 0.1s
+18/11 20:46:11 INFO       (-0.6 r0.9 claude) Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?
+18/11 20:46:11 INFO       (-0.4 r0.9 claude) Germany moves to freeze Bitcoin for up to 180 days, even without access to private keys
+18/11 20:46:11 INFO       (-0.5 r0.9 claude) Bitcoin options flash warning as downside premiums surge ahead of Fed minutes
+18/11 20:46:11 INFO    -> ATTENDI: trend 15 minuti non rialzista

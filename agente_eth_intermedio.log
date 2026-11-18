@@ -690,3 +690,10 @@
 18/11 19:45:51 INFO       (-0.3 r1.0 claude) Ethereum (ETH) Weekly Forecast: Dead-Cat Bounce to $2,000 Likely as RSI Flashes Oversold - FXEmpire
 18/11 19:45:51 INFO       (-0.6 r0.9 claude) Europe's Largest Crypto Asset Manager Sells Its Entire Ethereum Treasury - Yahoo Finance
 18/11 19:45:51 INFO    -> ATTENDI: trend orario non rialzista
+18/11 20:46:02 INFO    === eth_intermedio (ETH-EUR) ===
+18/11 20:46:02 INFO    Trend superiore (ONE_DAY): GIU
+18/11 20:46:02 INFO    Prezzo 1594.33 | medie 1632.78/1642.08 trend GIU | notizie -0.18 su 5 (0 nuove, 0 da Claude) | 0.2s
+18/11 20:46:02 INFO       (-0.3 r0.8 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana
+18/11 20:46:02 INFO       (-0.6 r0.8 claude) CoinShares sells all treasury ETH, halves SOL holdings for buybacks
+18/11 20:46:02 INFO       (+0.2 r0.8 claude) U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud
+18/11 20:46:02 INFO    -> ATTENDI: trend orario non rialzista

@@ -592,3 +592,9 @@
 18/11 19:45:53 INFO       (-0.7 r1.0 claude) Bitcoin Nears $62,000 as Citi Cuts Its Forecast - The Defiant
 18/11 19:45:53 INFO       (-0.7 r0.9 claude) Strategy Stock Drops as Bitcoin Falls Below $63,000 - Benzinga
 18/11 19:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista
+18/11 20:46:11 INFO    === btc_lento (BTC-EUR) ===
+18/11 20:46:11 INFO    Prezzo 56949.32 | medie 62897.18/68248.44 trend GIU | notizie -0.22 su 39 (1 nuove, 1 da Claude) | 0.1s
+18/11 20:46:11 INFO       (-0.6 r0.9 claude) Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?
+18/11 20:46:11 INFO       (-0.4 r0.9 claude) Germany moves to freeze Bitcoin for up to 180 days, even without access to private keys
+18/11 20:46:11 INFO       (-0.5 r0.9 claude) Bitcoin options flash warning as downside premiums surge ahead of Fed minutes
+18/11 20:46:11 INFO    -> ATTENDI: trend giornaliero non rialzista
