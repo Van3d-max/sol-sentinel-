@@ -1926,3 +1926,9 @@
 18/11 01:45:55 INFO       (-0.6 r0.9 claude) Ethereum Derivatives Market in Freefall as Open Interest Crashes to $9.12 Billion: What’s Going On? - CryptoPo
 18/11 01:45:55 INFO       (-0.5 r0.9 claude) Ethereum Derivatives Market in Freefall as Open Interest Crashes to $9.12 Billion: What’s Going On? - CryptoRa
 18/11 01:45:55 INFO    -> ATTENDI: notizie sotto la soglia (-0.14)
+18/11 02:01:13 INFO    === eth_veloce (ETH-EUR) ===
+18/11 02:01:14 INFO    Prezzo 1639.48 | medie 1650.65/1648.08 trend SU | notizie -0.15 su 79 (1 nuove, 1 da Claude) | 0.3s
+18/11 02:01:14 INFO       (-0.6 r0.9 claude) Ethereum Derivatives Market in Freefall as Open Interest Crashes to $9.12 Billion: What’s Going On? - CryptoPo
+18/11 02:01:14 INFO       (+0.4 r0.9 claude) Bitmine Adds 7,653 ETH as Ethereum Treasury Climbs Above 6.08 Million Tokens - TradingView
+18/11 02:01:14 INFO       (-0.5 r0.9 claude) Ethereum Derivatives Market in Freefall as Open Interest Crashes to $9.12 Billion: What’s Going On? - CryptoRa
+18/11 02:01:14 INFO    -> ATTENDI: notizie sotto la soglia (-0.15)
