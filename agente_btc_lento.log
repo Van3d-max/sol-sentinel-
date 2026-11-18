@@ -520,3 +520,9 @@
 18/11 07:45:50 INFO       (-1.0 r1.0 claude) Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.
 18/11 07:45:50 INFO       (-0.6 r1.0 claude) Bitcoin falls 12% below its 200-week average as analysts warn of a deeper slide - Crypto Briefing
 18/11 07:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista
+18/11 08:45:51 INFO    === btc_lento (BTC-EUR) ===
+18/11 08:45:51 INFO    Prezzo 59043.80 | medie 62897.18/68248.44 trend GIU | notizie -0.14 su 133 (1 nuove, 1 da Claude) | 0.1s
+18/11 08:45:51 INFO       (-1.0 r1.0 claude) Bitcoin price stuck below $65,000 as ETF outflows and bearish signals persist - Crypto News
+18/11 08:45:51 INFO       (-1.0 r1.0 claude) Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.
+18/11 08:45:51 INFO       (-0.6 r0.9 claude) Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase
+18/11 08:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista

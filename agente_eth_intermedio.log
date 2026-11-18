@@ -606,3 +606,10 @@
 18/11 07:45:47 INFO       (+0.5 r0.9 claude) Bitmine Adds 7,653 ETH as Ethereum Treasury Climbs Above 6.08 Million Tokens - Cryptonews.net
 18/11 07:45:47 INFO       (-0.6 r1.0 claude) Ethereum Price Prediction: Retest of $1.5K Likely as ETFs Book 7-Week Streak of Outflows - FXEmpire
 18/11 07:45:47 INFO    -> ATTENDI: trend orario non rialzista
+18/11 08:45:49 INFO    === eth_intermedio (ETH-EUR) ===
+18/11 08:45:49 INFO    Trend superiore (ONE_DAY): GIU
+18/11 08:45:49 INFO    Prezzo 1652.77 | medie 1640.73/1647.60 trend GIU | notizie -0.18 su 71 (2 nuove, 2 da Claude) | 0.3s
+18/11 08:45:49 INFO       (-0.6 r1.0 claude) Ethereum struggles to recover above $1,850 as ETF outflows and Treasury yields weigh - Traders Union
+18/11 08:45:49 INFO       (-0.5 r0.9 claude) Ethereum Slips Toward $1,710 Floor as U.S. Strikes on Iran Split Crypto Market - BigGo Finance
+18/11 08:45:49 INFO       (-0.3 r0.9 claude) Ethereum Developer Warns Glamsterdam Upgrade Could Break Up to 15,000 Contracts, Some Unpatchable - Tech Times
+18/11 08:45:49 INFO    -> ATTENDI: trend orario non rialzista

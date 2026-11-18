@@ -607,3 +607,10 @@
 18/11 07:45:47 INFO       (+0.4 r0.5 claude) Crypto Price Analysis, ETH, XRP, SOL, INJ and PUMP, Nov. 18: XRP Clears $0.979 as Solana Gains 5% and PUMP Hit
 18/11 07:45:47 INFO       (+0.6 r0.9 claude) Solana Rallies 5% on Record ETF Inflows, Coinbase, CoinGecko Deals - Coinpedia
 18/11 07:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+18/11 08:45:47 INFO    === intermedio (SOL-EUR) ===
+18/11 08:45:48 INFO    Trend superiore (ONE_DAY): GIU
+18/11 08:45:48 INFO    Prezzo 68.1900 | medie 67.1460/65.9864 trend SU | notizie +0.18 su 79 (1 nuove, 1 da Claude) | 0.3s
+18/11 08:45:48 INFO       (+0.6 r1.0 claude) Can Solana extend gains above $75 as ETFs inflows resurface? - FXStreet
+18/11 08:45:48 INFO       (+0.4 r0.5 claude) Crypto Price Analysis, ETH, XRP, SOL, INJ and PUMP, Nov. 18: XRP Clears $0.979 as Solana Gains 5% and PUMP Hit
+18/11 08:45:48 INFO       (+0.6 r0.9 claude) Solana Rallies 5% on Record ETF Inflows, Coinbase, CoinGecko Deals - Coinpedia
+18/11 08:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
