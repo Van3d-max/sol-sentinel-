@@ -579,3 +579,10 @@
 18/11 03:45:56 INFO       (+0.5 r0.9 claude) Goldman Doubles Bitcoin ETF Holdings to $1.28B - Briefs Finance
 18/11 03:45:56 INFO       (-0.6 r1.0 claude) Bitcoin Faces Historic Capitulation Levels: Can $62,000 Support Hold? - Benzinga
 18/11 03:45:56 INFO    -> ATTENDI: trend orario non rialzista
+18/11 04:46:00 INFO    === btc_intermedio (BTC-EUR) ===
+18/11 04:46:00 INFO    Trend superiore (ONE_DAY): GIU
+18/11 04:46:00 INFO    Prezzo 58506.14 | medie 58508.22/58698.30 trend GIU | notizie -0.09 su 114 (6 nuove, 6 da Claude) | 0.4s
+18/11 04:46:00 INFO       (-0.6 r1.0 claude) Bitcoin falls 12% below its 200-week average as analysts warn of a deeper slide - Crypto Briefing
+18/11 04:46:00 INFO       (+0.4 r1.0 claude) Bitcoin's RSI Drops To 24: VanEck's Matthew Sigel Spots A Bullish Signal In Its 12-Month Track Record - Yahoo 
+18/11 04:46:00 INFO       (+0.4 r1.0 claude) Bitcoin's RSI Drops To 24: VanEck's Matthew Sigel Spots A Bullish Signal In Its 12-Month Track Record - Tradin
+18/11 04:46:00 INFO    -> ATTENDI: trend orario non rialzista

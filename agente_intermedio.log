@@ -579,3 +579,10 @@
 18/11 03:45:52 INFO       (+0.2 r0.5 claude) CoinGecko secures Solana Foundation backing and eyes crypto trading
 18/11 03:45:52 INFO       (+0.2 r0.6 claude) acquired. The Solana Foundation took a majority stake in Coi - KuCoin
 18/11 03:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+18/11 04:45:55 INFO    === intermedio (SOL-EUR) ===
+18/11 04:45:56 INFO    Trend superiore (ONE_DAY): GIU
+18/11 04:45:56 INFO    Prezzo 68.0100 | medie 66.7105/65.7406 trend SU | notizie +0.18 su 79 (3 nuove, 3 da Claude) | 0.4s
+18/11 04:45:56 INFO       (+0.6 r0.9 claude) Solana Rallies 5% on Record ETF Inflows, Coinbase, CoinGecko Deals - Coinpedia
+18/11 04:45:56 INFO       (+0.2 r0.9 claude) Solana Foundation Says Network Proved Stable During TRUMP Memecoin Launch, $20 Billion Liquidation Event - blo
+18/11 04:45:56 INFO       (+0.3 r0.5 claude) CoinGecko secures Solana Foundation backing and eyes crypto trading - CryptoSlate
+18/11 04:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

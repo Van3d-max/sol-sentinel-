@@ -578,3 +578,10 @@
 18/11 03:45:54 INFO       (-0.2 r0.9 claude) Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps
 18/11 03:45:54 INFO       (-0.5 r1.0 claude) Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps
 18/11 03:45:54 INFO    -> ATTENDI: trend orario non rialzista
+18/11 04:45:56 INFO    === eth_intermedio (ETH-EUR) ===
+18/11 04:45:57 INFO    Trend superiore (ONE_DAY): GIU
+18/11 04:45:57 INFO    Prezzo 1636.18 | medie 1640.47/1647.96 trend GIU | notizie -0.19 su 75 (0 nuove, 0 da Claude) | 0.4s
+18/11 04:45:57 INFO       (-0.6 r1.0 claude) Ethereum Price Prediction: Retest of $1.5K Likely as ETFs Book 7-Week Streak of Outflows - FXEmpire
+18/11 04:45:57 INFO       (-0.4 r0.9 claude) Ethereum’s Glamsterdam Gas Changes May Break 15,000 Contracts - Cryptonews.net
+18/11 04:45:57 INFO       (-0.6 r0.9 claude) Ethereum Derivatives Market in Freefall as Open Interest Crashes to $9.12 Billion: What’s Going On? - CryptoPo
+18/11 04:45:57 INFO    -> ATTENDI: trend orario non rialzista
