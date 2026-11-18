@@ -2434,3 +2434,9 @@
 18/11 23:15:49 INFO       (-0.6 r1.0 claude) Bitcoin bearish signals deepen as demand contracts by 400K BTC - FXStreet
 18/11 23:15:49 INFO       (-0.8 r1.0 claude) Bitcoin Price Crashes Below $65K as MARA Holdings Sells BTC and Investors Prepare to Allocate Capital to Anthr
 18/11 23:15:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 23:31:07 INFO    === btc_veloce (BTC-EUR) ===
+18/11 23:31:07 INFO    Prezzo 57187.75 | medie 56860.51/57051.85 trend GIU | notizie -0.21 su 124 (4 nuove, 4 da Claude) | 0.3s
+18/11 23:31:07 INFO       (-0.6 r0.8 claude) Gold and Bitcoin Are Falling Together: Is a Strong Dollar Triggering a Global Liquidity Squeeze? - Cryptonews.
+18/11 23:31:07 INFO       (-0.6 r1.0 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg.com
+18/11 23:31:07 INFO       (-0.6 r1.0 claude) Bitcoin bearish signals deepen as demand contracts by 400K BTC - FXStreet
+18/11 23:31:07 INFO    -> ATTENDI: trend 15 minuti non rialzista
