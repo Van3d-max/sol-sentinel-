@@ -2050,3 +2050,8 @@
 18/11 09:16:03 INFO       (+0.2 r0.9 claude) Ripple (XRP) Price Flashes Incredibly Rare Signals: is a Rebound Coming? - CryptoRank
 18/11 09:16:03 INFO       (-0.5 r1.0 claude) XRP Price Prediction: XRP Long/Short Ratio Signals a Stronger Drop Ahead - FXEmpire
 18/11 09:16:03 INFO    -> ATTENDI: notizie sotto la soglia (-0.00)
+18/11 09:31:11 INFO    === xrp_veloce (XRP-EUR) ===
+18/11 09:31:11 INFO    Prezzo 0.9095 | medie 0.910011/0.901652 trend SU | notizie +0.10 su 2 (0 nuove, 0 da Claude) | 0.2s
+18/11 09:31:11 INFO       (+0.3 r1.0 claude) XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges
+18/11 09:31:11 INFO       (-0.1 r0.9 claude) Three wallets hoard $52.7M on XRP’s sidechain, and nobody is trading it
+18/11 09:31:11 INFO    -> ATTENDI: obiettivo +1.44% sotto il minimo +2.20% (commissioni)
