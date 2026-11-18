@@ -2092,3 +2092,9 @@
 18/11 09:01:20 INFO       (-0.6 r0.9 claude) Bitcoin Price Forecast: BTC stalls as ETF outflows mount ahead of Fed Minutes - FXStreet
 18/11 09:01:20 INFO       (-1.0 r1.0 claude) Bitcoin price stuck below $65,000 as ETF outflows and bearish signals persist - Crypto News
 18/11 09:01:20 INFO    -> ATTENDI: notizie sotto la soglia (-0.17)
+18/11 09:16:01 INFO    === btc_veloce (BTC-EUR) ===
+18/11 09:16:01 INFO    Prezzo 58988.90 | medie 58938.06/58820.24 trend SU | notizie -0.31 su 27 (0 nuove, 0 da Claude) | 0.3s
+18/11 09:16:01 INFO       (-0.6 r0.9 claude) Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase
+18/11 09:16:01 INFO       (-1.0 r1.0 claude) Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.
+18/11 09:16:01 INFO       (-0.3 r1.0 claude) Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up
+18/11 09:16:01 INFO    -> ATTENDI: notizie sotto la soglia (-0.31)
