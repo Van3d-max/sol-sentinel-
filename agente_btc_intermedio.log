@@ -635,3 +635,10 @@
 18/11 11:45:52 INFO       (-0.6 r1.0 claude) Bitcoin Sheds Most of Post-Nvidia Bounce in 35 Minutes - The Defiant
 18/11 11:45:52 INFO       (-0.7 r1.0 claude) Bitcoin remains under pressure amid the negative risk sentiment caused by hawkish Fed and US-Iran tensions - i
 18/11 11:45:52 INFO    -> ATTENDI: trend orario non rialzista
+18/11 12:45:54 INFO    === btc_intermedio (BTC-EUR) ===
+18/11 12:45:54 INFO    Trend superiore (ONE_DAY): GIU
+18/11 12:45:54 INFO    Prezzo 58408.41 | medie 58509.15/58700.52 trend GIU | notizie -0.20 su 115 (3 nuove, 3 da Claude) | 0.4s
+18/11 12:45:54 INFO       (-0.6 r0.9 claude) Analysts Recorded Selective Capital Rotation and Predicted Bitcoin Could Fall to $50,000 - Incrypted
+18/11 12:45:54 INFO       (-0.6 r1.0 claude) Bitcoin (BTC) price drops as basis trade dries up and Fed minutes loom - CoinDesk
+18/11 12:45:54 INFO       (-0.6 r0.9 claude) MARA Offloads $3 Billion in Bitcoin in 2026, Taps Reserves to Repay Debt - BigGo Finance
+18/11 12:45:54 INFO    -> ATTENDI: trend orario non rialzista

@@ -634,3 +634,10 @@
 18/11 11:45:49 INFO       (-0.5 r0.9 claude) Ethereum weekly outlook: Support comes into focus after a stretched decline as spot ETF outflows pressure sent
 18/11 11:45:49 INFO       (-0.6 r1.0 claude) Ethereum struggles to recover above $1,850 as ETF outflows and Treasury yields weigh - Traders Union
 18/11 11:45:49 INFO    -> ATTENDI: trend orario non rialzista
+18/11 12:45:51 INFO    === eth_intermedio (ETH-EUR) ===
+18/11 12:45:52 INFO    Trend superiore (ONE_DAY): GIU
+18/11 12:45:52 INFO    Prezzo 1635.01 | medie 1640.58/1647.96 trend GIU | notizie -0.19 su 68 (2 nuove, 2 da Claude) | 0.5s
+18/11 12:45:52 INFO       (-0.6 r0.9 claude) Ethereum Futures Open Interest Falls to $9.12 Billion, Lowest Since October 2024 as ETF Outflows Mount - finan
+18/11 12:45:52 INFO       (-0.4 r0.9 claude) Vitalik Buterin Just Gave Ethereum Investors a Wake-Up Call. Here’s Why It Could Be Time to Sell. - Yahoo Fina
+18/11 12:45:52 INFO       (-0.5 r0.9 claude) Ethereum weekly outlook: Support comes into focus after a stretched decline as spot ETF outflows pressure sent
+18/11 12:45:52 INFO    -> ATTENDI: trend orario non rialzista
