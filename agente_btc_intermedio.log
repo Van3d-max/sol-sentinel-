@@ -565,3 +565,10 @@
 18/11 01:45:57 INFO       (+0.5 r0.9 claude) Goldman Doubles Bitcoin ETF Holdings to $1.28B - Briefs Finance
 18/11 01:45:57 INFO       (-0.5 r0.9 claude) Bitcoin Down 50% From Peak but Bargain Hunters Are Nowhere to Be Found; Speculative Money Flows to AI - BigGo 
 18/11 01:45:57 INFO    -> ATTENDI: trend orario non rialzista
+18/11 02:45:53 INFO    === btc_intermedio (BTC-EUR) ===
+18/11 02:45:53 INFO    Trend superiore (ONE_DAY): GIU
+18/11 02:45:53 INFO    Prezzo 58443.33 | medie 58529.76/58708.73 trend GIU | notizie -0.13 su 114 (2 nuove, 2 da Claude) | 0.5s
+18/11 02:45:53 INFO       (-0.4 r1.0 claude) Bitcoin tests $62K support – Can BTC bulls hold without Spot demand? - AMBCrypto
+18/11 02:45:53 INFO       (-0.6 r0.9 claude) OTC WHALE SELLS ANOTHER $41.57M IN BITCOIN A Cumberland linked OTC whale sent 640 $Bitcoin (BTC.CC)$ (~$41.57M
+18/11 02:45:53 INFO       (+0.5 r0.9 claude) Goldman Doubles Bitcoin ETF Holdings to $1.28B - Briefs Finance
+18/11 02:45:53 INFO    -> ATTENDI: trend orario non rialzista
