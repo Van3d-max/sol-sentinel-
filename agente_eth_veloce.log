@@ -2388,3 +2388,9 @@
 18/11 21:01:22 INFO       (-0.3 r1.0 claude) Ethereum (ETH) Weekly Forecast: Dead-Cat Bounce to $2,000 Likely as RSI Flashes Oversold - FXEmpire
 18/11 21:01:22 INFO       (-0.3 r0.8 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana
 18/11 21:01:22 INFO    -> ATTENDI: trend 15 minuti non rialzista
+18/11 21:15:52 INFO    === eth_veloce (ETH-EUR) ===
+18/11 21:15:52 INFO    Prezzo 1597.66 | medie 1599.34/1602.69 trend GIU | notizie -0.25 su 70 (2 nuove, 2 da Claude) | 0.2s
+18/11 21:15:52 INFO       (-0.6 r1.0 claude) Ethereum Price Forecast: ETH fails to recover $1,800 after futures and spot distribution - FXStreet
+18/11 21:15:52 INFO       (-0.6 r0.9 claude) Ethereum slips while Federal Reserve signals and institutional ETF withdrawals dampen sentiment - Traders Unio
+18/11 21:15:52 INFO       (-0.3 r1.0 claude) Ethereum (ETH) Weekly Forecast: Dead-Cat Bounce to $2,000 Likely as RSI Flashes Oversold - FXEmpire
+18/11 21:15:52 INFO    -> ATTENDI: trend 15 minuti non rialzista
