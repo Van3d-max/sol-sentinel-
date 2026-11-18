@@ -2032,3 +2032,9 @@
 18/11 06:31:02 INFO       (-1.0 r1.0 claude) Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.
 18/11 06:31:02 INFO       (-0.6 r0.9 claude) Bitcoin falls 12% below its 200-week average as analysts warn of a deeper slide - TradingView
 18/11 06:31:02 INFO    -> ATTENDI: notizia shock: Bitcoin price stuck below $65,000 as ETF outflows and bearish signals persist - 
+18/11 06:45:46 INFO    === btc_veloce (BTC-EUR) ===
+18/11 06:45:47 INFO    Prezzo 58822.72 | medie 58752.16/58647.79 trend SU | notizie -0.17 su 113 (4 nuove, 4 da Claude) | 0.2s
+18/11 06:45:47 INFO       (-1.0 r1.0 claude) Bitcoin price stuck below $65,000 as ETF outflows and bearish signals persist - Crypto News
+18/11 06:45:47 INFO       (-1.0 r1.0 claude) Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.
+18/11 06:45:47 INFO       (-0.6 r0.9 claude) Bitcoin falls 12% below its 200-week average as analysts warn of a deeper slide - TradingView
+18/11 06:45:47 INFO    -> ATTENDI: notizia shock: Bitcoin price stuck below $65,000 as ETF outflows and bearish signals persist - 
