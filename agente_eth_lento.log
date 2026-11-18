@@ -568,3 +568,9 @@
 18/11 15:45:53 INFO       (-0.6 r0.8 claude) CoinShares sells all treasury ETH, halves SOL holdings for buybacks
 18/11 15:45:53 INFO       (-0.5 r0.8 claude) TD Cowen Cuts Ethereum Price Target but Still Sees SharpLink at $13 - BigGo Finance
 18/11 15:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista
+18/11 16:45:53 INFO    === eth_lento (ETH-EUR) ===
+18/11 16:45:53 INFO    Prezzo 1586.61 | medie 1765.61/1973.14 trend GIU | notizie -0.21 su 103 (1 nuove, 1 da Claude) | 0.2s
+18/11 16:45:53 INFO       (-0.6 r0.9 claude) Europe's Largest Crypto Asset Manager Sells Its Entire Ethereum Treasury - Yahoo Finance
+18/11 16:45:53 INFO       (-0.6 r0.9 claude) CoinShares sells entire Ethereum holdings to fund share buybacks - Traders Union
+18/11 16:45:53 INFO       (-0.6 r0.8 claude) CoinShares sells all treasury ETH, halves SOL holdings for buybacks
+18/11 16:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista
