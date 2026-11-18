@@ -585,3 +585,10 @@
 18/11 04:45:57 INFO       (-0.4 r0.9 claude) Ethereum’s Glamsterdam Gas Changes May Break 15,000 Contracts - Cryptonews.net
 18/11 04:45:57 INFO       (-0.6 r0.9 claude) Ethereum Derivatives Market in Freefall as Open Interest Crashes to $9.12 Billion: What’s Going On? - CryptoPo
 18/11 04:45:57 INFO    -> ATTENDI: trend orario non rialzista
+18/11 05:46:05 INFO    === eth_intermedio (ETH-EUR) ===
+18/11 05:46:05 INFO    Trend superiore (ONE_DAY): GIU
+18/11 05:46:05 INFO    Prezzo 1648.50 | medie 1639.76/1647.64 trend GIU | notizie +0.07 su 9 (0 nuove, 0 da Claude) | 0.2s
+18/11 05:46:05 INFO       (+0.2 r0.8 claude) U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud
+18/11 05:46:05 INFO       (-0.4 r0.8 claude) Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence
+18/11 05:46:05 INFO       (-0.2 r0.9 claude) Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps
+18/11 05:46:05 INFO    -> ATTENDI: trend orario non rialzista
