@@ -761,3 +761,10 @@
 19/11 05:46:00 INFO       (-0.4 r0.5 claude) Can Ripple, Cardano, and Solana extend downfall after Feds minutes? - FXStreet
 19/11 05:46:00 INFO       (-0.5 r1.0 claude) Solana Price Today: SOL Sits 17.7% Below Its 200-Day Average as $70 Becomes the Line - Cryptonews.net
 19/11 05:46:00 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+19/11 06:45:58 INFO    === intermedio (SOL-EUR) ===
+19/11 06:45:58 INFO    Trend superiore (ONE_DAY): GIU
+19/11 06:45:58 INFO    Prezzo 68.2700 | medie 67.1750/67.0356 trend SU | notizie -0.01 su 46 (0 nuove, 0 da Claude) | 0.5s
+19/11 06:45:58 INFO       (-0.4 r0.8 claude) CoinShares Sells Entire Ethereum Treasury, Half Its Solana, To Fund Up To $40M Buyback: 10 outlets compared - 
+19/11 06:45:58 INFO       (+0.6 r0.9 claude) TOP ZFSMEDIA NEWS: SOLANA ETF INFLOWS ARE BACK. After 24 - KuCoin
+19/11 06:45:58 INFO       (+0.1 r0.9 claude) Bitwise Predicts Solana Price Could Reach $1,100 by 2031 - KuCoin
+19/11 06:45:58 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

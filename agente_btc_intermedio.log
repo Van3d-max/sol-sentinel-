@@ -761,3 +761,10 @@
 19/11 05:46:05 INFO       (-0.6 r1.0 claude) Bitcoin Falls to $62,500 as Fed Minutes Flag 'Close Call' on Hold - Bitbo
 19/11 05:46:05 INFO       (-0.6 r0.9 claude) Top Analyst Declares Bitcoin Has Entered Bearish Phase Again - Coinpedia
 19/11 05:46:05 INFO    -> ATTENDI: trend orario non rialzista
+19/11 06:46:02 INFO    === btc_intermedio (BTC-EUR) ===
+19/11 06:46:02 INFO    Trend superiore (ONE_DAY): GIU
+19/11 06:46:02 INFO    Prezzo 57888.41 | medie 57579.27/58199.99 trend GIU | notizie -0.15 su 125 (2 nuove, 2 da Claude) | 0.3s
+19/11 06:46:02 INFO       (-0.7 r1.0 claude) On the Chain: Bitcoin slides towards US$63,000 as ETF outflows resume - Proactive financial news
+19/11 06:46:02 INFO       (-0.4 r0.9 claude) Premature to Conclude Bitcoin's Correction Is Complete -- Market Talk - Moomoo
+19/11 06:46:02 INFO       (-0.6 r1.0 claude) Bitcoin Falls to $62,500 as Fed Minutes Flag 'Close Call' on Hold - Bitbo
+19/11 06:46:02 INFO    -> ATTENDI: trend orario non rialzista

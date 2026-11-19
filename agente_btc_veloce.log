@@ -2608,3 +2608,9 @@
 19/11 06:31:10 INFO       (-0.7 r0.9 claude) On the Chain: Bitcoin slides towards US$63,000 as ETF outflows resume - Yahoo Finance Australia
 19/11 06:31:10 INFO       (-0.4 r0.9 claude) Premature to Conclude Bitcoin's Correction Is Complete -- Market Talk - Moomoo
 19/11 06:31:10 INFO    -> ATTENDI: notizia shock: On the Chain: Bitcoin slides towards US$63,000 as ETF outflows resume - Yahoo Fi
+19/11 06:46:01 INFO    === btc_veloce (BTC-EUR) ===
+19/11 06:46:02 INFO    Prezzo 57888.41 | medie 57825.71/57538.24 trend SU | notizie -0.15 su 125 (2 nuove, 2 da Claude) | 0.3s
+19/11 06:46:02 INFO       (-0.7 r1.0 claude) On the Chain: Bitcoin slides towards US$63,000 as ETF outflows resume - Proactive financial news
+19/11 06:46:02 INFO       (-0.4 r0.9 claude) Premature to Conclude Bitcoin's Correction Is Complete -- Market Talk - Moomoo
+19/11 06:46:02 INFO       (-0.6 r1.0 claude) Bitcoin Falls to $62,500 as Fed Minutes Flag 'Close Call' on Hold - Bitbo
+19/11 06:46:02 INFO    -> ATTENDI: notizia shock: On the Chain: Bitcoin slides towards US$63,000 as ETF outflows resume - Proactiv
