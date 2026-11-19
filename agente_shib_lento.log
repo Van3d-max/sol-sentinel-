@@ -604,3 +604,9 @@
 19/11 00:45:56 INFO    === shib_lento (SHIB-EUR) ===
 19/11 00:45:56 INFO    Prezzo 3.48e-06 | medie 3.728e-06/4.08233e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.1s
 19/11 00:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista
+19/11 01:45:50 INFO    === shib_lento (SHIB-EUR) ===
+19/11 01:45:50 INFO    Prezzo 3.46e-06 | medie 3.728e-06/4.08233e-06 trend GIU | notizie -0.14 su 23 (0 nuove, 0 da Claude) | 0.1s
+19/11 01:45:50 INFO       (-1.0 r1.0 claude) SHIB Falls to $0.0000038 as Its First Death Cross in 14 Months Lands - CryptoDaily
+19/11 01:45:50 INFO       (-0.1 r1.0 claude) Top 10 Shiba Inu (SHIB) Holders Move 6 Billion in 24 Hours - Cryptonews.net
+19/11 01:45:50 INFO       (-0.1 r0.9 claude) Shiba Inu’s (SHIB) 5-Year Outlook: Is It Worth Buying After This Crash? - 24/7 Wall St.
+19/11 01:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista
