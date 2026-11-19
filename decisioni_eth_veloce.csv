@@ -1697,3 +1697,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-19T16:01:16+01:00;1637.82;1641.62;1640.74;su;-0.136;63;2;2;0;no;attendi;notizie sotto la soglia (-0.14);Ethereum Falls 3.8% to $1,755 as Binance-Hack Wallet Dumps ETH for Bitcoin - BigGo Finance;0.381
 2026-11-19T16:15:48+01:00;1635.55;1641.07;1640.45;su;-0.130;61;0;0;0;no;attendi;notizie sotto la soglia (-0.13);Ethereum Falls 3.8% to $1,755 as Binance-Hack Wallet Dumps ETH for Bitcoin - BigGo Finance;0.425
 2026-11-19T16:31:13+01:00;1623.84;1639.63;1639.88;giu;-0.130;61;0;0;0;no;attendi;trend 15 minuti non rialzista;Ethereum Falls 3.8% to $1,755 as Binance-Hack Wallet Dumps ETH for Bitcoin - BigGo Finance;0.447
+2026-11-19T16:45:51+01:00;1615.75;1636.87;1638.69;giu;-0.131;60;1;1;0;no;attendi;trend 15 minuti non rialzista;Ethereum Falls 3.8% to $1,755 as Binance-Hack Wallet Dumps ETH for Bitcoin - BigGo Finance;0.503

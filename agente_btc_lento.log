@@ -706,3 +706,9 @@
 19/11 14:45:54 INFO       (-0.6 r0.9 claude) Bitcoin ETF Outflows Accelerate Ahead Of Anthropic IPO - Yahoo Finance
 19/11 14:45:54 INFO       (-0.7 r1.0 claude) Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November - Decrypt
 19/11 14:45:54 INFO    -> ATTENDI: trend giornaliero non rialzista
+19/11 15:45:54 INFO    === btc_lento (BTC-EUR) ===
+19/11 15:45:54 INFO    Prezzo 57213.74 | medie 61933.12/67729.31 trend GIU | notizie -0.11 su 138 (3 nuove, 3 da Claude) | 0.1s
+19/11 15:45:54 INFO       (-1.0 r1.0 claude) Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November
+19/11 15:45:54 INFO       (-0.7 r1.0 claude) Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November - Decrypt
+19/11 15:45:54 INFO       (-0.6 r0.9 claude) Bitcoin Hovers Near $63,750 as $306 Million ETF Exit Adds to Fed Minutes Drag - BigGo Finance
+19/11 15:45:54 INFO    -> ATTENDI: trend giornaliero non rialzista
