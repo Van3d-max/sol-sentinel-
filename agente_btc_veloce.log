@@ -2536,3 +2536,9 @@
 19/11 03:31:06 INFO       (-0.6 r0.9 claude) Hawkish pressure from the Federal Reserve pushes Bitcoin below the $63,000 threshold - Moomoo
 19/11 03:31:06 INFO       (-0.6 r1.0 claude) Bitcoin stalls below $65k as bears maintain control - Cryptonews.net
 19/11 03:31:06 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 03:45:49 INFO    === btc_veloce (BTC-EUR) ===
+19/11 03:45:49 INFO    Prezzo 57471.06 | medie 57191.86/57207.04 trend GIU | notizie -0.18 su 124 (3 nuove, 3 da Claude) | 0.2s
+19/11 03:45:49 INFO       (-0.6 r0.9 claude) Top Analyst Declares Bitcoin Has Entered Bearish Phase Again - Coinpedia
+19/11 03:45:49 INFO       (-0.4 r0.9 claude) Bitcoin's Failed Breakout Exposes a Liquidity Vacuum - Blockhead
+19/11 03:45:49 INFO       (-0.6 r0.9 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg
+19/11 03:45:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
