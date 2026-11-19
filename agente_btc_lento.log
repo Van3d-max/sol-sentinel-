@@ -694,3 +694,9 @@
 19/11 12:45:51 INFO       (-0.7 r1.0 claude) Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November - Yahoo Finance
 19/11 12:45:51 INFO       (-0.7 r1.0 claude) Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November - Decrypt
 19/11 12:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista
+19/11 13:45:56 INFO    === btc_lento (BTC-EUR) ===
+19/11 13:45:56 INFO    Prezzo 57937.67 | medie 61933.12/67729.31 trend GIU | notizie -0.18 su 138 (9 nuove, 9 da Claude) | 0.1s
+19/11 13:45:56 INFO       (-1.0 r1.0 claude) Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November
+19/11 13:45:56 INFO       (-0.7 r0.9 claude) "Bitcoin Has Returned to a Bearish Phase": Experts Report a Mass Leverage Flush-Out - Incrypted
+19/11 13:45:56 INFO       (-0.7 r1.0 claude) Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November - Decrypt
+19/11 13:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista

@@ -810,3 +810,10 @@
 19/11 12:45:48 INFO       (+0.6 r0.9 claude) DTCC Explores Solana for the Next Stage of Security Tokenization - KuCoin
 19/11 12:45:48 INFO       (+0.2 r1.0 claude) Solana Unveils 2027 Roadmap, Targets 2x Increase in Network Compute Capacity - bloomingbit
 19/11 12:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+19/11 13:45:50 INFO    === intermedio (SOL-EUR) ===
+19/11 13:45:50 INFO    Trend superiore (ONE_DAY): GIU
+19/11 13:45:50 INFO    Prezzo 68.1000 | medie 67.3695/67.3156 trend SU | notizie -0.07 su 51 (2 nuove, 2 da Claude) | 0.3s
+19/11 13:45:50 INFO       (-0.5 r0.6 claude) Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further - CCN.com
+19/11 13:45:50 INFO       (-0.5 r0.6 claude) Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further - Yahoo Finance
+19/11 13:45:50 INFO       (-0.4 r0.6 claude) CoinShares Sells All Its Ethereum and Half Its Solana to Fund $40M Stock Buyback - Coinpaper
+19/11 13:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

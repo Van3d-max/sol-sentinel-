@@ -798,3 +798,10 @@
 19/11 12:45:52 INFO       (-0.4 r0.8 claude) Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand
 19/11 12:45:52 INFO       (+0.3 r1.0 claude) Bitwise offloads 23.7M XRP while silently stacking 126M more
 19/11 12:45:52 INFO    -> ATTENDI: trend orario non rialzista
+19/11 13:45:57 INFO    === xrp_intermedio (XRP-EUR) ===
+19/11 13:45:58 INFO    Trend superiore (ONE_DAY): GIU
+19/11 13:45:58 INFO    Prezzo 0.8992 | medie 0.8875/0.888462 trend GIU | notizie +0.02 su 41 (0 nuove, 0 da Claude) | 0.4s
+19/11 13:45:58 INFO       (+0.6 r1.0 claude) XRP Price Forecast: Ripple CEO Hints at Recovery as 190M Coins Exit Exchanges - CoinGape
+19/11 13:45:58 INFO       (-0.5 r0.9 claude) XRP Recovery Stalls As Binance Hacker Swaps Stolen Tokens - MarketForces Africa
+19/11 13:45:58 INFO       (-0.3 r0.9 claude) XRP News Today: Why Evernorth Recorded Ripple's 126.8M XRP at Zero - Coinpaper
+19/11 13:45:58 INFO    -> ATTENDI: trend orario non rialzista

@@ -2784,3 +2784,9 @@
 19/11 13:31:07 INFO       (-0.1 r0.7 claude) Ethereum block builders received the most in a $3.4 million vault hack, data shows
 19/11 13:31:07 INFO       (-0.3 r0.8 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana
 19/11 13:31:07 INFO    -> ATTENDI: notizie sotto la soglia (-0.09)
+19/11 13:45:52 INFO    === eth_veloce (ETH-EUR) ===
+19/11 13:45:52 INFO    Prezzo 1641.69 | medie 1640.38/1640.04 trend SU | notizie -0.21 su 60 (2 nuove, 2 da Claude) | 0.2s
+19/11 13:45:52 INFO       (-0.7 r1.0 claude) Ethereum Falls 3.8% to $1,755 as Binance-Hack Wallet Dumps ETH for Bitcoin - BigGo Finance
+19/11 13:45:52 INFO       (-0.4 r1.0 claude) Ethereum Price Prediction: Could a $64M Aave Loan Add Pressure Below $1,800? - Coinpaper
+19/11 13:45:52 INFO       (-0.6 r0.5 claude) Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further - CCN.com
+19/11 13:45:52 INFO    -> ATTENDI: notizia shock: Ethereum Falls 3.8% to $1,755 as Binance-Hack Wallet Dumps ETH for Bitcoin - Big
