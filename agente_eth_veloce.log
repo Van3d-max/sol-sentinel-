@@ -2922,3 +2922,9 @@
 19/11 19:15:49 INFO       (-0.6 r0.9 claude) Ethereum weakens as Federal Reserve rate expectations raise non-yielding asset risks - Traders Union
 19/11 19:15:49 INFO       (-0.4 r0.9 claude) Bitmine Just Posted a Staggering $6.3 Billion Loss on Its Ethereum Position. Here's What ETH Investors Need to
 19/11 19:15:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 19:31:05 INFO    === eth_veloce (ETH-EUR) ===
+19/11 19:31:05 INFO    Prezzo 1620.63 | medie 1618.02/1621.52 trend GIU | notizie -0.08 su 5 (0 nuove, 0 da Claude) | 0.1s
+19/11 19:31:05 INFO       (-0.2 r0.9 claude) Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns
+19/11 19:31:05 INFO       (+0.3 r0.3 claude) Arthur Hayes predicts 97% crypto rally weeks after he exited trades
+19/11 19:31:05 INFO       (-0.2 r0.8 claude) Ethereum’s new DeFi security tool raises questions over censorship
+19/11 19:31:05 INFO    -> ATTENDI: trend 15 minuti non rialzista
