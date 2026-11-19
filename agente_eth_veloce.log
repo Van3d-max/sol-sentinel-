@@ -2772,3 +2772,9 @@
 19/11 13:01:20 INFO       (-0.6 r0.5 claude) Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further - CCN.com
 19/11 13:01:20 INFO       (+0.4 r0.8 claude) NRW.BANK Links Ethereum Bond to Central-Bank Settlement - The Defiant
 19/11 13:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 13:15:50 INFO    === eth_veloce (ETH-EUR) ===
+19/11 13:15:50 INFO    Prezzo 1642.09 | medie 1640.35/1640.14 trend SU | notizie -0.22 su 60 (2 nuove, 2 da Claude) | 0.2s
+19/11 13:15:50 INFO       (-0.7 r1.0 claude) Ethereum Falls 3.8% to $1,755 as Binance-Hack Wallet Dumps ETH for Bitcoin - BigGo Finance
+19/11 13:15:50 INFO       (-0.4 r1.0 claude) Ethereum Price Prediction: Could a $64M Aave Loan Add Pressure Below $1,800? - Coinpaper
+19/11 13:15:50 INFO       (-0.6 r0.5 claude) Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further - CCN.com
+19/11 13:15:50 INFO    -> ATTENDI: notizia shock: Ethereum Falls 3.8% to $1,755 as Binance-Hack Wallet Dumps ETH for Bitcoin - Big
