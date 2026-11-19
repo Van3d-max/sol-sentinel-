@@ -2812,3 +2812,9 @@
 19/11 15:01:18 INFO       (-0.5 r0.7 claude) Anthropic’s crypto futures traded 25% above its $81 billion IPO price as Bitcoin slumped 22%
 19/11 15:01:18 INFO       (+0.4 r0.9 claude) Russia’s Central Bank to Let Retail Investors Trade Bitcoin on Margin
 19/11 15:01:18 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 15:15:49 INFO    === btc_veloce (BTC-EUR) ===
+19/11 15:15:49 INFO    Prezzo 57739.52 | medie 57970.35/57993.25 trend GIU | notizie -0.07 su 122 (5 nuove, 5 da Claude) | 0.3s
+19/11 15:15:49 INFO       (-0.6 r0.9 claude) Bitcoin ETF Outflows Accelerate Ahead Of Anthropic IPO - Yahoo Finance
+19/11 15:15:49 INFO       (-0.5 r0.9 claude) Bitcoin ETFs: Navigating the Crypto Sell-Off - ETF Database
+19/11 15:15:49 INFO       (+0.4 r0.9 claude) Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech - CoinDesk
+19/11 15:15:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
