@@ -2940,3 +2940,7 @@
 19/11 23:15:52 INFO       (+0.3 r0.7 claude) Ripple CEO sees crypto rebound, draws Anthropic IPO-SpaceX parallel - Yahoo Finance
 19/11 23:15:52 INFO       (-0.4 r1.0 claude) XRP Price Prediction: Drop to $0.93 Likely Despite Recent Bounce - FXEmpire
 19/11 23:15:52 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 23:31:43 INFO    === xrp_veloce (XRP-EUR) ===
+19/11 23:31:43 INFO    Prezzo 0.8746 | medie 0.874322/0.878233 trend GIU | notizie -0.03 su 1 (0 nuove, 0 da Claude) | 0.1s
+19/11 23:31:43 INFO       (-0.4 r0.8 claude) Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand
+19/11 23:31:43 INFO    -> ATTENDI: trend 15 minuti non rialzista

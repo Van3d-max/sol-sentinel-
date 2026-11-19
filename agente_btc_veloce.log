@@ -3010,3 +3010,9 @@
 19/11 23:15:51 INFO       (-0.7 r1.0 claude) Crypto Market Today, Nov. 19: Bitcoin Approaches $60,000 as ETF Outflows Surpass $2.5 Billion in 2026 - The Mo
 19/11 23:15:51 INFO       (-0.6 r0.9 claude) Bitcoin slides below $62,000, AI tokens outperform following Anthropic IPO - FXStreet
 19/11 23:15:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 23:31:35 INFO    === btc_veloce (BTC-EUR) ===
+19/11 23:31:35 INFO    Prezzo 56331.61 | medie 56416.38/56689.82 trend GIU | notizie -0.07 su 30 (0 nuove, 0 da Claude) | 0.2s
+19/11 23:31:35 INFO       (-0.6 r1.0 claude) Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month
+19/11 23:31:35 INFO       (+0.5 r1.0 claude) David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k
+19/11 23:31:35 INFO       (-0.6 r0.7 claude) Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides
+19/11 23:31:35 INFO    -> ATTENDI: trend 15 minuti non rialzista
