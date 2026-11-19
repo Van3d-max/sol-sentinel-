@@ -743,3 +743,10 @@
 19/11 04:45:50 INFO       (-0.6 r1.0 claude) XRP Price Prediction: Selling Spree May Intensify After Strong Rejection of $1 Resistance - FXEmpire
 19/11 04:45:50 INFO       (-0.6 r1.0 claude) XRP Weekly Forecast: Trump-Era Gains Under Threat Amid Drop Below $1 - FXEmpire
 19/11 04:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+19/11 05:46:06 INFO    === xrp_intermedio (XRP-EUR) ===
+19/11 05:46:06 INFO    Trend superiore (ONE_DAY): GIU
+19/11 05:46:06 INFO    Prezzo 0.8876 | medie 0.888975/0.885058 trend SU | notizie -0.16 su 41 (0 nuove, 0 da Claude) | 0.3s
+19/11 05:46:06 INFO       (-0.6 r0.7 claude) Ripple and Stellar outlook: Weakening market signals put XRP and XLM at risk - FXStreet
+19/11 05:46:06 INFO       (-0.6 r1.0 claude) XRP Price Prediction: Selling Spree May Intensify After Strong Rejection of $1 Resistance - FXEmpire
+19/11 05:46:06 INFO       (-0.6 r1.0 claude) XRP Weekly Forecast: Trump-Era Gains Under Threat Amid Drop Below $1 - FXEmpire
+19/11 05:46:06 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

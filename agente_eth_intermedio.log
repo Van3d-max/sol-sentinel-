@@ -753,3 +753,10 @@
 19/11 04:45:45 INFO       (-0.3 r1.0 claude) Ethereum (ETH) Weekly Forecast: Dead-Cat Bounce to $2,000 Likely as RSI Flashes Oversold - FXEmpire
 19/11 04:45:45 INFO       (-0.6 r1.0 claude) Ethereum Price Forecast: ETH fails to recover $1,800 after futures and spot distribution - FXStreet
 19/11 04:45:45 INFO    -> ATTENDI: trend orario non rialzista
+19/11 05:46:03 INFO    === eth_intermedio (ETH-EUR) ===
+19/11 05:46:03 INFO    Trend superiore (ONE_DAY): GIU
+19/11 05:46:03 INFO    Prezzo 1639.84 | medie 1620.00/1635.24 trend GIU | notizie -0.18 su 61 (1 nuove, 1 da Claude) | 0.3s
+19/11 05:46:03 INFO       (-0.6 r0.8 claude) Europe's Largest Crypto Asset Manager Sells Its Entire Ethereum Treasury - BeInCrypto
+19/11 05:46:03 INFO       (-0.3 r1.0 claude) Ethereum (ETH) Weekly Forecast: Dead-Cat Bounce to $2,000 Likely as RSI Flashes Oversold - FXEmpire
+19/11 05:46:03 INFO       (-0.6 r1.0 claude) Ethereum Price Forecast: ETH fails to recover $1,800 after futures and spot distribution - FXStreet
+19/11 05:46:03 INFO    -> ATTENDI: trend orario non rialzista

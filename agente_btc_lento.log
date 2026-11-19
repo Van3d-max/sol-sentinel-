@@ -646,3 +646,9 @@
 19/11 04:45:48 INFO       (-0.6 r0.9 claude) Top Analyst Declares Bitcoin Has Entered Bearish Phase Again - Coinpedia
 19/11 04:45:48 INFO       (-0.6 r0.9 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg
 19/11 04:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista
+19/11 05:46:05 INFO    === btc_lento (BTC-EUR) ===
+19/11 05:46:05 INFO    Prezzo 57777.30 | medie 61933.12/67729.31 trend GIU | notizie -0.21 su 131 (1 nuove, 1 da Claude) | 0.2s
+19/11 05:46:05 INFO       (-0.7 r0.9 claude) On the Chain: Bitcoin slides towards US$63,000 as ETF outflows resume - Yahoo Finance Australia
+19/11 05:46:05 INFO       (-0.6 r1.0 claude) Bitcoin Falls to $62,500 as Fed Minutes Flag 'Close Call' on Hold - Bitbo
+19/11 05:46:05 INFO       (-0.6 r0.9 claude) Top Analyst Declares Bitcoin Has Entered Bearish Phase Again - Coinpedia
+19/11 05:46:05 INFO    -> ATTENDI: trend giornaliero non rialzista
