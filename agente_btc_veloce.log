@@ -2956,3 +2956,9 @@
 19/11 21:01:21 INFO       (+0.6 r1.0 claude) Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record - Bitcoin Magazine
 19/11 21:01:21 INFO       (-0.5 r1.0 claude) Bitcoin’s Last Line Of Defense Is $58K - Bitcoin Magazine
 19/11 21:01:21 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 21:16:05 INFO    === btc_veloce (BTC-EUR) ===
+19/11 21:16:05 INFO    Prezzo 56320.78 | medie 56730.00/57044.59 trend GIU | notizie -0.12 su 123 (8 nuove, 8 da Claude) | 0.1s
+19/11 21:16:05 INFO       (-0.7 r1.0 claude) Bitcoin Price Slumps Under $62,000, Crashing 25% In A Month - Bitcoin Magazine
+19/11 21:16:05 INFO       (-0.7 r1.0 claude) Bitcoin price could plunge below $60,000 as ETF selling intensifies - Cryptonews.net
+19/11 21:16:05 INFO       (-0.6 r1.0 claude) Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month
+19/11 21:16:05 INFO    -> ATTENDI: trend 15 minuti non rialzista
