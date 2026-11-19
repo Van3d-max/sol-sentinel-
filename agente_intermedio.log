@@ -880,3 +880,10 @@
 19/11 22:45:56 INFO       (+0.4 r0.9 claude) VSOL: VanEck Solana ETF Shares of Beneficial Interest filed SEC... - Quantisnow
 19/11 22:45:56 INFO       (+0.4 r0.8 claude) USDC Treasury mints 250M USDC on Solana, boosting network liquidity - Crypto Briefing
 19/11 22:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+19/11 23:45:47 INFO    === intermedio (SOL-EUR) ===
+19/11 23:45:47 INFO    Trend superiore (ONE_DAY): GIU
+19/11 23:45:47 INFO    Prezzo 66.8600 | medie 67.5230/67.4724 trend SU | notizie +0.11 su 59 (2 nuove, 2 da Claude) | 0.4s
+19/11 23:45:47 INFO       (-0.4 r0.8 claude) VanEck to end Gemini custody and clearing agreements for Solana ETF - Crypto Briefing
+19/11 23:45:47 INFO       (+0.4 r0.9 claude) VSOL: VanEck Solana ETF Shares of Beneficial Interest filed SEC... - Quantisnow
+19/11 23:45:47 INFO       (+0.2 r0.9 claude) Solana Announces 2027 Roadmap With On-Chain AI and Faster Blocks - Yahoo Finance
+19/11 23:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

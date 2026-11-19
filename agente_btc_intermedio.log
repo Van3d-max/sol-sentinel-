@@ -880,3 +880,10 @@
 19/11 22:46:01 INFO       (-0.6 r0.9 claude) Bitcoin slides below $62,000, AI tokens outperform following Anthropic IPO - FXStreet
 19/11 22:46:01 INFO       (-0.7 r1.0 claude) Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month - Bitcoin Magazine
 19/11 22:46:01 INFO    -> ATTENDI: trend orario non rialzista
+19/11 23:45:52 INFO    === btc_intermedio (BTC-EUR) ===
+19/11 23:45:52 INFO    Trend superiore (ONE_DAY): GIU
+19/11 23:45:52 INFO    Prezzo 56489.43 | medie 57518.60/57843.69 trend GIU | notizie -0.16 su 122 (4 nuove, 4 da Claude) | 0.6s
+19/11 23:45:52 INFO       (-0.9 r1.0 claude) Bitcoin slides toward $60,000 as spot ETF outflows near $3 billion - TradingView
+19/11 23:45:52 INFO       (-0.7 r0.8 claude) Fed Minutes Signal Further Rate Increases, Pressuring Bitcoin Treasury Firms’ Funding: 8 outlets compared - Ne
+19/11 23:45:52 INFO       (-0.7 r1.0 claude) Crypto Market Today, Nov. 19: Bitcoin Approaches $60,000 as ETF Outflows Surpass $2.5 Billion in 2026 - The Mo
+19/11 23:45:52 INFO    -> ATTENDI: trend orario non rialzista

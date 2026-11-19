@@ -3016,3 +3016,9 @@
 19/11 23:31:35 INFO       (+0.5 r1.0 claude) David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k
 19/11 23:31:35 INFO       (-0.6 r0.7 claude) Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides
 19/11 23:31:35 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 23:45:51 INFO    === btc_veloce (BTC-EUR) ===
+19/11 23:45:52 INFO    Prezzo 56489.43 | medie 56466.54/56640.35 trend GIU | notizie -0.16 su 122 (4 nuove, 4 da Claude) | 0.5s
+19/11 23:45:52 INFO       (-0.9 r1.0 claude) Bitcoin slides toward $60,000 as spot ETF outflows near $3 billion - TradingView
+19/11 23:45:52 INFO       (-0.7 r0.8 claude) Fed Minutes Signal Further Rate Increases, Pressuring Bitcoin Treasury Firms’ Funding: 8 outlets compared - Ne
+19/11 23:45:52 INFO       (-0.7 r1.0 claude) Crypto Market Today, Nov. 19: Bitcoin Approaches $60,000 as ETF Outflows Surpass $2.5 Billion in 2026 - The Mo
+19/11 23:45:52 INFO    -> ATTENDI: trend 15 minuti non rialzista

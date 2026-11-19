@@ -741,3 +741,9 @@
 19/11 22:46:02 INFO    Prezzo 0.8769 | medie 0.9089/1.0577 trend GIU | notizie -0.14 su 1 (0 nuove, 0 da Claude) | 0.1s
 19/11 22:46:02 INFO       (-0.4 r0.8 claude) Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand
 19/11 22:46:02 INFO    -> ATTENDI: trend giornaliero non rialzista
+19/11 23:45:55 INFO    === xrp_lento (XRP-EUR) ===
+19/11 23:45:55 INFO    Prezzo 0.8766 | medie 0.9089/1.0577 trend GIU | notizie +0.03 su 69 (1 nuove, 1 da Claude) | 0.2s
+19/11 23:45:55 INFO       (+0.5 r1.0 claude) XRP Price Forecast: Ripple CEO Hints at Recovery as 190M Coins Exit Exchanges - Cryptonews.net
+19/11 23:45:55 INFO       (-0.4 r1.0 claude) XRP Price Prediction: Drop to $0.93 Likely Despite Recent Bounce - FXEmpire
+19/11 23:45:55 INFO       (+0.3 r1.0 claude) XRP Outperforms Solana and Dogecoin in Japan - Cryptonews.net
+19/11 23:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista
