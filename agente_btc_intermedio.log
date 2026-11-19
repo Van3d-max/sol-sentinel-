@@ -817,3 +817,10 @@
 19/11 13:45:56 INFO       (-1.0 r1.0 claude) Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November
 19/11 13:45:56 INFO       (-0.6 r0.9 claude) Bitcoin Hovers Near $63,750 as $306 Million ETF Exit Adds to Fed Minutes Drag - BigGo Finance
 19/11 13:45:56 INFO    -> ATTENDI: trend orario non rialzista
+19/11 14:45:53 INFO    === btc_intermedio (BTC-EUR) ===
+19/11 14:45:54 INFO    Trend superiore (ONE_DAY): GIU
+19/11 14:45:54 INFO    Prezzo 58108.68 | medie 57600.99/58095.05 trend GIU | notizie -0.08 su 122 (7 nuove, 7 da Claude) | 0.4s
+19/11 14:45:54 INFO       (-0.6 r0.9 claude) Bitcoin ETF Outflows Accelerate Ahead Of Anthropic IPO - Yahoo Finance
+19/11 14:45:54 INFO       (-0.5 r0.9 claude) Bitcoin ETFs: Navigating the Crypto Sell-Off - ETF Database
+19/11 14:45:54 INFO       (-0.4 r1.0 claude) Bitcoin Price Prediction: BTC Could Dip to $55K Before Its Next Explosive Rebound - FXEmpire
+19/11 14:45:54 INFO    -> ATTENDI: trend orario non rialzista

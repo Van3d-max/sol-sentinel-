@@ -817,3 +817,10 @@
 19/11 13:45:50 INFO       (-0.5 r0.6 claude) Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further - Yahoo Finance
 19/11 13:45:50 INFO       (-0.4 r0.6 claude) CoinShares Sells All Its Ethereum and Half Its Solana to Fund $40M Stock Buyback - Coinpaper
 19/11 13:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+19/11 14:45:47 INFO    === intermedio (SOL-EUR) ===
+19/11 14:45:48 INFO    Trend superiore (ONE_DAY): GIU
+19/11 14:45:48 INFO    Prezzo 68.4700 | medie 67.4355/67.3450 trend SU | notizie -0.02 su 51 (0 nuove, 0 da Claude) | 0.4s
+19/11 14:45:48 INFO       (+0.3 r0.9 claude) Solana Unveils 2027 Roadmap to Double Compute Capacity and Cut Unit Use by 80% - CoinGape
+19/11 14:45:48 INFO       (+0.3 r0.7 claude) Securitize Plans IPO-Day Anthropic Tokens on Solana - The Defiant
+19/11 14:45:48 INFO       (-0.5 r0.6 claude) Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further - CCN.com
+19/11 14:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
