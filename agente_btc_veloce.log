@@ -2842,3 +2842,9 @@
 19/11 16:15:51 INFO       (-0.5 r0.9 claude) Bitcoin ETFs: Navigating the Crypto Sell-Off - ETF Database
 19/11 16:15:51 INFO       (-0.4 r1.0 claude) Bitcoin Price Prediction: BTC Could Dip to $55K Before Its Next Explosive Rebound - FXEmpire
 19/11 16:15:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 16:31:15 INFO    === btc_veloce (BTC-EUR) ===
+19/11 16:31:15 INFO    Prezzo 57438.66 | medie 57656.79/57870.09 trend GIU | notizie -0.08 su 121 (5 nuove, 5 da Claude) | 0.3s
+19/11 16:31:15 INFO       (-0.6 r0.9 claude) Citigroup trims bitcoin, ether targets as crypto struggles amid risk-off sentiment - TradingView
+19/11 16:31:15 INFO       (-0.4 r0.8 claude) AI financing concerns could trigger further Bitcoin volatility, GSN CEO warns - Crypto Briefing
+19/11 16:31:15 INFO       (-0.5 r0.9 claude) Bitcoin ETFs: Navigating the Crypto Sell-Off - ETF Database
+19/11 16:31:15 INFO    -> ATTENDI: trend 15 minuti non rialzista
