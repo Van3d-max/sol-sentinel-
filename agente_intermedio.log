@@ -866,3 +866,10 @@
 19/11 20:45:49 INFO       (+0.6 r0.8 claude) US ETF inflow supports Solana with institutional demand returning via regulated channels - Traders Union
 19/11 20:45:49 INFO       (-0.4 r0.8 claude) Roundhill Withdraws Plans for Solana and XRP Covered-Call ETFs - CoinMarketCap
 19/11 20:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+19/11 21:45:49 INFO    === intermedio (SOL-EUR) ===
+19/11 21:45:50 INFO    Trend superiore (ONE_DAY): GIU
+19/11 21:45:50 INFO    Prezzo 65.9200 | medie 67.5720/67.4682 trend SU | notizie +0.13 su 54 (3 nuove, 3 da Claude) | 0.3s
+19/11 21:45:50 INFO       (+0.4 r0.9 claude) VSOL: VanEck Solana ETF Shares of Beneficial Interest filed SEC... - Quantisnow
+19/11 21:45:50 INFO       (+0.4 r0.8 claude) USDC Treasury mints 250M USDC on Solana, boosting network liquidity - Crypto Briefing
+19/11 21:45:50 INFO       (+0.6 r0.8 claude) US ETF inflow supports Solana with institutional demand returning via regulated channels - Traders Union
+19/11 21:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

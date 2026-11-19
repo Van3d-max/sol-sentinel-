@@ -865,3 +865,10 @@
 19/11 20:45:51 INFO       (-0.6 r0.9 claude) Ethereum weakens as Federal Reserve rate expectations raise non-yielding asset risks - Traders Union
 19/11 20:45:51 INFO       (-0.4 r0.9 claude) Bitmine Just Posted a Staggering $6.3 Billion Loss on Its Ethereum Position. Here's What ETH Investors Need to
 19/11 20:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+19/11 21:45:52 INFO    === eth_intermedio (ETH-EUR) ===
+19/11 21:45:52 INFO    Trend superiore (ONE_DAY): GIU
+19/11 21:45:52 INFO    Prezzo 1589.15 | medie 1629.85/1630.11 trend GIU | notizie -0.07 su 65 (3 nuove, 3 da Claude) | 0.5s
+19/11 21:45:52 INFO       (+0.4 r0.8 claude) Two Prime Expands Institutional Lending, Accepting Ethereum - Cryptonews.net
+19/11 21:45:52 INFO       (-0.5 r0.9 claude) Bitmine Just Posted a Staggering $6.3 Billion Loss on Its Ethereum Position. Here's What ETH Investors Need to
+19/11 21:45:52 INFO       (-0.6 r0.9 claude) Ethereum weakens as Federal Reserve rate expectations raise non-yielding asset risks - Traders Union
+19/11 21:45:52 INFO    -> ATTENDI: trend orario non rialzista

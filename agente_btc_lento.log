@@ -742,3 +742,9 @@
 19/11 20:45:53 INFO       (-0.7 r1.0 claude) Bitcoin slides toward $62,000 as Anthropic shares dip below $100 - Crypto Briefing
 19/11 20:45:53 INFO       (+0.6 r1.0 claude) Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record - Bitcoin Magazine
 19/11 20:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista
+19/11 21:45:55 INFO    === btc_lento (BTC-EUR) ===
+19/11 21:45:55 INFO    Prezzo 56247.59 | medie 61933.12/67729.31 trend GIU | notizie -0.14 su 136 (5 nuove, 5 da Claude) | 0.1s
+19/11 21:45:55 INFO       (-0.8 r0.9 claude) Live updates: Bitcoin plunges to lowest since July as Anthropic gains, but broader markets tumble - CoinDesk
+19/11 21:45:55 INFO       (-0.7 r1.0 claude) Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month - Bitcoin Magazine
+19/11 21:45:55 INFO       (-0.7 r1.0 claude) Bitcoin price could plunge below $60,000 as ETF selling intensifies - Cryptonews.net
+19/11 21:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista
