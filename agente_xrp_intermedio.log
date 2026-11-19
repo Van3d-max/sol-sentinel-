@@ -833,3 +833,10 @@
 19/11 17:45:58 INFO       (-0.3 r0.9 claude) Garlinghouse Blames XRP Price Weakness on Anthropic IPO - Cryptonews
 19/11 17:45:58 INFO       (+0.4 r0.9 claude) XRP News: Goldman Sachs Reports $144M in XRP ETF Holdings - Coinpaper
 19/11 17:45:58 INFO    -> ATTENDI: trend orario non rialzista
+19/11 18:45:56 INFO    === xrp_intermedio (XRP-EUR) ===
+19/11 18:45:56 INFO    Trend superiore (ONE_DAY): GIU
+19/11 18:45:56 INFO    Prezzo 0.8885 | medie 0.88856/0.889152 trend GIU | notizie +0.04 su 44 (0 nuove, 0 da Claude) | 0.3s
+19/11 18:45:56 INFO       (-0.4 r0.9 claude) Why Is Ripple-Backed Evernorth Writing Down Its XRP Again? - BeInCrypto
+19/11 18:45:56 INFO       (-0.3 r0.9 claude) Garlinghouse Blames XRP Price Weakness on Anthropic IPO - Cryptonews
+19/11 18:45:56 INFO       (+0.3 r0.7 claude) Ripple's RLUSD Tops DeFi Inflow Chart With $22.3M, Edging Out Tether's USDT - BigGo Finance
+19/11 18:45:56 INFO    -> ATTENDI: trend orario non rialzista
