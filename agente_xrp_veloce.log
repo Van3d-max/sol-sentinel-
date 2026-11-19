@@ -2846,3 +2846,9 @@
 19/11 19:01:21 INFO       (-0.3 r0.9 claude) Garlinghouse Blames XRP Price Weakness on Anthropic IPO - Cryptonews
 19/11 19:01:21 INFO       (+0.3 r0.7 claude) Ripple's RLUSD Tops DeFi Inflow Chart With $22.3M, Edging Out Tether's USDT - BigGo Finance
 19/11 19:01:21 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 19:15:52 INFO    === xrp_veloce (XRP-EUR) ===
+19/11 19:15:53 INFO    Prezzo 0.8845 | medie 0.884722/0.888562 trend GIU | notizie -0.01 su 45 (2 nuove, 2 da Claude) | 0.2s
+19/11 19:15:53 INFO       (-0.4 r1.0 claude) XRP Price Prediction: Drop to $0.93 Likely Despite Recent Bounce - FXEmpire
+19/11 19:15:53 INFO       (-0.4 r0.9 claude) Why Is Ripple-Backed Evernorth Writing Down Its XRP Again? - BeInCrypto
+19/11 19:15:53 INFO       (-0.3 r0.9 claude) Garlinghouse Blames XRP Price Weakness on Anthropic IPO - Cryptonews
+19/11 19:15:53 INFO    -> ATTENDI: trend 15 minuti non rialzista
