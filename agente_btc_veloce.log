@@ -2866,3 +2866,9 @@
 19/11 17:16:06 INFO       (-0.5 r0.9 claude) Live updates: Bitcoin falls as strong Anthropic opening fails to lift animal spirits - CoinDesk
 19/11 17:16:06 INFO       (-0.6 r0.9 claude) Citigroup trims bitcoin, ether targets as crypto struggles amid risk-off sentiment - TradingView
 19/11 17:16:06 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 17:31:16 INFO    === btc_veloce (BTC-EUR) ===
+19/11 17:31:16 INFO    Prezzo 57338.78 | medie 57336.23/57705.19 trend GIU | notizie -0.11 su 120 (3 nuove, 3 da Claude) | 0.3s
+19/11 17:31:16 INFO       (-0.5 r0.9 claude) Live updates: Bitcoin falls as strong Anthropic opening fails to lift animal spirits - CoinDesk
+19/11 17:31:16 INFO       (-0.6 r0.9 claude) Bitcoin faces tech selloff risk as funds cut exposure - Crypto News
+19/11 17:31:16 INFO       (-0.6 r0.9 claude) Citigroup trims bitcoin, ether targets as crypto struggles amid risk-off sentiment - TradingView
+19/11 17:31:16 INFO    -> ATTENDI: trend 15 minuti non rialzista
