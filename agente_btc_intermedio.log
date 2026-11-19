@@ -789,3 +789,10 @@
 19/11 09:45:55 INFO       (-0.7 r0.9 claude) 🚨𝗝𝗨𝗦𝗧 𝗜𝗡: Bitcoin has returned to a bearish phase, as demand weakens and key support levels break, according t
 19/11 09:45:55 INFO       (-0.6 r0.9 claude) Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B
 19/11 09:45:55 INFO    -> ATTENDI: trend orario non rialzista
+19/11 10:45:57 INFO    === btc_intermedio (BTC-EUR) ===
+19/11 10:45:57 INFO    Trend superiore (ONE_DAY): GIU
+19/11 10:45:57 INFO    Prezzo 57994.70 | medie 57493.89/58135.52 trend GIU | notizie -0.25 su 125 (7 nuove, 7 da Claude) | 0.5s
+19/11 10:45:57 INFO       (-1.0 r1.0 claude) Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November
+19/11 10:45:57 INFO       (-0.7 r1.0 claude) Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November - Yahoo Finance
+19/11 10:45:57 INFO       (-0.7 r1.0 claude) Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November - Decrypt
+19/11 10:45:57 INFO    -> ATTENDI: trend orario non rialzista
