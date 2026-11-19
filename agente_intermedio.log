@@ -796,3 +796,10 @@
 19/11 10:45:51 INFO       (+0.3 r0.9 claude) Solana Tokenized Equities Cross $1.2B as DTCC Links Chain in 2027 - BigGo Finance
 19/11 10:45:51 INFO       (+0.4 r0.8 claude) Solana Tokenized Stock Hits $1.2B as Wall Street Moves Equities Onchain - Cryptonews
 19/11 10:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+19/11 11:46:00 INFO    === intermedio (SOL-EUR) ===
+19/11 11:46:00 INFO    Trend superiore (ONE_DAY): GIU
+19/11 11:46:00 INFO    Prezzo 68.0800 | medie 67.2335/67.2266 trend SU | notizie -0.01 su 54 (3 nuove, 3 da Claude) | 0.3s
+19/11 11:46:00 INFO       (+0.6 r0.9 claude) DTCC Explores Solana for the Next Stage of Security Tokenization - KuCoin
+19/11 11:46:00 INFO       (+0.2 r1.0 claude) Solana Unveils 2027 Roadmap, Targets 2x Increase in Network Compute Capacity - bloomingbit
+19/11 11:46:00 INFO       (+0.3 r0.9 claude) Solana Tokenized Equities Cross $1.2B as DTCC Links Chain in 2027 - BigGo Finance
+19/11 11:46:00 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
