@@ -719,3 +719,10 @@
 18/11 23:45:48 INFO       (-0.4 r0.7 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana
 18/11 23:45:48 INFO       (-0.4 r0.7 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana - Decrypt
 18/11 23:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+19/11 00:45:52 INFO    === intermedio (SOL-EUR) ===
+19/11 00:45:52 INFO    Trend superiore (ONE_DAY): GIU
+19/11 00:45:52 INFO    Prezzo 67.1300 | medie 67.4275/66.7822 trend SU | notizie -0.03 su 52 (0 nuove, 0 da Claude) | 0.2s
+19/11 00:45:52 INFO       (-0.5 r1.0 claude) Solana Price Today: SOL Sits 17.7% Below Its 200-Day Average as $70 Becomes the Line - Cryptonews.net
+19/11 00:45:52 INFO       (-0.4 r0.7 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana
+19/11 00:45:52 INFO       (-0.4 r0.7 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana - Decrypt
+19/11 00:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

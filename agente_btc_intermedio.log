@@ -719,3 +719,10 @@
 18/11 23:45:51 INFO       (-0.6 r0.8 claude) Gold and Bitcoin Are Falling Together: Is a Strong Dollar Triggering a Global Liquidity Squeeze? - Cryptonews.
 18/11 23:45:51 INFO       (-0.6 r1.0 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg.com
 18/11 23:45:51 INFO    -> ATTENDI: trend orario non rialzista
+19/11 00:45:54 INFO    === btc_intermedio (BTC-EUR) ===
+19/11 00:45:54 INFO    Trend superiore (ONE_DAY): GIU
+19/11 00:45:54 INFO    Prezzo 57548.91 | medie 57968.62/58367.55 trend GIU | notizie -0.24 su 121 (2 nuove, 2 da Claude) | 0.2s
+19/11 00:45:54 INFO       (-0.6 r0.9 claude) Hawkish pressure from the Federal Reserve pushes Bitcoin below the $63,000 threshold - Moomoo
+19/11 00:45:54 INFO       (-0.6 r1.0 claude) Bitcoin stalls below $65k as bears maintain control - Cryptonews.net
+19/11 00:45:54 INFO       (-0.5 r0.9 claude) Bitcoin Hovers Near $62,000 as Crypto Sentiment Sinks to Extreme Fear - Businesskorea
+19/11 00:45:54 INFO    -> ATTENDI: trend orario non rialzista

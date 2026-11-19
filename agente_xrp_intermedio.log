@@ -708,3 +708,10 @@
 18/11 23:45:53 INFO       (+0.3 r1.0 claude) Bitwise offloads 23.7M XRP while silently stacking 126M more
 18/11 23:45:53 INFO       (-0.6 r1.0 claude) XRP Weekly Forecast: Trump-Era Gains Under Threat Amid Drop Below $1 - FXEmpire
 18/11 23:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+19/11 00:45:55 INFO    === xrp_intermedio (XRP-EUR) ===
+19/11 00:45:55 INFO    Trend superiore (ONE_DAY): GIU
+19/11 00:45:55 INFO    Prezzo 0.8829 | medie 0.89375/0.88375 trend SU | notizie -0.04 su 45 (0 nuove, 0 da Claude) | 0.2s
+19/11 00:45:55 INFO       (-0.6 r1.0 claude) XRP Price Prediction: Selling Spree May Intensify After Strong Rejection of $1 Resistance - FXEmpire
+19/11 00:45:55 INFO       (-0.4 r1.0 claude) XRP Reserves on Binance Crash to a New Multi-Year Low Amid Price Selloff - Coinpedia
+19/11 00:45:55 INFO       (+0.3 r1.0 claude) Bitwise offloads 23.7M XRP while silently stacking 126M more
+19/11 00:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
