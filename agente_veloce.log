@@ -10848,3 +10848,9 @@
 19/11 12:31:07 INFO       (+0.6 r0.9 claude) DTCC Explores Solana for the Next Stage of Security Tokenization - KuCoin
 19/11 12:31:07 INFO       (+0.2 r1.0 claude) Solana Unveils 2027 Roadmap, Targets 2x Increase in Network Compute Capacity - bloomingbit
 19/11 12:31:07 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 12:45:48 INFO    === veloce (SOL-EUR) ===
+19/11 12:45:48 INFO    Prezzo 67.7600 | medie 67.8022/67.8010 trend SU | notizie -0.03 su 51 (0 nuove, 0 da Claude) | 0.2s
+19/11 12:45:48 INFO       (-0.3 r0.7 claude) Roundhill abandons Solana, XRP income ETFs as competing funds lose over 55% - Crypto News
+19/11 12:45:48 INFO       (+0.6 r0.9 claude) DTCC Explores Solana for the Next Stage of Security Tokenization - KuCoin
+19/11 12:45:48 INFO       (+0.2 r1.0 claude) Solana Unveils 2027 Roadmap, Targets 2x Increase in Network Compute Capacity - bloomingbit
+19/11 12:45:48 INFO    -> ATTENDI: notizie sotto la soglia (-0.03)
