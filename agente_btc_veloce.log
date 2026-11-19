@@ -2884,3 +2884,9 @@
 19/11 18:01:18 INFO       (-0.6 r0.9 claude) Bitcoin faces tech selloff risk as funds cut exposure - Crypto News
 19/11 18:01:18 INFO       (+0.4 r1.0 claude) Swiss Bank Sygnum Says Bitcoin Could Reach New High Near $128,000
 19/11 18:01:18 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 18:15:54 INFO    === btc_veloce (BTC-EUR) ===
+19/11 18:15:55 INFO    Prezzo 57163.00 | medie 57244.17/57581.06 trend GIU | notizie -0.07 su 123 (7 nuove, 7 da Claude) | 0.3s
+19/11 18:15:55 INFO       (-0.5 r0.9 claude) Live updates: Bitcoin falls as strong Anthropic opening fails to lift animal spirits - CoinDesk
+19/11 18:15:55 INFO       (-0.6 r0.9 claude) Bitcoin faces tech selloff risk as funds cut exposure - Crypto News
+19/11 18:15:55 INFO       (+0.4 r1.0 claude) Swiss Bank Sygnum Says Bitcoin Could Reach New High Near $128,000
+19/11 18:15:55 INFO    -> ATTENDI: trend 15 minuti non rialzista
