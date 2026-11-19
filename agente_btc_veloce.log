@@ -2446,3 +2446,9 @@
 18/11 23:45:51 INFO       (-0.6 r0.8 claude) Gold and Bitcoin Are Falling Together: Is a Strong Dollar Triggering a Global Liquidity Squeeze? - Cryptonews.
 18/11 23:45:51 INFO       (-0.6 r1.0 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg.com
 18/11 23:45:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 00:01:22 INFO    === btc_veloce (BTC-EUR) ===
+19/11 00:01:22 INFO    Prezzo 57316.99 | medie 57002.29/57042.99 trend GIU | notizie -0.17 su 31 (0 nuove, 0 da Claude) | 0.2s
+19/11 00:01:22 INFO       (-0.6 r0.9 claude) Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?
+19/11 00:01:22 INFO       (-0.4 r0.9 claude) Germany moves to freeze Bitcoin for up to 180 days, even without access to private keys
+19/11 00:01:22 INFO       (+0.3 r0.8 claude) Saifedean Ammous: AI Could Be “Massively Overvalued” as Bitcoin Starts “Its Own Run”
+19/11 00:01:22 INFO    -> ATTENDI: trend 15 minuti non rialzista
