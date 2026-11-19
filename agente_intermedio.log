@@ -768,3 +768,10 @@
 19/11 06:45:58 INFO       (+0.6 r0.9 claude) TOP ZFSMEDIA NEWS: SOLANA ETF INFLOWS ARE BACK. After 24 - KuCoin
 19/11 06:45:58 INFO       (+0.1 r0.9 claude) Bitwise Predicts Solana Price Could Reach $1,100 by 2031 - KuCoin
 19/11 06:45:58 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+19/11 07:45:59 INFO    === intermedio (SOL-EUR) ===
+19/11 07:45:59 INFO    Trend superiore (ONE_DAY): GIU
+19/11 07:45:59 INFO    Prezzo 68.0500 | medie 67.1965/67.0788 trend SU | notizie +0.15 su 47 (0 nuove, 0 da Claude) | 0.5s
+19/11 07:45:59 INFO       (+0.6 r0.9 claude) DTCC Explores Solana for the Next Stage of Security Tokenization - KuCoin
+19/11 07:45:59 INFO       (+0.4 r0.9 claude) Solana tokenized equities reach $1.22 billion as stock offerings expand - Crypto News
+19/11 07:45:59 INFO       (-0.4 r0.8 claude) CoinShares Sells Entire Ethereum Treasury, Half Its Solana, To Fund Up To $40M Buyback: 10 outlets compared - 
+19/11 07:45:59 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

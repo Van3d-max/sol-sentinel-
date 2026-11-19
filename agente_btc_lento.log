@@ -658,3 +658,9 @@
 19/11 06:46:02 INFO       (-0.6 r1.0 claude) Bitcoin Falls to $62,500 as Fed Minutes Flag 'Close Call' on Hold - Bitbo
 19/11 06:46:02 INFO       (-0.6 r0.9 claude) Top Analyst Declares Bitcoin Has Entered Bearish Phase Again - Coinpedia
 19/11 06:46:02 INFO    -> ATTENDI: trend giornaliero non rialzista
+19/11 07:46:05 INFO    === btc_lento (BTC-EUR) ===
+19/11 07:46:05 INFO    Prezzo 57929.03 | medie 61933.12/67729.31 trend GIU | notizie -0.19 su 129 (4 nuove, 4 da Claude) | 0.1s
+19/11 07:46:05 INFO       (-0.7 r1.0 claude) Bitcoin down to $63.5k amid little relief from rate hike jitters - Yahoo Finance
+19/11 07:46:05 INFO       (-0.7 r0.9 claude) Bitcoin ETFs Bleed $546 Million in Two Days as BlackRock's IBIT Sheds $358 Million - BigGo Finance
+19/11 07:46:05 INFO       (-0.7 r1.0 claude) Bitcoin Mining Cost Tops Price by 20%; Continued ETF Outflows Put $57,000 in Play - BigGo Finance
+19/11 07:46:05 INFO    -> ATTENDI: trend giornaliero non rialzista
