@@ -859,3 +859,10 @@
 19/11 19:45:53 INFO       (-0.7 r1.0 claude) Bitcoin slides toward $62,000 as Anthropic shares dip below $100 - Crypto Briefing
 19/11 19:45:53 INFO       (+0.5 r1.0 claude) Institutional Bitcoin ETF Holdings Hit Record 356,491 BTC - Bitcoin Magazine
 19/11 19:45:53 INFO    -> ATTENDI: trend orario non rialzista
+19/11 20:45:53 INFO    === btc_intermedio (BTC-EUR) ===
+19/11 20:45:53 INFO    Trend superiore (ONE_DAY): GIU
+19/11 20:45:53 INFO    Prezzo 56581.86 | medie 57644.98/57933.50 trend GIU | notizie -0.10 su 120 (4 nuove, 4 da Claude) | 0.2s
+19/11 20:45:53 INFO       (-0.7 r1.0 claude) Bitcoin price could plunge below $60,000 as ETF selling intensifies - Cryptonews.net
+19/11 20:45:53 INFO       (+0.6 r1.0 claude) Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record - Bitcoin Magazine
+19/11 20:45:53 INFO       (-0.5 r1.0 claude) Bitcoin’s Last Line Of Defense Is $58K - Bitcoin Magazine
+19/11 20:45:53 INFO    -> ATTENDI: trend orario non rialzista

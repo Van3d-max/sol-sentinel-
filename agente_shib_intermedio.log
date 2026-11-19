@@ -841,3 +841,7 @@
 19/11 19:45:56 INFO       (-0.3 r0.9 claude) Shiba Inu (SHIB) Price History Readies Early Christmas Gift for Sellers - U.Today
 19/11 19:45:56 INFO       (+0.1 r0.7 claude) Dogecoin, Shiba Inu Drop 25% in November but Rebound Signals Emerge - Benzinga
 19/11 19:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+19/11 20:45:56 INFO    === shib_intermedio (SHIB-EUR) ===
+19/11 20:45:56 INFO    Trend superiore (ONE_DAY): GIU
+19/11 20:45:56 INFO    Prezzo 3.46e-06 | medie 3.49e-06/3.4868e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.2s
+19/11 20:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
