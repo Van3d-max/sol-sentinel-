@@ -2458,3 +2458,9 @@
 19/11 00:15:50 INFO       (+0.5 r1.0 claude) South Korea Set to Let 3,500 Companies Buy Bitcoin, Report Says - Cryptonews.net
 19/11 00:15:50 INFO       (-0.6 r0.8 claude) Gold and Bitcoin Are Falling Together: Is a Strong Dollar Triggering a Global Liquidity Squeeze? - Cryptonews.
 19/11 00:15:50 INFO    -> ATTENDI: notizia shock: Bitcoin enters bearish phase as demand shrinks, traders face 20% losses - Crypto
+19/11 00:31:12 INFO    === btc_veloce (BTC-EUR) ===
+19/11 00:31:12 INFO    Prezzo 57272.98 | medie 57105.27/57027.63 trend SU | notizie -0.23 su 120 (3 nuove, 3 da Claude) | 0.1s
+19/11 00:31:12 INFO       (-0.6 r1.0 claude) Bitcoin stalls below $65k as bears maintain control - Cryptonews.net
+19/11 00:31:12 INFO       (-0.6 r0.8 claude) Gold and Bitcoin Are Falling Together: Is a Strong Dollar Triggering a Global Liquidity Squeeze? - Cryptonews.
+19/11 00:31:12 INFO       (-0.6 r1.0 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg.com
+19/11 00:31:12 INFO    -> ATTENDI: notizie sotto la soglia (-0.23)
