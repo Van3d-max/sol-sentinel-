@@ -664,3 +664,9 @@
 19/11 07:46:05 INFO       (-0.7 r0.9 claude) Bitcoin ETFs Bleed $546 Million in Two Days as BlackRock's IBIT Sheds $358 Million - BigGo Finance
 19/11 07:46:05 INFO       (-0.7 r1.0 claude) Bitcoin Mining Cost Tops Price by 20%; Continued ETF Outflows Put $57,000 in Play - BigGo Finance
 19/11 07:46:05 INFO    -> ATTENDI: trend giornaliero non rialzista
+19/11 08:45:53 INFO    === btc_lento (BTC-EUR) ===
+19/11 08:45:53 INFO    Prezzo 57859.37 | medie 61933.12/67729.31 trend GIU | notizie -0.13 su 119 (2 nuove, 2 da Claude) | 0.1s
+19/11 08:45:53 INFO       (-0.6 r0.9 claude) Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B
+19/11 08:45:53 INFO       (-0.7 r1.0 claude) On the Chain: Bitcoin slides towards US$63,000 as ETF outflows resume - Proactive financial news
+19/11 08:45:53 INFO       (-0.6 r1.0 claude) Bitcoin Falls to $62,500 as Fed Minutes Flag 'Close Call' on Hold - Bitbo
+19/11 08:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista
