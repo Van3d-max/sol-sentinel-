@@ -2998,3 +2998,9 @@
 19/11 22:46:01 INFO       (-0.6 r0.9 claude) Bitcoin slides below $62,000, AI tokens outperform following Anthropic IPO - FXStreet
 19/11 22:46:01 INFO       (-0.7 r1.0 claude) Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month - Bitcoin Magazine
 19/11 22:46:01 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 23:01:33 INFO    === btc_veloce (BTC-EUR) ===
+19/11 23:01:33 INFO    Prezzo 56686.40 | medie 56419.14/56746.65 trend GIU | notizie -0.09 su 29 (0 nuove, 0 da Claude) | 0.3s
+19/11 23:01:33 INFO       (-0.6 r1.0 claude) Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month
+19/11 23:01:33 INFO       (+0.5 r1.0 claude) David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k
+19/11 23:01:33 INFO       (-0.6 r0.7 claude) Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides
+19/11 23:01:33 INFO    -> ATTENDI: trend 15 minuti non rialzista
