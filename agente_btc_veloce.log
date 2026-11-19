@@ -2818,3 +2818,9 @@
 19/11 15:15:49 INFO       (-0.5 r0.9 claude) Bitcoin ETFs: Navigating the Crypto Sell-Off - ETF Database
 19/11 15:15:49 INFO       (+0.4 r0.9 claude) Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech - CoinDesk
 19/11 15:15:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 15:31:15 INFO    === btc_veloce (BTC-EUR) ===
+19/11 15:31:15 INFO    Prezzo 57560.38 | medie 57939.91/57979.17 trend GIU | notizie -0.08 su 123 (6 nuove, 6 da Claude) | 0.2s
+19/11 15:31:15 INFO       (-0.6 r0.9 claude) Bitcoin ETF Outflows Accelerate Ahead Of Anthropic IPO - Yahoo Finance
+19/11 15:31:15 INFO       (-0.5 r0.9 claude) Bitcoin ETFs: Navigating the Crypto Sell-Off - ETF Database
+19/11 15:31:15 INFO       (+0.4 r0.9 claude) Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech - CoinDesk
+19/11 15:31:15 INFO    -> ATTENDI: trend 15 minuti non rialzista

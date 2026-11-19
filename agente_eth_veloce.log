@@ -2826,3 +2826,9 @@
 19/11 15:15:48 INFO       (-0.4 r1.0 claude) Ethereum Price Prediction: Could a $64M Aave Loan Add Pressure Below $1,800? - Coinpaper
 19/11 15:15:48 INFO       (+0.3 r0.8 claude) HSBC Launches Ethereum-Based Money Market Fund - Yahoo Finance
 19/11 15:15:48 INFO    -> ATTENDI: notizie sotto la soglia (-0.13)
+19/11 15:31:12 INFO    === eth_veloce (ETH-EUR) ===
+19/11 15:31:13 INFO    Prezzo 1623.84 | medie 1639.63/1639.88 trend GIU | notizie -0.13 su 61 (0 nuove, 0 da Claude) | 0.1s
+19/11 15:31:13 INFO       (-0.7 r1.0 claude) Ethereum Falls 3.8% to $1,755 as Binance-Hack Wallet Dumps ETH for Bitcoin - BigGo Finance
+19/11 15:31:13 INFO       (-0.4 r1.0 claude) Ethereum Price Prediction: Could a $64M Aave Loan Add Pressure Below $1,800? - Coinpaper
+19/11 15:31:13 INFO       (+0.3 r0.8 claude) HSBC Launches Ethereum-Based Money Market Fund - Yahoo Finance
+19/11 15:31:13 INFO    -> ATTENDI: trend 15 minuti non rialzista
