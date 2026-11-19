@@ -2860,3 +2860,9 @@
 19/11 17:01:25 INFO       (-0.6 r0.9 claude) Citigroup trims bitcoin, ether targets as crypto struggles amid risk-off sentiment - TradingView
 19/11 17:01:25 INFO       (-0.4 r0.8 claude) AI financing concerns could trigger further Bitcoin volatility, GSN CEO warns - Crypto Briefing
 19/11 17:01:25 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 17:16:05 INFO    === btc_veloce (BTC-EUR) ===
+19/11 17:16:06 INFO    Prezzo 56770.00 | medie 57384.68/57736.30 trend GIU | notizie -0.10 su 120 (4 nuove, 4 da Claude) | 0.4s
+19/11 17:16:06 INFO       (-0.6 r0.9 claude) Bitcoin faces tech selloff risk as funds cut exposure - Crypto News
+19/11 17:16:06 INFO       (-0.5 r0.9 claude) Live updates: Bitcoin falls as strong Anthropic opening fails to lift animal spirits - CoinDesk
+19/11 17:16:06 INFO       (-0.6 r0.9 claude) Citigroup trims bitcoin, ether targets as crypto struggles amid risk-off sentiment - TradingView
+19/11 17:16:06 INFO    -> ATTENDI: trend 15 minuti non rialzista
