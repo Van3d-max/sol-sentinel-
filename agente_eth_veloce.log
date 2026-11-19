@@ -2478,3 +2478,9 @@
 19/11 00:45:52 INFO       (-0.3 r0.8 claude) Crypto asset manager's stock jumps 13% after full Ethereum sale - Yahoo Finance
 19/11 00:45:52 INFO       (-0.5 r0.5 claude) Citigroup Lowers Bitcoin and Ethereum Price Targets Amid Weak Institutional Demand - KuCoin
 19/11 00:45:52 INFO    -> ATTENDI: notizie sotto la soglia (-0.16)
+19/11 01:01:15 INFO    === eth_veloce (ETH-EUR) ===
+19/11 01:01:15 INFO    Prezzo 1625.33 | medie 1616.48/1607.67 trend SU | notizie -0.12 su 5 (0 nuove, 0 da Claude) | 0.2s
+19/11 01:01:15 INFO       (-0.3 r0.8 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana
+19/11 01:01:15 INFO       (-0.6 r0.8 claude) CoinShares sells all treasury ETH, halves SOL holdings for buybacks
+19/11 01:01:15 INFO       (+0.2 r0.8 claude) U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud
+19/11 01:01:15 INFO    -> ATTENDI: notizie sotto la soglia (-0.12)

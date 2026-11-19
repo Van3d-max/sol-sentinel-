@@ -10566,3 +10566,9 @@
 19/11 00:45:52 INFO       (-0.4 r0.7 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana
 19/11 00:45:52 INFO       (-0.4 r0.7 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana - Decrypt
 19/11 00:45:52 INFO    -> ATTENDI: notizie sotto la soglia (-0.03)
+19/11 01:01:14 INFO    === veloce (SOL-EUR) ===
+19/11 01:01:14 INFO    Prezzo 67.1600 | medie 66.8856/66.6352 trend SU | notizie -0.12 su 4 (0 nuove, 0 da Claude) | 0.2s
+19/11 01:01:14 INFO       (-0.4 r0.7 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana
+19/11 01:01:14 INFO       (-0.4 r0.7 claude) CoinShares sells all treasury ETH, halves SOL holdings for buybacks
+19/11 01:01:14 INFO       (+0.3 r1.0 claude) SOL comes out of Breakpoint 7% higher as Solana exits beta
+19/11 01:01:14 INFO    -> ATTENDI: notizie sotto la soglia (-0.12)
