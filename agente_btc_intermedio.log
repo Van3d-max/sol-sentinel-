@@ -831,3 +831,10 @@
 19/11 15:45:54 INFO       (-0.4 r1.0 claude) Bitcoin Price Prediction: BTC Could Dip to $55K Before Its Next Explosive Rebound - FXEmpire
 19/11 15:45:54 INFO       (-1.0 r1.0 claude) Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November
 19/11 15:45:54 INFO    -> ATTENDI: trend orario non rialzista
+19/11 16:45:53 INFO    === btc_intermedio (BTC-EUR) ===
+19/11 16:45:53 INFO    Trend superiore (ONE_DAY): GIU
+19/11 16:45:53 INFO    Prezzo 57445.00 | medie 57623.00/58029.43 trend GIU | notizie -0.09 su 121 (6 nuove, 6 da Claude) | 0.4s
+19/11 16:45:53 INFO       (-0.6 r0.9 claude) Bitcoin faces tech selloff risk as funds cut exposure - Crypto News
+19/11 16:45:53 INFO       (-0.6 r0.9 claude) Citigroup trims bitcoin, ether targets as crypto struggles amid risk-off sentiment - TradingView
+19/11 16:45:53 INFO       (-0.4 r0.8 claude) AI financing concerns could trigger further Bitcoin volatility, GSN CEO warns - Crypto Briefing
+19/11 16:45:53 INFO    -> ATTENDI: trend orario non rialzista
