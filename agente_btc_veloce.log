@@ -2638,3 +2638,9 @@
 19/11 07:46:05 INFO       (-0.7 r0.9 claude) Bitcoin ETFs Bleed $546 Million in Two Days as BlackRock's IBIT Sheds $358 Million - BigGo Finance
 19/11 07:46:05 INFO       (-0.7 r1.0 claude) Bitcoin Mining Cost Tops Price by 20%; Continued ETF Outflows Put $57,000 in Play - BigGo Finance
 19/11 07:46:05 INFO    -> ATTENDI: notizia shock: Bitcoin down to $63.5k amid little relief from rate hike jitters - Yahoo Finance
+19/11 08:01:25 INFO    === btc_veloce (BTC-EUR) ===
+19/11 08:01:25 INFO    Prezzo 57978.09 | medie 57906.76/57727.88 trend SU | notizie +0.01 su 32 (1 nuove, 1 da Claude) | 0.4s
+19/11 08:01:25 INFO       (+0.2 r0.9 claude) Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut
+19/11 08:01:25 INFO       (+0.2 r0.8 claude) Why The $1T AI Credit Complex Could be Bitcoin’s Next Catalyst | Jeff Walton
+19/11 08:01:25 INFO       (-0.2 r0.5 claude) Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal
+19/11 08:01:25 INFO    -> ATTENDI: obiettivo +0.95% sotto il minimo +2.20% (commissioni)

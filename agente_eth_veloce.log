@@ -2646,3 +2646,9 @@
 19/11 07:46:02 INFO       (-0.6 r0.6 claude) Crypto ETF Outflows Reach $345M as Bitcoin and Ethereum Funds Face Continued Withdrawals - KuCoin
 19/11 07:46:02 INFO       (-0.6 r0.8 claude) Europe's Largest Crypto Asset Manager Sells Its Entire Ethereum Treasury - BeInCrypto
 19/11 07:46:02 INFO    -> ATTENDI: notizie sotto la soglia (-0.18)
+19/11 08:01:23 INFO    === eth_veloce (ETH-EUR) ===
+19/11 08:01:23 INFO    Prezzo 1641.43 | medie 1642.70/1636.65 trend SU | notizie -0.06 su 5 (0 nuove, 0 da Claude) | 0.3s
+19/11 08:01:23 INFO       (-0.1 r0.7 claude) Ethereum block builders received the most in a $3.4 million vault hack, data shows
+19/11 08:01:23 INFO       (-0.3 r0.8 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana
+19/11 08:01:23 INFO       (-0.6 r0.8 claude) CoinShares sells all treasury ETH, halves SOL holdings for buybacks
+19/11 08:01:23 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
