@@ -2572,3 +2572,9 @@
 19/11 10:01:23 INFO    === shib_veloce (SHIB-EUR) ===
 19/11 10:01:24 INFO    Prezzo 3.5e-06 | medie 3.49556e-06/3.47143e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 19/11 10:01:24 INFO    -> ATTENDI: obiettivo +0.88% sotto il minimo +2.20% (commissioni)
+19/11 10:15:57 INFO    === shib_veloce (SHIB-EUR) ===
+19/11 10:15:58 INFO    Prezzo 3.5e-06 | medie 3.49556e-06/3.47286e-06 trend SU | notizie -0.18 su 10 (0 nuove, 0 da Claude) | 0.3s
+19/11 10:15:58 INFO       (-0.5 r0.9 claude) Shiba Inu News Today: FOMC, Burn Drop and Kusama Silence Hit SHIB - Coin Gabbar
+19/11 10:15:58 INFO       (+0.1 r0.6 claude) Lbank launches new Shiba Inu promotion with $5 futures bonus and gaming rewards - Traders Union
+19/11 10:15:58 INFO       (-1.0 r1.0 claude) SHIB Falls to $0.0000038 as Its First Death Cross in 14 Months Lands - CryptoDaily
+19/11 10:15:58 INFO    -> ATTENDI: notizie sotto la soglia (-0.18)
