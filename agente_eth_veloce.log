@@ -2526,3 +2526,9 @@
 19/11 02:45:48 INFO       (-0.6 r1.0 claude) Ethereum Price Forecast: ETH fails to recover $1,800 after futures and spot distribution - FXStreet
 19/11 02:45:48 INFO       (-0.4 r0.4 claude) Bitcoin, Ethereum, XRP, Dogecoin Extend Decline: Analyst Says BTC Could See ‘Little’ Resistance If It Hol - Be
 19/11 02:45:48 INFO    -> ATTENDI: notizie sotto la soglia (-0.17)
+19/11 03:01:14 INFO    === eth_veloce (ETH-EUR) ===
+19/11 03:01:14 INFO    Prezzo 1612.29 | medie 1618.32/1614.82 trend SU | notizie -0.09 su 5 (0 nuove, 0 da Claude) | 0.3s
+19/11 03:01:14 INFO       (-0.3 r0.8 claude) Why CoinShares Just Sold All Its Ethereum and Half Its Solana
+19/11 03:01:14 INFO       (-0.6 r0.8 claude) CoinShares sells all treasury ETH, halves SOL holdings for buybacks
+19/11 03:01:14 INFO       (+0.2 r0.8 claude) U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud
+19/11 03:01:14 INFO    -> ATTENDI: notizie sotto la soglia (-0.09)
