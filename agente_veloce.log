@@ -10890,3 +10890,9 @@
 19/11 14:15:49 INFO       (-0.5 r0.6 claude) Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further - CCN.com
 19/11 14:15:49 INFO       (-0.5 r0.6 claude) Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further - Yahoo Finance
 19/11 14:15:49 INFO    -> ATTENDI: notizie sotto la soglia (-0.04)
+19/11 14:31:08 INFO    === veloce (SOL-EUR) ===
+19/11 14:31:08 INFO    Prezzo 68.3000 | medie 68.0056/67.8771 trend SU | notizie -0.02 su 52 (1 nuove, 1 da Claude) | 0.2s
+19/11 14:31:08 INFO       (+0.3 r0.9 claude) Solana Unveils 2027 Roadmap to Double Compute Capacity and Cut Unit Use by 80% - CoinGape
+19/11 14:31:08 INFO       (-0.5 r0.6 claude) Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further - CCN.com
+19/11 14:31:08 INFO       (+0.3 r0.7 claude) Securitize Plans IPO-Day Anthropic Tokens on Solana - The Defiant
+19/11 14:31:08 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)
