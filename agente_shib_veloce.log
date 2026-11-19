@@ -2815,3 +2815,9 @@
 19/11 20:45:56 INFO    === shib_veloce (SHIB-EUR) ===
 19/11 20:45:56 INFO    Prezzo 3.46e-06 | medie 3.48778e-06/3.49619e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.2s
 19/11 20:45:56 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 21:01:24 INFO    === shib_veloce (SHIB-EUR) ===
+19/11 21:01:25 INFO    Prezzo 3.45e-06 | medie 3.48333e-06/3.4919e-06 trend GIU | notizie -0.03 su 15 (1 nuove, 1 da Claude) | 0.2s
+19/11 21:01:25 INFO       (-0.6 r1.0 claude) Shiba Inu (SHIB) faces a tough December after l... - Pluang
+19/11 21:01:25 INFO       (-0.3 r0.9 claude) Shiba Inu (SHIB) Price History Readies Early Christmas Gift for Sellers - U.Today
+19/11 21:01:25 INFO       (+0.1 r0.9 claude) Shytoshi Kusama Remains Silent on X as Shiba Inu Community Watches November 19 Teaser - Cryptonews.net
+19/11 21:01:25 INFO    -> ATTENDI: trend 15 minuti non rialzista
