@@ -718,3 +718,9 @@
 19/11 16:45:50 INFO       (-0.4 r1.0 claude) Ethereum Price Prediction: Could a $64M Aave Loan Add Pressure Below $1,800? - Coinpaper
 19/11 16:45:50 INFO       (-0.6 r0.5 claude) Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further - CCN.com
 19/11 16:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista
+19/11 17:45:54 INFO    === eth_lento (ETH-EUR) ===
+19/11 17:45:54 INFO    Prezzo 1614.82 | medie 1736.77/1955.59 trend GIU | notizie -0.14 su 87 (4 nuove, 4 da Claude) | 0.1s
+19/11 17:45:54 INFO       (-0.6 r0.9 claude) Ethereum weakens as Federal Reserve rate expectations raise non-yielding asset risks - Traders Union
+19/11 17:45:54 INFO       (-0.7 r1.0 claude) Ethereum Falls 3.8% to $1,755 as Binance-Hack Wallet Dumps ETH for Bitcoin - BigGo Finance
+19/11 17:45:54 INFO       (-0.4 r1.0 claude) Ethereum Price Prediction: Could a $64M Aave Loan Add Pressure Below $1,800? - Coinpaper
+19/11 17:45:54 INFO    -> ATTENDI: trend giornaliero non rialzista
