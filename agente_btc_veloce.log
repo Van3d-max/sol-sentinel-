@@ -2980,3 +2980,9 @@
 19/11 22:01:21 INFO       (-0.7 r1.0 claude) Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month - Bitcoin Magazine
 19/11 22:01:21 INFO       (-0.7 r1.0 claude) Bitcoin price could plunge below $60,000 as ETF selling intensifies - Cryptonews.net
 19/11 22:01:21 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 22:16:03 INFO    === btc_veloce (BTC-EUR) ===
+19/11 22:16:03 INFO    Prezzo 56295.41 | medie 56361.13/56812.97 trend GIU | notizie -0.17 su 123 (2 nuove, 2 da Claude) | 0.3s
+19/11 22:16:03 INFO       (-0.8 r0.9 claude) Live updates: Bitcoin plunges to lowest since July as Anthropic gains, but broader markets tumble - CoinDesk
+19/11 22:16:03 INFO       (-0.7 r1.0 claude) Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month - Bitcoin Magazine
+19/11 22:16:03 INFO       (-0.7 r1.0 claude) Bitcoin price could plunge below $60,000 as ETF selling intensifies - Cryptonews.net
+19/11 22:16:03 INFO    -> ATTENDI: trend 15 minuti non rialzista
