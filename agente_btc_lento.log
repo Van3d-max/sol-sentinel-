@@ -640,3 +640,9 @@
 19/11 03:45:50 INFO       (-0.6 r0.9 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg
 19/11 03:45:50 INFO       (-0.8 r1.0 claude) Bitcoin Price Crashes Below $65K as MARA Holdings Sells BTC and Investors Prepare to Allocate Capital to Anthr
 19/11 03:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista
+19/11 04:45:48 INFO    === btc_lento (BTC-EUR) ===
+19/11 04:45:48 INFO    Prezzo 57922.01 | medie 61933.12/67729.31 trend GIU | notizie -0.20 su 130 (1 nuove, 1 da Claude) | 0.1s
+19/11 04:45:48 INFO       (-0.6 r1.0 claude) Bitcoin Falls to $62,500 as Fed Minutes Flag 'Close Call' on Hold - Bitbo
+19/11 04:45:48 INFO       (-0.6 r0.9 claude) Top Analyst Declares Bitcoin Has Entered Bearish Phase Again - Coinpedia
+19/11 04:45:48 INFO       (-0.6 r0.9 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg
+19/11 04:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista

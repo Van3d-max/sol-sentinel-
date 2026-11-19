@@ -747,3 +747,10 @@
 19/11 03:45:50 INFO       (-0.4 r0.9 claude) Bitcoin's Failed Breakout Exposes a Liquidity Vacuum - Blockhead
 19/11 03:45:50 INFO       (-0.6 r0.9 claude) Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade - Bloomberg
 19/11 03:45:50 INFO    -> ATTENDI: trend orario non rialzista
+19/11 04:45:48 INFO    === btc_intermedio (BTC-EUR) ===
+19/11 04:45:48 INFO    Trend superiore (ONE_DAY): GIU
+19/11 04:45:48 INFO    Prezzo 57922.01 | medie 57686.37/58239.79 trend GIU | notizie -0.19 su 124 (1 nuove, 1 da Claude) | 0.4s
+19/11 04:45:48 INFO       (-0.6 r1.0 claude) Bitcoin Falls to $62,500 as Fed Minutes Flag 'Close Call' on Hold - Bitbo
+19/11 04:45:48 INFO       (-0.6 r0.9 claude) Top Analyst Declares Bitcoin Has Entered Bearish Phase Again - Coinpedia
+19/11 04:45:48 INFO       (-0.5 r0.8 claude) MARA and Riot sell $3.4B in Bitcoin as AI expansion gathers pace - Cryptonews.net
+19/11 04:45:48 INFO    -> ATTENDI: trend orario non rialzista
