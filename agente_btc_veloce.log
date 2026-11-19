@@ -2482,3 +2482,9 @@
 19/11 01:15:52 INFO       (-0.6 r1.0 claude) Bitcoin stalls below $65k as bears maintain control - Cryptonews.net
 19/11 01:15:52 INFO       (-0.5 r0.9 claude) Bitcoin Hovers Near $62,000 as Crypto Sentiment Sinks to Extreme Fear - Businesskorea
 19/11 01:15:52 INFO    -> ATTENDI: notizie sotto la soglia (-0.23)
+19/11 01:31:02 INFO    === btc_veloce (BTC-EUR) ===
+19/11 01:31:03 INFO    Prezzo 57022.47 | medie 57341.10/57066.08 trend SU | notizie -0.22 su 125 (2 nuove, 2 da Claude) | 0.3s
+19/11 01:31:03 INFO       (-0.6 r0.9 claude) Hawkish pressure from the Federal Reserve pushes Bitcoin below the $63,000 threshold - Moomoo
+19/11 01:31:03 INFO       (-0.6 r1.0 claude) Bitcoin stalls below $65k as bears maintain control - Cryptonews.net
+19/11 01:31:03 INFO       (-0.5 r0.9 claude) Bitcoin Hovers Near $62,000 as Crypto Sentiment Sinks to Extreme Fear - Businesskorea
+19/11 01:31:03 INFO    -> ATTENDI: notizie sotto la soglia (-0.22)
