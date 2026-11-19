@@ -852,3 +852,10 @@
 19/11 18:45:50 INFO       (-0.5 r0.8 claude) SOLT: Solana Fell 8%, The Fund Fell 75% (NASDAQ:SOLT) - Seeking Alpha
 19/11 18:45:50 INFO       (+0.3 r0.7 claude) Tokenized Anthropic stock set to debut on Solana through Backpack Securities on IPO day - Cryptonews.net
 19/11 18:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+19/11 19:45:48 INFO    === intermedio (SOL-EUR) ===
+19/11 19:45:49 INFO    Trend superiore (ONE_DAY): GIU
+19/11 19:45:49 INFO    Prezzo 67.0500 | medie 67.6040/67.4240 trend SU | notizie +0.05 su 53 (0 nuove, 0 da Claude) | 0.4s
+19/11 19:45:49 INFO       (+0.6 r0.8 claude) US ETF inflow supports Solana with institutional demand returning via regulated channels - Traders Union
+19/11 19:45:49 INFO       (-0.5 r0.8 claude) SOLT: Solana Fell 8%, The Fund Fell 75% (NASDAQ:SOLT) - Seeking Alpha
+19/11 19:45:49 INFO       (+0.3 r0.7 claude) Tokenized Anthropic stock set to debut on Solana through Backpack Securities on IPO day - Cryptonews.net
+19/11 19:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

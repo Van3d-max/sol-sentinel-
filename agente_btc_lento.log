@@ -730,3 +730,9 @@
 19/11 18:45:55 INFO       (-1.0 r1.0 claude) Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November
 19/11 18:45:55 INFO       (-0.6 r0.9 claude) Bitcoin faces tech selloff risk as funds cut exposure - Crypto News
 19/11 18:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista
+19/11 19:45:53 INFO    === btc_lento (BTC-EUR) ===
+19/11 19:45:53 INFO    Prezzo 56989.06 | medie 61933.12/67729.31 trend GIU | notizie -0.08 su 135 (2 nuove, 2 da Claude) | 0.2s
+19/11 19:45:53 INFO       (-0.7 r1.0 claude) Bitcoin slides toward $62,000 as Anthropic shares dip below $100 - Crypto Briefing
+19/11 19:45:53 INFO       (+0.6 r0.9 claude) Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record
+19/11 19:45:53 INFO       (+0.5 r1.0 claude) Institutional Bitcoin ETF Holdings Hit Record 356,491 BTC - Bitcoin Magazine
+19/11 19:45:54 INFO    -> ATTENDI: trend giornaliero non rialzista
