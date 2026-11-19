@@ -2836,3 +2836,9 @@
 19/11 16:01:23 INFO       (-0.5 r0.7 claude) Anthropic’s crypto futures traded 25% above its $81 billion IPO price as Bitcoin slumped 22%
 19/11 16:01:23 INFO       (+0.4 r0.9 claude) Russia’s Central Bank to Let Retail Investors Trade Bitcoin on Margin
 19/11 16:01:23 INFO    -> ATTENDI: trend 15 minuti non rialzista
+19/11 16:15:51 INFO    === btc_veloce (BTC-EUR) ===
+19/11 16:15:51 INFO    Prezzo 57412.12 | medie 57726.76/57892.27 trend GIU | notizie -0.07 su 122 (6 nuove, 6 da Claude) | 0.2s
+19/11 16:15:51 INFO       (-0.4 r0.8 claude) AI financing concerns could trigger further Bitcoin volatility, GSN CEO warns - Crypto Briefing
+19/11 16:15:51 INFO       (-0.5 r0.9 claude) Bitcoin ETFs: Navigating the Crypto Sell-Off - ETF Database
+19/11 16:15:51 INFO       (-0.4 r1.0 claude) Bitcoin Price Prediction: BTC Could Dip to $55K Before Its Next Explosive Rebound - FXEmpire
+19/11 16:15:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
