@@ -3484,3 +3484,9 @@
 20/11 19:01:22 INFO       (-0.9 r0.9 claude) Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play
 20/11 19:01:22 INFO       (-0.8 r0.9 claude) Bitcoin Drops Below $59K, Wiping Out $1.5B In Crypto Bets: MSTR, BMNR, ASST Stocks Extend Losses - Yahoo Finan
 20/11 19:01:22 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 19:15:55 INFO    === btc_veloce (BTC-EUR) ===
+20/11 19:15:55 INFO    Prezzo 52994.66 | medie 53635.40/54440.88 trend GIU | notizie -0.52 su 133 (2 nuove, 2 da Claude) | 0.2s
+20/11 19:15:55 INFO       (-0.9 r0.9 claude) Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play
+20/11 19:15:55 INFO       (-0.7 r1.0 claude) Bitcoin drops 7% to its lowest level since July as crypto sell-off deepens - Crypto Briefing
+20/11 19:15:55 INFO       (-0.8 r0.9 claude) Bitcoin Drops Below $59K, Wiping Out $1.5B In Crypto Bets: MSTR, BMNR, ASST Stocks Extend Losses - Yahoo Finan
+20/11 19:15:55 INFO    -> ATTENDI: trend 15 minuti non rialzista
