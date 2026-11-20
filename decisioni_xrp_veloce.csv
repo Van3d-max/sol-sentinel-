@@ -1750,3 +1750,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-20T05:31:12+01:00;0.8754;0.873044;0.874514;giu;-0.017;40;0;0;0;no;attendi;trend 15 minuti non rialzista;XRP Price Prediction: Drop to $0.93 Likely Despite Recent Bounce - FXEmpire;0.584
 2026-11-20T05:45:54+01:00;0.872;0.873556;0.874195;giu;-0.045;40;0;0;0;no;attendi;trend 15 minuti non rialzista;XRP Price Prediction: Drop to $0.93 Likely Despite Recent Bounce - FXEmpire;0.604
 2026-11-20T06:01:16+01:00;0.8759;0.874367;0.874105;su;-0.035;41;0;0;0;no;attendi;notizie sotto la soglia (-0.04);XRP Price Prediction: Drop to $0.93 Likely Despite Recent Bounce - FXEmpire;0.582
+2026-11-20T06:15:52+01:00;0.8755;0.8745;0.874152;su;-0.078;38;1;1;0;no;attendi;notizie sotto la soglia (-0.08);Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC hits July lows as ETH, XRP slide - FXStreet;0.567
