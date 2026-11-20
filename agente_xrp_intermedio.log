@@ -978,3 +978,10 @@
 20/11 14:45:54 INFO       (-1.0 r1.0 claude) Ripple Price Forecast: XRP fails to reclaim $1.00 despite supply shortage on Binance - FXStreet
 20/11 14:45:54 INFO       (-0.7 r0.5 claude) Top 4 Reasons Why BTC, ETH and XRP Price Are Crashing Today - CoinGape
 20/11 14:45:54 INFO    -> ATTENDI: trend orario non rialzista
+20/11 15:45:55 INFO    === xrp_intermedio (XRP-EUR) ===
+20/11 15:45:55 INFO    Trend superiore (ONE_DAY): GIU
+20/11 15:45:55 INFO    Prezzo 0.8244 | medie 0.87347/0.882454 trend GIU | notizie -0.14 su 39 (1 nuove, 1 da Claude) | 0.3s
+20/11 15:45:55 INFO       (-0.6 r1.0 claude) XRP’s Drops 4% as Analyst Warns of a ‘Deeper Correction’ - Benzinga
+20/11 15:45:55 INFO       (-0.6 r0.9 claude) XRP Price Drops To $0.94 As Broader Crypto Market Bleeds - MarketForces Africa
+20/11 15:45:55 INFO       (-1.0 r1.0 claude) Ripple Price Forecast: XRP fails to reclaim $1.00 despite supply shortage on Binance - FXStreet
+20/11 15:45:55 INFO    -> ATTENDI: trend orario non rialzista

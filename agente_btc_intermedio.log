@@ -992,3 +992,10 @@
 20/11 14:45:52 INFO       (-0.6 r1.0 claude) Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia
 20/11 14:45:52 INFO       (-0.5 r1.0 claude) Bitcoin tests key swing area low. A break below will target the 2026 lows - investingLive
 20/11 14:45:52 INFO    -> ATTENDI: trend orario non rialzista
+20/11 15:45:52 INFO    === btc_intermedio (BTC-EUR) ===
+20/11 15:45:53 INFO    Trend superiore (ONE_DAY): GIU
+20/11 15:45:53 INFO    Prezzo 54336.59 | medie 56375.95/57090.20 trend GIU | notizie -0.33 su 126 (15 nuove, 15 da Claude) | 0.3s
+20/11 15:45:53 INFO       (-0.6 r0.9 claude) Bitcoin selloff: Crypto is failing the 'digital gold' test again as it sinks with stocks - CNBC
+20/11 15:45:53 INFO       (-0.6 r0.9 claude) Bitcoin Mirrors SpaceX Pre-IPO Dump as Anthropic Debut Drains Liquidity - The Tech Buzz
+20/11 15:45:53 INFO       (-0.5 r1.0 claude) Bitcoin Briefly Falls Below $61,000 - bloomingbit
+20/11 15:45:53 INFO    -> ATTENDI: trend orario non rialzista
