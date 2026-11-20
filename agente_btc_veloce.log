@@ -3448,3 +3448,9 @@
 20/11 17:31:05 INFO       (-0.8 r1.0 claude) Bitcoin fell below $60,000 for the first time since July — Ethereum is also losing value - Українські Націонал
 20/11 17:31:05 INFO       (-0.8 r1.0 claude) Bitcoin falls below $60,000 level By Reuters - Investing.com
 20/11 17:31:05 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 17:45:49 INFO    === btc_veloce (BTC-EUR) ===
+20/11 17:45:49 INFO    Prezzo 53858.86 | medie 54092.95/55152.96 trend GIU | notizie -0.46 su 133 (6 nuove, 6 da Claude) | 0.1s
+20/11 17:45:49 INFO       (-0.8 r1.0 claude) Bitcoin Plunges to $59,000, Its Lowest Level Since July - www.trendingtopics.eu
+20/11 17:45:49 INFO       (-0.8 r1.0 claude) Bitcoin falls below $60K for first time since July amid broader market selloff
+20/11 17:45:49 INFO       (-0.7 r0.9 claude) Bitcoin Drops Below $60,000 As Tech Sell-off Intensifies -- WSJ - Moomoo
+20/11 17:45:49 INFO    -> ATTENDI: trend 15 minuti non rialzista

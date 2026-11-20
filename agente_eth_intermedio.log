@@ -1005,3 +1005,10 @@
 20/11 16:45:46 INFO       (-0.6 r1.0 claude) Ethereum Price Dips 5% As Binance Hacker Moves ETHs - MarketForces Africa
 20/11 16:45:46 INFO       (-0.5 r1.0 claude) Ethereum taker sell volume hits $786M in a single hour - Crypto Briefing
 20/11 16:45:46 INFO    -> ATTENDI: trend orario non rialzista
+20/11 17:45:47 INFO    === eth_intermedio (ETH-EUR) ===
+20/11 17:45:47 INFO    Trend superiore (ONE_DAY): GIU
+20/11 17:45:47 INFO    Prezzo 1485.43 | medie 1582.53/1606.34 trend GIU | notizie -0.41 su 67 (2 nuove, 2 da Claude) | 0.2s
+20/11 17:45:47 INFO       (-0.6 r0.9 claude) Ethereum faces outflows and risk aversion: Can ETH stabilize if institutional withdrawals continue? - Traders 
+20/11 17:45:47 INFO       (-0.6 r1.0 claude) Ethereum Price Forecast: Why is ETH faltering as ETF outflows outweigh returning retail demand? - www.tmgm.com
+20/11 17:45:47 INFO       (-0.6 r1.0 claude) Ethereum Price Dips 5% As Binance Hacker Moves ETHs - MarketForces Africa
+20/11 17:45:47 INFO    -> ATTENDI: trend orario non rialzista
