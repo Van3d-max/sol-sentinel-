@@ -3184,3 +3184,9 @@
 20/11 06:31:08 INFO       (-0.5 r0.6 claude) Here's what's crashing gold and likely weighing on bitcoin too
 20/11 06:31:08 INFO       (-0.6 r0.9 claude) Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt
 20/11 06:31:08 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 06:45:51 INFO    === btc_veloce (BTC-EUR) ===
+20/11 06:45:52 INFO    Prezzo 56224.15 | medie 56171.18/56269.66 trend GIU | notizie -0.27 su 123 (3 nuove, 3 da Claude) | 0.1s
+20/11 06:45:52 INFO       (-0.8 r0.9 claude) Bitcoin hits near 5-mth low below $62k as AI rout batters risk appetite - Investing.com
+20/11 06:45:52 INFO       (-0.8 r1.0 claude) Why is Bitcoin price down today? BTC hits four-month low - Crypto News
+20/11 06:45:52 INFO       (-0.8 r1.0 claude) Bitcoin price at lowest since July as liquidations mount - CryptoTicker.io
+20/11 06:45:52 INFO    -> ATTENDI: trend 15 minuti non rialzista
