@@ -3247,3 +3247,9 @@
 20/11 16:01:35 INFO    === shib_veloce (SHIB-EUR) ===
 20/11 16:01:36 INFO    Prezzo 3.23e-06 | medie 3.30667e-06/3.34429e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 20/11 16:01:36 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 16:15:55 INFO    === shib_veloce (SHIB-EUR) ===
+20/11 16:15:55 INFO    Prezzo 3.23e-06 | medie 3.29333e-06/3.33524e-06 trend GIU | notizie -0.05 su 20 (1 nuove, 1 da Claude) | 0.3s
+20/11 16:15:55 INFO       (-0.4 r0.9 claude) Shiba Inu: Shibarium Activity Hits Multi-Month Lows at Just 3 Figures - U.Today
+20/11 16:15:55 INFO       (-0.6 r0.9 claude) Shiba Inu weekly forecast: Downside risk persists as strong MACD and ADX signals weigh on price - Traders Unio
+20/11 16:15:55 INFO       (+0.3 r0.9 claude) Shiba Inu nears Bittensor in market cap, just $10M behind in crypto rankings. - Pluang
+20/11 16:15:55 INFO    -> ATTENDI: trend 15 minuti non rialzista
