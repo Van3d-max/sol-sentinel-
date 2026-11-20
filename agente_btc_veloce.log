@@ -3034,3 +3034,9 @@
 20/11 00:15:51 INFO       (-0.7 r0.9 claude) Bitcoin hits lowest since July as Fed hike talk and a Wall Street rout collide - investingLive
 20/11 00:15:51 INFO       (-0.7 r0.8 claude) Fed Minutes Signal Further Rate Increases, Pressuring Bitcoin Treasury Firms’ Funding: 8 outlets compared - Ne
 20/11 00:15:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 00:31:14 INFO    === btc_veloce (BTC-EUR) ===
+20/11 00:31:15 INFO    Prezzo 56547.27 | medie 56565.44/56538.04 trend SU | notizie -0.20 su 122 (2 nuove, 2 da Claude) | 0.4s
+20/11 00:31:15 INFO       (-0.8 r1.0 claude) Bitcoin slides toward $60,000 as spot ETF outflows near $3 billion - Cryptonews.net
+20/11 00:31:15 INFO       (-0.7 r0.9 claude) Bitcoin hits lowest since July as Fed hike talk and a Wall Street rout collide - investingLive
+20/11 00:31:15 INFO       (-0.6 r1.0 claude) Bitcoin dips, hovers at over four-month low amid rate hike bets, stocks rout - Investing.com
+20/11 00:31:15 INFO    -> ATTENDI: notizia shock: Bitcoin slides toward $60,000 as spot ETF outflows near $3 billion - Cryptonews.
