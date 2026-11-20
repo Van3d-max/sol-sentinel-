@@ -1013,3 +1013,10 @@
 20/11 17:45:49 INFO       (-0.8 r1.0 claude) Bitcoin falls below $60K for first time since July amid broader market selloff
 20/11 17:45:49 INFO       (-0.7 r0.9 claude) Bitcoin Drops Below $60,000 As Tech Sell-off Intensifies -- WSJ - Moomoo
 20/11 17:45:49 INFO    -> ATTENDI: trend orario non rialzista
+20/11 18:45:48 INFO    === btc_intermedio (BTC-EUR) ===
+20/11 18:45:49 INFO    Trend superiore (ONE_DAY): GIU
+20/11 18:45:49 INFO    Prezzo 53475.78 | medie 56014.81/56859.35 trend GIU | notizie -0.51 su 135 (5 nuove, 5 da Claude) | 0.4s
+20/11 18:45:49 INFO       (-0.9 r0.9 claude) Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play
+20/11 18:45:49 INFO       (-0.8 r0.9 claude) Bitcoin Drops Below $59K, Wiping Out $1.5B In Crypto Bets: MSTR, BMNR, ASST Stocks Extend Losses - Yahoo Finan
+20/11 18:45:49 INFO       (-0.8 r0.9 claude) Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut - CoinDesk
+20/11 18:45:49 INFO    -> ATTENDI: trend orario non rialzista
