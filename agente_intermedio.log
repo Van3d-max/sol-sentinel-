@@ -887,3 +887,10 @@
 19/11 23:45:47 INFO       (+0.4 r0.9 claude) VSOL: VanEck Solana ETF Shares of Beneficial Interest filed SEC... - Quantisnow
 19/11 23:45:47 INFO       (+0.2 r0.9 claude) Solana Announces 2027 Roadmap With On-Chain AI and Faster Blocks - Yahoo Finance
 19/11 23:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+20/11 00:45:47 INFO    === intermedio (SOL-EUR) ===
+20/11 00:45:47 INFO    Trend superiore (ONE_DAY): GIU
+20/11 00:45:47 INFO    Prezzo 66.3900 | medie 67.4685/67.4712 trend GIU | notizie +0.09 su 59 (0 nuove, 0 da Claude) | 0.2s
+20/11 00:45:47 INFO       (-0.4 r0.8 claude) VanEck to end Gemini custody and clearing agreements for Solana ETF - Crypto Briefing
+20/11 00:45:47 INFO       (+0.4 r0.9 claude) VSOL: VanEck Solana ETF Shares of Beneficial Interest filed SEC... - Quantisnow
+20/11 00:45:47 INFO       (+0.2 r0.9 claude) Solana Announces 2027 Roadmap With On-Chain AI and Faster Blocks - Yahoo Finance
+20/11 00:45:47 INFO    -> ATTENDI: trend orario non rialzista

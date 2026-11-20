@@ -887,3 +887,10 @@
 19/11 23:45:52 INFO       (-0.7 r0.8 claude) Fed Minutes Signal Further Rate Increases, Pressuring Bitcoin Treasury Firms’ Funding: 8 outlets compared - Ne
 19/11 23:45:52 INFO       (-0.7 r1.0 claude) Crypto Market Today, Nov. 19: Bitcoin Approaches $60,000 as ETF Outflows Surpass $2.5 Billion in 2026 - The Mo
 19/11 23:45:52 INFO    -> ATTENDI: trend orario non rialzista
+20/11 00:45:50 INFO    === btc_intermedio (BTC-EUR) ===
+20/11 00:45:50 INFO    Trend superiore (ONE_DAY): GIU
+20/11 00:45:50 INFO    Prezzo 56541.36 | medie 57460.07/57804.86 trend GIU | notizie -0.20 su 121 (1 nuove, 1 da Claude) | 0.3s
+20/11 00:45:50 INFO       (-0.8 r1.0 claude) Bitcoin slides toward $60,000 as spot ETF outflows near $3 billion - Cryptonews.net
+20/11 00:45:50 INFO       (-0.7 r0.9 claude) Bitcoin hits lowest since July as Fed hike talk and a Wall Street rout collide - investingLive
+20/11 00:45:50 INFO       (-0.6 r1.0 claude) Bitcoin dips, hovers at over four-month low amid rate hike bets, stocks rout - Investing.com
+20/11 00:45:50 INFO    -> ATTENDI: trend orario non rialzista

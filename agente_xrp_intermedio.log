@@ -873,3 +873,10 @@
 19/11 23:45:55 INFO       (+0.3 r0.7 claude) Ripple CEO sees crypto rebound, draws Anthropic IPO-SpaceX parallel - Yahoo Finance
 19/11 23:45:55 INFO       (-0.4 r1.0 claude) XRP Price Prediction: Drop to $0.93 Likely Despite Recent Bounce - FXEmpire
 19/11 23:45:55 INFO    -> ATTENDI: trend orario non rialzista
+20/11 00:45:50 INFO    === xrp_intermedio (XRP-EUR) ===
+20/11 00:45:51 INFO    Trend superiore (ONE_DAY): GIU
+20/11 00:45:51 INFO    Prezzo 0.8756 | medie 0.887965/0.889648 trend GIU | notizie +0.03 su 46 (0 nuove, 0 da Claude) | 0.3s
+20/11 00:45:51 INFO       (+0.5 r1.0 claude) XRP Price Forecast: Ripple CEO Hints at Recovery as 190M Coins Exit Exchanges - Cryptonews.net
+20/11 00:45:51 INFO       (+0.3 r0.7 claude) Ripple CEO sees crypto rebound, draws Anthropic IPO-SpaceX parallel - Yahoo Finance
+20/11 00:45:51 INFO       (-0.4 r1.0 claude) XRP Price Prediction: Drop to $0.93 Likely Despite Recent Bounce - FXEmpire
+20/11 00:45:51 INFO    -> ATTENDI: trend orario non rialzista
