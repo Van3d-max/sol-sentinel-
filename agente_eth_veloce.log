@@ -3384,3 +3384,9 @@
 20/11 14:31:09 INFO       (-0.6 r1.0 claude) Why Ethereum sell-off could be far from over? - FXStreet
 20/11 14:31:09 INFO       (-0.5 r0.9 claude) Ethereum Price Prediction: ETH Drops 23% in November as BlackRock ETF Loses $124M - Coinpaper
 20/11 14:31:09 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 14:45:48 INFO    === eth_veloce (ETH-EUR) ===
+20/11 14:45:48 INFO    Prezzo 1578.37 | medie 1584.81/1590.39 trend GIU | notizie -0.30 su 62 (1 nuove, 1 da Claude) | 0.3s
+20/11 14:45:48 INFO       (-0.7 r1.0 claude) Ether Sheds $1,000 in Seven Weeks as Exchange Inflows and ETF Outflows Pile On - BigGo Finance
+20/11 14:45:48 INFO       (-0.6 r1.0 claude) Why Ethereum sell-off could be far from over? - FXStreet
+20/11 14:45:48 INFO       (-0.5 r0.9 claude) Ethereum Price Prediction: ETH Drops 23% in November as BlackRock ETF Loses $124M - Coinpaper
+20/11 14:45:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
