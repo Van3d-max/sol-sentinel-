@@ -3330,3 +3330,9 @@
 20/11 12:15:47 INFO       (-0.6 r0.9 claude) Ethereum Breaks Below $1,800 as stETH Sees Single-Day Outflow of 4,186 Tokens, a Six-Month High - BigGo Financ
 20/11 12:15:47 INFO       (-0.5 r0.9 claude) Ethereum holds 1,700 as Glamsterdam delay and risk-off pressure weigh - Traders Union
 20/11 12:15:47 INFO    -> ATTENDI: notizie sotto la soglia (-0.23)
+20/11 12:31:07 INFO    === eth_veloce (ETH-EUR) ===
+20/11 12:31:07 INFO    Prezzo 1584.08 | medie 1595.30/1594.21 trend SU | notizie -0.24 su 62 (1 nuove, 1 da Claude) | 0.3s
+20/11 12:31:07 INFO       (-0.5 r0.4 claude) Panic Continues in the Cryptocurrency Market as Whales Take Action! Million-Dollar Transactions in Bitcoin, Et
+20/11 12:31:07 INFO       (-0.3 r0.8 claude) Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip
+20/11 12:31:07 INFO       (-0.6 r0.9 claude) Ethereum Breaks Below $1,800 as stETH Sees Single-Day Outflow of 4,186 Tokens, a Six-Month High - BigGo Financ
+20/11 12:31:07 INFO    -> ATTENDI: notizie sotto la soglia (-0.24)

@@ -3235,3 +3235,9 @@
 20/11 12:15:52 INFO       (+0.3 r0.9 claude) CME Group’s XRP futures average $216 million in daily volume through mid-November - Cryptonews.net
 20/11 12:15:52 INFO       (-0.6 r1.0 claude) Why is XRP collapsing? - FXStreet
 20/11 12:15:52 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 12:31:12 INFO    === xrp_veloce (XRP-EUR) ===
+20/11 12:31:12 INFO    Prezzo 0.8623 | medie 0.8719/0.874019 trend GIU | notizie -0.10 su 35 (3 nuove, 3 da Claude) | 0.3s
+20/11 12:31:12 INFO       (-1.0 r1.0 claude) Ripple Price Forecast: XRP fails to reclaim $1.00 despite supply shortage on Binance - FXStreet
+20/11 12:31:12 INFO       (+0.4 r0.9 claude) XRP Beats Solana in Japan With $880M Trading Volume Despite Global Crypto Selloff - Coinpaper
+20/11 12:31:12 INFO       (+0.3 r0.9 claude) CME Group’s XRP futures average $216 million in daily volume through mid-November - Cryptonews.net
+20/11 12:31:12 INFO    -> ATTENDI: trend 15 minuti non rialzista
