@@ -3552,3 +3552,9 @@
 20/11 21:30:59 INFO       (-0.8 r1.0 claude) Ethereum Falls 10.17% In Rout By Investing.com - Investing.com UK
 20/11 21:30:59 INFO       (-0.5 r0.9 claude) Why is Ethereum price down 9% today? - Traders Union
 20/11 21:30:59 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 21:45:42 INFO    === eth_veloce (ETH-EUR) ===
+20/11 21:45:42 INFO    Prezzo 1478.59 | medie 1465.96/1474.25 trend GIU | notizie -0.43 su 67 (0 nuove, 0 da Claude) | 0.2s
+20/11 21:45:42 INFO       (-0.8 r1.0 claude) Ethereum Falls 10% In Rout - Investing.com
+20/11 21:45:42 INFO       (-0.8 r1.0 claude) Ethereum Falls 10.17% In Rout By Investing.com - Investing.com UK
+20/11 21:45:42 INFO       (-0.5 r0.9 claude) Why is Ethereum price down 9% today? - Traders Union
+20/11 21:45:42 INFO    -> ATTENDI: trend 15 minuti non rialzista

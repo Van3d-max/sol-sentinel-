@@ -1032,3 +1032,10 @@
 20/11 20:45:46 INFO       (-0.6 r0.9 claude) Why is Solana price down 6.9% today? - Traders Union
 20/11 20:45:46 INFO       (-1.0 r0.6 claude) Bitcoin Price Crashes Below $60K as Ethereum, XRP and Solana Plunge - Coinpedia
 20/11 20:45:46 INFO    -> ATTENDI: trend orario non rialzista
+20/11 21:45:42 INFO    === intermedio (SOL-EUR) ===
+20/11 21:45:42 INFO    Trend superiore (ONE_DAY): GIU
+20/11 21:45:42 INFO    Prezzo 62.6400 | medie 64.7465/66.2416 trend GIU | notizie -0.20 su 45 (0 nuove, 0 da Claude) | 0.2s
+20/11 21:45:42 INFO       (-0.5 r0.9 claude) Solana slips to $68.68 as ETF inflows give way to withdrawals - Crypto News
+20/11 21:45:42 INFO       (-0.6 r0.9 claude) Why is Solana price down 6.9% today? - Traders Union
+20/11 21:45:42 INFO       (-1.0 r0.6 claude) Bitcoin Price Crashes Below $60K as Ethereum, XRP and Solana Plunge - Coinpedia
+20/11 21:45:42 INFO    -> ATTENDI: trend orario non rialzista
