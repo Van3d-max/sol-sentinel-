@@ -874,3 +874,9 @@
 20/11 18:45:46 INFO       (-0.6 r0.9 claude) Ethereum faces outflows and risk aversion: Can ETH stabilize if institutional withdrawals continue? - Traders 
 20/11 18:45:46 INFO       (-0.6 r1.0 claude) Ethereum Price Forecast: Why is ETH faltering as ETF outflows outweigh returning retail demand? - www.tmgm.com
 20/11 18:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista
+20/11 19:45:51 INFO    === eth_lento (ETH-EUR) ===
+20/11 19:45:51 INFO    Prezzo 1471.25 | medie 1706.92/1936.30 trend GIU | notizie -0.37 su 90 (2 nuove, 2 da Claude) | 0.1s
+20/11 19:45:51 INFO       (-0.8 r1.0 claude) Ethereum Falls 10% In Rout - Investing.com
+20/11 19:45:51 INFO       (-0.8 r1.0 claude) Ethereum Falls 10.17% In Bearish Trade By Investing.com - Investing.com Canada
+20/11 19:45:51 INFO       (-0.6 r0.9 claude) Ethereum drops to 1616.84 — Ethereum Foundation privacy call overshadowed by heavy selling - Traders Union
+20/11 19:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista
