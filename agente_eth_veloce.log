@@ -3186,3 +3186,9 @@
 20/11 06:15:50 INFO       (-0.3 r1.0 claude) Ethereum’s next big upgrade is pushed into 2027 by apps it would break
 20/11 06:15:50 INFO       (-0.3 r1.0 claude) ETH news: Ethereum’s next big upgrade is pushed into 2027 by apps it would break - CoinDesk
 20/11 06:15:50 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 06:31:07 INFO    === eth_veloce (ETH-EUR) ===
+20/11 06:31:07 INFO    Prezzo 1585.44 | medie 1576.79/1583.11 trend GIU | notizie -0.31 su 63 (6 nuove, 6 da Claude) | 0.2s
+20/11 06:31:07 INFO       (-0.6 r1.0 claude) Spot Ethereum ETFs See $131.2 Million in Net Outflows for Fourth Straight Session - bloomingbit
+20/11 06:31:07 INFO       (-0.5 r1.0 claude) Ethereum Spot ETFs Record $131M Net Outflow on November 19 - KuCoin
+20/11 06:31:07 INFO       (-0.7 r0.6 claude) Crypto market crash today: Why are Ethereum, ZEC and altcoins down? - Crypto News
+20/11 06:31:07 INFO    -> ATTENDI: trend 15 minuti non rialzista

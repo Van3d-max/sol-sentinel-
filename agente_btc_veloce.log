@@ -3178,3 +3178,9 @@
 20/11 06:15:52 INFO       (-0.7 r1.0 claude) On the Chain: Bitcoin falls below US$62,000 as rate fears weigh on crypto - Yahoo Finance Australia
 20/11 06:15:52 INFO       (+0.5 r0.9 claude) Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling - Cryptonews.net
 20/11 06:15:52 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 06:31:08 INFO    === btc_veloce (BTC-EUR) ===
+20/11 06:31:08 INFO    Prezzo 56303.72 | medie 56158.45/56298.02 trend GIU | notizie -0.05 su 31 (0 nuove, 0 da Claude) | 0.2s
+20/11 06:31:08 INFO       (+0.5 r0.9 claude) Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling
+20/11 06:31:08 INFO       (-0.5 r0.6 claude) Here's what's crashing gold and likely weighing on bitcoin too
+20/11 06:31:08 INFO       (-0.6 r0.9 claude) Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt
+20/11 06:31:08 INFO    -> ATTENDI: trend 15 minuti non rialzista
