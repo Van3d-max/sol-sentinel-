@@ -3462,3 +3462,9 @@
 20/11 17:45:47 INFO       (-0.6 r1.0 claude) Ethereum Price Forecast: Why is ETH faltering as ETF outflows outweigh returning retail demand? - www.tmgm.com
 20/11 17:45:47 INFO       (-0.6 r1.0 claude) Ethereum Price Dips 5% As Binance Hacker Moves ETHs - MarketForces Africa
 20/11 17:45:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 18:01:16 INFO    === eth_veloce (ETH-EUR) ===
+20/11 18:01:16 INFO    Prezzo 1485.28 | medie 1492.34/1538.08 trend GIU | notizie -0.12 su 5 (0 nuove, 0 da Claude) | 0.5s
+20/11 18:01:16 INFO       (-0.3 r0.8 claude) Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip
+20/11 18:01:16 INFO       (-0.2 r0.9 claude) Ethereum targets December Glamsterdam test despite 200 findings that could delay upgrade
+20/11 18:01:16 INFO       (-0.3 r1.0 claude) Ethereum’s next big upgrade is pushed into 2027 by apps it would break
+20/11 18:01:16 INFO    -> ATTENDI: trend 15 minuti non rialzista
