@@ -964,3 +964,8 @@
 20/11 10:45:58 INFO       (-0.6 r0.9 claude) ETF setbacks and treasury sales weigh on Solana price - Traders Union
 20/11 10:45:58 INFO       (+0.2 r0.7 claude) Ledger launches Clear Signing on Solana with Jupiter - CFOtech Asia
 20/11 10:45:58 INFO    -> ATTENDI: trend orario non rialzista
+20/11 11:45:46 INFO    === intermedio (SOL-EUR) ===
+20/11 11:45:47 INFO    Trend superiore (ONE_DAY): GIU
+20/11 11:45:47 INFO    Prezzo 65.6100 | medie 66.4025/67.0462 trend GIU | notizie -0.01 su 1 (0 nuove, 0 da Claude) | 0.6s
+20/11 11:45:47 INFO       (-0.1 r0.4 claude) VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs
+20/11 11:45:47 INFO    -> ATTENDI: trend orario non rialzista

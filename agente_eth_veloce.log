@@ -3312,3 +3312,9 @@
 20/11 11:31:04 INFO       (-0.5 r0.9 claude) Ethereum holds 1,700 as Glamsterdam delay and risk-off pressure weigh - Traders Union
 20/11 11:31:04 INFO       (-0.5 r0.9 claude) Ethereum price approaches critical support as November losses reach 23%, can ETH recover? - Crypto News
 20/11 11:31:04 INFO    -> ATTENDI: notizie sotto la soglia (-0.23)
+20/11 11:45:49 INFO    === eth_veloce (ETH-EUR) ===
+20/11 11:45:49 INFO    Prezzo 1594.76 | medie 1596.98/1594.54 trend SU | notizie -0.24 su 61 (1 nuove, 1 da Claude) | 0.3s
+20/11 11:45:49 INFO       (-0.3 r0.8 claude) Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip
+20/11 11:45:49 INFO       (-0.6 r0.9 claude) Ethereum Breaks Below $1,800 as stETH Sees Single-Day Outflow of 4,186 Tokens, a Six-Month High - BigGo Financ
+20/11 11:45:49 INFO       (-0.5 r0.9 claude) Ethereum holds 1,700 as Glamsterdam delay and risk-off pressure weigh - Traders Union
+20/11 11:45:49 INFO    -> ATTENDI: notizie sotto la soglia (-0.24)

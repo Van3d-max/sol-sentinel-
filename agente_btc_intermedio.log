@@ -964,3 +964,10 @@
 20/11 10:46:03 INFO       (-0.7 r0.9 claude) Bitcoin extends losses as growth concerns increase amid stock market rout. What could change the trend? - inve
 20/11 10:46:03 INFO       (-0.8 r1.0 claude) Bitcoin Slips to Four-Month Low Under $61,300 as ETF Outflows and Liquidations Snowball - BigGo Finance
 20/11 10:46:03 INFO    -> ATTENDI: trend orario non rialzista
+20/11 11:45:51 INFO    === btc_intermedio (BTC-EUR) ===
+20/11 11:45:52 INFO    Trend superiore (ONE_DAY): GIU
+20/11 11:45:52 INFO    Prezzo 56365.57 | medie 56576.37/57281.27 trend GIU | notizie -0.30 su 124 (2 nuove, 2 da Claude) | 0.3s
+20/11 11:45:52 INFO       (-1.0 r1.0 claude) Why is Bitcoin falling below $63,000 as ETF outflows accelerate? - FXStreet
+20/11 11:45:52 INFO       (-0.6 r0.9 claude) Bitcoin drops for third straight day as Asian tech shares slide
+20/11 11:45:52 INFO       (-0.6 r0.9 claude) Peter Schiff Warns Bitcoin ‘Hasn't Gone Down Enough’ Despite Fall Toward $62,000, Says Gold's Sharp Sello - Be
+20/11 11:45:52 INFO    -> ATTENDI: trend orario non rialzista
