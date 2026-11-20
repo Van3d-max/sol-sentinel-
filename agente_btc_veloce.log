@@ -3430,3 +3430,9 @@
 20/11 16:45:49 INFO       (-0.8 r1.0 claude) Bitcoin Price Sinks to $61,300, Its Lowest Level since July as Asian Stocks Crash - Cryptonews.net
 20/11 16:45:49 INFO       (-0.8 r0.9 claude) Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February
 20/11 16:45:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 17:01:22 INFO    === btc_veloce (BTC-EUR) ===
+20/11 17:01:22 INFO    Prezzo 54035.93 | medie 54645.13/55479.19 trend GIU | notizie -0.47 su 132 (10 nuove, 10 da Claude) | 0.3s
+20/11 17:01:22 INFO       (-0.8 r1.0 claude) Bitcoin falls below $60K for first time since July amid broader market selloff
+20/11 17:01:22 INFO       (-0.8 r1.0 claude) Bitcoin fell below $60,000 for the first time since July — Ethereum is also losing value - Українські Націонал
+20/11 17:01:22 INFO       (-0.8 r1.0 claude) Bitcoin falls below $60,000 level By Reuters - Investing.com
+20/11 17:01:22 INFO    -> ATTENDI: trend 15 minuti non rialzista
