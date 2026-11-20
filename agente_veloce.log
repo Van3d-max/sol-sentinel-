@@ -11164,3 +11164,8 @@
 20/11 01:45:47 INFO       (-0.4 r0.8 claude) VanEck to end Gemini custody and clearing agreements for Solana ETF - Crypto Briefing
 20/11 01:45:47 INFO       (+0.4 r0.9 claude) VSOL: VanEck Solana ETF Shares of Beneficial Interest filed SEC... - Quantisnow
 20/11 01:45:47 INFO    -> ATTENDI: obiettivo +1.65% sotto il minimo +2.20% (commissioni)
+20/11 02:01:12 INFO    === veloce (SOL-EUR) ===
+20/11 02:01:12 INFO    Prezzo 65.6500 | medie 66.4378/66.4276 trend SU | notizie -0.01 su 2 (0 nuove, 0 da Claude) | 0.2s
+20/11 02:01:12 INFO       (-0.3 r0.5 claude) Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand
+20/11 02:01:12 INFO       (-0.1 r0.2 claude) IOSCO warns quantum upgrades could slow blockchains, leave security gaps
+20/11 02:01:12 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
