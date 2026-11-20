@@ -880,3 +880,9 @@
 20/11 19:45:53 INFO       (-0.9 r0.9 claude) Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play
 20/11 19:45:53 INFO       (-0.9 r1.0 claude) Bitcoin crashes to $59,000 as Anthropic falls 25% from yesterday’s IPO-day high - CryptoSlate
 20/11 19:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista
+20/11 20:45:50 INFO    === btc_lento (BTC-EUR) ===
+20/11 20:45:50 INFO    Prezzo 53456.45 | medie 60871.12/67149.38 trend GIU | notizie -0.47 su 142 (5 nuove, 5 da Claude) | 0.2s
+20/11 20:45:50 INFO       (-0.9 r1.0 claude) Bitcoin Tanks 7% To 2026 Low—Now Below $59,000 - Forbes
+20/11 20:45:50 INFO       (-0.8 r1.0 claude) Bitcoin crashes below key level as extreme fear grips market - Yahoo Finance
+20/11 20:45:50 INFO       (-0.8 r1.0 claude) Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play - Cryptonews.net
+20/11 20:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista

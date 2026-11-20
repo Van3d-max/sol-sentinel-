@@ -1027,3 +1027,10 @@
 20/11 19:45:53 INFO       (-0.8 r0.9 claude) Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut - CoinDesk
 20/11 19:45:53 INFO       (-0.9 r0.9 claude) Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play
 20/11 19:45:53 INFO    -> ATTENDI: trend orario non rialzista
+20/11 20:45:49 INFO    === btc_intermedio (BTC-EUR) ===
+20/11 20:45:50 INFO    Trend superiore (ONE_DAY): GIU
+20/11 20:45:50 INFO    Prezzo 53434.17 | medie 55688.41/56698.99 trend GIU | notizie -0.47 su 132 (5 nuove, 5 da Claude) | 0.4s
+20/11 20:45:50 INFO       (-0.7 r0.9 claude) Bitcoin falls below $60,000 as the Nasdaq's AI selloff drags crypto down - Startup Fortune
+20/11 20:45:50 INFO       (-0.9 r1.0 claude) Bitcoin Tanks 7% To 2026 Low—Now Below $59,000 - Forbes
+20/11 20:45:50 INFO       (-0.8 r1.0 claude) Bitcoin crashes below key level as extreme fear grips market - Yahoo Finance
+20/11 20:45:50 INFO    -> ATTENDI: trend orario non rialzista

@@ -3520,3 +3520,9 @@
 20/11 20:31:07 INFO       (-0.8 r1.0 claude) Bitcoin plunges below $59,000, on pace for its worst month since June 2022 - Yahoo Finance
 20/11 20:31:07 INFO       (-0.8 r1.0 claude) Bitcoin crashes below key level as extreme fear grips market - Yahoo Finance
 20/11 20:31:07 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 20:45:49 INFO    === btc_veloce (BTC-EUR) ===
+20/11 20:45:49 INFO    Prezzo 53434.17 | medie 53315.44/53713.75 trend GIU | notizie -0.47 su 132 (5 nuove, 5 da Claude) | 0.3s
+20/11 20:45:49 INFO       (-0.7 r0.9 claude) Bitcoin falls below $60,000 as the Nasdaq's AI selloff drags crypto down - Startup Fortune
+20/11 20:45:49 INFO       (-0.9 r1.0 claude) Bitcoin Tanks 7% To 2026 Low—Now Below $59,000 - Forbes
+20/11 20:45:49 INFO       (-0.8 r1.0 claude) Bitcoin crashes below key level as extreme fear grips market - Yahoo Finance
+20/11 20:45:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
