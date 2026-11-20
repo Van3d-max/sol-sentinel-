@@ -3366,3 +3366,9 @@
 20/11 13:45:51 INFO       (-0.5 r0.9 claude) Ethereum Price Prediction: ETH Drops 23% in November as BlackRock ETF Loses $124M - Coinpaper
 20/11 13:45:51 INFO       (-0.4 r1.0 claude) Ethereum Lost $1,000 in 7 Weeks: What’s Going On? - Benzinga
 20/11 13:45:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 14:01:23 INFO    === eth_veloce (ETH-EUR) ===
+20/11 14:01:23 INFO    Prezzo 1594.64 | medie 1583.72/1590.77 trend GIU | notizie -0.28 su 64 (1 nuove, 1 da Claude) | 0.2s
+20/11 14:01:23 INFO       (-0.7 r1.0 claude) Ether Sheds $1,000 in Seven Weeks as Exchange Inflows and ETF Outflows Pile On - BigGo Finance
+20/11 14:01:23 INFO       (-0.5 r0.9 claude) Ethereum Price Prediction: ETH Drops 23% in November as BlackRock ETF Loses $124M - Coinpaper
+20/11 14:01:23 INFO       (-0.4 r1.0 claude) Ethereum Lost $1,000 in 7 Weeks: What’s Going On? - Benzinga
+20/11 14:01:23 INFO    -> ATTENDI: trend 15 minuti non rialzista
