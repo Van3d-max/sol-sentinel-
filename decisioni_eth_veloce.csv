@@ -1822,3 +1822,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-20T23:15:45+01:00;1480.23;1468.27;1472.58;giu;-0.360;68;2;2;2;no;attendi;trend 15 minuti non rialzista;Ethereum Falls 10% In Rout - Investing.com;0.975
 2026-11-20T23:31:02+01:00;1478.60;1469.83;1472.36;giu;-0.359;68;0;0;0;no;attendi;trend 15 minuti non rialzista;Ethereum Falls 10% In Rout - Investing.com;0.941
 2026-11-20T23:45:47+01:00;1481.29;1471.40;1472.26;giu;-0.359;69;2;2;0;no;attendi;trend 15 minuti non rialzista;Ethereum Falls 10% In Rout - Investing.com;0.908
+2026-11-21T00:01:13+01:00;1480.48;1474.23;1472.14;su;-0.366;68;0;0;0;no;attendi;notizie sotto la soglia (-0.37);Ethereum Falls 10% In Rout - Investing.com;0.891
