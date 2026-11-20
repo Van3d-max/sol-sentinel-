@@ -3538,3 +3538,9 @@
 20/11 21:15:47 INFO       (-0.8 r1.0 claude) Bitcoin plunges 6%, dips under $58K - TradingView
 20/11 21:15:47 INFO       (-0.7 r1.0 claude) The price of Bitcoin dipped to $57,716, its lowest since September 2024. - The Verge
 20/11 21:15:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 21:31:01 INFO    === btc_veloce (BTC-EUR) ===
+20/11 21:31:01 INFO    Prezzo 53448.39 | medie 53334.01/53569.88 trend GIU | notizie -0.49 su 129 (2 nuove, 2 da Claude) | 0.2s
+20/11 21:31:01 INFO       (-0.8 r1.0 claude) Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%
+20/11 21:31:01 INFO       (-0.8 r0.9 claude) Bitcoin Price Slips Near $58,300 As Nasdaq Falls 5% - Bitcoin Magazine
+20/11 21:31:01 INFO       (-0.8 r1.0 claude) Bitcoin plunges below $59,000, on pace for its worst month since June 2022 - Yahoo Finance
+20/11 21:31:01 INFO    -> ATTENDI: trend 15 minuti non rialzista
