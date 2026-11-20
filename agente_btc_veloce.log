@@ -3244,3 +3244,9 @@
 20/11 09:01:18 INFO       (+0.5 r0.9 claude) Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling
 20/11 09:01:18 INFO       (-0.5 r0.6 claude) Here's what's crashing gold and likely weighing on bitcoin too
 20/11 09:01:18 INFO    -> ATTENDI: notizie sotto la soglia (-0.14)
+20/11 09:16:06 INFO    === btc_veloce (BTC-EUR) ===
+20/11 09:16:07 INFO    Prezzo 56303.54 | medie 56293.98/56240.22 trend SU | notizie -0.30 su 125 (5 nuove, 5 da Claude) | 0.3s
+20/11 09:16:07 INFO       (-0.8 r1.0 claude) Bitcoin Slips to Four-Month Low Under $61,300 as ETF Outflows and Liquidations Snowball - BigGo Finance
+20/11 09:16:07 INFO       (-0.8 r1.0 claude) Bitcoin Slides Below $62K to Near Five-Month Low as AI Stock Rout Saps Risk Appetite - BigGo Finance
+20/11 09:16:07 INFO       (-0.7 r1.0 claude) Bitcoin Falls Below $62,000 As Senate Rejects Iran War Powers Resolution - BeInCrypto
+20/11 09:16:07 INFO    -> ATTENDI: notizia shock: Bitcoin Slips to Four-Month Low Under $61,300 as ETF Outflows and Liquidations S
