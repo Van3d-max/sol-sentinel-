@@ -942,3 +942,10 @@
 20/11 07:45:52 INFO       (-0.6 r1.0 claude) Spot Ethereum ETFs See $131.2 Million in Net Outflows for Fourth Straight Session - bloomingbit
 20/11 07:45:52 INFO       (-0.5 r1.0 claude) Ethereum Spot ETFs Record $131M Net Outflow on November 19 - KuCoin
 20/11 07:45:52 INFO    -> ATTENDI: trend orario non rialzista
+20/11 08:45:47 INFO    === eth_intermedio (ETH-EUR) ===
+20/11 08:45:48 INFO    Trend superiore (ONE_DAY): GIU
+20/11 08:45:48 INFO    Prezzo 1599.17 | medie 1605.03/1618.89 trend GIU | notizie -0.26 su 67 (0 nuove, 0 da Claude) | 0.2s
+20/11 08:45:48 INFO       (-0.6 r0.9 claude) Ethereum Breaks Below $1,800 as stETH Sees Single-Day Outflow of 4,186 Tokens, a Six-Month High - BigGo Financ
+20/11 08:45:48 INFO       (-0.5 r0.9 claude) Ethereum holds 1,700 as Glamsterdam delay and risk-off pressure weigh - Traders Union
+20/11 08:45:48 INFO       (-0.5 r0.9 claude) Ethereum price approaches critical support as November losses reach 23%, can ETH recover? - Crypto News
+20/11 08:45:48 INFO    -> ATTENDI: trend orario non rialzista
