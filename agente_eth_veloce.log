@@ -3150,3 +3150,9 @@
 20/11 04:45:50 INFO       (-0.3 r0.9 claude) Ethereum's 'Glamsterdam' Upgrade Could Be Delayed Until May Over Smart Contract Risks - bloomingbit
 20/11 04:45:50 INFO       (-0.2 r0.5 claude) VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs
 20/11 04:45:50 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 05:01:14 INFO    === eth_veloce (ETH-EUR) ===
+20/11 05:01:14 INFO    Prezzo 1573.43 | medie 1583.18/1589.47 trend GIU | notizie -0.20 su 5 (1 nuove, 1 da Claude) | 0.3s
+20/11 05:01:14 INFO       (-0.3 r1.0 claude) Ethereum’s next big upgrade is pushed into 2027 by apps it would break
+20/11 05:01:14 INFO       (-0.2 r0.5 claude) VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs
+20/11 05:01:14 INFO       (-0.2 r0.9 claude) Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns
+20/11 05:01:14 INFO    -> ATTENDI: trend 15 minuti non rialzista
