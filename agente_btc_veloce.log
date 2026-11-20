@@ -3082,3 +3082,9 @@
 20/11 02:15:49 INFO       (-0.8 r1.0 claude) Bitcoin slides toward $60,000 as spot ETF outflows near $3 billion - Cryptonews.net
 20/11 02:15:49 INFO       (-0.7 r0.9 claude) Bitcoin Retreats to $61,000 Range as Fed Tightening Fears Spark 'Extreme Risk-Off' - BigGo Finance
 20/11 02:15:49 INFO    -> ATTENDI: notizia shock: Bitcoin Slides Below $62,000 as $528 Million in Positions Get Wiped Out - BigGo 
+20/11 02:31:14 INFO    === btc_veloce (BTC-EUR) ===
+20/11 02:31:14 INFO    Prezzo 56035.44 | medie 56444.28/56440.94 trend SU | notizie -0.06 su 29 (0 nuove, 0 da Claude) | 0.3s
+20/11 02:31:14 INFO       (-0.6 r1.0 claude) Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month
+20/11 02:31:14 INFO       (+0.5 r1.0 claude) David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k
+20/11 02:31:14 INFO       (-0.6 r0.7 claude) Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides
+20/11 02:31:14 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)

@@ -1740,3 +1740,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-20T02:45:47+01:00;1601.11;1601.64;1600.00;su;-0.099;62;0;0;0;no;attendi;notizie sotto la soglia (-0.10);Crypto Selloff Drags Bitcoin To Below US$62,000, Ethereum Near US$1,750 - BusinessToday Malaysia;0.526
 2026-11-20T03:01:12+01:00;1582.38;1599.67;1598.94;su;-0.101;60;0;0;0;no;attendi;notizie sotto la soglia (-0.10);Crypto Selloff Drags Bitcoin To Below US$62,000, Ethereum Near US$1,750 - BusinessToday Malaysia;0.634
 2026-11-20T03:15:48+01:00;1581.76;1596.99;1597.68;giu;-0.118;59;0;0;0;no;attendi;trend 15 minuti non rialzista;Crypto Selloff Drags Bitcoin To Below US$62,000, Ethereum Near US$1,750 - BusinessToday Malaysia;0.644
+2026-11-20T03:31:13+01:00;1577.35;1594.02;1596.53;giu;-0.079;60;1;1;0;no;attendi;trend 15 minuti non rialzista;Crypto Selloff Drags Bitcoin To Below US$62,000, Ethereum Near US$1,750 - BusinessToday Malaysia;0.653
