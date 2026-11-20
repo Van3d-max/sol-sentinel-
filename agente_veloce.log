@@ -11672,3 +11672,9 @@
 20/11 23:30:58 INFO       (-0.5 r0.9 claude) Solana slips to $68.68 as ETF inflows give way to withdrawals - Crypto News
 20/11 23:30:58 INFO       (-0.6 r0.9 claude) Why is Solana price down 6.9% today? - Traders Union
 20/11 23:30:58 INFO    -> ATTENDI: notizie sotto la soglia (-0.07)
+20/11 23:45:40 INFO    === veloce (SOL-EUR) ===
+20/11 23:45:40 INFO    Prezzo 62.9900 | medie 63.0911/62.5233 trend SU | notizie -0.13 su 44 (1 nuove, 1 da Claude) | 0.3s
+20/11 23:45:40 INFO       (-0.5 r1.0 claude) Solana Price Prediction: SOL Bearish Trend Deepens Despite Ambitious 2027 Network Overhaul - Cryptonews.net
+20/11 23:45:40 INFO       (+0.3 r0.9 claude) Anza’s CEO outlines plans to double Solana compute capacity and cut storage costs - Crypto Briefing
+20/11 23:45:40 INFO       (-0.5 r0.9 claude) Solana slips to $68.68 as ETF inflows give way to withdrawals - Crypto News
+20/11 23:45:40 INFO    -> ATTENDI: notizie sotto la soglia (-0.13)
