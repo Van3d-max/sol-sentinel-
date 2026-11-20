@@ -3370,3 +3370,9 @@
 20/11 14:15:51 INFO       (-0.6 r1.0 claude) Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia
 20/11 14:15:51 INFO       (-0.6 r0.9 claude) Bitcoin Price Slips Near $61,500 As Tech Selloff Hits Asia - Bitcoin Magazine
 20/11 14:15:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 14:31:11 INFO    === btc_veloce (BTC-EUR) ===
+20/11 14:31:11 INFO    Prezzo 56468.35 | medie 56107.57/56239.49 trend GIU | notizie -0.32 su 123 (4 nuove, 4 da Claude) | 0.3s
+20/11 14:31:11 INFO       (-0.7 r1.0 claude) Bitcoin Price Crashes Below $62K: What Should You Do? - Cryptonews
+20/11 14:31:11 INFO       (-0.6 r1.0 claude) Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia
+20/11 14:31:11 INFO       (-0.6 r0.9 claude) Bitcoin holders face first collective loss since early 2023: Glassnode - Cryptonews.net
+20/11 14:31:11 INFO    -> ATTENDI: trend 15 minuti non rialzista
