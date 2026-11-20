@@ -894,3 +894,10 @@
 20/11 00:45:50 INFO       (-0.7 r0.9 claude) Bitcoin hits lowest since July as Fed hike talk and a Wall Street rout collide - investingLive
 20/11 00:45:50 INFO       (-0.6 r1.0 claude) Bitcoin dips, hovers at over four-month low amid rate hike bets, stocks rout - Investing.com
 20/11 00:45:50 INFO    -> ATTENDI: trend orario non rialzista
+20/11 01:45:49 INFO    === btc_intermedio (BTC-EUR) ===
+20/11 01:45:50 INFO    Trend superiore (ONE_DAY): GIU
+20/11 01:45:50 INFO    Prezzo 56579.30 | medie 57393.74/57760.12 trend GIU | notizie -0.20 su 106 (1 nuove, 1 da Claude) | 0.3s
+20/11 01:45:50 INFO       (-0.8 r1.0 claude) Bitcoin slides toward $60,000 as spot ETF outflows near $3 billion - Cryptonews.net
+20/11 01:45:50 INFO       (-0.6 r0.9 claude) Bitcoin Slides Toward $62,000 as Stablecoin Liquidity Shrinks - Businesskorea
+20/11 01:45:50 INFO       (-0.7 r0.9 claude) Bitcoin hits lowest since July as Fed hike talk and a Wall Street rout collide - investingLive
+20/11 01:45:50 INFO    -> ATTENDI: trend orario non rialzista
