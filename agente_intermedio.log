@@ -969,3 +969,10 @@
 20/11 11:45:47 INFO    Prezzo 65.6100 | medie 66.4025/67.0462 trend GIU | notizie -0.01 su 1 (0 nuove, 0 da Claude) | 0.6s
 20/11 11:45:47 INFO       (-0.1 r0.4 claude) VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs
 20/11 11:45:47 INFO    -> ATTENDI: trend orario non rialzista
+20/11 12:45:48 INFO    === intermedio (SOL-EUR) ===
+20/11 12:45:48 INFO    Trend superiore (ONE_DAY): GIU
+20/11 12:45:48 INFO    Prezzo 64.7300 | medie 66.3270/66.9864 trend GIU | notizie +0.04 su 51 (2 nuove, 2 da Claude) | 0.2s
+20/11 12:45:48 INFO       (+0.4 r0.9 claude) Allfunds picks Solana to push tokenized funds past the pilot stage - Crypto Briefing
+20/11 12:45:48 INFO       (+0.4 r0.8 claude) Western Union says its Solana cash-out network is now live - The Paypers
+20/11 12:45:48 INFO       (-0.3 r0.6 claude) XRP Beats Solana in Japan With $880M Trading Volume Despite Global Crypto Selloff - Coinpaper
+20/11 12:45:48 INFO    -> ATTENDI: trend orario non rialzista

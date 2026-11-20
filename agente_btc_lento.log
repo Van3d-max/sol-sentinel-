@@ -832,3 +832,9 @@
 20/11 11:45:52 INFO       (-0.8 r1.0 claude) Bitcoin Slips to Four-Month Low Under $61,300 as ETF Outflows and Liquidations Snowball - BigGo Finance
 20/11 11:45:52 INFO       (-0.6 r0.9 claude) Bitcoin drops for third straight day as Asian tech shares slide
 20/11 11:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista
+20/11 12:45:53 INFO    === btc_lento (BTC-EUR) ===
+20/11 12:45:53 INFO    Prezzo 56067.64 | medie 60871.12/67149.38 trend GIU | notizie -0.29 su 141 (9 nuove, 9 da Claude) | 0.1s
+20/11 12:45:53 INFO       (-1.0 r1.0 claude) Why is Bitcoin falling below $63,000 as ETF outflows accelerate? - FXStreet
+20/11 12:45:53 INFO       (-0.8 r1.0 claude) Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K - Yahoo Finance
+20/11 12:45:53 INFO       (-0.8 r0.9 claude) Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K
+20/11 12:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista

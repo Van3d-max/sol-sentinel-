@@ -970,3 +970,10 @@
 20/11 11:45:49 INFO       (-0.6 r0.9 claude) Ethereum Breaks Below $1,800 as stETH Sees Single-Day Outflow of 4,186 Tokens, a Six-Month High - BigGo Financ
 20/11 11:45:49 INFO       (-0.5 r0.9 claude) Ethereum holds 1,700 as Glamsterdam delay and risk-off pressure weigh - Traders Union
 20/11 11:45:49 INFO    -> ATTENDI: trend orario non rialzista
+20/11 12:45:49 INFO    === eth_intermedio (ETH-EUR) ===
+20/11 12:45:50 INFO    Trend superiore (ONE_DAY): GIU
+20/11 12:45:50 INFO    Prezzo 1584.11 | medie 1597.04/1614.50 trend GIU | notizie -0.27 su 62 (2 nuove, 2 da Claude) | 0.3s
+20/11 12:45:50 INFO       (-0.5 r0.9 claude) Ethereum Price Prediction: ETH Drops 23% in November as BlackRock ETF Loses $124M - Coinpaper
+20/11 12:45:50 INFO       (-0.3 r0.9 claude) Ethereum postpones its update amid massive cost increase - Cointribune
+20/11 12:45:50 INFO       (-0.5 r0.4 claude) Panic Continues in the Cryptocurrency Market as Whales Take Action! Million-Dollar Transactions in Bitcoin, Et
+20/11 12:45:50 INFO    -> ATTENDI: trend orario non rialzista

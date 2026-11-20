@@ -819,3 +819,9 @@
 20/11 11:45:54 INFO       (-0.6 r1.0 claude) Why is XRP collapsing? - FXStreet
 20/11 11:45:54 INFO       (-0.5 r1.0 claude) XRP Hits Two-Year Low After Sliding More Than 20% in November; Can It Rebound in December? - bloomingbit
 20/11 11:45:54 INFO    -> ATTENDI: trend giornaliero non rialzista
+20/11 12:45:55 INFO    === xrp_lento (XRP-EUR) ===
+20/11 12:45:55 INFO    Prezzo 0.8617 | medie 0.89858/1.0473 trend GIU | notizie -0.08 su 61 (2 nuove, 2 da Claude) | 0.1s
+20/11 12:45:55 INFO       (-1.0 r1.0 claude) Ripple Price Forecast: XRP fails to reclaim $1.00 despite supply shortage on Binance - FXStreet
+20/11 12:45:55 INFO       (-0.6 r1.0 claude) Why is XRP collapsing? - FXStreet
+20/11 12:45:55 INFO       (+0.4 r0.9 claude) XRP Beats Solana in Japan With $880M Trading Volume Despite Global Crypto Selloff - Coinpaper
+20/11 12:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista

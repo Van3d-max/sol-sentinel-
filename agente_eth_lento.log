@@ -832,3 +832,9 @@
 20/11 11:45:49 INFO       (-0.6 r1.0 claude) Spot Ethereum ETFs See $131.2 Million in Net Outflows for Fourth Straight Session - bloomingbit
 20/11 11:45:49 INFO       (-0.5 r0.9 claude) Ethereum price approaches critical support as November losses reach 23%, can ETH recover? - Crypto News
 20/11 11:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista
+20/11 12:45:50 INFO    === eth_lento (ETH-EUR) ===
+20/11 12:45:50 INFO    Prezzo 1584.11 | medie 1706.92/1936.30 trend GIU | notizie -0.24 su 86 (2 nuove, 2 da Claude) | 0.1s
+20/11 12:45:50 INFO       (-0.5 r0.9 claude) Ethereum Price Prediction: ETH Drops 23% in November as BlackRock ETF Loses $124M - Coinpaper
+20/11 12:45:50 INFO       (-0.6 r0.9 claude) Ethereum Breaks Below $1,800 as stETH Sees Single-Day Outflow of 4,186 Tokens, a Six-Month High - BigGo Financ
+20/11 12:45:50 INFO       (-0.6 r1.0 claude) Spot Ethereum ETFs See $131.2 Million in Net Outflows for Fourth Straight Session - bloomingbit
+20/11 12:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista
