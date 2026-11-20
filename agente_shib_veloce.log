@@ -3202,3 +3202,9 @@
 20/11 14:01:28 INFO    === shib_veloce (SHIB-EUR) ===
 20/11 14:01:28 INFO    Prezzo 3.35e-06 | medie 3.35333e-06/3.3819e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 20/11 14:01:28 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 14:15:54 INFO    === shib_veloce (SHIB-EUR) ===
+20/11 14:15:55 INFO    Prezzo 3.36e-06 | medie 3.35e-06/3.38143e-06 trend GIU | notizie -0.05 su 18 (1 nuove, 1 da Claude) | 0.3s
+20/11 14:15:55 INFO       (-0.6 r0.9 claude) Shiba Inu weekly forecast: Downside risk persists as strong MACD and ADX signals weigh on price - Traders Unio
+20/11 14:15:55 INFO       (+0.2 r0.9 claude) Shiba Inu (SHIB) Stands Just $10 Million Short of Flipping Barry Silbert’s Favorite AI Token - U.Today
+20/11 14:15:55 INFO       (-0.1 r0.9 claude) Shiba Inu Trails Bittensor by $10 Million in Market Cap - www.tokenpost.com
+20/11 14:15:55 INFO    -> ATTENDI: trend 15 minuti non rialzista
