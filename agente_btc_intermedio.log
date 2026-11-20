@@ -950,3 +950,10 @@
 20/11 08:45:50 INFO       (-0.8 r1.0 claude) Bitcoin Slides Below $62K to Near Five-Month Low as AI Stock Rout Saps Risk Appetite - BigGo Finance
 20/11 08:45:50 INFO       (-0.8 r0.9 claude) Bitcoin hits near 5-mth low below $62k as AI rout batters risk appetite - Investing.com
 20/11 08:45:50 INFO    -> ATTENDI: trend orario non rialzista
+20/11 09:45:45 INFO    === btc_intermedio (BTC-EUR) ===
+20/11 09:45:46 INFO    Trend superiore (ONE_DAY): GIU
+20/11 09:45:46 INFO    Prezzo 56126.93 | medie 56735.39/57386.49 trend GIU | notizie -0.34 su 125 (1 nuove, 1 da Claude) | 0.2s
+20/11 09:45:46 INFO       (-1.0 r1.0 claude) Why is Bitcoin falling below $63,000 as ETF outflows accelerate? - FXStreet
+20/11 09:45:46 INFO       (-0.8 r1.0 claude) Bitcoin Slips to Four-Month Low Under $61,300 as ETF Outflows and Liquidations Snowball - BigGo Finance
+20/11 09:45:46 INFO       (-0.7 r1.0 claude) Bitcoin Falls Below $62,000 As Senate Rejects Iran War Powers Resolution - BeInCrypto
+20/11 09:45:46 INFO    -> ATTENDI: trend orario non rialzista

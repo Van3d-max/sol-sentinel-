@@ -3264,3 +3264,9 @@
 20/11 09:31:08 INFO       (-0.2 r0.5 claude) VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs
 20/11 09:31:08 INFO       (-0.2 r0.9 claude) Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns
 20/11 09:31:08 INFO    -> ATTENDI: notizie sotto la soglia (-0.14)
+20/11 09:45:44 INFO    === eth_veloce (ETH-EUR) ===
+20/11 09:45:44 INFO    Prezzo 1591.13 | medie 1594.30/1586.61 trend SU | notizie -0.26 su 60 (1 nuove, 1 da Claude) | 0.1s
+20/11 09:45:44 INFO       (-0.6 r0.9 claude) Ethereum Breaks Below $1,800 as stETH Sees Single-Day Outflow of 4,186 Tokens, a Six-Month High - BigGo Financ
+20/11 09:45:44 INFO       (-0.5 r0.9 claude) Ethereum holds 1,700 as Glamsterdam delay and risk-off pressure weigh - Traders Union
+20/11 09:45:44 INFO       (-0.5 r0.9 claude) Ethereum price approaches critical support as November losses reach 23%, can ETH recover? - Crypto News
+20/11 09:45:44 INFO    -> ATTENDI: notizie sotto la soglia (-0.26)
