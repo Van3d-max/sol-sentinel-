@@ -11540,3 +11540,9 @@
 20/11 18:01:15 INFO    Prezzo 63.1300 | medie 62.8567/63.6110 trend GIU | notizie -0.00 su 1 (0 nuove, 0 da Claude) | 0.3s
 20/11 18:01:15 INFO       (-0.1 r0.4 claude) VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs
 20/11 18:01:15 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 18:15:48 INFO    === veloce (SOL-EUR) ===
+20/11 18:15:48 INFO    Prezzo 62.9400 | medie 62.9311/63.5238 trend GIU | notizie -0.13 su 46 (2 nuove, 2 da Claude) | 0.2s
+20/11 18:15:48 INFO       (-1.0 r0.6 claude) Bitcoin Price Crashes Below $60K as Ethereum, XRP and Solana Plunge - Coinpedia
+20/11 18:15:48 INFO       (-0.8 r0.9 claude) Solana slides more than 12% amid heavy liquidation: weekly outlook - Traders Union
+20/11 18:15:48 INFO       (-0.7 r0.6 claude) Bitcoin, Ethereum, XRP, and Solana slide as $90 billion exits crypto market - TradingView
+20/11 18:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
