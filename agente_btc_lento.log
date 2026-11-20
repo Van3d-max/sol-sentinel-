@@ -772,3 +772,9 @@
 20/11 01:45:50 INFO       (-0.7 r0.9 claude) Bitcoin hits lowest since July as Fed hike talk and a Wall Street rout collide - investingLive
 20/11 01:45:50 INFO       (-0.7 r1.0 claude) Crypto Market Today, Nov. 19: Bitcoin Approaches $60,000 as ETF Outflows Surpass $2.5 Billion in 2026 - The Mo
 20/11 01:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista
+20/11 02:46:03 INFO    === btc_lento (BTC-EUR) ===
+20/11 02:46:03 INFO    Prezzo 56198.19 | medie 60871.12/67149.38 trend GIU | notizie -0.12 su 34 (0 nuove, 0 da Claude) | 0.2s
+20/11 02:46:03 INFO       (-0.6 r1.0 claude) Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month
+20/11 02:46:03 INFO       (+0.5 r1.0 claude) David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k
+20/11 02:46:03 INFO       (+0.6 r0.9 claude) Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record
+20/11 02:46:03 INFO    -> ATTENDI: trend giornaliero non rialzista
