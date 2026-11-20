@@ -3036,3 +3036,9 @@
 20/11 00:01:16 INFO       (-0.3 r0.9 claude) Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns - Cryptonews.net
 20/11 00:01:16 INFO       (+0.4 r0.8 claude) Two Prime Expands Institutional Lending, Accepting Ethereum - Cryptonews.net
 20/11 00:01:16 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 00:15:48 INFO    === eth_veloce (ETH-EUR) ===
+20/11 00:15:49 INFO    Prezzo 1603.60 | medie 1601.39/1602.51 trend GIU | notizie -0.06 su 64 (1 nuove, 1 da Claude) | 0.3s
+20/11 00:15:49 INFO       (-0.3 r0.9 claude) Ethereum's 'Glamsterdam' Upgrade Could Be Delayed Until May Over Smart Contract Risks - bloomingbit
+20/11 00:15:49 INFO       (+0.4 r1.0 claude) Ethereum (ETH) Whales Pull 13,408 ETH From FalconX, Galaxy Digital, OKX - Cryptonews.net
+20/11 00:15:49 INFO       (-0.3 r0.9 claude) Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns - Cryptonews.net
+20/11 00:15:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
