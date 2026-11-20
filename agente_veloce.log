@@ -11306,3 +11306,9 @@
 20/11 07:45:48 INFO       (+0.2 r0.7 claude) Ledger launches Clear Signing on Solana with Jupiter - CFOtech Asia
 20/11 07:45:48 INFO       (-0.3 r0.5 claude) VanEck terminates Gemini custody agreements for Bitcoin, Ethereum, Solana ETFs - Crypto News
 20/11 07:45:48 INFO    -> ATTENDI: notizie sotto la soglia (-0.04)
+20/11 08:01:15 INFO    === veloce (SOL-EUR) ===
+20/11 08:01:16 INFO    Prezzo 66.0800 | medie 66.0856/66.0457 trend SU | notizie -0.03 su 3 (0 nuove, 0 da Claude) | 0.3s
+20/11 08:01:16 INFO       (-0.1 r0.4 claude) VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs
+20/11 08:01:16 INFO       (-0.3 r0.5 claude) Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand
+20/11 08:01:16 INFO       (-0.1 r0.2 claude) IOSCO warns quantum upgrades could slow blockchains, leave security gaps
+20/11 08:01:16 INFO    -> ATTENDI: notizie sotto la soglia (-0.03)
