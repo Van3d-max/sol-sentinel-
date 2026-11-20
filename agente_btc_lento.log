@@ -778,3 +778,9 @@
 20/11 02:46:03 INFO       (+0.5 r1.0 claude) David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k
 20/11 02:46:03 INFO       (+0.6 r0.9 claude) Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record
 20/11 02:46:03 INFO    -> ATTENDI: trend giornaliero non rialzista
+20/11 03:45:51 INFO    === btc_lento (BTC-EUR) ===
+20/11 03:45:51 INFO    Prezzo 56574.35 | medie 60871.12/67149.38 trend GIU | notizie -0.23 su 132 (3 nuove, 3 da Claude) | 0.1s
+20/11 03:45:51 INFO       (-0.7 r1.0 claude) BTC slides to $61,300 after Anthropic's IPO, triggers $660 million in liquidations - CoinDesk
+20/11 03:45:51 INFO       (-0.8 r1.0 claude) Bitcoin slides toward $60,000 as spot ETF outflows near $3 billion - Cryptonews.net
+20/11 03:45:51 INFO       (-0.7 r0.9 claude) Bitcoin Slides Below $62,000 as $528 Million in Positions Get Wiped Out - BigGo Finance
+20/11 03:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista

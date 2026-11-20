@@ -887,3 +887,10 @@
 20/11 02:46:06 INFO       (-0.2 r1.0 claude) Shiba Inu price: RSI oversold for five days - CryptoTicker.io
 20/11 02:46:06 INFO       (-0.6 r1.0 claude) Shiba Inu (SHIB) faces a tough December after l... - Pluang
 20/11 02:46:06 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+20/11 03:45:53 INFO    === shib_intermedio (SHIB-EUR) ===
+20/11 03:45:53 INFO    Trend superiore (ONE_DAY): GIU
+20/11 03:45:53 INFO    Prezzo 3.41e-06 | medie 3.477e-06/3.4792e-06 trend GIU | notizie -0.09 su 17 (0 nuove, 0 da Claude) | 0.2s
+20/11 03:45:53 INFO       (-0.5 r1.0 claude) Shiba Inu Oversold for Five Days as 2026 Pattern Points to More Losses - BigGo Finance
+20/11 03:45:53 INFO       (-0.2 r1.0 claude) Shiba Inu price: RSI oversold for five days - CryptoTicker.io
+20/11 03:45:53 INFO       (-0.6 r1.0 claude) Shiba Inu (SHIB) faces a tough December after l... - Pluang
+20/11 03:45:53 INFO    -> ATTENDI: trend orario non rialzista

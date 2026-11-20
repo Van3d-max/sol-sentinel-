@@ -907,3 +907,10 @@
 20/11 02:46:01 INFO       (-0.7 r0.4 claude) Crypto Selloff Drags Bitcoin To Below US$62,000, Ethereum Near US$1,750 - BusinessToday Malaysia
 20/11 02:46:01 INFO       (-0.3 r0.9 claude) Ethereum's 'Glamsterdam' Upgrade Could Be Delayed Until May Over Smart Contract Risks - bloomingbit
 20/11 02:46:01 INFO    -> ATTENDI: trend orario non rialzista
+20/11 03:45:49 INFO    === eth_intermedio (ETH-EUR) ===
+20/11 03:45:49 INFO    Trend superiore (ONE_DAY): GIU
+20/11 03:45:49 INFO    Prezzo 1591.97 | medie 1618.51/1624.34 trend GIU | notizie -0.10 su 57 (0 nuove, 0 da Claude) | 0.3s
+20/11 03:45:49 INFO       (-0.7 r0.5 claude) Crypto Selloff Drags Bitcoin To Below US$62,000, Ethereum Near US$1,750 - Moomoo
+20/11 03:45:49 INFO       (-0.7 r0.4 claude) Crypto Selloff Drags Bitcoin To Below US$62,000, Ethereum Near US$1,750 - BusinessToday Malaysia
+20/11 03:45:49 INFO       (-0.3 r0.9 claude) Ethereum's 'Glamsterdam' Upgrade Could Be Delayed Until May Over Smart Contract Risks - bloomingbit
+20/11 03:45:49 INFO    -> ATTENDI: trend orario non rialzista
