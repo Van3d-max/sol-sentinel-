@@ -3474,3 +3474,9 @@
 20/11 18:15:48 INFO       (-0.6 r1.0 claude) Ethereum Price Forecast: Why is ETH faltering as ETF outflows outweigh returning retail demand? - www.tmgm.com
 20/11 18:15:48 INFO       (-0.6 r1.0 claude) Ethereum Price Dips 5% As Binance Hacker Moves ETHs - MarketForces Africa
 20/11 18:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 18:31:04 INFO    === eth_veloce (ETH-EUR) ===
+20/11 18:31:04 INFO    Prezzo 1485.21 | medie 1487.92/1529.17 trend GIU | notizie -0.44 su 65 (1 nuove, 1 da Claude) | 0.2s
+20/11 18:31:04 INFO       (-0.6 r0.9 claude) Ethereum faces outflows and risk aversion: Can ETH stabilize if institutional withdrawals continue? - Traders 
+20/11 18:31:04 INFO       (-1.0 r0.6 claude) Bitcoin Price Crashes Below $60K as Ethereum, XRP and Solana Plunge - Coinpedia
+20/11 18:31:04 INFO       (-0.6 r1.0 claude) Ethereum Price Forecast: Why is ETH faltering as ETF outflows outweigh returning retail demand? - www.tmgm.com
+20/11 18:31:04 INFO    -> ATTENDI: trend 15 minuti non rialzista
