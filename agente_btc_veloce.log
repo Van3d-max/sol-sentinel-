@@ -3418,3 +3418,9 @@
 20/11 16:15:52 INFO       (-0.8 r1.0 claude) Bitcoin on track for seventh straight weekly loss as ETF outflows hit record - Investing.com
 20/11 16:15:52 INFO       (-0.8 r0.9 claude) Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut - CoinDesk
 20/11 16:15:52 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 16:31:06 INFO    === btc_veloce (BTC-EUR) ===
+20/11 16:31:06 INFO    Prezzo 53924.69 | medie 55099.45/55687.74 trend GIU | notizie -0.41 su 130 (8 nuove, 8 da Claude) | 0.2s
+20/11 16:31:06 INFO       (-0.9 r1.0 claude) Bitcoin Price Crashes to $59,000 as Market Selloff Deepens
+20/11 16:31:06 INFO       (-0.8 r1.0 claude) Bitcoin Price Sinks to $61,300, Its Lowest Level since July as Asian Stocks Crash - Cryptonews.net
+20/11 16:31:06 INFO       (-0.8 r1.0 claude) Bitcoin falls below $60,000 level - Euronext Markets: Real-time Stock Market Data | live
+20/11 16:31:06 INFO    -> ATTENDI: trend 15 minuti non rialzista
