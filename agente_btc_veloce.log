@@ -3118,3 +3118,9 @@
 20/11 03:45:51 INFO       (-0.6 r0.9 claude) Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt
 20/11 03:45:51 INFO       (-0.6 r1.0 claude) Bitcoin Sets New Selloff Low of $61,220 on Coinbase - The Defiant
 20/11 03:45:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 04:01:14 INFO    === btc_veloce (BTC-EUR) ===
+20/11 04:01:15 INFO    Prezzo 56476.77 | medie 56355.28/56484.83 trend GIU | notizie -0.22 su 119 (3 nuove, 3 da Claude) | 0.2s
+20/11 04:01:15 INFO       (-0.7 r1.0 claude) BTC slides to $61,300 after Anthropic's IPO, triggers $660 million in liquidations - CoinDesk
+20/11 04:01:15 INFO       (-0.6 r0.9 claude) Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt
+20/11 04:01:15 INFO       (-0.6 r1.0 claude) Bitcoin Sets New Selloff Low of $61,220 on Coinbase - The Defiant
+20/11 04:01:15 INFO    -> ATTENDI: trend 15 minuti non rialzista
