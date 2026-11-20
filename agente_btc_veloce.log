@@ -3202,3 +3202,9 @@
 20/11 07:15:51 INFO       (-0.8 r1.0 claude) Why is Bitcoin price down today? BTC hits four-month low - Crypto News
 20/11 07:15:51 INFO       (-0.7 r1.0 claude) On the Chain: Bitcoin falls below US$62,000 as rate fears weigh on crypto - Yahoo Finance Australia
 20/11 07:15:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 07:31:17 INFO    === btc_veloce (BTC-EUR) ===
+20/11 07:31:18 INFO    Prezzo 56048.97 | medie 56261.74/56279.46 trend GIU | notizie -0.24 su 114 (0 nuove, 0 da Claude) | 0.3s
+20/11 07:31:18 INFO       (-0.8 r0.9 claude) Bitcoin hits near 5-mth low below $62k as AI rout batters risk appetite - Investing.com
+20/11 07:31:18 INFO       (-0.8 r1.0 claude) Why is Bitcoin price down today? BTC hits four-month low - Crypto News
+20/11 07:31:18 INFO       (-0.7 r1.0 claude) On the Chain: Bitcoin falls below US$62,000 as rate fears weigh on crypto - Yahoo Finance Australia
+20/11 07:31:18 INFO    -> ATTENDI: trend 15 minuti non rialzista
