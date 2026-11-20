@@ -999,3 +999,10 @@
 20/11 15:45:53 INFO       (-0.6 r0.9 claude) Bitcoin Mirrors SpaceX Pre-IPO Dump as Anthropic Debut Drains Liquidity - The Tech Buzz
 20/11 15:45:53 INFO       (-0.5 r1.0 claude) Bitcoin Briefly Falls Below $61,000 - bloomingbit
 20/11 15:45:53 INFO    -> ATTENDI: trend orario non rialzista
+20/11 16:45:49 INFO    === btc_intermedio (BTC-EUR) ===
+20/11 16:45:49 INFO    Trend superiore (ONE_DAY): GIU
+20/11 16:45:49 INFO    Prezzo 54038.80 | medie 56242.00/57007.57 trend GIU | notizie -0.45 su 132 (8 nuove, 8 da Claude) | 0.3s
+20/11 16:45:49 INFO       (-0.9 r1.0 claude) Bitcoin Price Crashes to $59,000 as Market Selloff Deepens
+20/11 16:45:49 INFO       (-0.8 r1.0 claude) Bitcoin Price Sinks to $61,300, Its Lowest Level since July as Asian Stocks Crash - Cryptonews.net
+20/11 16:45:49 INFO       (-0.8 r0.9 claude) Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February
+20/11 16:45:49 INFO    -> ATTENDI: trend orario non rialzista

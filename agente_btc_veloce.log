@@ -3424,3 +3424,9 @@
 20/11 16:31:06 INFO       (-0.8 r1.0 claude) Bitcoin Price Sinks to $61,300, Its Lowest Level since July as Asian Stocks Crash - Cryptonews.net
 20/11 16:31:06 INFO       (-0.8 r1.0 claude) Bitcoin falls below $60,000 level - Euronext Markets: Real-time Stock Market Data | live
 20/11 16:31:06 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 16:45:49 INFO    === btc_veloce (BTC-EUR) ===
+20/11 16:45:49 INFO    Prezzo 54038.80 | medie 54839.56/55580.20 trend GIU | notizie -0.45 su 132 (8 nuove, 8 da Claude) | 0.2s
+20/11 16:45:49 INFO       (-0.9 r1.0 claude) Bitcoin Price Crashes to $59,000 as Market Selloff Deepens
+20/11 16:45:49 INFO       (-0.8 r1.0 claude) Bitcoin Price Sinks to $61,300, Its Lowest Level since July as Asian Stocks Crash - Cryptonews.net
+20/11 16:45:49 INFO       (-0.8 r0.9 claude) Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February
+20/11 16:45:49 INFO    -> ATTENDI: trend 15 minuti non rialzista

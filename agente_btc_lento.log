@@ -856,3 +856,9 @@
 20/11 15:45:53 INFO       (-0.8 r1.0 claude) Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K - Yahoo Finance
 20/11 15:45:53 INFO       (-0.6 r0.9 claude) Bitcoin selloff: Crypto is failing the 'digital gold' test again as it sinks with stocks - CNBC
 20/11 15:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista
+20/11 16:45:49 INFO    === btc_lento (BTC-EUR) ===
+20/11 16:45:49 INFO    Prezzo 54038.80 | medie 60871.12/67149.38 trend GIU | notizie -0.41 su 143 (8 nuove, 8 da Claude) | 0.1s
+20/11 16:45:49 INFO       (-0.9 r1.0 claude) Bitcoin Price Crashes to $59,000 as Market Selloff Deepens
+20/11 16:45:49 INFO       (-0.8 r1.0 claude) Bitcoin Price Sinks to $61,300, Its Lowest Level since July as Asian Stocks Crash - Cryptonews.net
+20/11 16:45:49 INFO       (-0.8 r0.9 claude) Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February
+20/11 16:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista

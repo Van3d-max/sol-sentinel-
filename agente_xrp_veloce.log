@@ -3331,3 +3331,9 @@
 20/11 16:31:06 INFO    Prezzo 0.8322 | medie 0.842211/0.853762 trend GIU | notizie -0.03 su 1 (0 nuove, 0 da Claude) | 0.2s
 20/11 16:31:06 INFO       (-0.2 r0.9 claude) A $2.8 million XRP yield trade is about to mature, but the next two markets are 44 times smaller
 20/11 16:31:06 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 16:45:51 INFO    === xrp_veloce (XRP-EUR) ===
+20/11 16:45:51 INFO    Prezzo 0.8308 | medie 0.838711/0.851833 trend GIU | notizie -0.20 su 41 (2 nuove, 2 da Claude) | 0.2s
+20/11 16:45:51 INFO       (-0.6 r1.0 claude) XRP’s Drops 4% as Analyst Warns of a ‘Deeper Correction’ - Benzinga
+20/11 16:45:51 INFO       (-0.4 r0.9 claude) Ripple Is Rapidly Expanding the Potential Use Cases for Its Stablecoin. Here's Why That's Bearish for XRP. - T
+20/11 16:45:51 INFO       (-0.7 r0.5 claude) Top 4 Reasons Why BTC, ETH and XRP Price Are Crashing Today - Cryptonews.net
+20/11 16:45:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
