@@ -3346,3 +3346,9 @@
 20/11 13:15:51 INFO       (-0.8 r0.9 claude) Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K
 20/11 13:15:51 INFO       (-0.8 r0.9 claude) Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K - Decrypt
 20/11 13:15:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 13:31:08 INFO    === btc_veloce (BTC-EUR) ===
+20/11 13:31:09 INFO    Prezzo 55878.34 | medie 56126.80/56266.58 trend GIU | notizie -0.31 su 124 (3 nuove, 3 da Claude) | 0.3s
+20/11 13:31:09 INFO       (-0.6 r0.9 claude) Bitcoin holders face first collective loss since early 2023: Glassnode - Cryptonews.net
+20/11 13:31:09 INFO       (-0.8 r1.0 claude) Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K - Yahoo Finance
+20/11 13:31:09 INFO       (-0.8 r0.9 claude) Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K
+20/11 13:31:09 INFO    -> ATTENDI: trend 15 minuti non rialzista
