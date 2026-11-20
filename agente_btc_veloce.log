@@ -3388,3 +3388,9 @@
 20/11 15:01:20 INFO       (-0.8 r0.9 claude) Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K
 20/11 15:01:20 INFO       (-0.3 r1.0 claude) Bitcoin Hovers Just Above Average Holder’s Cost Basis as Price Keeps Dipping
 20/11 15:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
+20/11 15:15:52 INFO    === btc_veloce (BTC-EUR) ===
+20/11 15:15:52 INFO    Prezzo 55272.00 | medie 56037.50/56197.28 trend GIU | notizie -0.32 su 111 (4 nuove, 4 da Claude) | 0.1s
+20/11 15:15:52 INFO       (-0.6 r0.9 claude) Bitcoin Mirrors SpaceX Pre-IPO Dump as Anthropic Debut Drains Liquidity - The Tech Buzz
+20/11 15:15:52 INFO       (-0.7 r1.0 claude) Bitcoin Price Crashes Below $62K: What Should You Do? - Cryptonews
+20/11 15:15:52 INFO       (-0.6 r1.0 claude) Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia
+20/11 15:15:52 INFO    -> ATTENDI: trend 15 minuti non rialzista
