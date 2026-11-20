@@ -908,3 +908,10 @@
 20/11 04:45:54 INFO       (+0.5 r1.0 claude) XRP Price Forecast: Ripple CEO Hints at Recovery as 190M Coins Exit Exchanges - Cryptonews.net
 20/11 04:45:54 INFO       (-0.4 r0.9 claude) What Did Brad Garlinghouse Say About The XRP Price Crash? - Coinpedia
 20/11 04:45:54 INFO    -> ATTENDI: trend orario non rialzista
+20/11 05:45:59 INFO    === xrp_intermedio (XRP-EUR) ===
+20/11 05:46:00 INFO    Trend superiore (ONE_DAY): GIU
+20/11 05:46:00 INFO    Prezzo 0.881 | medie 0.88342/0.888304 trend GIU | notizie -0.10 su 39 (0 nuove, 0 da Claude) | 0.6s
+20/11 05:46:00 INFO       (-0.4 r1.0 claude) XRP Price Prediction: Drop to $0.93 Likely Despite Recent Bounce - FXEmpire
+20/11 05:46:00 INFO       (-0.6 r0.4 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC hits July lows as ETH, XRP slide - FXStreet
+20/11 05:46:00 INFO       (+0.5 r1.0 claude) XRP Price Forecast: Ripple CEO Hints at Recovery as 190M Coins Exit Exchanges - Cryptonews.net
+20/11 05:46:00 INFO    -> ATTENDI: trend orario non rialzista

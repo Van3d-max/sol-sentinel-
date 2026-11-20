@@ -790,3 +790,9 @@
 20/11 04:45:53 INFO       (-0.8 r1.0 claude) Bitcoin slides toward $60,000 as spot ETF outflows near $3 billion - Cryptonews.net
 20/11 04:45:53 INFO       (-0.7 r0.9 claude) Bitcoin Slides Below $62,000 as $528 Million in Positions Get Wiped Out - BigGo Finance
 20/11 04:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista
+20/11 05:45:58 INFO    === btc_lento (BTC-EUR) ===
+20/11 05:45:59 INFO    Prezzo 56233.51 | medie 60871.12/67149.38 trend GIU | notizie -0.07 su 36 (1 nuove, 1 da Claude) | 0.2s
+20/11 05:45:59 INFO       (-0.6 r0.9 claude) Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt
+20/11 05:45:59 INFO       (+0.5 r0.9 claude) Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling
+20/11 05:45:59 INFO       (+0.5 r0.9 claude) Institutions pile back into US Bitcoin ETFs in Q3 after selling streak
+20/11 05:45:59 INFO    -> ATTENDI: trend giornaliero non rialzista
