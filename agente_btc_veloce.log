@@ -3820,3 +3820,9 @@
 21/11 09:01:12 INFO       (-0.1 r0.9 claude) Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug
 21/11 09:01:12 INFO       (-0.8 r1.0 claude) Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%
 21/11 09:01:12 INFO    -> ATTENDI: notizie sotto la soglia (-0.32)
+21/11 09:15:46 INFO    === btc_veloce (BTC-EUR) ===
+21/11 09:15:46 INFO    Prezzo 52836.95 | medie 52874.05/51995.84 trend SU | notizie -0.58 su 109 (4 nuove, 4 da Claude) | 0.2s
+21/11 09:15:46 INFO       (-1.0 r1.0 claude) Bitcoin falls to its lowest in two years By Reuters - Investing.com
+21/11 09:15:46 INFO       (-0.7 r0.9 claude) Bitcoin Plunges to Two-Year Low As US Market Turmoil Deepens - تسنیم
+21/11 09:15:46 INFO       (-0.9 r1.0 claude) Why Is Bitcoin Dropping? BTC Falls 10% Below $57K - Bitcoin Foundation
+21/11 09:15:46 INFO    -> ATTENDI: notizia shock: Bitcoin Plunges to Two-Year Low As US Market Turmoil Deepens - تسنیم

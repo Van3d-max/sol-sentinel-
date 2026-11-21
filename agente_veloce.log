@@ -11896,3 +11896,9 @@
 21/11 09:01:10 INFO    Prezzo 61.3900 | medie 61.6389/60.7643 trend SU | notizie -0.00 su 1 (0 nuove, 0 da Claude) | 0.2s
 21/11 09:01:10 INFO       (-0.2 r0.1 claude) Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure
 21/11 09:01:10 INFO    -> ATTENDI: notizie sotto la soglia (-0.00)
+21/11 09:15:43 INFO    === veloce (SOL-EUR) ===
+21/11 09:15:43 INFO    Prezzo 61.8000 | medie 61.5800/60.8229 trend SU | notizie -0.13 su 43 (0 nuove, 0 da Claude) | 0.3s
+21/11 09:15:43 INFO       (-0.7 r0.9 claude) SOL slides as ETF activity and institutional selling reinforce bearish setup - Traders Union
+21/11 09:15:43 INFO       (+0.3 r0.6 claude) Anthropic's Nasdaq Debut Sparks 10x Token Trading Gap: Solana Outpaces Robinhood Chain - BigGo Finance
+21/11 09:15:43 INFO       (-0.5 r1.0 claude) Solana price struggles despite major upgrade: is another sell-off coming? - Cryptonews.net
+21/11 09:15:43 INFO    -> ATTENDI: notizia shock: SOL slides as ETF activity and institutional selling reinforce bearish setup - T
