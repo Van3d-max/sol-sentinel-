@@ -3736,3 +3736,9 @@
 21/11 05:31:00 INFO       (-0.8 r1.0 claude) Bitcoin Falls to More than Two-Year Low as Global Markets Sink - Bloomberg.com
 21/11 05:31:00 INFO       (-0.8 r1.0 claude) Bitcoin Crashes Below $57,000, Triggering approximately $416 Million in Futures Liquidations in One Hour - Big
 21/11 05:31:00 INFO    -> ATTENDI: trend 15 minuti non rialzista
+21/11 05:45:52 INFO    === btc_veloce (BTC-EUR) ===
+21/11 05:45:52 INFO    Prezzo 50880.24 | medie 51273.23/52616.31 trend GIU | notizie -0.56 su 122 (3 nuove, 3 da Claude) | 0.1s
+21/11 05:45:52 INFO       (-0.8 r1.0 claude) Bitcoin falls to its lowest in two years - The Lufkin Daily News
+21/11 05:45:52 INFO       (-0.8 r1.0 claude) Bitcoin Falls Below $57,000 to Two-Year Low on Coinbase - Cryptonews.net
+21/11 05:45:52 INFO       (-0.8 r1.0 claude) Bitcoin Falls to More than Two-Year Low as Global Markets Sink - Bloomberg.com
+21/11 05:45:52 INFO    -> ATTENDI: trend 15 minuti non rialzista

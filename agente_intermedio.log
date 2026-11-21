@@ -1088,3 +1088,10 @@
 21/11 04:45:46 INFO       (-0.5 r1.0 claude) Solana Price Prediction: SOL Bearish Trend Deepens Despite Ambitious 2027 Network Overhaul - Cryptonews.net
 21/11 04:45:46 INFO       (+0.3 r0.7 claude) USDC Treasury Mints 250 Million USDC on Solana - TradingView
 21/11 04:45:46 INFO    -> ATTENDI: trend orario non rialzista
+21/11 05:45:49 INFO    === intermedio (SOL-EUR) ===
+21/11 05:45:49 INFO    Trend superiore (ONE_DAY): GIU
+21/11 05:45:49 INFO    Prezzo 59.7200 | medie 63.1960/65.5268 trend GIU | notizie -0.07 su 43 (0 nuove, 0 da Claude) | 0.2s
+21/11 05:45:49 INFO       (-0.5 r1.0 claude) Solana price struggles despite major upgrade: is another sell-off coming? - Cryptonews.net
+21/11 05:45:49 INFO       (-0.5 r1.0 claude) Solana Price Prediction: SOL Bearish Trend Deepens Despite Ambitious 2027 Network Overhaul - Cryptonews.net
+21/11 05:45:49 INFO       (+0.3 r0.7 claude) USDC Treasury Mints 250 Million USDC on Solana - TradingView
+21/11 05:45:49 INFO    -> ATTENDI: trend orario non rialzista
