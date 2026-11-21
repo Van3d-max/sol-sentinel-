@@ -1144,3 +1144,10 @@
 21/11 12:45:44 INFO       (-0.6 r1.0 claude) Solana Price Prediction: SOL Crashes 75% From Peak as ETF Investors Withdraw $5.9M - Coinpaper
 21/11 12:45:44 INFO       (+0.5 r0.9 claude) Solana ETFs Defy Wall Street’s Big Crypto Sell-Off - BeInCrypto
 21/11 12:45:44 INFO    -> ATTENDI: trend orario non rialzista
+21/11 13:45:51 INFO    === intermedio (SOL-EUR) ===
+21/11 13:45:51 INFO    Trend superiore (ONE_DAY): GIU
+21/11 13:45:51 INFO    Prezzo 64.2800 | medie 62.1235/64.5586 trend GIU | notizie -0.10 su 37 (1 nuove, 1 da Claude) | 0.3s
+21/11 13:45:51 INFO       (-0.7 r0.9 claude) Solana Slumps 75% Below Record High as Spot ETF Outflows Accelerate - BigGo Finance
+21/11 13:45:51 INFO       (-0.6 r1.0 claude) Solana Price Prediction: SOL Crashes 75% From Peak as ETF Investors Withdraw $5.9M - Coinpaper
+21/11 13:45:51 INFO       (+0.5 r0.9 claude) Solana ETFs Defy Wall Street’s Big Crypto Sell-Off - BeInCrypto
+21/11 13:45:51 INFO    -> ATTENDI: trend orario non rialzista

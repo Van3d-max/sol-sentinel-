@@ -1146,3 +1146,10 @@
 21/11 12:45:46 INFO       (-0.8 r0.9 claude) Bitcoin Slumps to $55,150 as Rate Fears, AI Selloff and $2.64 Billion in Liquidations Converge - BigGo Finance
 21/11 12:45:46 INFO       (-0.9 r1.0 claude) Bitcoin Breaks Below $56,000; Over $2.4 Billion in Contracts Liquidated - BigGo Finance
 21/11 12:45:46 INFO    -> ATTENDI: trend orario non rialzista
+21/11 13:45:55 INFO    === btc_intermedio (BTC-EUR) ===
+21/11 13:45:55 INFO    Trend superiore (ONE_DAY): GIU
+21/11 13:45:55 INFO    Prezzo 55173.16 | medie 53071.64/55164.48 trend GIU | notizie -0.48 su 106 (4 nuove, 4 da Claude) | 0.2s
+21/11 13:45:55 INFO       (-0.9 r1.0 claude) Bitcoin News | Bitcoin Falls Below $57,000 to a Two-Year Low as $2.4 Billion in Liquidations Hit Bullish Trade
+21/11 13:45:55 INFO       (-0.6 r1.0 claude) Bitcoin slips below its 200-week average for the first time since October 2023 - Crypto Briefing
+21/11 13:45:55 INFO       (-0.7 r0.9 claude) Bitcoin Breaks Below 200-Week Moving Average: Coinbase Warns of "2022-Style" Repeat Risk - BigGo Finance
+21/11 13:45:55 INFO    -> ATTENDI: trend orario non rialzista
