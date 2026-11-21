@@ -3766,3 +3766,9 @@
 21/11 06:45:48 INFO       (-0.9 r1.0 claude) Bitcoin Falls 10% In Rout - Investing.com
 21/11 06:45:48 INFO       (-0.9 r1.0 claude) Bitcoin crashes below $56,000 as liquidity squeeze deepens crypto selloff - Investing.com
 21/11 06:45:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
+21/11 07:01:12 INFO    === btc_veloce (BTC-EUR) ===
+21/11 07:01:12 INFO    Prezzo 52789.80 | medie 51455.19/52098.18 trend GIU | notizie -0.34 su 27 (0 nuove, 0 da Claude) | 0.2s
+21/11 07:01:12 INFO       (-0.8 r0.9 claude) Bitcoin tanks below $57,000 for the first time in two years, and its not alone
+21/11 07:01:12 INFO       (-0.1 r0.9 claude) Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug
+21/11 07:01:12 INFO       (-0.8 r1.0 claude) Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%
+21/11 07:01:12 INFO    -> ATTENDI: trend 15 minuti non rialzista
