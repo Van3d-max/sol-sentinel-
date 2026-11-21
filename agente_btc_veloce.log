@@ -4120,3 +4120,9 @@
 21/11 21:31:01 INFO       (-0.6 r0.8 claude) Hut 8 and MARA shares plunge as bitcoin slips under $60,000 and AI stocks sell off - Startup Fortune
 21/11 21:31:01 INFO       (-0.7 r0.9 claude) Bitcoin Slips Under Key Moving Averages as ETF Withdrawals and Long Liquidations Accelerate - BigGo Finance
 21/11 21:31:01 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
+21/11 21:45:43 INFO    === btc_veloce (BTC-EUR) ===
+21/11 21:45:43 INFO    Prezzo 55075.01 | medie 55083.69/54966.35 trend SU | notizie -0.06 su 83 (0 nuove, 0 da Claude) | 0.3s
+21/11 21:45:43 INFO       (+0.6 r0.9 claude) Bitcoin: The buyers' return propels BTC above $60,000 - Cointribune
+21/11 21:45:43 INFO       (-0.6 r0.8 claude) Hut 8 and MARA shares plunge as bitcoin slips under $60,000 and AI stocks sell off - Startup Fortune
+21/11 21:45:43 INFO       (-0.7 r0.9 claude) Bitcoin Slips Under Key Moving Averages as ETF Withdrawals and Long Liquidations Accelerate - BigGo Finance
+21/11 21:45:43 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
