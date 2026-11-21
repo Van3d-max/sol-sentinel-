@@ -3806,3 +3806,9 @@
 21/11 08:01:21 INFO       rialzista: Il prezzo (1485,54) si trova sopra la media mobile a 10 periodi (1467,94) e quella a 30 periodi (1449,95), indicando un trend di breve e medio termine positivo.
 21/11 08:01:21 INFO       ribassista: Il punteggio delle notizie è sostanzialmente neutro (0,007), il titolo sull'hacking da circa 600 milioni di dollari in ETH introduce rischio reputazionale e di liquidità, e il prezzo è appena lo 0,8% sopra la media a 10 periodi, quindi il segnale di trend è debole.
 21/11 08:01:21 INFO    -> BLOCCATO DAL DIBATTITO: Le evidenze sono deboli: il trend tecnico è modesto, il sentiment è neutro e il rischio legato all'hacking pesa più dei segnali positivi, quindi non si giustifica un acquisto spot.
+21/11 08:15:45 INFO    === eth_veloce (ETH-EUR) ===
+21/11 08:15:45 INFO    Prezzo 1482.94 | medie 1474.72/1450.32 trend SU | notizie -0.33 su 54 (1 nuove, 1 da Claude) | 0.1s
+21/11 08:15:45 INFO       (-0.7 r0.6 claude) Ethereum, Silver & Taiwan Wiped 5–10%; India & Bonds Find Refuge as Nine New 52-Week Lows Hit on the Same Sess
+21/11 08:15:45 INFO       (-1.0 r0.7 claude) Peter Schiff: Bitcoin falls below $56,000 and Ethereum under $1,550 ahead of weekend - Traders Union
+21/11 08:15:45 INFO       (-0.8 r0.6 claude) Crypto Market Bloodbath: Bitcoin, Ethereum and XRP Crash Up to 10% as Bear Market Fears Grow - Coinpedia
+21/11 08:15:45 INFO    -> ATTENDI: notizia shock: Ethereum, Silver & Taiwan Wiped 5–10%; India & Bonds Find Refuge as Nine New 52-
