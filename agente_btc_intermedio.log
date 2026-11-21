@@ -1132,3 +1132,10 @@
 21/11 10:45:49 INFO       (-0.8 r1.0 claude) Bitcoin Fell to Nearly $55,000: Liquidations Topped $2.5B, and Fear Index Hit All-Time Low - Incrypted
 21/11 10:45:49 INFO       (-0.9 r1.0 claude) Bitcoin Hits a Two-Year Low as CoinShares Sees ‘Advanced Capitulation’ - www.trendingtopics.eu
 21/11 10:45:49 INFO    -> ATTENDI: trend orario non rialzista
+21/11 11:45:46 INFO    === btc_intermedio (BTC-EUR) ===
+21/11 11:45:46 INFO    Trend superiore (ONE_DAY): GIU
+21/11 11:45:46 INFO    Prezzo 53084.19 | medie 53143.52/55346.75 trend GIU | notizie -0.62 su 107 (2 nuove, 2 da Claude) | 0.4s
+21/11 11:45:46 INFO       (-0.8 r1.0 claude) Bitcoin has plummeted below $56,000: what’s happening in the market - UkrMedia News
+21/11 11:45:46 INFO       (-0.8 r0.9 claude) Bitcoin Slumps to $55,150 as Rate Fears, AI Selloff and $2.64 Billion in Liquidations Converge - BigGo Finance
+21/11 11:45:46 INFO       (-0.9 r1.0 claude) Bitcoin Breaks Below $56,000; Over $2.4 Billion in Contracts Liquidated - BigGo Finance
+21/11 11:45:46 INFO    -> ATTENDI: trend orario non rialzista

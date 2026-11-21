@@ -970,3 +970,9 @@
 21/11 10:45:49 INFO       (-0.9 r1.0 claude) Bitcoin Hits a Two-Year Low as CoinShares Sees ‘Advanced Capitulation’ - www.trendingtopics.eu
 21/11 10:45:49 INFO       (-1.0 r1.0 claude) Bitcoin falls to its lowest in two years By Reuters - Investing.com
 21/11 10:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista
+21/11 11:45:46 INFO    === btc_lento (BTC-EUR) ===
+21/11 11:45:47 INFO    Prezzo 53084.19 | medie 59640.23/66445.43 trend GIU | notizie -0.58 su 128 (2 nuove, 2 da Claude) | 0.1s
+21/11 11:45:47 INFO       (-1.0 r1.0 claude) Bitcoin Price Drops 6.4% To $57,757, Strategy Inc. Keeps Holdings - MarketForces Africa
+21/11 11:45:47 INFO       (-0.9 r1.0 claude) Bitcoin Breaks Below $56,000; Over $2.4 Billion in Contracts Liquidated - BigGo Finance
+21/11 11:45:47 INFO       (-0.8 r1.0 claude) Bitcoin has plummeted below $56,000: what’s happening in the market - UkrMedia News
+21/11 11:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista

@@ -970,3 +970,9 @@
 21/11 10:45:47 INFO       (-1.0 r0.7 claude) Peter Schiff: Bitcoin falls below $56,000 and Ethereum under $1,550 ahead of weekend - Traders Union
 21/11 10:45:47 INFO       (-0.7 r0.6 claude) Ethereum, Silver & Taiwan Wiped 5–10%; India & Bonds Find Refuge as Nine New 52-Week Lows Hit on the Same Sess
 21/11 10:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista
+21/11 11:45:45 INFO    === eth_lento (ETH-EUR) ===
+21/11 11:45:45 INFO    Prezzo 1509.62 | medie 1671.10/1912.24 trend GIU | notizie -0.30 su 89 (1 nuove, 1 da Claude) | 0.1s
+21/11 11:45:45 INFO       (-0.8 r1.0 claude) Ethereum drops more than 7% after $131 million exits spot ETFs and Glamsterdam upgrade delay - Traders Union
+21/11 11:45:45 INFO       (-1.0 r0.7 claude) Peter Schiff: Bitcoin falls below $56,000 and Ethereum under $1,550 ahead of weekend - Traders Union
+21/11 11:45:45 INFO       (-0.7 r0.8 claude) Crypto News Today: Bitcoin Price Nears $55K as Ethereum Plunges 10% and XRP Tests $0.87 Support - Brave New Co
+21/11 11:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista
