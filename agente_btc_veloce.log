@@ -3760,3 +3760,9 @@
 21/11 06:31:04 INFO       (-0.8 r1.0 claude) Bitcoin falls to its lowest in two years - The Lufkin Daily News
 21/11 06:31:04 INFO       (-0.6 r1.0 claude) Bitcoin Hits $55,500 as Strategy's Paper Loss Deepens - The Defiant
 21/11 06:31:04 INFO    -> ATTENDI: trend 15 minuti non rialzista
+21/11 06:45:48 INFO    === btc_veloce (BTC-EUR) ===
+21/11 06:45:48 INFO    Prezzo 52119.66 | medie 51239.14/52133.92 trend GIU | notizie -0.56 su 121 (8 nuove, 8 da Claude) | 0.2s
+21/11 06:45:48 INFO       (-0.9 r1.0 claude) Why Is Bitcoin Dropping? BTC Falls 10% Below $57K - Bitcoin Foundation
+21/11 06:45:48 INFO       (-0.9 r1.0 claude) Bitcoin Falls 10% In Rout - Investing.com
+21/11 06:45:48 INFO       (-0.9 r1.0 claude) Bitcoin crashes below $56,000 as liquidity squeeze deepens crypto selloff - Investing.com
+21/11 06:45:48 INFO    -> ATTENDI: trend 15 minuti non rialzista

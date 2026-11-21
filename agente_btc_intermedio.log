@@ -1097,3 +1097,10 @@
 21/11 05:45:52 INFO       (-0.8 r1.0 claude) Bitcoin Falls Below $57,000 to Two-Year Low on Coinbase - Cryptonews.net
 21/11 05:45:52 INFO       (-0.8 r1.0 claude) Bitcoin Falls to More than Two-Year Low as Global Markets Sink - Bloomberg.com
 21/11 05:45:52 INFO    -> ATTENDI: trend orario non rialzista
+21/11 06:45:48 INFO    === btc_intermedio (BTC-EUR) ===
+21/11 06:45:48 INFO    Trend superiore (ONE_DAY): GIU
+21/11 06:45:48 INFO    Prezzo 52119.66 | medie 53992.83/55851.49 trend GIU | notizie -0.56 su 121 (8 nuove, 8 da Claude) | 0.3s
+21/11 06:45:48 INFO       (-0.9 r1.0 claude) Why Is Bitcoin Dropping? BTC Falls 10% Below $57K - Bitcoin Foundation
+21/11 06:45:48 INFO       (-0.9 r1.0 claude) Bitcoin Falls 10% In Rout - Investing.com
+21/11 06:45:48 INFO       (-0.9 r1.0 claude) Bitcoin crashes below $56,000 as liquidity squeeze deepens crypto selloff - Investing.com
+21/11 06:45:48 INFO    -> ATTENDI: trend orario non rialzista
