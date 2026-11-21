@@ -3836,3 +3836,11 @@
 21/11 09:15:44 INFO       (-1.0 r1.0 claude) ETH slides as downward price move persists after Glamsterdam upgrade delay and ETF outflows - Traders Union
 21/11 09:15:44 INFO       (-0.7 r0.6 claude) Ethereum, Silver & Taiwan Wiped 5–10%; India & Bonds Find Refuge as Nine New 52-Week Lows Hit on the Same Sess
 21/11 09:15:44 INFO    -> ATTENDI: notizia shock: Ethereum drops more than 7% after $131 million exits spot ETFs and Glamsterdam u
+21/11 09:31:08 INFO    === eth_veloce (ETH-EUR) ===
+21/11 09:31:08 INFO    Prezzo 1495.05 | medie 1488.51/1460.79 trend SU | notizie +0.01 su 3 (0 nuove, 0 da Claude) | 0.2s
+21/11 09:31:08 INFO       (+0.2 r0.5 claude) Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment
+21/11 09:31:08 INFO       (-0.3 r0.3 claude) Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure
+21/11 09:31:08 INFO       (-0.3 r0.8 claude) Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip
+21/11 09:31:12 INFO       rialzista: Il prezzo (1495,05) si trova sopra la media mobile a 10 periodi (1488,51) e a quella a 30 periodi (1460,79), con un trend di breve e medio periodo positivo e una volatilità giornaliera contenuta (ATR 12,37, circa lo 0,8%).
+21/11 09:31:12 INFO       ribassista: Il punteggio delle notizie è sostanzialmente neutro (0,005), con due titoli negativi, tra cui il trasferimento di quasi 600 milioni di dollari in ETH da parte di un hacker, e il trend è debole, poiché il prezzo è appena sopra le medie senza un catalizzatore chiaro.
+21/11 09:31:12 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è modesto, le notizie sono neutre con un rischio reputazionale e di liquidità legato all'hack, e le prove a favore dell'acquisto non sono sufficientemente solide per giustificare l'esposizione.
