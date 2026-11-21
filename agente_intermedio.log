@@ -1074,3 +1074,10 @@
 21/11 02:45:42 INFO       (-0.5 r1.0 claude) Solana Price Prediction: SOL Bearish Trend Deepens Despite Ambitious 2027 Network Overhaul - Cryptonews.net
 21/11 02:45:42 INFO       (-0.3 r0.6 claude) Cathie Wood's ARK Dumps $4.1M in Ether, Solana Staking ETFs to Fund $91M Anthropic Bet - BigGo Finance
 21/11 02:45:42 INFO    -> ATTENDI: trend orario non rialzista
+21/11 03:45:40 INFO    === intermedio (SOL-EUR) ===
+21/11 03:45:40 INFO    Trend superiore (ONE_DAY): GIU
+21/11 03:45:40 INFO    Prezzo 60.3600 | medie 63.7660/65.7840 trend GIU | notizie -0.10 su 45 (0 nuove, 0 da Claude) | 0.3s
+21/11 03:45:40 INFO       (-0.5 r1.0 claude) Solana price struggles despite major upgrade: is another sell-off coming? - Cryptonews.net
+21/11 03:45:40 INFO       (-0.5 r1.0 claude) Solana Price Prediction: SOL Bearish Trend Deepens Despite Ambitious 2027 Network Overhaul - Cryptonews.net
+21/11 03:45:40 INFO       (-0.3 r0.6 claude) Cathie Wood's ARK Dumps $4.1M in Ether, Solana Staking ETFs to Fund $91M Anthropic Bet - BigGo Finance
+21/11 03:45:40 INFO    -> ATTENDI: trend orario non rialzista
