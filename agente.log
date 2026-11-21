@@ -3225,3 +3225,7 @@
 21/11 18:01:11 INFO       (+0.6 r0.8 claude) Bitcoin Price Today, November 21, 2026: BTC Rebounds Above $60,000 as Solana Leads Crypto Gains - Eurasia Busi
 21/11 18:01:11 INFO       (-0.6 r1.0 claude) Solana Price Prediction: SOL Crashes 75% From Peak as ETF Investors Withdraw $5.9M - Coinpaper
 21/11 18:01:11 INFO    -> ATTENDI: trend giornaliero non rialzista
+21/11 19:01:14 INFO    === lenta (SOL-EUR) ===
+21/11 19:01:14 INFO    Prezzo 64.5000 | medie 67.9550/79.3210 trend GIU | notizie -0.00 su 1 (0 nuove, 0 da Claude) | 0.2s
+21/11 19:01:14 INFO       (-0.2 r0.1 claude) Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure
+21/11 19:01:14 INFO    -> ATTENDI: trend giornaliero non rialzista
