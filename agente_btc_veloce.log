@@ -3802,3 +3802,9 @@
 21/11 08:15:46 INFO       (-0.9 r1.0 claude) Bitcoin Falls 10% In Rout - Investing.com
 21/11 08:15:46 INFO       (-0.7 r0.9 claude) Bitcoin Loses 28% As Market Confidence Weakens - Cointribune
 21/11 08:15:46 INFO    -> ATTENDI: notizia shock: Bitcoin Loses 28% As Market Confidence Weakens - Cointribune
+21/11 08:31:07 INFO    === btc_veloce (BTC-EUR) ===
+21/11 08:31:07 INFO    Prezzo 52647.59 | medie 52661.64/51915.97 trend SU | notizie -0.59 su 109 (1 nuove, 1 da Claude) | 0.1s
+21/11 08:31:07 INFO       (-1.0 r1.0 claude) Bitcoin falls to its lowest in two years By Reuters - Investing.com
+21/11 08:31:07 INFO       (-0.9 r1.0 claude) Why Is Bitcoin Dropping? BTC Falls 10% Below $57K - Bitcoin Foundation
+21/11 08:31:07 INFO       (-0.9 r1.0 claude) Bitcoin Falls 10% In Rout - Investing.com
+21/11 08:31:07 INFO    -> ATTENDI: notizia shock: Bitcoin falls to its lowest in two years By Reuters - Investing.com
