@@ -1174,3 +1174,10 @@
 21/11 16:45:52 INFO       (-0.7 r0.9 claude) Bitcoin Loses $60K for First Time Since July as AI Stocks Crash - Bitbo
 21/11 16:45:52 INFO       (-0.9 r1.0 claude) Bitcoin Tumbles to $55,130, Its Lowest Since 2024, Testing Fidelity Analyst's Valuation Model - BigGo Finance
 21/11 16:45:52 INFO    -> ATTENDI: trend orario non rialzista
+21/11 17:45:52 INFO    === btc_intermedio (BTC-EUR) ===
+21/11 17:45:52 INFO    Trend superiore (ONE_DAY): GIU
+21/11 17:45:52 INFO    Prezzo 54789.95 | medie 53370.45/54917.71 trend GIU | notizie -0.18 su 95 (2 nuove, 2 da Claude) | 0.4s
+21/11 17:45:52 INFO       (-0.7 r1.0 claude) Bitcoin Eyes $38,770 as ETF Outflows and Liquidations Surge and the Fear and Greed Index Falls - Benzinga
+21/11 17:45:52 INFO       (-0.9 r1.0 claude) Bitcoin Crashes Below $56,000 as $2.7 Billion Crypto Liquidation Wipes Out Traders - 24/7 Wall St.
+21/11 17:45:52 INFO       (-0.7 r0.9 claude) Bitcoin Loses $60K for First Time Since July as AI Stocks Crash - Bitbo
+21/11 17:45:52 INFO    -> ATTENDI: trend orario non rialzista
