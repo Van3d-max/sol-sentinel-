@@ -3652,3 +3652,9 @@
 21/11 02:01:34 INFO       (-0.9 r0.9 claude) Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play
 21/11 02:01:34 INFO       (-0.4 r0.8 claude) Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom
 21/11 02:01:34 INFO    -> ATTENDI: notizie sotto la soglia (-0.40)
+21/11 02:15:48 INFO    === btc_veloce (BTC-EUR) ===
+21/11 02:15:48 INFO    Prezzo 53783.96 | medie 53795.98/53780.75 trend SU | notizie -0.48 su 117 (3 nuove, 3 da Claude) | 0.3s
+21/11 02:15:48 INFO       (-0.8 r0.9 claude) Bitcoin has crashed to its lowest level in more than 2 years — what is happening in the cryptocurrency market 
+21/11 02:15:48 INFO       (-0.8 r0.9 claude) Bitcoin drops 7% to its lowest level since July as crypto sell-off deepens - Cryptonews.net
+21/11 02:15:48 INFO       (-0.8 r1.0 claude) Bitcoin Falls to More than Two-Year Low as Global Markets Sink - Bloomberg.com
+21/11 02:15:48 INFO    -> ATTENDI: notizia shock: Bitcoin has crashed to its lowest level in more than 2 years — what is happening
