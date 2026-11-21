@@ -4132,3 +4132,9 @@
 21/11 22:01:07 INFO       (-0.3 r1.0 claude) Bitcoin Recovers to $60,000 but Demand Stays Away: ¥92 Billion ETF Outflows and Weak US Buying Pressure Point 
 21/11 22:01:07 INFO       (-0.7 r0.9 claude) Bitcoin Slips Under Key Moving Averages as ETF Withdrawals and Long Liquidations Accelerate - BigGo Finance
 21/11 22:01:07 INFO    -> ATTENDI: notizie sotto la soglia (-0.10)
+21/11 22:15:46 INFO    === btc_veloce (BTC-EUR) ===
+21/11 22:15:46 INFO    Prezzo 54982.34 | medie 55084.50/54995.89 trend SU | notizie -0.11 su 79 (2 nuove, 2 da Claude) | 0.1s
+21/11 22:15:46 INFO       (-0.5 r0.8 claude) 3 Altcoins Defy the Market Crash as Bitcoin Hits a Two-Year Low - Cryptonews.net
+21/11 22:15:46 INFO       (-0.6 r0.8 claude) Hut 8 and MARA shares plunge as bitcoin slips under $60,000 and AI stocks sell off - Startup Fortune
+21/11 22:15:46 INFO       (+0.3 r0.9 claude) Bitcoin Bottom Signals Strengthen as BTC Nears $60K - Cryptonews.net
+21/11 22:15:46 INFO    -> ATTENDI: notizie sotto la soglia (-0.11)
