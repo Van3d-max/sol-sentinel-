@@ -1118,3 +1118,10 @@
 21/11 08:45:49 INFO       (-0.7 r0.9 claude) Bitcoin Plunges to Two-Year Low As US Market Turmoil Deepens - تسنیم
 21/11 08:45:49 INFO       (-0.9 r1.0 claude) Why Is Bitcoin Dropping? BTC Falls 10% Below $57K - Bitcoin Foundation
 21/11 08:45:49 INFO    -> ATTENDI: trend orario non rialzista
+21/11 09:45:46 INFO    === btc_intermedio (BTC-EUR) ===
+21/11 09:45:46 INFO    Trend superiore (ONE_DAY): GIU
+21/11 09:45:46 INFO    Prezzo 52946.86 | medie 53477.72/55549.83 trend GIU | notizie -0.52 su 115 (4 nuove, 4 da Claude) | 0.3s
+21/11 09:45:46 INFO       (-1.0 r1.0 claude) Bitcoin falls to its lowest in two years By Reuters - Investing.com
+21/11 09:45:46 INFO       (-0.7 r0.9 claude) Bitcoin Plunges to Two-Year Low As US Market Turmoil Deepens - تسنیم
+21/11 09:45:46 INFO       (-0.9 r1.0 claude) Why Is Bitcoin Dropping? BTC Falls 10% Below $57K - Bitcoin Foundation
+21/11 09:45:46 INFO    -> ATTENDI: trend orario non rialzista

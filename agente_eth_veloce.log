@@ -3844,3 +3844,9 @@
 21/11 09:31:12 INFO       rialzista: Il prezzo (1495,05) si trova sopra la media mobile a 10 periodi (1488,51) e a quella a 30 periodi (1460,79), con un trend di breve e medio periodo positivo e una volatilità giornaliera contenuta (ATR 12,37, circa lo 0,8%).
 21/11 09:31:12 INFO       ribassista: Il punteggio delle notizie è sostanzialmente neutro (0,005), con due titoli negativi, tra cui il trasferimento di quasi 600 milioni di dollari in ETH da parte di un hacker, e il trend è debole, poiché il prezzo è appena sopra le medie senza un catalizzatore chiaro.
 21/11 09:31:12 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è modesto, le notizie sono neutre con un rischio reputazionale e di liquidità legato all'hack, e le prove a favore dell'acquisto non sono sufficientemente solide per giustificare l'esposizione.
+21/11 09:45:43 INFO    === eth_veloce (ETH-EUR) ===
+21/11 09:45:43 INFO    Prezzo 1496.59 | medie 1488.97/1464.75 trend SU | notizie -0.22 su 54 (2 nuove, 2 da Claude) | 0.2s
+21/11 09:45:43 INFO       (-0.8 r1.0 claude) Ethereum drops more than 7% after $131 million exits spot ETFs and Glamsterdam upgrade delay - Traders Union
+21/11 09:45:43 INFO       (+0.3 r0.9 claude) Ether Breaks $1,800 as Five Major Altcoins Sink Together - finance.biggo.com
+21/11 09:45:43 INFO       (-0.7 r0.6 claude) Ethereum, Silver & Taiwan Wiped 5–10%; India & Bonds Find Refuge as Nine New 52-Week Lows Hit on the Same Sess
+21/11 09:45:43 INFO    -> ATTENDI: notizia shock: Ethereum drops more than 7% after $131 million exits spot ETFs and Glamsterdam u
