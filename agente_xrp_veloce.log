@@ -3801,3 +3801,9 @@
 21/11 13:01:15 INFO       (-1.0 r1.0 claude) XRP falls 10% as long bets unwind and ETF assets slip below $1 billion
 21/11 13:01:15 INFO       (+0.3 r0.6 claude) Binance raises RLUSD yield to 6.37% as XRP rewards surge 54%
 21/11 13:01:15 INFO    -> ATTENDI: notizie sotto la soglia (-0.26)
+21/11 13:15:49 INFO    === xrp_veloce (XRP-EUR) ===
+21/11 13:15:50 INFO    Prezzo 0.8298 | medie 0.824956/0.818819 trend SU | notizie -0.30 su 33 (2 nuove, 2 da Claude) | 0.3s
+21/11 13:15:50 INFO       (-0.8 r1.0 claude) XRP Slides to 87 Cents, Lowest Since 2024, as ETF Assets Fall Below $1 Billion - BigGo Finance
+21/11 13:15:50 INFO       (-0.8 r1.0 claude) XRP Price Prediction: XRP Crashes to $0.86 as ETF Outflows and Liquidations Accelerate - Coinpaper
+21/11 13:15:50 INFO       (+0.4 r1.0 claude) XRP Supply Shortage on Binance Tops July Levels, CryptoQuant Analyst Says - BeInCrypto
+21/11 13:15:50 INFO    -> ATTENDI: notizia shock: XRP Slides to 87 Cents, Lowest Since 2024, as ETF Assets Fall Below $1 Billion -
