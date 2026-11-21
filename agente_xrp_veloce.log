@@ -3732,3 +3732,8 @@
 21/11 10:01:23 INFO       (-1.0 r1.0 claude) XRP falls 10% as long bets unwind and ETF assets slip below $1 billion
 21/11 10:01:23 INFO       (-1.0 r1.0 claude) XRP Price Prediction: XRP On Track to Make New Lows After Breaking Key Support at 95 Cents - FXEmpire
 21/11 10:01:23 INFO    -> ATTENDI: notizie sotto la soglia (-0.45)
+21/11 10:15:48 INFO    === xrp_veloce (XRP-EUR) ===
+21/11 10:15:48 INFO    Prezzo 0.8138 | medie 0.813133/0.809362 trend SU | notizie -0.39 su 2 (0 nuove, 0 da Claude) | 0.3s
+21/11 10:15:48 INFO       (-1.0 r1.0 claude) XRP falls 10% as long bets unwind and ETF assets slip below $1 billion
+21/11 10:15:48 INFO       (+0.3 r0.6 claude) Binance raises RLUSD yield to 6.37% as XRP rewards surge 54%
+21/11 10:15:48 INFO    -> ATTENDI: notizie sotto la soglia (-0.39)
