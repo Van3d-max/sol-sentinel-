@@ -1837,3 +1837,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-21T03:01:28+01:00;1483.39;1479.93;1477.31;su;+0.015;5;0;0;0;no;attendi;obiettivo +1.71% sotto il minimo +2.20% (commissioni);Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment;0.569
 2026-11-21T03:15:46+01:00;1481.62;1480.31;1478.37;su;-0.264;69;1;1;0;no;attendi;notizie sotto la soglia (-0.26);ETHFI Swings 4.02% Amid Ethereum ETF Outflows and Selloff - CoinMarketCap;0.545
 2026-11-21T03:31:06+01:00;1479.04;1480.20;1479.29;su;-0.262;69;1;1;0;no;attendi;notizie sotto la soglia (-0.26);ETHFI Swings 4.02% Amid Ethereum ETF Outflows and Selloff - CoinMarketCap;0.521
+2026-11-21T03:45:43+01:00;1474.17;1479.51;1479.58;giu;-0.261;69;0;0;0;no;attendi;trend 15 minuti non rialzista;ETHFI Swings 4.02% Amid Ethereum ETF Outflows and Selloff - CoinMarketCap;0.513
