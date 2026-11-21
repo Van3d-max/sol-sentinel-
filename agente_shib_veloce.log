@@ -3510,3 +3510,9 @@
 21/11 03:45:49 INFO       rialzista: Le notizie recenti mostrano flussi in uscita dagli exchange e un forte volume giornaliero di SHIB, segnali che potrebbero anticipare un rimbalzo.
 21/11 03:45:49 INFO       ribassista: SHIB ha toccato un minimo di un anno e le medie mobili e l'ATR risultano pari a zero, quindi non c'è alcun supporto tecnico affidabile per un ingresso.
 21/11 03:45:49 INFO    -> BLOCCATO DAL DIBATTITO: I dati tecnici (medie mobili e ATR) risultano mancanti o pari a zero, impedendo di dimensionare il rischio, e il sentiment misto con il minimo annuale su un asset molto volatile non giustifica l'acquisto spot.
+21/11 04:01:25 INFO    === shib_veloce (SHIB-EUR) ===
+21/11 04:01:26 INFO    Prezzo 3.15e-06 | medie 3.22667e-06/3.23095e-06 trend GIU | notizie +0.09 su 17 (1 nuove, 1 da Claude) | 0.3s
+21/11 04:01:26 INFO       (+0.3 r1.0 claude) +476 Billion Shiba Inu (SHIB) in 24 Hours: It Sets the Point - U.Today
+21/11 04:01:26 INFO       (+0.5 r0.9 claude) Shiba Inu shows bullish signs as exchange outfl... - Pluang
+21/11 04:01:26 INFO       (+0.1 r0.9 claude) Shiba Inu sees 476B tokens moved in 24 hours, s... - Pluang
+21/11 04:01:26 INFO    -> ATTENDI: trend 15 minuti non rialzista
