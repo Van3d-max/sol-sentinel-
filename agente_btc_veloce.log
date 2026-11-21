@@ -3670,3 +3670,9 @@
 21/11 02:45:45 INFO       (-0.8 r0.9 claude) Bitcoin has crashed to its lowest level in more than 2 years — what is happening in the cryptocurrency market 
 21/11 02:45:45 INFO       (-0.8 r1.0 claude) Bitcoin Price Crashes Below $59K as Crypto Liquidations Top $1.5B - Cryptonews.net
 21/11 02:45:45 INFO    -> ATTENDI: trend 15 minuti non rialzista
+21/11 03:01:17 INFO    === btc_veloce (BTC-EUR) ===
+21/11 03:01:17 INFO    Prezzo 53348.28 | medie 53695.30/53771.32 trend GIU | notizie -0.47 su 117 (0 nuove, 0 da Claude) | 0.2s
+21/11 03:01:17 INFO       (-0.8 r0.9 claude) Bitcoin has crashed to its lowest level in more than 2 years — what is happening in the cryptocurrency market 
+21/11 03:01:17 INFO       (-0.8 r0.9 claude) Bitcoin drops 7% to its lowest level since July as crypto sell-off deepens - Cryptonews.net
+21/11 03:01:17 INFO       (-0.8 r1.0 claude) Bitcoin Falls to More than Two-Year Low as Global Markets Sink - Bloomberg.com
+21/11 03:01:17 INFO    -> ATTENDI: trend 15 minuti non rialzista
