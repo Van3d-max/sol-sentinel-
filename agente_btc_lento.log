@@ -1000,3 +1000,9 @@
 21/11 15:45:48 INFO       (-0.9 r1.0 claude) Bitcoin Tumbles to $55,130, Its Lowest Since 2024, Testing Fidelity Analyst's Valuation Model - BigGo Finance
 21/11 15:45:48 INFO       (-0.9 r1.0 claude) Bitcoin News | Bitcoin Falls Below $57,000 to a Two-Year Low as $2.4 Billion in Liquidations Hit Bullish Trade
 21/11 15:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista
+21/11 16:45:52 INFO    === btc_lento (BTC-EUR) ===
+21/11 16:45:52 INFO    Prezzo 54821.02 | medie 59640.23/66445.43 trend GIU | notizie -0.32 su 126 (2 nuove, 2 da Claude) | 0.1s
+21/11 16:45:52 INFO       (-0.9 r1.0 claude) Bitcoin Crashes Below $56,000 as $2.7 Billion Crypto Liquidation Wipes Out Traders - 24/7 Wall St.
+21/11 16:45:52 INFO       (-0.9 r1.0 claude) Bitcoin Tumbles to $55,130, Its Lowest Since 2024, Testing Fidelity Analyst's Valuation Model - BigGo Finance
+21/11 16:45:52 INFO       (-0.8 r1.0 claude) Bitcoin drops to lowest level in more than two years - Seeking Alpha
+21/11 16:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista
