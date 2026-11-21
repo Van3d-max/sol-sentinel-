@@ -1209,3 +1209,10 @@
 21/11 21:45:44 INFO       (-0.6 r0.8 claude) Hut 8 and MARA shares plunge as bitcoin slips under $60,000 and AI stocks sell off - Startup Fortune
 21/11 21:45:44 INFO       (-0.7 r0.9 claude) Bitcoin Slips Under Key Moving Averages as ETF Withdrawals and Long Liquidations Accelerate - BigGo Finance
 21/11 21:45:44 INFO    -> ATTENDI: trend orario non rialzista
+21/11 22:45:44 INFO    === btc_intermedio (BTC-EUR) ===
+21/11 22:45:44 INFO    Trend superiore (ONE_DAY): GIU
+21/11 22:45:44 INFO    Prezzo 54873.24 | medie 53670.20/54702.87 trend GIU | notizie -0.08 su 81 (3 nuove, 3 da Claude) | 0.3s
+21/11 22:45:44 INFO       (-0.5 r1.0 claude) How Low Will Bitcoin Price Drop? Analysts Predict - BeInCrypto
+21/11 22:45:44 INFO       (-0.5 r0.8 claude) 3 Altcoins Defy the Market Crash as Bitcoin Hits a Two-Year Low - Cryptonews.net
+21/11 22:45:44 INFO       (-0.6 r0.8 claude) Hut 8 and MARA shares plunge as bitcoin slips under $60,000 and AI stocks sell off - Startup Fortune
+21/11 22:45:44 INFO    -> ATTENDI: trend orario non rialzista
