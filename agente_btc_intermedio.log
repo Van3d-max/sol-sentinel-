@@ -1153,3 +1153,10 @@
 21/11 13:45:55 INFO       (-0.6 r1.0 claude) Bitcoin slips below its 200-week average for the first time since October 2023 - Crypto Briefing
 21/11 13:45:55 INFO       (-0.7 r0.9 claude) Bitcoin Breaks Below 200-Week Moving Average: Coinbase Warns of "2022-Style" Repeat Risk - BigGo Finance
 21/11 13:45:55 INFO    -> ATTENDI: trend orario non rialzista
+21/11 14:45:47 INFO    === btc_intermedio (BTC-EUR) ===
+21/11 14:45:48 INFO    Trend superiore (ONE_DAY): GIU
+21/11 14:45:48 INFO    Prezzo 55096.15 | medie 53140.21/55107.24 trend GIU | notizie -0.46 su 91 (1 nuove, 1 da Claude) | 0.4s
+21/11 14:45:48 INFO       (-0.9 r1.0 claude) Bitcoin Tumbles to $55,130, Its Lowest Since 2024, Testing Fidelity Analyst's Valuation Model - BigGo Finance
+21/11 14:45:48 INFO       (-0.8 r1.0 claude) Bitcoin drops to lowest level in more than two years - Seeking Alpha
+21/11 14:45:48 INFO       (-0.8 r1.0 claude) Bitcoin drops to lowest level in more than two years - TradingView
+21/11 14:45:48 INFO    -> ATTENDI: trend orario non rialzista
