@@ -1187,3 +1187,10 @@
 21/11 18:45:45 INFO       (-0.6 r1.0 claude) How Low Could Ethereum Price Go as Exchange Reserves Jump by 210K ETH in Four Days? - Cryptonews.net
 21/11 18:45:45 INFO       (+0.3 r0.7 claude) HSBC expands tokenized fund offering on Ethereum for Hong Kong savers - Traders Union
 21/11 18:45:45 INFO    -> ATTENDI: trend orario non rialzista
+21/11 19:45:44 INFO    === eth_intermedio (ETH-EUR) ===
+21/11 19:45:44 INFO    Trend superiore (ONE_DAY): GIU
+21/11 19:45:44 INFO    Prezzo 1539.30 | medie 1496.39/1537.15 trend GIU | notizie -0.03 su 38 (0 nuove, 0 da Claude) | 0.2s
+21/11 19:45:44 INFO       (+0.4 r1.0 claude) Ethereum Price Prediction: ETH Could Experience a Relief Rally to $1.9K as Daily RSI Flashes Oversold - FXEmpi
+21/11 19:45:44 INFO       (-0.6 r1.0 claude) How Low Could Ethereum Price Go as Exchange Reserves Jump by 210K ETH in Four Days? - Cryptonews.net
+21/11 19:45:44 INFO       (+0.3 r0.7 claude) HSBC expands tokenized fund offering on Ethereum for Hong Kong savers - Traders Union
+21/11 19:45:44 INFO    -> ATTENDI: trend orario non rialzista
