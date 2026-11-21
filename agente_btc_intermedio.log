@@ -1104,3 +1104,10 @@
 21/11 06:45:48 INFO       (-0.9 r1.0 claude) Bitcoin Falls 10% In Rout - Investing.com
 21/11 06:45:48 INFO       (-0.9 r1.0 claude) Bitcoin crashes below $56,000 as liquidity squeeze deepens crypto selloff - Investing.com
 21/11 06:45:48 INFO    -> ATTENDI: trend orario non rialzista
+21/11 07:45:46 INFO    === btc_intermedio (BTC-EUR) ===
+21/11 07:45:46 INFO    Trend superiore (ONE_DAY): GIU
+21/11 07:45:46 INFO    Prezzo 53008.34 | medie 53813.81/55753.11 trend GIU | notizie -0.56 su 111 (0 nuove, 0 da Claude) | 0.4s
+21/11 07:45:46 INFO       (-0.9 r1.0 claude) Why Is Bitcoin Dropping? BTC Falls 10% Below $57K - Bitcoin Foundation
+21/11 07:45:46 INFO       (-0.9 r1.0 claude) Bitcoin Falls 10% In Rout - Investing.com
+21/11 07:45:46 INFO       (-0.9 r1.0 claude) Bitcoin crashes below $56,000 as liquidity squeeze deepens crypto selloff - Investing.com
+21/11 07:45:46 INFO    -> ATTENDI: trend orario non rialzista
