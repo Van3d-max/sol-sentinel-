@@ -4108,3 +4108,9 @@
 21/11 21:01:12 INFO       (-0.4 r0.9 claude) A Bitcoin drop toward $53,000 could put $240 million in collateral at risk
 21/11 21:01:12 INFO       (+0.2 r0.7 claude) Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch
 21/11 21:01:12 INFO    -> ATTENDI: obiettivo +1.16% sotto il minimo +2.20% (commissioni)
+21/11 21:15:45 INFO    === btc_veloce (BTC-EUR) ===
+21/11 21:15:45 INFO    Prezzo 55107.86 | medie 55064.51/54928.12 trend SU | notizie -0.09 su 72 (3 nuove, 3 da Claude) | 0.3s
+21/11 21:15:45 INFO       (-0.6 r0.8 claude) Hut 8 and MARA shares plunge as bitcoin slips under $60,000 and AI stocks sell off - Startup Fortune
+21/11 21:15:45 INFO       (-0.7 r1.0 claude) Bitcoin Eyes $38,770 as ETF Outflows and Liquidations Surge and the Fear and Greed Index Falls - Benzinga
+21/11 21:15:45 INFO       (-0.5 r0.6 claude) MSCI Is Cutting Strategy and Metaplanet From Its Indexes. Here's What It Means for Bitcoin Treasury Company St
+21/11 21:15:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.09)
