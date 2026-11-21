@@ -3771,3 +3771,9 @@
 21/11 15:15:57 INFO    === shib_veloce (SHIB-EUR) ===
 21/11 15:15:57 INFO    Prezzo 3.33e-06 | medie 3.26778e-06/3.21714e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.1s
 21/11 15:15:57 INFO    -> ATTENDI: obiettivo +2.17% sotto il minimo +2.20% (commissioni)
+21/11 15:31:12 INFO    === shib_veloce (SHIB-EUR) ===
+21/11 15:31:12 INFO    Prezzo 3.32e-06 | medie 3.27667e-06/3.22476e-06 trend SU | notizie -0.28 su 13 (1 nuove, 1 da Claude) | 0.3s
+21/11 15:31:12 INFO       (-1.0 r1.0 claude) Shiba Inu Sees 155 Billion Token Net Inflow to Exchanges, Reviving Sell-Pressure Concerns - BigGo Finance
+21/11 15:31:12 INFO       (-0.6 r1.0 claude) Shiba Inu News Today: Why Is SHIB Coin Crashing? 3 Big Reasons Inside - Coin Gabbar
+21/11 15:31:12 INFO       (-1.0 r1.0 claude) Shiba Inu extends downward price move as seller pressure remains dominant - Traders Union
+21/11 15:31:12 INFO    -> ATTENDI: notizie sotto la soglia (-0.28)
