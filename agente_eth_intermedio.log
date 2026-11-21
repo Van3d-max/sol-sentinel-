@@ -1082,3 +1082,10 @@
 21/11 03:45:42 INFO       (-0.5 r0.8 claude) ETHFI Swings 4.02% Amid Ethereum ETF Outflows and Selloff - CoinMarketCap
 21/11 03:45:42 INFO       (-0.3 r0.9 claude) Ethereum's 'Glamsterdam' Upgrade Delayed to Late January Next Year Due to App Fix Fallout - BigGo Finance
 21/11 03:45:42 INFO    -> ATTENDI: trend orario non rialzista
+21/11 04:45:46 INFO    === eth_intermedio (ETH-EUR) ===
+21/11 04:45:47 INFO    Trend superiore (ONE_DAY): GIU
+21/11 04:45:47 INFO    Prezzo 1417.13 | medie 1516.71/1576.32 trend GIU | notizie -0.28 su 66 (0 nuove, 0 da Claude) | 0.4s
+21/11 04:45:47 INFO       (-0.3 r0.8 claude) Peter Schiff Warns of Weekend Crypto Crash Sending ETH to $1K - Cryptonews.net
+21/11 04:45:47 INFO       (-0.5 r0.8 claude) ETHFI Swings 4.02% Amid Ethereum ETF Outflows and Selloff - CoinMarketCap
+21/11 04:45:47 INFO       (-0.3 r0.9 claude) Ethereum's 'Glamsterdam' Upgrade Delayed to Late January Next Year Due to App Fix Fallout - BigGo Finance
+21/11 04:45:47 INFO    -> ATTENDI: trend orario non rialzista

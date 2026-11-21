@@ -1083,3 +1083,10 @@
 21/11 03:45:45 INFO       (-0.8 r0.9 claude) Bitcoin Falls Below $60K For First Time Since July, Saylor's MSTR Hits 52-Week Low Amid $14B Paper Loss - Yaho
 21/11 03:45:45 INFO       (-1.0 r1.0 claude) Bitcoin Breaks Below $60,000, Extends Losing Streak to Seven Weeks as $580 Million Flees ETFs in a Single Day 
 21/11 03:45:45 INFO    -> ATTENDI: trend orario non rialzista
+21/11 04:45:49 INFO    === btc_intermedio (BTC-EUR) ===
+21/11 04:45:50 INFO    Trend superiore (ONE_DAY): GIU
+21/11 04:45:50 INFO    Prezzo 51112.69 | medie 54504.68/56100.59 trend GIU | notizie -0.53 su 125 (6 nuove, 6 da Claude) | 0.4s
+21/11 04:45:50 INFO       (-0.8 r1.0 claude) Bitcoin tanks below $57,000 for the first time in two years, and its not alone - CoinDesk
+21/11 04:45:50 INFO       (-0.8 r1.0 claude) Bitcoin Crashes Below $57,000, Triggering approximately $416 Million in Futures Liquidations in One Hour - Big
+21/11 04:45:50 INFO       (-0.8 r0.9 claude) Bitcoin tanks below $57,000 for the first time in two years, and its not alone
+21/11 04:45:50 INFO    -> ATTENDI: trend orario non rialzista
