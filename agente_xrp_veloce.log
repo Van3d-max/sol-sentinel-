@@ -3749,3 +3749,8 @@
 21/11 10:45:49 INFO       (-1.0 r1.0 claude) XRP Tumbles 10% in a Day as ETF Outflows Deepen - bloomingbit
 21/11 10:45:49 INFO       (-1.0 r1.0 claude) XRP falls 10% as long bets unwind and ETF assets slip below $1 billion
 21/11 10:45:49 INFO    -> ATTENDI: notizie sotto la soglia (-0.39)
+21/11 11:01:17 INFO    === xrp_veloce (XRP-EUR) ===
+21/11 11:01:17 INFO    Prezzo 0.8173 | medie 0.815756/0.81201 trend SU | notizie -0.35 su 2 (0 nuove, 0 da Claude) | 0.2s
+21/11 11:01:17 INFO       (-1.0 r1.0 claude) XRP falls 10% as long bets unwind and ETF assets slip below $1 billion
+21/11 11:01:17 INFO       (+0.3 r0.6 claude) Binance raises RLUSD yield to 6.37% as XRP rewards surge 54%
+21/11 11:01:17 INFO    -> ATTENDI: notizie sotto la soglia (-0.35)
