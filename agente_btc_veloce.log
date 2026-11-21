@@ -3754,3 +3754,9 @@
 21/11 06:15:47 INFO       (-0.8 r1.0 claude) Bitcoin falls 5.10% to $55,830 - WHBL News
 21/11 06:15:47 INFO       (-0.8 r1.0 claude) Bitcoin falls to its lowest in two years - The Lufkin Daily News
 21/11 06:15:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
+21/11 06:31:04 INFO    === btc_veloce (BTC-EUR) ===
+21/11 06:31:04 INFO    Prezzo 51239.21 | medie 51090.84/52207.09 trend GIU | notizie -0.51 su 122 (2 nuove, 2 da Claude) | 0.3s
+21/11 06:31:04 INFO       (-0.8 r1.0 claude) Bitcoin falls 5.10% to $55,830 - WHBL News
+21/11 06:31:04 INFO       (-0.8 r1.0 claude) Bitcoin falls to its lowest in two years - The Lufkin Daily News
+21/11 06:31:04 INFO       (-0.6 r1.0 claude) Bitcoin Hits $55,500 as Strategy's Paper Loss Deepens - The Defiant
+21/11 06:31:04 INFO    -> ATTENDI: trend 15 minuti non rialzista
