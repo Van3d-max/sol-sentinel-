@@ -3778,3 +3778,9 @@
 21/11 07:15:48 INFO       (-0.9 r1.0 claude) Bitcoin Falls 10% In Rout - Investing.com
 21/11 07:15:48 INFO       (-0.8 r0.9 claude) Bitcoin ETFs Bleed $3.5 Billion in November as BTC Slips Below $56K - finance.biggo.com
 21/11 07:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
+21/11 07:31:01 INFO    === btc_veloce (BTC-EUR) ===
+21/11 07:31:02 INFO    Prezzo 53134.70 | medie 51833.71/52031.93 trend GIU | notizie -0.57 su 112 (2 nuove, 2 da Claude) | 0.2s
+21/11 07:31:02 INFO       (-0.9 r1.0 claude) Why Is Bitcoin Dropping? BTC Falls 10% Below $57K - Bitcoin Foundation
+21/11 07:31:02 INFO       (-0.9 r1.0 claude) Bitcoin Falls 10% In Rout - Investing.com
+21/11 07:31:02 INFO       (-0.9 r1.0 claude) Bitcoin crashes below $56,000 as liquidity squeeze deepens crypto selloff - Investing.com
+21/11 07:31:02 INFO    -> ATTENDI: trend 15 minuti non rialzista
