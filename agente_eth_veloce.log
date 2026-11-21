@@ -3906,3 +3906,9 @@
 21/11 12:01:20 INFO       (-0.4 r0.9 claude) Ethereum Price Prediction: Peter Schiff Warns of $1K ETH - Coinpaper
 21/11 12:01:20 INFO       (-0.7 r0.6 claude) Ethereum, Silver & Taiwan Wiped 5–10%; India & Bonds Find Refuge as Nine New 52-Week Lows Hit on the Same Sess
 21/11 12:01:20 INFO    -> ATTENDI: notizie sotto la soglia (-0.28)
+21/11 12:15:49 INFO    === eth_veloce (ETH-EUR) ===
+21/11 12:15:49 INFO    Prezzo 1513.30 | medie 1501.35/1494.87 trend SU | notizie -0.29 su 55 (2 nuove, 2 da Claude) | 0.2s
+21/11 12:15:49 INFO       (-0.8 r1.0 claude) Ethereum drops more than 7% after $131 million exits spot ETFs and Glamsterdam upgrade delay - Traders Union
+21/11 12:15:49 INFO       (-0.4 r0.9 claude) Ethereum Price Prediction: Peter Schiff Warns of $1K ETH - Coinpaper
+21/11 12:15:49 INFO       (-0.3 r0.9 claude) Ethereum’s Glamsterdam delay reveals a troubling pattern behind its biggest network upgrades
+21/11 12:15:49 INFO    -> ATTENDI: notizie sotto la soglia (-0.29)
