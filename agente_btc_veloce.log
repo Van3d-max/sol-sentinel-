@@ -3772,3 +3772,9 @@
 21/11 07:01:12 INFO       (-0.1 r0.9 claude) Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug
 21/11 07:01:12 INFO       (-0.8 r1.0 claude) Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%
 21/11 07:01:12 INFO    -> ATTENDI: trend 15 minuti non rialzista
+21/11 07:15:48 INFO    === btc_veloce (BTC-EUR) ===
+21/11 07:15:48 INFO    Prezzo 53126.32 | medie 51648.31/52065.70 trend GIU | notizie -0.57 su 112 (3 nuove, 3 da Claude) | 0.1s
+21/11 07:15:48 INFO       (-0.9 r1.0 claude) Why Is Bitcoin Dropping? BTC Falls 10% Below $57K - Bitcoin Foundation
+21/11 07:15:48 INFO       (-0.9 r1.0 claude) Bitcoin Falls 10% In Rout - Investing.com
+21/11 07:15:48 INFO       (-0.8 r0.9 claude) Bitcoin ETFs Bleed $3.5 Billion in November as BTC Slips Below $56K - finance.biggo.com
+21/11 07:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
