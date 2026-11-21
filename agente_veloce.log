@@ -11683,3 +11683,9 @@
 21/11 00:01:16 INFO       (-0.2 r0.1 claude) Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure
 21/11 00:01:16 INFO       (-0.1 r0.4 claude) VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs
 21/11 00:01:16 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
+21/11 00:15:41 INFO    === veloce (SOL-EUR) ===
+21/11 00:15:41 INFO    Prezzo 62.7400 | medie 63.0522/62.5181 trend SU | notizie -0.11 su 43 (3 nuove, 3 da Claude) | 0.1s
+21/11 00:15:41 INFO       (-0.5 r1.0 claude) Solana price struggles despite major upgrade: is another sell-off coming? - Cryptonews.net
+21/11 00:15:41 INFO       (-0.5 r1.0 claude) Solana Price Prediction: SOL Bearish Trend Deepens Despite Ambitious 2027 Network Overhaul - Cryptonews.net
+21/11 00:15:41 INFO       (+0.3 r0.9 claude) Anza’s CEO outlines plans to double Solana compute capacity and cut storage costs - Crypto Briefing
+21/11 00:15:41 INFO    -> ATTENDI: notizie sotto la soglia (-0.11)
