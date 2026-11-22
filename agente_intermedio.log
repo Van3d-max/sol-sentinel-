@@ -1343,3 +1343,10 @@
 22/11 17:45:58 INFO    Prezzo 64.2300 | medie 63.8680/63.2116 trend SU | notizie -0.00 su 1 (0 nuove, 0 da Claude) | 0.4s
 22/11 17:45:58 INFO       (-0.1 r0.1 claude) South Korean exchanges halt CYBER transfers amid suspected bridge exploit
 22/11 17:45:58 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 18:45:54 INFO    === intermedio (SOL-EUR) ===
+22/11 18:45:54 INFO    Trend superiore (ONE_DAY): GIU
+22/11 18:45:54 INFO    Prezzo 64.1100 | medie 63.8655/63.2504 trend SU | notizie +0.05 su 25 (1 nuove, 1 da Claude) | 0.2s
+22/11 18:45:54 INFO       (-0.4 r0.9 claude) Roundhill ETF withdrawal may deepen capital access concerns for Solana as institutional product diversity narr
+22/11 18:45:54 INFO       (+0.3 r0.6 claude) PrimeRevenue plans to tokenize its trade finance instruments on Solana - Crypto Briefing
+22/11 18:45:54 INFO       (+0.2 r0.9 claude) Solana Price Prediction as Bitcoin Reclaims $60K: Is a Recovery Ahead?? - Cryptonews.net
+22/11 18:45:54 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

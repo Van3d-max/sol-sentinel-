@@ -1322,3 +1322,10 @@
 22/11 17:46:29 INFO    Trend superiore (ONE_DAY): GIU
 22/11 17:46:29 INFO    Prezzo 3.28e-06 | medie 3.2935e-06/3.2694e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.4s
 22/11 17:46:29 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 18:45:59 INFO    === shib_intermedio (SHIB-EUR) ===
+22/11 18:45:59 INFO    Trend superiore (ONE_DAY): GIU
+22/11 18:45:59 INFO    Prezzo 3.27e-06 | medie 3.292e-06/3.2666e-06 trend SU | notizie -0.19 su 12 (0 nuove, 0 da Claude) | 0.2s
+22/11 18:45:59 INFO       (-0.6 r1.0 claude) Shiba Inu falls to lowest level since 2021 - 디지털투데이
+22/11 18:45:59 INFO       (-0.3 r1.0 claude) Shiba Inu Price Prediction: 2 Levels Decide the Meme Coin's Path After a Rare Bearish Cross - CryptoDaily
+22/11 18:45:59 INFO       (+0.1 r1.0 claude) 684 Billion SHIB Tokens Move in Just One Day: Shiba Inu Activity Spikes - U.Today
+22/11 18:45:59 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

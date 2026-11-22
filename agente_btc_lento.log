@@ -1156,3 +1156,9 @@
 22/11 17:46:12 INFO       (-0.4 r0.7 claude) Bitcoin’s next big threat could come from two oil tankers in the Middle East
 22/11 17:46:12 INFO       (-0.4 r0.9 claude) Bitcoin shorts collapsed 79% in five weeks, then the market turned lower
 22/11 17:46:12 INFO    -> ATTENDI: trend giornaliero non rialzista
+22/11 18:45:57 INFO    === btc_lento (BTC-EUR) ===
+22/11 18:45:57 INFO    Prezzo 55319.17 | medie 58463.13/65859.40 trend GIU | notizie -0.18 su 100 (3 nuove, 3 da Claude) | 0.0s
+22/11 18:45:57 INFO       (-0.7 r1.0 claude) Bitcoin Price Predictions Favor $50K as Market Fear Deepens - Cryptonews.net
+22/11 18:45:57 INFO       (-1.0 r1.0 claude) Bitcoin crashes to two-year low, losing more than half its value since October peak - Ynetnews
+22/11 18:45:57 INFO       (-0.6 r1.0 claude) Bitcoin Price Prediction: Arthur Hayes Warns of a $50,000 Test - Cryptonews.net
+22/11 18:45:57 INFO    -> ATTENDI: trend giornaliero non rialzista
