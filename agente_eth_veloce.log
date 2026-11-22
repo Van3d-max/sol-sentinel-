@@ -4605,3 +4605,9 @@
 22/11 17:15:44 INFO       (-0.2 r0.9 claude) Ethereum Price Prediction: Will ETH Crash Below $1,500? - Coinpaper
 22/11 17:15:44 INFO       (-0.3 r0.9 claude) Glamsterdam Highlights The Limits Of Ethereum's Upgrade Timeline - Cointribune
 22/11 17:15:44 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
+22/11 17:31:01 INFO    === eth_veloce (ETH-EUR) ===
+22/11 17:31:01 INFO    Prezzo 1564.16 | medie 1567.14/1561.18 trend SU | notizie -0.06 su 21 (0 nuove, 0 da Claude) | 0.3s
+22/11 17:31:01 INFO       (+0.2 r0.6 claude) ️Ethereum Wallets Hold 6x More USDC Than Solana Wallets Eth - KuCoin
+22/11 17:31:01 INFO       (-0.2 r0.9 claude) Ethereum Price Prediction: Will ETH Crash Below $1,500? - Coinpaper
+22/11 17:31:01 INFO       (-0.3 r0.9 claude) Glamsterdam Highlights The Limits Of Ethereum's Upgrade Timeline - Cointribune
+22/11 17:31:01 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
