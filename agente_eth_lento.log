@@ -1120,3 +1120,9 @@
 22/11 11:45:44 INFO       (+0.4 r1.0 claude) Ethereum Price Prediction: ETH Could Experience a Relief Rally to $1.9K as Daily RSI Flashes Oversold - FXEmpi
 22/11 11:45:44 INFO       (-0.2 r0.9 claude) Will Ethereum sustain gains amid mixed momentum signals and seller dominance? - Traders Union
 22/11 11:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista
+22/11 12:45:44 INFO    === eth_lento (ETH-EUR) ===
+22/11 12:45:45 INFO    Prezzo 1559.07 | medie 1639.53/1892.60 trend GIU | notizie -0.11 su 63 (1 nuove, 1 da Claude) | 0.1s
+22/11 12:45:45 INFO       (-0.3 r0.9 claude) Glamsterdam Highlights The Limits Of Ethereum's Upgrade Timeline - Cointribune
+22/11 12:45:45 INFO       (-0.2 r0.9 claude) Ethereum Price Prediction: Will ETH Crash Below $1,500? - Coinpaper
+22/11 12:45:45 INFO       (+0.4 r1.0 claude) Ethereum Price Prediction: ETH Could Experience a Relief Rally to $1.9K as Daily RSI Flashes Oversold - FXEmpi
+22/11 12:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista

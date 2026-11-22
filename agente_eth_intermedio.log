@@ -1306,3 +1306,10 @@
 22/11 11:45:44 INFO       (-0.1 r1.0 claude) Ethereum Down More Than 40% Year-to-Date, Yet Staking Balance Hits Record 44.65 Million ETH - BigGo Finance
 22/11 11:45:44 INFO       (-0.2 r0.9 claude) Will Ethereum sustain gains amid mixed momentum signals and seller dominance? - Traders Union
 22/11 11:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 12:45:44 INFO    === eth_intermedio (ETH-EUR) ===
+22/11 12:45:44 INFO    Trend superiore (ONE_DAY): GIU
+22/11 12:45:44 INFO    Prezzo 1559.07 | medie 1534.36/1516.12 trend SU | notizie -0.12 su 21 (1 nuove, 1 da Claude) | 0.3s
+22/11 12:45:44 INFO       (-0.2 r0.9 claude) Ethereum Price Prediction: Will ETH Crash Below $1,500? - Coinpaper
+22/11 12:45:44 INFO       (-0.3 r0.9 claude) Glamsterdam Highlights The Limits Of Ethereum's Upgrade Timeline - Cointribune
+22/11 12:45:44 INFO       (-0.1 r1.0 claude) Ethereum Down More Than 40% Year-to-Date, Yet Staking Balance Hits Record 44.65 Million ETH - BigGo Finance
+22/11 12:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

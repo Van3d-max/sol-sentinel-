@@ -1120,3 +1120,9 @@
 22/11 11:45:46 INFO       (-0.6 r1.0 claude) Record $950 Billion of Bitcoin Capital Sits Below Cost Basis as Price Slumps Near $58,000 - BigGo Finance
 22/11 11:45:46 INFO       (-0.7 r0.9 claude) Bitcoin ETFs Lost $3.59 Billion over Three Weeks: IBIT set New Record for Daily Outflows - Incrypted
 22/11 11:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista
+22/11 12:45:47 INFO    === btc_lento (BTC-EUR) ===
+22/11 12:45:47 INFO    Prezzo 55567.98 | medie 58463.13/65859.40 trend GIU | notizie -0.14 su 122 (3 nuove, 3 da Claude) | 0.1s
+22/11 12:45:47 INFO       (-1.0 r1.0 claude) Bitcoin crashes to two-year low, losing more than half its value since October peak - Ynetnews
+22/11 12:45:47 INFO       (-0.6 r0.9 claude) Arthur Hayes warns Bitcoin could test $50K if the Nasdaq keeps sliding - Crypto Briefing
+22/11 12:45:47 INFO       (-0.6 r1.0 claude) Record $950 Billion of Bitcoin Capital Sits Below Cost Basis as Price Slumps Near $58,000 - BigGo Finance
+22/11 12:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista

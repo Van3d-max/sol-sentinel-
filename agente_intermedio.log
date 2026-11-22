@@ -1303,3 +1303,10 @@
 22/11 11:45:42 INFO       (+0.2 r0.9 claude) Solana Just Launched New Privacy Features. Is It Worth Buying With $500 Right Now? - The Motley Fool
 22/11 11:45:42 INFO       (-0.2 r0.9 claude) Schiff Pitches Solana as a Bitcoin Stand-In. The Data Shows a Costly Trade-Off - BigGo Finance
 22/11 11:45:42 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 12:45:42 INFO    === intermedio (SOL-EUR) ===
+22/11 12:45:42 INFO    Trend superiore (ONE_DAY): GIU
+22/11 12:45:42 INFO    Prezzo 64.2300 | medie 63.9450/63.3128 trend SU | notizie +0.19 su 27 (0 nuove, 0 da Claude) | 0.4s
+22/11 12:45:42 INFO       (+0.4 r0.9 claude) Solana Price Prediction as Bitcoin Reclaims $60K: Is a Recovery Ahead?? - CoinGape
+22/11 12:45:42 INFO       (+0.4 r0.8 claude) Anthropic's $81B IPO stock launches on Solana, intensifying tokenization battle with XRP Ledger. - Pluang
+22/11 12:45:42 INFO       (+0.6 r0.9 claude) Solana price rebounds toward $70 as ETFs end six-week outflow streak - Crypto News
+22/11 12:45:42 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

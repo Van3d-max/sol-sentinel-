@@ -1283,3 +1283,10 @@
 22/11 11:45:48 INFO       (+0.3 r0.9 claude) Shiba Inu (SHIB) Rises 4-5% Amid Market Rebound - CoinMarketCap
 22/11 11:45:48 INFO       (+0.3 r0.9 claude) Shiba Inu selling pressure eases as exchange ne... - Pluang
 22/11 11:45:48 INFO    -> ATTENDI: trend orario non rialzista
+22/11 12:45:49 INFO    === shib_intermedio (SHIB-EUR) ===
+22/11 12:45:50 INFO    Trend superiore (ONE_DAY): GIU
+22/11 12:45:50 INFO    Prezzo 3.31e-06 | medie 3.286e-06/3.281e-06 trend SU | notizie +0.13 su 4 (1 nuove, 1 da Claude) | 0.4s
+22/11 12:45:50 INFO       (+0.3 r0.9 claude) Shiba Inu (SHIB) Rises 4-5% Amid Market Rebound - CoinMarketCap
+22/11 12:45:50 INFO       (+0.3 r0.9 claude) Shiba Inu selling pressure eases as exchange ne... - Pluang
+22/11 12:45:50 INFO       (+0.4 r0.9 claude) Shiba Inu selling pressure eases as netflow dro... - Pluang
+22/11 12:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

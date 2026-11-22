@@ -1307,3 +1307,10 @@
 22/11 11:45:46 INFO       (-0.6 r1.0 claude) Record $950 Billion of Bitcoin Capital Sits Below Cost Basis as Price Slumps Near $58,000 - BigGo Finance
 22/11 11:45:46 INFO       (-0.4 r0.9 claude) Tracy Schuchart: Bitcoin Trading “Like A Risk Asset” As Fed Hikes Loom - Bitcoin Magazine
 22/11 11:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 12:45:46 INFO    === btc_intermedio (BTC-EUR) ===
+22/11 12:45:47 INFO    Trend superiore (ONE_DAY): GIU
+22/11 12:45:47 INFO    Prezzo 55567.98 | medie 54723.37/54212.30 trend SU | notizie -0.17 su 76 (3 nuove, 3 da Claude) | 0.3s
+22/11 12:45:47 INFO       (-1.0 r1.0 claude) Bitcoin crashes to two-year low, losing more than half its value since October peak - Ynetnews
+22/11 12:45:47 INFO       (-0.6 r0.9 claude) Arthur Hayes warns Bitcoin could test $50K if the Nasdaq keeps sliding - Crypto Briefing
+22/11 12:45:47 INFO       (-0.4 r1.0 claude) Peter Schiff Warns of Bitcoin Crash Below $56K - CryptoRank
+22/11 12:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
