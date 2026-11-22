@@ -4629,3 +4629,9 @@
 22/11 18:15:45 INFO       (+0.2 r0.6 claude) ️Ethereum Wallets Hold 6x More USDC Than Solana Wallets Eth - KuCoin
 22/11 18:15:45 INFO       (-0.2 r0.9 claude) Ethereum Price Prediction: Will ETH Crash Below $1,500? - Coinpaper
 22/11 18:15:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.15)
+22/11 18:31:05 INFO    === eth_veloce (ETH-EUR) ===
+22/11 18:31:05 INFO    Prezzo 1561.79 | medie 1565.51/1562.78 trend SU | notizie -0.06 su 3 (0 nuove, 0 da Claude) | 0.1s
+22/11 18:31:05 INFO       (-0.2 r0.3 claude) Chainflip users face frozen withdrawals after $4.86 million vanishes from Ethereum vault
+22/11 18:31:05 INFO       (-0.1 r0.2 claude) Deribit outage hit Bitcoin hedgers on Coinbase
+22/11 18:31:05 INFO       (-0.1 r0.2 claude) South Korean exchanges halt CYBER transfers amid suspected bridge exploit
+22/11 18:31:05 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
