@@ -4414,3 +4414,9 @@
 22/11 09:45:45 INFO       (-0.6 r0.9 claude) Bitcoin struggles below $60,000 as mining profits plunge, security risks grow - Investing.com
 22/11 09:45:45 INFO       (-0.4 r0.9 claude) Bitcoin shorts collapsed 79% in five weeks, then the market turned lower
 22/11 09:45:45 INFO    -> ATTENDI: notizia shock: Bitcoin ETFs Lost $3.59 Billion over Three Weeks: IBIT set New Record for Daily 
+22/11 10:01:34 INFO    === btc_veloce (BTC-EUR) ===
+22/11 10:01:35 INFO    Prezzo 55493.67 | medie 54598.26/54166.08 trend SU | notizie -0.14 su 9 (0 nuove, 0 da Claude) | 0.3s
+22/11 10:01:35 INFO       (-0.4 r0.9 claude) Bitcoin shorts collapsed 79% in five weeks, then the market turned lower
+22/11 10:01:35 INFO       (+0.3 r1.0 claude) Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave
+22/11 10:01:35 INFO       (-0.4 r0.9 claude) A Bitcoin drop toward $53,000 could put $240 million in collateral at risk
+22/11 10:01:35 INFO    -> ATTENDI: notizie sotto la soglia (-0.14)
