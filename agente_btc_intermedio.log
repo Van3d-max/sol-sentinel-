@@ -1370,3 +1370,10 @@
 22/11 20:45:45 INFO       (-0.7 r1.0 claude) Bitcoin Price Predictions Favor $50K as Market Fear Deepens - Cryptonews.net
 22/11 20:45:45 INFO       (-0.6 r0.6 claude) Dollar up as Bitcoin, Gold and stocks fall on Fed rate worries - FXStreet
 22/11 20:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 21:45:44 INFO    === btc_intermedio (BTC-EUR) ===
+22/11 21:45:44 INFO    Trend superiore (ONE_DAY): GIU
+22/11 21:45:44 INFO    Prezzo 55590.47 | medie 54980.74/54263.77 trend SU | notizie -0.15 su 79 (2 nuove, 2 da Claude) | 0.3s
+22/11 21:45:44 INFO       (+0.6 r0.9 claude) Bitcoin's Price Dip Attracts a Whale as Hedge Fund Scoops up $1B - Cryptonews.net
+22/11 21:45:44 INFO       (-0.6 r0.8 claude) BlackRock iShares Bitcoin Trust, IBIT, Records Historic Outflow on Day of Anthropic IPO Debut on Nasdaq - Crow
+22/11 21:45:44 INFO       (-0.5 r0.9 claude) How Low Can Bitcoin Fall Before Trump Media Has to Sell? - 24/7 Wall St.
+22/11 21:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
