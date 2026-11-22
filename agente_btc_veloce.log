@@ -4708,3 +4708,9 @@
 22/11 22:01:15 INFO       (-0.6 r0.8 claude) BlackRock iShares Bitcoin Trust, IBIT, Records Historic Outflow on Day of Anthropic IPO Debut on Nasdaq - Crow
 22/11 22:01:15 INFO       (-0.5 r0.9 claude) Bitcoin ETFs lose $3.59 billion in November as BlackRock's IBIT bleeds - Startup Fortune
 22/11 22:01:15 INFO    -> ATTENDI: notizie sotto la soglia (-0.14)
+22/11 22:15:45 INFO    === btc_veloce (BTC-EUR) ===
+22/11 22:15:45 INFO    Prezzo 55454.85 | medie 55437.38/55406.32 trend SU | notizie -0.08 su 78 (4 nuove, 4 da Claude) | 0.3s
+22/11 22:15:45 INFO       (+0.6 r0.9 claude) Strategy hints at more Bitcoin purchases after $33M buy - Crypto Briefing
+22/11 22:15:45 INFO       (+0.6 r0.9 claude) Bitcoin's Price Dip Attracts a Whale as Hedge Fund Scoops up $1B - Cryptonews.net
+22/11 22:15:45 INFO       (-0.6 r0.8 claude) BlackRock iShares Bitcoin Trust, IBIT, Records Historic Outflow on Day of Anthropic IPO Debut on Nasdaq - Crow
+22/11 22:15:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.08)
