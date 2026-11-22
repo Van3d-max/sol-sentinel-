@@ -4551,3 +4551,9 @@
 22/11 15:01:09 INFO       (-0.1 r0.2 claude) Deribit outage hit Bitcoin hedgers on Coinbase
 22/11 15:01:09 INFO       (-0.1 r0.2 claude) South Korean exchanges halt CYBER transfers amid suspected bridge exploit
 22/11 15:01:09 INFO    -> ATTENDI: trend 15 minuti non rialzista
+22/11 15:15:44 INFO    === eth_veloce (ETH-EUR) ===
+22/11 15:15:44 INFO    Prezzo 1562.35 | medie 1557.41/1557.98 trend GIU | notizie -0.03 su 22 (1 nuove, 1 da Claude) | 0.2s
+22/11 15:15:44 INFO       (+0.2 r0.6 claude) ️Ethereum Wallets Hold 6x More USDC Than Solana Wallets Eth - KuCoin
+22/11 15:15:44 INFO       (-0.2 r0.9 claude) Ethereum Price Prediction: Will ETH Crash Below $1,500? - Coinpaper
+22/11 15:15:44 INFO       (-0.3 r0.9 claude) Glamsterdam Highlights The Limits Of Ethereum's Upgrade Timeline - Cointribune
+22/11 15:15:44 INFO    -> ATTENDI: trend 15 minuti non rialzista

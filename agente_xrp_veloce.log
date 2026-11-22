@@ -4403,3 +4403,9 @@
 22/11 15:01:10 INFO    === xrp_veloce (XRP-EUR) ===
 22/11 15:01:10 INFO    Prezzo 0.8436 | medie 0.841678/0.845805 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 22/11 15:01:10 INFO    -> ATTENDI: trend 15 minuti non rialzista
+22/11 15:15:47 INFO    === xrp_veloce (XRP-EUR) ===
+22/11 15:15:47 INFO    Prezzo 0.8431 | medie 0.841822/0.845257 trend GIU | notizie +0.07 su 16 (1 nuove, 1 da Claude) | 0.2s
+22/11 15:15:47 INFO       (+0.4 r1.0 claude) XRP Supply Shortage on Binance Tops July Levels, CryptoQuant Analyst Says - BeInCrypto
+22/11 15:15:47 INFO       (-0.2 r1.0 claude) XRP Is Back Under $1. Is It Finally a Buy? - The Globe and Mail
+22/11 15:15:47 INFO       (+0.3 r0.5 claude) RLUSD vs USDS: Binance Expands Ripple Stablecoin Rewards Amid Sky's $2B Exodus - Coinpaper
+22/11 15:15:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
