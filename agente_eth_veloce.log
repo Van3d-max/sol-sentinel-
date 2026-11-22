@@ -4199,3 +4199,8 @@
 22/11 00:15:42 INFO       (+0.3 r0.7 claude) NFT sales hit $33M as Ethereum volume climbs 33% - Cryptonews.net
 22/11 00:15:42 INFO       (-0.4 r0.8 claude) Ethereum Whale's $214 Million Aave Debt Nears Liquidation at $1,401 - BigGo Finance
 22/11 00:15:42 INFO    -> ATTENDI: trend 15 minuti non rialzista
+22/11 00:30:59 INFO    === eth_veloce (ETH-EUR) ===
+22/11 00:31:00 INFO    Prezzo 1535.71 | medie 1534.78/1536.60 trend GIU | notizie -0.05 su 2 (0 nuove, 0 da Claude) | 1.2s
+22/11 00:31:00 INFO       (-0.3 r0.9 claude) Ethereum’s Glamsterdam delay reveals a troubling pattern behind its biggest network upgrades
+22/11 00:31:00 INFO       (-0.3 r0.7 claude) Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated
+22/11 00:31:00 INFO    -> ATTENDI: trend 15 minuti non rialzista
