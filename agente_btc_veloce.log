@@ -4714,3 +4714,9 @@
 22/11 22:15:45 INFO       (+0.6 r0.9 claude) Bitcoin's Price Dip Attracts a Whale as Hedge Fund Scoops up $1B - Cryptonews.net
 22/11 22:15:45 INFO       (-0.6 r0.8 claude) BlackRock iShares Bitcoin Trust, IBIT, Records Historic Outflow on Day of Anthropic IPO Debut on Nasdaq - Crow
 22/11 22:15:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.08)
+22/11 22:31:00 INFO    === btc_veloce (BTC-EUR) ===
+22/11 22:31:00 INFO    Prezzo 55382.81 | medie 55441.39/55403.06 trend SU | notizie -0.09 su 6 (0 nuove, 0 da Claude) | 0.4s
+22/11 22:31:00 INFO       (-0.2 r0.5 claude) UK to ban crypto exchanges from making markets on their own platforms as Bitcoin rules change
+22/11 22:31:00 INFO       (-0.2 r1.0 claude) Bitcoin reclaims $61,000 before giving back a third of the weekend rally
+22/11 22:31:00 INFO       (-0.2 r0.9 claude) Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins
+22/11 22:31:00 INFO    -> ATTENDI: notizie sotto la soglia (-0.09)

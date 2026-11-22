@@ -4725,3 +4725,9 @@
 22/11 22:15:44 INFO       (-0.6 r0.6 claude) Bitcoin and Ethereum ETF Outflows Stay in the Billions for Another Week - CryptoPotato
 22/11 22:15:44 INFO       (-0.4 r0.9 claude) Drop in spot ETF interest may deepen risk context for Ethereum - Traders Union
 22/11 22:15:44 INFO    -> ATTENDI: notizie sotto la soglia (-0.03)
+22/11 22:30:59 INFO    === eth_veloce (ETH-EUR) ===
+22/11 22:30:59 INFO    Prezzo 1560.72 | medie 1566.07/1564.28 trend SU | notizie -0.03 su 21 (0 nuove, 0 da Claude) | 0.3s
+22/11 22:30:59 INFO       (+0.3 r0.6 claude) HSBC Opens Tokenized Hong Kong Dollar Money Market Fund Class to Retail Clients via RedCoin on Ethereum - Crow
+22/11 22:30:59 INFO       (-0.6 r0.6 claude) Bitcoin and Ethereum ETF Outflows Stay in the Billions for Another Week - CryptoPotato
+22/11 22:30:59 INFO       (-0.4 r0.9 claude) Drop in spot ETF interest may deepen risk context for Ethereum - Traders Union
+22/11 22:30:59 INFO    -> ATTENDI: notizie sotto la soglia (-0.03)
