@@ -1290,3 +1290,10 @@
 22/11 12:45:50 INFO       (+0.3 r0.9 claude) Shiba Inu selling pressure eases as exchange ne... - Pluang
 22/11 12:45:50 INFO       (+0.4 r0.9 claude) Shiba Inu selling pressure eases as netflow dro... - Pluang
 22/11 12:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 13:45:52 INFO    === shib_intermedio (SHIB-EUR) ===
+22/11 13:45:52 INFO    Trend superiore (ONE_DAY): GIU
+22/11 13:45:52 INFO    Prezzo 3.3e-06 | medie 3.291e-06/3.2786e-06 trend SU | notizie +0.06 su 13 (0 nuove, 0 da Claude) | 0.3s
+22/11 13:45:52 INFO       (+0.1 r1.0 claude) 684 Billion SHIB Tokens Move in Just One Day: Shiba Inu Activity Spikes - U.Today
+22/11 13:45:52 INFO       (+0.3 r0.9 claude) Shiba Inu (SHIB) Rises 4-5% Amid Market Rebound - CoinMarketCap
+22/11 13:45:52 INFO       (+0.3 r0.9 claude) Shiba Inu selling pressure eases as exchange ne... - Pluang
+22/11 13:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
