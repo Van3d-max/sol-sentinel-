@@ -3257,3 +3257,9 @@
 22/11 00:01:10 INFO    Prezzo 64.0500 | medie 66.8630/78.3827 trend GIU | notizie -0.00 su 1 (0 nuove, 0 da Claude) | 0.2s
 22/11 00:01:10 INFO       (-0.2 r0.1 claude) Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure
 22/11 00:01:10 INFO    -> ATTENDI: trend giornaliero non rialzista
+22/11 01:01:06 INFO    === lenta (SOL-EUR) ===
+22/11 01:01:06 INFO    Prezzo 64.1200 | medie 66.8630/78.3827 trend GIU | notizie +0.01 su 54 (0 nuove, 0 da Claude) | 0.2s
+22/11 01:01:06 INFO       (-0.6 r0.9 claude) CoinShares' treasury sale puts Solana under institutional supply strain amid fragile appetite for crypto produ
+22/11 01:01:06 INFO       (+0.5 r0.9 claude) Solana ETFs Defy Wall Street’s Big Crypto Sell-Off - BeInCrypto
+22/11 01:01:06 INFO       (-0.7 r1.0 claude) Solana drops to $68.72, erasing months of gains and nearing its 2026 low - 24/7 Wall St.
+22/11 01:01:06 INFO    -> ATTENDI: trend giornaliero non rialzista
