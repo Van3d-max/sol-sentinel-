@@ -1283,3 +1283,10 @@
 22/11 10:45:47 INFO       (+0.4 r1.0 claude) XRP Supply Shortage on Binance Tops July Levels, CryptoQuant Analyst Says - BeInCrypto
 22/11 10:45:47 INFO       (-0.6 r1.0 claude) XRP Price Nears Death Cross as Ripple ETF Outflows and Bullish Liquidations Jump - Benzinga
 22/11 10:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 11:45:47 INFO    === xrp_intermedio (XRP-EUR) ===
+22/11 11:45:47 INFO    Trend superiore (ONE_DAY): GIU
+22/11 11:45:47 INFO    Prezzo 0.8481 | medie 0.845535/0.836884 trend SU | notizie -0.08 su 18 (0 nuove, 0 da Claude) | 0.3s
+22/11 11:45:47 INFO       (-0.2 r1.0 claude) XRP Is Back Under $1. Is It Finally a Buy? - The Globe and Mail
+22/11 11:45:47 INFO       (-0.1 r1.0 claude) XRP Is Back Under $1. Is It Finally a Buy? - The Motley Fool
+22/11 11:45:47 INFO       (+0.4 r1.0 claude) XRP Supply Shortage on Binance Tops July Levels, CryptoQuant Analyst Says - BeInCrypto
+22/11 11:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
