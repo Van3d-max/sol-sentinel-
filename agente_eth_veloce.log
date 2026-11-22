@@ -4617,3 +4617,9 @@
 22/11 17:46:04 INFO       (-0.1 r0.2 claude) Deribit outage hit Bitcoin hedgers on Coinbase
 22/11 17:46:04 INFO       (-0.1 r0.2 claude) South Korean exchanges halt CYBER transfers amid suspected bridge exploit
 22/11 17:46:04 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
+22/11 18:01:10 INFO    === eth_veloce (ETH-EUR) ===
+22/11 18:01:10 INFO    Prezzo 1562.58 | medie 1566.47/1562.12 trend SU | notizie -0.06 su 3 (0 nuove, 0 da Claude) | 0.2s
+22/11 18:01:10 INFO       (-0.2 r0.3 claude) Chainflip users face frozen withdrawals after $4.86 million vanishes from Ethereum vault
+22/11 18:01:10 INFO       (-0.1 r0.2 claude) Deribit outage hit Bitcoin hedgers on Coinbase
+22/11 18:01:10 INFO       (-0.1 r0.2 claude) South Korean exchanges halt CYBER transfers amid suspected bridge exploit
+22/11 18:01:10 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
