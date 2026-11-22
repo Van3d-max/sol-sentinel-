@@ -4582,3 +4582,9 @@
 22/11 16:45:48 INFO       (-0.6 r1.0 claude) Jiang Zhuoer: Bitcoin (BTC) Needs 2-3 Month Bottom After $57,800 Floor Broke - Cryptonews.net
 22/11 16:45:48 INFO       (-0.5 r1.0 claude) Citi Lowers Bitcoin Price Target to $99,532 Amid Market Slide - KuCoin
 22/11 16:45:48 INFO    -> ATTENDI: notizie sotto la soglia (-0.20)
+22/11 17:01:16 INFO    === btc_veloce (BTC-EUR) ===
+22/11 17:01:16 INFO    Prezzo 55811.39 | medie 55653.30/55544.01 trend SU | notizie -0.22 su 80 (4 nuove, 4 da Claude) | 0.3s
+22/11 17:01:16 INFO       (-0.7 r1.0 claude) Bitcoin Price Predictions Favor $50K as Market Fear Deepens - Cryptonews.net
+22/11 17:01:16 INFO       (-0.6 r1.0 claude) Bitcoin Price Prediction: Arthur Hayes Warns of a $50,000 Test - Cryptonews.net
+22/11 17:01:16 INFO       (-0.6 r1.0 claude) Bitcoin Price Prediction: How Low Can BTC Go as ETF Buyers Sit 30% Underwater? - Cryptonews.net
+22/11 17:01:16 INFO    -> ATTENDI: notizia shock: Bitcoin Price Predictions Favor $50K as Market Fear Deepens - Cryptonews.net
