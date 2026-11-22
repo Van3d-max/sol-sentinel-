@@ -4713,3 +4713,9 @@
 22/11 21:45:42 INFO       (-0.4 r0.9 claude) Drop in spot ETF interest may deepen risk context for Ethereum - Traders Union
 22/11 21:45:42 INFO       (-0.7 r0.9 claude) Ethereum Price Prediction: Could ETH Crash Below $1,500 as ETF Selling Continues? - Coinpaper
 22/11 21:45:42 INFO    -> ATTENDI: notizie sotto la soglia (-0.09)
+22/11 22:01:13 INFO    === eth_veloce (ETH-EUR) ===
+22/11 22:01:13 INFO    Prezzo 1565.07 | medie 1566.36/1564.80 trend SU | notizie -0.03 su 21 (2 nuove, 2 da Claude) | 0.1s
+22/11 22:01:13 INFO       (+0.3 r0.6 claude) HSBC Opens Tokenized Hong Kong Dollar Money Market Fund Class to Retail Clients via RedCoin on Ethereum - Crow
+22/11 22:01:13 INFO       (-0.6 r0.6 claude) Bitcoin and Ethereum ETF Outflows Stay in the Billions for Another Week - CryptoPotato
+22/11 22:01:13 INFO       (-0.4 r0.9 claude) Drop in spot ETF interest may deepen risk context for Ethereum - Traders Union
+22/11 22:01:13 INFO    -> ATTENDI: notizie sotto la soglia (-0.03)
