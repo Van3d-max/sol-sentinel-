@@ -12486,3 +12486,9 @@
 22/11 10:30:58 INFO    Prezzo 64.3500 | medie 63.9456/63.4205 trend SU | notizie -0.01 su 1 (0 nuove, 0 da Claude) | 0.3s
 22/11 10:30:58 INFO       (-0.1 r0.1 claude) South Korean exchanges halt CYBER transfers amid suspected bridge exploit
 22/11 10:30:58 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
+22/11 10:45:41 INFO    === veloce (SOL-EUR) ===
+22/11 10:45:41 INFO    Prezzo 64.2900 | medie 64.0122/63.4890 trend SU | notizie +0.14 su 27 (1 nuove, 1 da Claude) | 0.2s
+22/11 10:45:41 INFO       (+0.6 r0.9 claude) Solana price rebounds toward $70 as ETFs end six-week outflow streak - Crypto News
+22/11 10:45:41 INFO       (+0.2 r0.9 claude) Solana Just Launched New Privacy Features. Is It Worth Buying With $500 Right Now? - The Motley Fool
+22/11 10:45:41 INFO       (-0.2 r0.9 claude) Schiff Pitches Solana as a Bitcoin Stand-In. The Data Shows a Costly Trade-Off - BigGo Finance
+22/11 10:45:41 INFO    -> ATTENDI: obiettivo +1.50% sotto il minimo +2.20% (commissioni)
