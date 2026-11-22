@@ -4300,3 +4300,9 @@
 22/11 05:01:11 INFO       (-0.6 r0.9 claude) Arthur Hayes Says Bitcoin's Break Below Local Low Puts $50,000 In Play If Nasdaq Keeps Falling - TradingView
 22/11 05:01:11 INFO       (-0.5 r0.9 claude) Robert Kiyosaki Urges Buyers to Wait Out the Crash as Bitcoin Plummets - Cryptonews.net
 22/11 05:01:11 INFO    -> ATTENDI: trend 15 minuti non rialzista
+22/11 05:15:44 INFO    === btc_veloce (BTC-EUR) ===
+22/11 05:15:45 INFO    Prezzo 53756.01 | medie 54031.28/54440.79 trend GIU | notizie -0.15 su 65 (3 nuove, 3 da Claude) | 0.3s
+22/11 05:15:45 INFO       (-0.6 r0.9 claude) Arthur Hayes Says Bitcoin's Break Below Local Low Puts $50,000 In Play If Nasdaq Keeps Falling - TradingView
+22/11 05:15:45 INFO       (+0.4 r1.0 claude) Bitcoin tops $60,000 after crash: What could sustain the recovery - Cryptonews.net
+22/11 05:15:45 INFO       (-0.5 r0.9 claude) Robert Kiyosaki Urges Buyers to Wait Out the Crash as Bitcoin Plummets - Cryptonews.net
+22/11 05:15:45 INFO    -> ATTENDI: trend 15 minuti non rialzista
