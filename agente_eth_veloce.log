@@ -4683,3 +4683,9 @@
 22/11 20:30:58 INFO       (-0.4 r0.9 claude) Drop in spot ETF interest may deepen risk context for Ethereum - Traders Union
 22/11 20:30:58 INFO       (-0.7 r0.9 claude) Ethereum Price Prediction: Could ETH Crash Below $1,500 as ETF Selling Continues? - Coinpaper
 22/11 20:30:58 INFO    -> ATTENDI: trend 15 minuti non rialzista
+22/11 20:45:42 INFO    === eth_veloce (ETH-EUR) ===
+22/11 20:45:42 INFO    Prezzo 1562.66 | medie 1562.60/1564.37 trend GIU | notizie -0.12 su 20 (0 nuove, 0 da Claude) | 0.2s
+22/11 20:45:42 INFO       (-0.6 r0.6 claude) Bitcoin and Ethereum ETF Outflows Stay in the Billions for Another Week - CryptoPotato
+22/11 20:45:42 INFO       (-0.4 r0.9 claude) Drop in spot ETF interest may deepen risk context for Ethereum - Traders Union
+22/11 20:45:42 INFO       (-0.7 r0.9 claude) Ethereum Price Prediction: Could ETH Crash Below $1,500 as ETF Selling Continues? - Coinpaper
+22/11 20:45:42 INFO    -> ATTENDI: trend 15 minuti non rialzista

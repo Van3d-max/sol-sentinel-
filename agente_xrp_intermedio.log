@@ -1344,3 +1344,10 @@
 22/11 19:45:49 INFO       (-0.2 r1.0 claude) XRP’s institutional adoption story has a catch that investors may be overlooking - CryptoSlate
 22/11 19:45:49 INFO       (-0.2 r1.0 claude) Ripple Price Prediction: Can XRP Hit $100 After Crashing to a Two-Year Low? - Cryptonews.net
 22/11 19:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 20:45:46 INFO    === xrp_intermedio (XRP-EUR) ===
+22/11 20:45:46 INFO    Trend superiore (ONE_DAY): GIU
+22/11 20:45:46 INFO    Prezzo 0.8432 | medie 0.84355/0.835316 trend SU | notizie -0.05 su 17 (0 nuove, 0 da Claude) | 0.3s
+22/11 20:45:46 INFO       (-0.4 r1.0 claude) XRP Dumps to Key Zone: Is This the ‘Painful Opportunity’ Bulls Were Waiting For? - CryptoRank
+22/11 20:45:46 INFO       (-0.2 r1.0 claude) XRP’s institutional adoption story has a catch that investors may be overlooking - CryptoSlate
+22/11 20:45:46 INFO       (-0.2 r0.9 claude) XRP’s institutional adoption story has a catch that investors may be overlooking
+22/11 20:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

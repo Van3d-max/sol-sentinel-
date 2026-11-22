@@ -4672,3 +4672,9 @@
 22/11 20:31:00 INFO       (-0.7 r1.0 claude) Bitcoin Price Predictions Favor $50K as Market Fear Deepens - Cryptonews.net
 22/11 20:31:00 INFO       (-0.6 r0.6 claude) Dollar up as Bitcoin, Gold and stocks fall on Fed rate worries - FXStreet
 22/11 20:31:00 INFO    -> ATTENDI: trend 15 minuti non rialzista
+22/11 20:45:44 INFO    === btc_veloce (BTC-EUR) ===
+22/11 20:45:45 INFO    Prezzo 55244.77 | medie 55322.02/55457.63 trend GIU | notizie -0.18 su 79 (1 nuove, 1 da Claude) | 0.2s
+22/11 20:45:45 INFO       (-0.5 r0.9 claude) How Low Can Bitcoin Fall Before Trump Media Has to Sell? - 24/7 Wall St.
+22/11 20:45:45 INFO       (-0.7 r1.0 claude) Bitcoin Price Predictions Favor $50K as Market Fear Deepens - Cryptonews.net
+22/11 20:45:45 INFO       (-0.6 r0.6 claude) Dollar up as Bitcoin, Gold and stocks fall on Fed rate worries - FXStreet
+22/11 20:45:45 INFO    -> ATTENDI: trend 15 minuti non rialzista
