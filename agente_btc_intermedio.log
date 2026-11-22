@@ -1377,3 +1377,10 @@
 22/11 21:45:44 INFO       (-0.6 r0.8 claude) BlackRock iShares Bitcoin Trust, IBIT, Records Historic Outflow on Day of Anthropic IPO Debut on Nasdaq - Crow
 22/11 21:45:44 INFO       (-0.5 r0.9 claude) How Low Can Bitcoin Fall Before Trump Media Has to Sell? - 24/7 Wall St.
 22/11 21:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 22:45:44 INFO    === btc_intermedio (BTC-EUR) ===
+22/11 22:45:44 INFO    Trend superiore (ONE_DAY): GIU
+22/11 22:45:44 INFO    Prezzo 55403.37 | medie 55015.21/54306.37 trend SU | notizie -0.03 su 77 (3 nuove, 3 da Claude) | 0.3s
+22/11 22:45:44 INFO       (+0.6 r0.9 claude) Strategy hints at more Bitcoin purchases after $33M buy - Crypto Briefing
+22/11 22:45:44 INFO       (+0.6 r0.9 claude) Bitcoin's Price Dip Attracts a Whale as Hedge Fund Scoops up $1B - Cryptonews.net
+22/11 22:45:44 INFO       (-0.6 r0.8 claude) BlackRock iShares Bitcoin Trust, IBIT, Records Historic Outflow on Day of Anthropic IPO Debut on Nasdaq - Crow
+22/11 22:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
