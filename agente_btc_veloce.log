@@ -4660,3 +4660,9 @@
 22/11 20:01:14 INFO       (-0.4 r1.0 claude) Bitcoin’s $60,000 breakdown puts December Fed decision under the spotlight
 22/11 20:01:14 INFO       (-0.2 r1.0 claude) Bitcoin reclaims $61,000 before giving back a third of the weekend rally
 22/11 20:01:14 INFO    -> ATTENDI: trend 15 minuti non rialzista
+22/11 20:15:49 INFO    === btc_veloce (BTC-EUR) ===
+22/11 20:15:49 INFO    Prezzo 55310.81 | medie 55337.23/55486.98 trend GIU | notizie -0.18 su 80 (2 nuove, 2 da Claude) | 0.2s
+22/11 20:15:49 INFO       (-0.5 r0.9 claude) How Low Can Bitcoin Fall Before Trump Media Has to Sell? - 24/7 Wall St.
+22/11 20:15:49 INFO       (-0.7 r1.0 claude) Bitcoin Price Predictions Favor $50K as Market Fear Deepens - Cryptonews.net
+22/11 20:15:49 INFO       (-0.6 r0.6 claude) Dollar up as Bitcoin, Gold and stocks fall on Fed rate worries - FXStreet
+22/11 20:15:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
