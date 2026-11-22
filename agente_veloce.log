@@ -12408,3 +12408,9 @@
 22/11 07:01:10 INFO    === veloce (SOL-EUR) ===
 22/11 07:01:10 INFO    Prezzo 62.9700 | medie 62.9956/63.2910 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 22/11 07:01:10 INFO    -> ATTENDI: trend 15 minuti non rialzista
+22/11 07:15:45 INFO    === veloce (SOL-EUR) ===
+22/11 07:15:46 INFO    Prezzo 63.0000 | medie 62.9622/63.2371 trend GIU | notizie +0.02 su 25 (2 nuove, 2 da Claude) | 0.3s
+22/11 07:15:46 INFO       (+0.1 r1.0 claude) On the brink of major changes: What's happening with Solana? - Traders Union
+22/11 07:15:46 INFO       (-0.1 r1.0 claude) Solana spot ETF sees $4.4M inflow: SOL rally loses momentum - Traders Union
+22/11 07:15:46 INFO       (+0.5 r0.9 claude) Solana ETFs Defy Wall Street’s Big Crypto Sell-Off - BeInCrypto
+22/11 07:15:46 INFO    -> ATTENDI: trend 15 minuti non rialzista
