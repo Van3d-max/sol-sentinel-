@@ -1230,3 +1230,10 @@
 22/11 03:45:49 INFO       (-0.7 r0.9 claude) 155 Billion SHIB Flow Onto Exchanges as Fear Index Sinks to 12, Reviving Sell Fears - CryptoDaily
 22/11 03:45:49 INFO       (+0.1 r1.0 claude) Just 18 Billion SHIB: Shiba Inu Netflow Signals Market Ease - U.Today
 22/11 03:45:49 INFO    -> ATTENDI: trend orario non rialzista
+22/11 04:45:44 INFO    === shib_intermedio (SHIB-EUR) ===
+22/11 04:45:45 INFO    Trend superiore (ONE_DAY): GIU
+22/11 04:45:45 INFO    Prezzo 3.27e-06 | medie 3.2425e-06/3.3016e-06 trend GIU | notizie +0.13 su 13 (0 nuove, 0 da Claude) | 0.4s
+22/11 04:45:45 INFO       (+0.3 r0.9 claude) Shiba Inu selling pressure eases as exchange ne... - Pluang
+22/11 04:45:45 INFO       (+0.4 r0.9 claude) Shiba Inu selling pressure eases as netflow dro... - Pluang
+22/11 04:45:45 INFO       (-0.7 r0.9 claude) 155 Billion SHIB Flow Onto Exchanges as Fear Index Sinks to 12, Reviving Sell Fears - CryptoDaily
+22/11 04:45:45 INFO    -> ATTENDI: trend orario non rialzista
