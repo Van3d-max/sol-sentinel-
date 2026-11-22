@@ -1223,3 +1223,10 @@
 21/11 23:45:43 INFO       (-0.5 r1.0 claude) How Low Will Bitcoin Price Drop? Analysts Predict - BeInCrypto
 21/11 23:45:43 INFO       (-0.5 r0.8 claude) 3 Altcoins Defy the Market Crash as Bitcoin Hits a Two-Year Low - Cryptonews.net
 21/11 23:45:43 INFO    -> ATTENDI: trend orario non rialzista
+22/11 00:45:46 INFO    === btc_intermedio (BTC-EUR) ===
+22/11 00:45:46 INFO    Trend superiore (ONE_DAY): GIU
+22/11 00:45:46 INFO    Prezzo 54957.90 | medie 53897.62/54644.15 trend GIU | notizie -0.09 su 79 (1 nuove, 1 da Claude) | 0.3s
+22/11 00:45:46 INFO       (-0.5 r1.0 claude) Bitcoin heads for longest weekly losing streak since 2022 as holders chase AI stocks - Crypto Briefing
+22/11 00:45:46 INFO       (-0.7 r0.9 claude) Bitcoin and Ether ETFs Lose $1.47B in a Week as BlackRock’s IBIT Logs Record Outflow - Cryptonews.net
+22/11 00:45:46 INFO       (-0.5 r1.0 claude) How Low Will Bitcoin Price Drop? Analysts Predict - BeInCrypto
+22/11 00:45:46 INFO    -> ATTENDI: trend orario non rialzista
