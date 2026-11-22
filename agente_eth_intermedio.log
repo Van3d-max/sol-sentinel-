@@ -1229,3 +1229,10 @@
 22/11 00:45:44 INFO       (+0.3 r0.7 claude) NFT sales hit $33M as Ethereum volume climbs 33% - Cryptonews.net
 22/11 00:45:44 INFO       (-0.4 r0.8 claude) Ethereum Whale's $214 Million Aave Debt Nears Liquidation at $1,401 - BigGo Finance
 22/11 00:45:44 INFO    -> ATTENDI: trend orario non rialzista
+22/11 01:45:42 INFO    === eth_intermedio (ETH-EUR) ===
+22/11 01:45:42 INFO    Trend superiore (ONE_DAY): GIU
+22/11 01:45:42 INFO    Prezzo 1537.50 | medie 1518.56/1528.86 trend GIU | notizie +0.05 su 35 (1 nuove, 1 da Claude) | 0.3s
+22/11 01:45:42 INFO       (+0.4 r1.0 claude) Ethereum Price Prediction: ETH Could Experience a Relief Rally to $1.9K as Daily RSI Flashes Oversold - FXEmpi
+22/11 01:45:42 INFO       (+0.3 r0.7 claude) NFT sales hit $33M as Ethereum volume climbs 33% - Cryptonews.net
+22/11 01:45:42 INFO       (-0.4 r0.8 claude) Ethereum Whale's $214 Million Aave Debt Nears Liquidation at $1,401 - BigGo Finance
+22/11 01:45:42 INFO    -> ATTENDI: trend orario non rialzista
