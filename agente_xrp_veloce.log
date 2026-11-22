@@ -4292,3 +4292,9 @@
 22/11 10:01:40 INFO    === xrp_veloce (XRP-EUR) ===
 22/11 10:01:41 INFO    Prezzo 0.8518 | medie 0.843822/0.838781 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 22/11 10:01:41 INFO    -> ATTENDI: obiettivo +1.42% sotto il minimo +2.20% (commissioni)
+22/11 10:15:48 INFO    === xrp_veloce (XRP-EUR) ===
+22/11 10:15:48 INFO    Prezzo 0.8517 | medie 0.845756/0.839486 trend SU | notizie -0.00 su 17 (1 nuove, 1 da Claude) | 0.3s
+22/11 10:15:48 INFO       (+0.4 r1.0 claude) XRP Supply Shortage on Binance Tops July Levels, CryptoQuant Analyst Says - BeInCrypto
+22/11 10:15:48 INFO       (-0.6 r1.0 claude) XRP Price Nears Death Cross as Ripple ETF Outflows and Bullish Liquidations Jump - Benzinga
+22/11 10:15:48 INFO       (-0.7 r1.0 claude) XRP Slides to Two-Year Low as Spot ETFs Bleed $26 Million in November - BigGo Finance
+22/11 10:15:48 INFO    -> ATTENDI: notizie sotto la soglia (-0.00)
