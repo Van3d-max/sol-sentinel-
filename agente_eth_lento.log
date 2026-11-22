@@ -1096,3 +1096,9 @@
 22/11 07:45:43 INFO       (-0.2 r0.9 claude) Will Ethereum sustain gains amid mixed momentum signals and seller dominance? - Traders Union
 22/11 07:45:43 INFO       (-0.6 r1.0 claude) How Low Could Ethereum Price Go as Exchange Reserves Jump by 210K ETH in Four Days? - Cryptonews.net
 22/11 07:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista
+22/11 08:45:55 INFO    === eth_lento (ETH-EUR) ===
+22/11 08:45:55 INFO    Prezzo 1534.54 | medie 1639.53/1892.60 trend GIU | notizie -0.10 su 6 (0 nuove, 0 da Claude) | 0.1s
+22/11 08:45:55 INFO       (-0.3 r0.9 claude) Ethereum’s Glamsterdam delay reveals a troubling pattern behind its biggest network upgrades
+22/11 08:45:55 INFO       (-0.3 r0.7 claude) Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated
+22/11 08:45:55 INFO       (-0.1 r0.2 claude) South Korean exchanges halt CYBER transfers amid suspected bridge exploit
+22/11 08:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista

@@ -1277,3 +1277,8 @@
 22/11 07:45:41 INFO       (-0.1 r1.0 claude) Solana spot ETF sees $4.4M inflow: SOL rally loses momentum - Traders Union
 22/11 07:45:41 INFO       (+0.5 r0.9 claude) Solana ETFs Defy Wall Street’s Big Crypto Sell-Off - BeInCrypto
 22/11 07:45:41 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 08:45:45 INFO    === intermedio (SOL-EUR) ===
+22/11 08:45:45 INFO    Trend superiore (ONE_DAY): GIU
+22/11 08:45:45 INFO    Prezzo 63.6400 | medie 63.9135/63.4540 trend SU | notizie -0.01 su 1 (0 nuove, 0 da Claude) | 0.2s
+22/11 08:45:45 INFO       (-0.1 r0.1 claude) South Korean exchanges halt CYBER transfers amid suspected bridge exploit
+22/11 08:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

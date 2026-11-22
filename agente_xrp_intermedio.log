@@ -1265,3 +1265,7 @@
 22/11 07:45:46 INFO       (-0.6 r1.0 claude) XRP Price Nears Death Cross as Ripple ETF Outflows and Bullish Liquidations Jump - Benzinga
 22/11 07:45:46 INFO       (-0.7 r1.0 claude) XRP Slides to Two-Year Low as Spot ETFs Bleed $26 Million in November - BigGo Finance
 22/11 07:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 08:46:12 INFO    === xrp_intermedio (XRP-EUR) ===
+22/11 08:46:12 INFO    Trend superiore (ONE_DAY): GIU
+22/11 08:46:12 INFO    Prezzo 0.8446 | medie 0.844315/0.838604 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.2s
+22/11 08:46:12 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
