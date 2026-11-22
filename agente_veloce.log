@@ -12387,3 +12387,9 @@
 22/11 06:01:14 INFO    === veloce (SOL-EUR) ===
 22/11 06:01:14 INFO    Prezzo 62.9000 | medie 63.1333/63.5000 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 22/11 06:01:14 INFO    -> ATTENDI: trend 15 minuti non rialzista
+22/11 06:15:43 INFO    === veloce (SOL-EUR) ===
+22/11 06:15:44 INFO    Prezzo 62.9300 | medie 63.1056/63.4495 trend GIU | notizie +0.04 su 24 (0 nuove, 0 da Claude) | 0.4s
+22/11 06:15:44 INFO       (+0.5 r0.9 claude) Solana ETFs Defy Wall Street’s Big Crypto Sell-Off - BeInCrypto
+22/11 06:15:44 INFO       (-0.6 r0.9 claude) CoinShares' treasury sale puts Solana under institutional supply strain amid fragile appetite for crypto produ
+22/11 06:15:44 INFO       (+0.4 r0.8 claude) Circle mints 500M USDC on Solana in about 20 minutes - Crypto Briefing
+22/11 06:15:44 INFO    -> ATTENDI: trend 15 minuti non rialzista
