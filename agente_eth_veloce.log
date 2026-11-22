@@ -4647,3 +4647,9 @@
 22/11 19:01:09 INFO       (-0.1 r0.2 claude) Deribit outage hit Bitcoin hedgers on Coinbase
 22/11 19:01:09 INFO       (-0.1 r0.2 claude) South Korean exchanges halt CYBER transfers amid suspected bridge exploit
 22/11 19:01:09 INFO    -> ATTENDI: notizie sotto la soglia (-0.05)
+22/11 19:15:45 INFO    === eth_veloce (ETH-EUR) ===
+22/11 19:15:45 INFO    Prezzo 1562.98 | medie 1562.87/1564.03 trend GIU | notizie -0.26 su 19 (2 nuove, 2 da Claude) | 0.3s
+22/11 19:15:45 INFO       (-0.6 r0.6 claude) Bitcoin and Ethereum ETF Outflows Stay in the Billions for Another Week - CryptoPotato
+22/11 19:15:45 INFO       (-0.4 r0.9 claude) Drop in spot ETF interest may deepen risk context for Ethereum - Traders Union
+22/11 19:15:45 INFO       (-0.7 r0.9 claude) Ethereum Price Prediction: Could ETH Crash Below $1,500 as ETF Selling Continues? - Coinpaper
+22/11 19:15:45 INFO    -> ATTENDI: trend 15 minuti non rialzista
