@@ -1981,3 +1981,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-22T15:01:12+01:00;1555.33;1556.05;1554.50;su;-0.112;20;0;0;0;no;attendi;notizie sotto la soglia (-0.11);Ethereum Price Prediction: Will ETH Crash Below $1,500? - Coinpaper;0.507
 2026-11-22T15:15:45+01:00;1557.95;1555.90;1555.38;su;-0.086;22;1;1;0;no;attendi;notizie sotto la soglia (-0.09);Ethereum Price Prediction: Will ETH Crash Below $1,500? - Coinpaper;0.499
 2026-11-22T15:31:00+01:00;1552.74;1554.58;1556.20;giu;-0.085;22;1;1;0;no;attendi;trend 15 minuti non rialzista;Ethereum Price Prediction: Will ETH Crash Below $1,500? - Coinpaper;0.488
+2026-11-22T15:45:45+01:00;1562.60;1556.04;1557.35;giu;-0.083;21;0;0;0;no;attendi;trend 15 minuti non rialzista;Ethereum Price Prediction: Will ETH Crash Below $1,500? - Coinpaper;0.508
