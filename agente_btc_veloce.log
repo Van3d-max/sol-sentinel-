@@ -4612,3 +4612,9 @@
 22/11 18:01:11 INFO       (-0.2 r1.0 claude) Bitcoin reclaims $61,000 before giving back a third of the weekend rally
 22/11 18:01:11 INFO       (-0.4 r0.7 claude) Bitcoin’s next big threat could come from two oil tankers in the Middle East
 22/11 18:01:11 INFO    -> ATTENDI: notizie sotto la soglia (-0.18)
+22/11 18:15:47 INFO    === btc_veloce (BTC-EUR) ===
+22/11 18:15:47 INFO    Prezzo 55416.96 | medie 55611.37/55521.07 trend SU | notizie -0.21 su 79 (2 nuove, 2 da Claude) | 0.3s
+22/11 18:15:47 INFO       (-0.7 r1.0 claude) Bitcoin Price Predictions Favor $50K as Market Fear Deepens - Cryptonews.net
+22/11 18:15:47 INFO       (-0.6 r1.0 claude) Bitcoin Price Prediction: Arthur Hayes Warns of a $50,000 Test - Cryptonews.net
+22/11 18:15:47 INFO       (-0.6 r1.0 claude) Bitcoin Price Prediction: How Low Can BTC Go as ETF Buyers Sit 30% Underwater? - Cryptonews.net
+22/11 18:15:47 INFO    -> ATTENDI: notizia shock: Bitcoin Price Predictions Favor $50K as Market Fear Deepens - Cryptonews.net
