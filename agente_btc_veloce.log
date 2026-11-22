@@ -4558,3 +4558,9 @@
 22/11 15:45:47 INFO       (-1.0 r1.0 claude) Bitcoin crashes to two-year low, losing more than half its value since October peak - Ynetnews
 22/11 15:45:47 INFO       (-0.6 r1.0 claude) Short-term Bitcoin holders capitulate as over 113K BTC hits exchanges - TradingView
 22/11 15:45:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
+22/11 16:01:14 INFO    === btc_veloce (BTC-EUR) ===
+22/11 16:01:14 INFO    Prezzo 55548.27 | medie 55474.82/55499.76 trend GIU | notizie -0.19 su 74 (2 nuove, 2 da Claude) | 0.2s
+22/11 16:01:14 INFO       (-0.6 r1.0 claude) Jiang Zhuoer: Bitcoin (BTC) Needs 2-3 Month Bottom After $57,800 Floor Broke - Cryptonews.net
+22/11 16:01:14 INFO       (-0.5 r0.9 claude) Bitcoin Crashes to $17K on Kraken as Exchange Refuses to Reverse Trades - Coinpaper
+22/11 16:01:14 INFO       (-1.0 r1.0 claude) Bitcoin crashes to two-year low, losing more than half its value since October peak - Ynetnews
+22/11 16:01:14 INFO    -> ATTENDI: trend 15 minuti non rialzista
