@@ -4576,3 +4576,9 @@
 22/11 16:31:01 INFO       (-0.5 r0.9 claude) Bitcoin Crashes to $17K on Kraken as Exchange Refuses to Reverse Trades - Coinpaper
 22/11 16:31:01 INFO       (-1.0 r1.0 claude) Bitcoin crashes to two-year low, losing more than half its value since October peak - Ynetnews
 22/11 16:31:01 INFO    -> ATTENDI: notizie sotto la soglia (-0.17)
+22/11 16:45:47 INFO    === btc_veloce (BTC-EUR) ===
+22/11 16:45:48 INFO    Prezzo 55881.26 | medie 55626.39/55533.34 trend SU | notizie -0.20 su 78 (5 nuove, 5 da Claude) | 0.3s
+22/11 16:45:48 INFO       (-0.6 r1.0 claude) Bitcoin Price Prediction: How Low Can BTC Go as ETF Buyers Sit 30% Underwater? - Cryptonews.net
+22/11 16:45:48 INFO       (-0.6 r1.0 claude) Jiang Zhuoer: Bitcoin (BTC) Needs 2-3 Month Bottom After $57,800 Floor Broke - Cryptonews.net
+22/11 16:45:48 INFO       (-0.5 r1.0 claude) Citi Lowers Bitcoin Price Target to $99,532 Amid Market Slide - KuCoin
+22/11 16:45:48 INFO    -> ATTENDI: notizie sotto la soglia (-0.20)
