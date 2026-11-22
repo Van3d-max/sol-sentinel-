@@ -4372,3 +4372,9 @@
 22/11 08:01:13 INFO       (-0.6 r0.9 claude) JPMorgan Says Bitcoin Miners May Be Selling Reserves After BTC Falls $26K Below Mining Cost Estimate: Report -
 22/11 08:01:13 INFO       (-0.5 r1.0 claude) Bitcoin Rebound Loses Steam After Selloff, With Price Back Below $59,000 - bloomingbit
 22/11 08:01:13 INFO    -> ATTENDI: trend 15 minuti non rialzista
+22/11 08:15:53 INFO    === btc_veloce (BTC-EUR) ===
+22/11 08:15:53 INFO    Prezzo 54023.77 | medie 53917.11/53935.32 trend GIU | notizie -0.05 su 70 (3 nuove, 3 da Claude) | 0.1s
+22/11 08:15:53 INFO       (+0.4 r1.0 claude) Bitcoin price rebounds from $55K after historic sell-off, is $72K next? - Crypto News
+22/11 08:15:53 INFO       (-0.6 r0.9 claude) JPMorgan Says Bitcoin Miners May Be Selling Reserves After BTC Falls $26K Below Mining Cost Estimate: Report -
+22/11 08:15:53 INFO       (-0.6 r0.9 claude) JPMorgan Says Bitcoin Miners May Be Selling Reserves After BTC Falls $26K Below Mining Cost Estimate: Report -
+22/11 08:15:53 INFO    -> ATTENDI: trend 15 minuti non rialzista
