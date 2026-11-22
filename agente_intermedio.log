@@ -1282,3 +1282,10 @@
 22/11 08:45:45 INFO    Prezzo 63.6400 | medie 63.9135/63.4540 trend SU | notizie -0.01 su 1 (0 nuove, 0 da Claude) | 0.2s
 22/11 08:45:45 INFO       (-0.1 r0.1 claude) South Korean exchanges halt CYBER transfers amid suspected bridge exploit
 22/11 08:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 09:45:41 INFO    === intermedio (SOL-EUR) ===
+22/11 09:45:41 INFO    Trend superiore (ONE_DAY): GIU
+22/11 09:45:41 INFO    Prezzo 63.8100 | medie 63.9400/63.4022 trend SU | notizie +0.01 su 26 (1 nuove, 1 da Claude) | 0.3s
+22/11 09:45:41 INFO       (-0.2 r0.9 claude) Schiff Pitches Solana as a Bitcoin Stand-In. The Data Shows a Costly Trade-Off - finance.biggo.com
+22/11 09:45:41 INFO       (+0.2 r0.9 claude) Peter Schiff says Solana can replace Bitcoin exposure. Can it? - Crypto News
+22/11 09:45:41 INFO       (+0.1 r1.0 claude) On the brink of major changes: What's happening with Solana? - Traders Union
+22/11 09:45:41 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

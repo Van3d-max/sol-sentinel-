@@ -1102,3 +1102,9 @@
 22/11 08:46:04 INFO       (+0.3 r1.0 claude) Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave
 22/11 08:46:04 INFO       (-0.8 r0.9 claude) Bitcoin tanks below $57,000 for the first time in two years, and its not alone
 22/11 08:46:04 INFO    -> ATTENDI: trend giornaliero non rialzista
+22/11 09:45:46 INFO    === btc_lento (BTC-EUR) ===
+22/11 09:45:46 INFO    Prezzo 54925.43 | medie 58463.13/65859.40 trend GIU | notizie -0.11 su 118 (4 nuove, 4 da Claude) | 0.1s
+22/11 09:45:46 INFO       (-0.7 r0.9 claude) Bitcoin ETFs Lost $3.59 Billion over Three Weeks: IBIT set New Record for Daily Outflows - Incrypted
+22/11 09:45:46 INFO       (-0.6 r0.9 claude) Bitcoin struggles below $60,000 as mining profits plunge, security risks grow - Investing.com
+22/11 09:45:46 INFO       (-0.4 r0.9 claude) Bitcoin shorts collapsed 79% in five weeks, then the market turned lower
+22/11 09:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista

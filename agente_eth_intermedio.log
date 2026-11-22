@@ -1285,3 +1285,10 @@
 22/11 08:45:55 INFO       (-0.3 r0.9 claude) Ethereum’s Glamsterdam delay reveals a troubling pattern behind its biggest network upgrades
 22/11 08:45:55 INFO       (-0.3 r0.7 claude) Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated
 22/11 08:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 09:45:43 INFO    === eth_intermedio (ETH-EUR) ===
+22/11 09:45:43 INFO    Trend superiore (ONE_DAY): GIU
+22/11 09:45:43 INFO    Prezzo 1545.85 | medie 1531.93/1518.08 trend SU | notizie -0.03 su 28 (2 nuove, 2 da Claude) | 0.3s
+22/11 09:45:43 INFO       (-0.1 r1.0 claude) Ethereum Down More Than 40% Year-to-Date, Yet Staking Balance Hits Record 44.65 Million ETH - BigGo Finance
+22/11 09:45:43 INFO       (-0.2 r0.9 claude) Will Ethereum sustain gains amid mixed momentum signals and seller dominance? - Traders Union
+22/11 09:45:43 INFO       (+0.4 r1.0 claude) Ethereum Price Prediction: ETH Could Experience a Relief Rally to $1.9K as Daily RSI Flashes Oversold - FXEmpi
+22/11 09:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
