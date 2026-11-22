@@ -4744,3 +4744,9 @@
 22/11 23:31:01 INFO       (+0.6 r0.9 claude) Bitcoin's Price Dip Attracts a Whale as Hedge Fund Scoops up $1B - Cryptonews.net
 22/11 23:31:01 INFO       (-0.6 r0.8 claude) BlackRock iShares Bitcoin Trust, IBIT, Records Historic Outflow on Day of Anthropic IPO Debut on Nasdaq - Crow
 22/11 23:31:01 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)
+22/11 23:45:50 INFO    === btc_veloce (BTC-EUR) ===
+22/11 23:45:50 INFO    Prezzo 55784.63 | medie 55532.44/55442.36 trend SU | notizie -0.04 su 78 (2 nuove, 2 da Claude) | 0.3s
+22/11 23:45:50 INFO       (+0.6 r0.9 claude) Strategy hints at more Bitcoin purchases after $33M buy - Crypto Briefing
+22/11 23:45:50 INFO       (+0.6 r0.9 claude) Bitcoin's Price Dip Attracts a Whale as Hedge Fund Scoops up $1B - Cryptonews.net
+22/11 23:45:50 INFO       (-0.6 r0.8 claude) BlackRock iShares Bitcoin Trust, IBIT, Records Historic Outflow on Day of Anthropic IPO Debut on Nasdaq - Crow
+22/11 23:45:50 INFO    -> ATTENDI: notizie sotto la soglia (-0.04)
