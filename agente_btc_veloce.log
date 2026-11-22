@@ -4654,3 +4654,9 @@
 22/11 19:45:47 INFO       (-0.7 r1.0 claude) Bitcoin Price Predictions Favor $50K as Market Fear Deepens - Cryptonews.net
 22/11 19:45:47 INFO       (-0.6 r0.6 claude) Dollar up as Bitcoin, Gold and stocks fall on Fed rate worries - FXStreet
 22/11 19:45:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
+22/11 20:01:14 INFO    === btc_veloce (BTC-EUR) ===
+22/11 20:01:14 INFO    Prezzo 55344.70 | medie 55350.61/55498.86 trend GIU | notizie -0.17 su 9 (0 nuove, 0 da Claude) | 0.3s
+22/11 20:01:14 INFO       (-0.2 r0.5 claude) UK to ban crypto exchanges from making markets on their own platforms as Bitcoin rules change
+22/11 20:01:14 INFO       (-0.4 r1.0 claude) Bitcoin’s $60,000 breakdown puts December Fed decision under the spotlight
+22/11 20:01:14 INFO       (-0.2 r1.0 claude) Bitcoin reclaims $61,000 before giving back a third of the weekend rally
+22/11 20:01:14 INFO    -> ATTENDI: trend 15 minuti non rialzista
