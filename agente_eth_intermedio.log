@@ -1341,3 +1341,10 @@
 22/11 16:45:45 INFO       (-0.2 r0.9 claude) Ethereum Price Prediction: Will ETH Crash Below $1,500? - Coinpaper
 22/11 16:45:45 INFO       (-0.3 r0.9 claude) Glamsterdam Highlights The Limits Of Ethereum's Upgrade Timeline - Cointribune
 22/11 16:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 17:46:04 INFO    === eth_intermedio (ETH-EUR) ===
+22/11 17:46:04 INFO    Trend superiore (ONE_DAY): GIU
+22/11 17:46:04 INFO    Prezzo 1564.47 | medie 1540.83/1513.16 trend SU | notizie -0.06 su 3 (0 nuove, 0 da Claude) | 0.4s
+22/11 17:46:04 INFO       (-0.2 r0.3 claude) Chainflip users face frozen withdrawals after $4.86 million vanishes from Ethereum vault
+22/11 17:46:04 INFO       (-0.1 r0.2 claude) Deribit outage hit Bitcoin hedgers on Coinbase
+22/11 17:46:04 INFO       (-0.1 r0.2 claude) South Korean exchanges halt CYBER transfers amid suspected bridge exploit
+22/11 17:46:04 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

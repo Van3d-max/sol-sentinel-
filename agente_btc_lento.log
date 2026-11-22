@@ -1150,3 +1150,9 @@
 22/11 16:45:48 INFO       (-0.6 r1.0 claude) Bitcoin Price Prediction: How Low Can BTC Go as ETF Buyers Sit 30% Underwater? - Cryptonews.net
 22/11 16:45:48 INFO       (-0.6 r1.0 claude) Jiang Zhuoer: Bitcoin (BTC) Needs 2-3 Month Bottom After $57,800 Floor Broke - Cryptonews.net
 22/11 16:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista
+22/11 17:46:12 INFO    === btc_lento (BTC-EUR) ===
+22/11 17:46:12 INFO    Prezzo 55461.20 | medie 58463.13/65859.40 trend GIU | notizie -0.20 su 18 (0 nuove, 0 da Claude) | 0.2s
+22/11 17:46:12 INFO       (-0.4 r1.0 claude) Bitcoin’s $60,000 breakdown puts December Fed decision under the spotlight
+22/11 17:46:12 INFO       (-0.4 r0.7 claude) Bitcoin’s next big threat could come from two oil tankers in the Middle East
+22/11 17:46:12 INFO       (-0.4 r0.9 claude) Bitcoin shorts collapsed 79% in five weeks, then the market turned lower
+22/11 17:46:12 INFO    -> ATTENDI: trend giornaliero non rialzista

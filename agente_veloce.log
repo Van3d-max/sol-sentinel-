@@ -12648,3 +12648,7 @@
 22/11 17:31:00 INFO       (+0.2 r0.9 claude) Solana Price Prediction as Bitcoin Reclaims $60K: Is a Recovery Ahead?? - Cryptonews.net
 22/11 17:31:00 INFO       (+0.4 r0.9 claude) Solana Price Prediction as Bitcoin Reclaims $60K: Is a Recovery Ahead?? - CoinGape
 22/11 17:31:00 INFO    -> ATTENDI: obiettivo +1.25% sotto il minimo +2.20% (commissioni)
+22/11 17:45:58 INFO    === veloce (SOL-EUR) ===
+22/11 17:45:58 INFO    Prezzo 64.2300 | medie 64.2467/64.1362 trend SU | notizie -0.00 su 1 (0 nuove, 0 da Claude) | 0.3s
+22/11 17:45:58 INFO       (-0.1 r0.1 claude) South Korean exchanges halt CYBER transfers amid suspected bridge exploit
+22/11 17:45:58 INFO    -> ATTENDI: notizie sotto la soglia (-0.00)

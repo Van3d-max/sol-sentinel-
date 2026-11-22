@@ -1342,3 +1342,10 @@
 22/11 16:45:48 INFO       (-0.6 r1.0 claude) Jiang Zhuoer: Bitcoin (BTC) Needs 2-3 Month Bottom After $57,800 Floor Broke - Cryptonews.net
 22/11 16:45:48 INFO       (-0.5 r1.0 claude) Citi Lowers Bitcoin Price Target to $99,532 Amid Market Slide - KuCoin
 22/11 16:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 17:46:11 INFO    === btc_intermedio (BTC-EUR) ===
+22/11 17:46:12 INFO    Trend superiore (ONE_DAY): GIU
+22/11 17:46:12 INFO    Prezzo 55468.43 | medie 54884.40/54139.43 trend SU | notizie -0.18 su 10 (0 nuove, 0 da Claude) | 0.4s
+22/11 17:46:12 INFO       (-0.4 r1.0 claude) Bitcoin’s $60,000 breakdown puts December Fed decision under the spotlight
+22/11 17:46:12 INFO       (-0.2 r1.0 claude) Bitcoin reclaims $61,000 before giving back a third of the weekend rally
+22/11 17:46:12 INFO       (-0.4 r0.7 claude) Bitcoin’s next big threat could come from two oil tankers in the Middle East
+22/11 17:46:12 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
