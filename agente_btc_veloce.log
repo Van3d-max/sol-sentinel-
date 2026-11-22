@@ -4264,3 +4264,9 @@
 22/11 03:30:38 INFO       (-0.5 r1.0 claude) Bitcoin heads for longest weekly losing streak since 2022 as holders chase AI stocks - Crypto Briefing
 22/11 03:30:38 INFO       (-0.7 r0.9 claude) Bitcoin and Ether ETFs Lose $1.47B in a Week as BlackRock’s IBIT Logs Record Outflow - Cryptonews.net
 22/11 03:30:38 INFO    -> ATTENDI: trend 15 minuti non rialzista
+22/11 03:45:45 INFO    === btc_veloce (BTC-EUR) ===
+22/11 03:45:45 INFO    Prezzo 53986.47 | medie 54400.99/54688.78 trend GIU | notizie -0.13 su 79 (2 nuove, 2 da Claude) | 0.3s
+22/11 03:45:45 INFO       (-0.6 r1.0 claude) Bitcoin on Brink of Losing $60,000 Level as $1.1 Billion Flees ETFs in Four Days - BigGo Finance
+22/11 03:45:45 INFO       (-0.4 r0.7 claude) CleanSpark Stock Slides On Bitcoin Weakness Ahead Of Earnings - Yahoo Finance
+22/11 03:45:45 INFO       (-0.5 r1.0 claude) Bitcoin heads for longest weekly losing streak since 2022 as holders chase AI stocks - Crypto Briefing
+22/11 03:45:45 INFO    -> ATTENDI: trend 15 minuti non rialzista
