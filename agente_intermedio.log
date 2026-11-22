@@ -1324,3 +1324,10 @@
 22/11 14:45:45 INFO       (+0.4 r0.8 claude) Anthropic's $81B IPO stock launches on Solana, intensifying tokenization battle with XRP Ledger. - Pluang
 22/11 14:45:45 INFO       (+0.6 r0.9 claude) Solana price rebounds toward $70 as ETFs end six-week outflow streak - Crypto News
 22/11 14:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 15:45:43 INFO    === intermedio (SOL-EUR) ===
+22/11 15:45:43 INFO    Trend superiore (ONE_DAY): GIU
+22/11 15:45:43 INFO    Prezzo 64.1900 | medie 63.8760/63.2296 trend SU | notizie +0.13 su 24 (0 nuove, 0 da Claude) | 0.4s
+22/11 15:45:43 INFO       (+0.4 r0.9 claude) Solana Price Prediction as Bitcoin Reclaims $60K: Is a Recovery Ahead?? - CoinGape
+22/11 15:45:43 INFO       (+0.4 r0.8 claude) Anthropic's $81B IPO stock launches on Solana, intensifying tokenization battle with XRP Ledger. - Pluang
+22/11 15:45:43 INFO       (+0.6 r0.9 claude) Solana price rebounds toward $70 as ETFs end six-week outflow streak - Crypto News
+22/11 15:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
