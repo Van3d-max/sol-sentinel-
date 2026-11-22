@@ -1270,3 +1270,10 @@
 22/11 06:45:43 INFO       (+0.5 r0.9 claude) Solana ETFs Defy Wall Street’s Big Crypto Sell-Off - BeInCrypto
 22/11 06:45:43 INFO       (-0.6 r0.9 claude) CoinShares' treasury sale puts Solana under institutional supply strain amid fragile appetite for crypto produ
 22/11 06:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+22/11 07:45:41 INFO    === intermedio (SOL-EUR) ===
+22/11 07:45:41 INFO    Trend superiore (ONE_DAY): GIU
+22/11 07:45:41 INFO    Prezzo 63.0400 | medie 63.9015/63.5140 trend SU | notizie +0.02 su 26 (0 nuove, 0 da Claude) | 0.4s
+22/11 07:45:41 INFO       (+0.1 r1.0 claude) On the brink of major changes: What's happening with Solana? - Traders Union
+22/11 07:45:41 INFO       (-0.1 r1.0 claude) Solana spot ETF sees $4.4M inflow: SOL rally loses momentum - Traders Union
+22/11 07:45:41 INFO       (+0.5 r0.9 claude) Solana ETFs Defy Wall Street’s Big Crypto Sell-Off - BeInCrypto
+22/11 07:45:41 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
