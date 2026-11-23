@@ -5136,3 +5136,9 @@
 23/11 15:31:13 INFO       (+0.5 r1.0 claude) Bitmine On Verge Of Owning 5% Of Ethereum After Latest Purchase - Yahoo Finance
 23/11 15:31:13 INFO    POSIZIONE CHIUSA (notizia shock: BlackRock ETF Dumps 1 Million ETH Worth $1.75B as Ethereum Outflows Accelerate: ): -0.71 EUR
 23/11 15:31:13 INFO    -> VENDUTO: notizia shock: BlackRock ETF Dumps 1 Million ETH Worth $1.75B as Ethereum Outflows Accelerate: 
+23/11 15:46:00 INFO    === eth_veloce (ETH-EUR) ===
+23/11 15:46:00 INFO    Prezzo 1622.85 | medie 1636.02/1599.26 trend SU | notizie -0.10 su 3 (0 nuove, 0 da Claude) | 0.5s
+23/11 15:46:00 INFO       (-0.2 r0.9 claude) Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack
+23/11 15:46:00 INFO       (-0.2 r0.8 claude) BlackRock’s staked Ethereum ETF can delay redemptions if unstaked ETH runs short
+23/11 15:46:00 INFO       (-0.2 r0.1 claude) Chainflip founder admits heavy losses after second hack in 10 weeks drains $12 million
+23/11 15:46:00 INFO    -> ATTENDI: notizie sotto la soglia (-0.10)

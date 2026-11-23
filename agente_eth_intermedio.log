@@ -1493,3 +1493,10 @@
 23/11 14:45:55 INFO       (-0.5 r1.0 claude) 85,500 ETH moves from an unknown wallet to Binance - Cryptonews.net
 23/11 14:45:55 INFO       (+0.5 r0.9 claude) Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 6.09 Million Tokens, and Total Crypto and T
 23/11 14:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 15:46:00 INFO    === eth_intermedio (ETH-EUR) ===
+23/11 15:46:01 INFO    Trend superiore (ONE_DAY): GIU
+23/11 15:46:01 INFO    Prezzo 1622.85 | medie 1574.81/1555.08 trend SU | notizie -0.10 su 3 (0 nuove, 0 da Claude) | 0.5s
+23/11 15:46:01 INFO       (-0.2 r0.9 claude) Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack
+23/11 15:46:01 INFO       (-0.2 r0.8 claude) BlackRock’s staked Ethereum ETF can delay redemptions if unstaked ETH runs short
+23/11 15:46:01 INFO       (-0.2 r0.1 claude) Chainflip founder admits heavy losses after second hack in 10 weeks drains $12 million
+23/11 15:46:01 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

@@ -4981,3 +4981,11 @@
 23/11 15:31:21 INFO       rialzista: Il prezzo (0.9201) è sopra la media mobile a 10 periodi (0.9015) e a 30 periodi (0.8763), indicando un trend di breve e medio termine positivo, e la notizia sull'offerta record di RLUSD mostra un'attività reale dell'ecosistema Ripple.
 23/11 15:31:21 INFO       ribassista: Il punteggio delle notizie è quasi neutro (0.065), i titoli più pesanti sono negativi e parlano di XRP sotto 1 dollaro e di flussi di capitale in uscita, con un prezzo range-bound che non conferma un breakout.
 23/11 15:31:21 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico favorevole è debole rispetto a un sentiment neutro e contraddittorio, quindi senza un vantaggio chiaro l'acquisto spot non giustifica il rischio.
+23/11 15:46:07 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 15:46:07 INFO    Prezzo 0.9084 | medie 0.907667/0.8791 trend SU | notizie +0.09 su 45 (2 nuove, 2 da Claude) | 0.4s
+23/11 15:46:07 INFO       (+0.6 r1.0 claude) Why is XRP price up 8.8% today? - Traders Union
+23/11 15:46:07 INFO       (+0.5 r0.9 claude) Ripple's RLUSD Hits Record $2.87B Supply, Topping Trump-Tied USD1 - BigGo Finance
+23/11 15:46:07 INFO       (-0.7 r0.9 claude) XRP Slips Below $1 as Ripple's Own Stablecoin Erodes the Token's Core Case - BigGo Finance
+23/11 15:46:11 INFO       rialzista: Il prezzo (0.9084) è sopra la media mobile a 10 periodi (0.9077) e a 30 periodi (0.8791), e la notizia sulla crescita record dell'offerta RLUSD suggerisce interesse per l'ecosistema Ripple.
+23/11 15:46:11 INFO       ribassista: Il punteggio notizie è quasi neutro (0.093), il titolo ha appena perso la soglia di 1 dollaro per effetto dello stablecoin di Ripple che erode il caso d'uso del token, e il margine sulle medie è minimo.
+23/11 15:46:11 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole e contraddittorio: il trend di breve periodo è appena positivo, le notizie sono quasi neutre e in conflitto tra loro, quindi non giustifica l'esposizione al rischio di un acquisto spot.

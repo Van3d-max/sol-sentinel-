@@ -5134,3 +5134,9 @@
 23/11 15:31:16 INFO       rialzista: Il prezzo (58.070,86) è sopra la media mobile a 10 periodi (57.577,59) e a 30 periodi (56.648,21), segnalando un trend rialzista di breve e medio periodo.
 23/11 15:31:16 INFO       ribassista: Le notizie sono contrastanti e alcuni titoli riportano BTC sopra 64.000 dollari, un livello incoerente con il prezzo di mercato attuale, quindi i dati di sentiment non sono affidabili e il punteggio complessivo di 0,146 è debole.
 23/11 15:31:16 INFO    -> BLOCCATO DAL DIBATTITO: Il trend è favorevole, ma i titoli sono incoerenti con il prezzo osservato (64.000 contro 58.070), il sentiment è debole e non si può verificare la base informativa, quindi l'evidenza è insufficiente per entrare con un'esposizione spot.
+23/11 15:46:04 INFO    === btc_veloce (BTC-EUR) ===
+23/11 15:46:04 INFO    Prezzo 57538.88 | medie 57768.23/56732.76 trend SU | notizie +0.14 su 123 (6 nuove, 6 da Claude) | 0.4s
+23/11 15:46:04 INFO       (+0.7 r1.0 claude) Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO
+23/11 15:46:04 INFO       (+0.7 r0.9 claude) Bitcoin rockets above $64,000 as Nvidia reinstates Jensen Huang, wiping out $372 million in shorts - CryptoSla
+23/11 15:46:04 INFO       (-0.7 r0.9 claude) Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
+23/11 15:46:04 INFO    -> ATTENDI: notizia shock: Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com

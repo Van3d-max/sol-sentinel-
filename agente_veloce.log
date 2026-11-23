@@ -13176,3 +13176,11 @@
 23/11 15:31:10 INFO       rialzista: Il prezzo (70,0) è sopra la media mobile a 10 periodi (69,26) e a 30 periodi (67,40), con notizie recenti positive su adozione per stablecoin Zelle e flussi ETF netti in entrata.
 23/11 15:31:10 INFO       ribassista: Il margine sopra la media a 10 periodi è esiguo, i titoli citano livelli di prezzo (oltre 72 dollari) non coerenti con il prezzo di mercato dato, e dopo otto settimane di perdite un singolo afflusso ETF non basta a confermare un'inversione.
 23/11 15:31:10 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono deboli e incoerenti (livelli citati nei titoli non allineati al prezzo di mercato, slancio di breve periodo non consolidato e nessuno stop-loss definito), quindi il rischio non è giustificato.
+23/11 15:45:55 INFO    === veloce (SOL-EUR) ===
+23/11 15:45:55 INFO    Prezzo 69.0900 | medie 69.6000/67.5695 trend SU | notizie +0.34 su 46 (1 nuove, 1 da Claude) | 0.3s
+23/11 15:45:55 INFO       (+0.6 r1.0 claude) Solana rises 2.6% as Zelle chooses its network for new stablecoin launch - Pluang
+23/11 15:45:55 INFO       (+0.5 r1.0 claude) Solana gains more than 8% after first net ETF inflows in six weeks and 1.0 upgrade - Traders Union
+23/11 15:45:55 INFO       (+0.4 r0.9 claude) DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million - The Block
+23/11 15:45:59 INFO       rialzista: Il prezzo sta sopra la media mobile a 30 giorni (67,57) e il flusso di notizie è positivo (punteggio 0,335), con afflussi netti negli ETF e l'adozione da parte di Zelle che sostengono un possibile rialzo.
+23/11 15:45:59 INFO       ribassista: Il prezzo (69,09) è sotto la media a 10 giorni (69,6), segno di debolezza nel breve termine, e le notizie rialziste potrebbero essere già scontate dopo rialzi del 2,6% e dell'8%.
+23/11 15:45:59 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è misto: il prezzo è sotto la media a 10 giorni, le notizie positive sono già in parte scontate e l'ATR giornaliero (0,78, circa l'1%) appare sospettosamente basso per SOL, quindi le evidenze non sono abbastanza forti per aprire la posizione.

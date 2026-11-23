@@ -1488,3 +1488,10 @@
 23/11 14:45:49 INFO       (+0.5 r1.0 claude) Solana gains more than 8% after first net ETF inflows in six weeks and 1.0 upgrade - Traders Union
 23/11 14:45:49 INFO       (+0.6 r0.9 claude) Solana rebounds above $72 after eight weeks of losses, eyeing $80 resistance for a bullish reversal. - Pluang
 23/11 14:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 15:45:59 INFO    === intermedio (SOL-EUR) ===
+23/11 15:45:59 INFO    Trend superiore (ONE_DAY): GIU
+23/11 15:45:59 INFO    Prezzo 69.0700 | medie 65.4300/64.5920 trend SU | notizie +0.34 su 46 (1 nuove, 1 da Claude) | 0.6s
+23/11 15:45:59 INFO       (+0.6 r1.0 claude) Solana rises 2.6% as Zelle chooses its network for new stablecoin launch - Pluang
+23/11 15:45:59 INFO       (+0.5 r1.0 claude) Solana gains more than 8% after first net ETF inflows in six weeks and 1.0 upgrade - Traders Union
+23/11 15:45:59 INFO       (+0.4 r0.9 claude) DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million - The Block
+23/11 15:45:59 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
