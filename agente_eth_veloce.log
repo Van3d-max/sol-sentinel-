@@ -4784,3 +4784,8 @@
 23/11 00:45:39 INFO       (-0.6 r0.6 claude) Bitcoin and Ethereum ETF Outflows Stay in the Billions for Another Week - CryptoPotato
 23/11 00:45:39 INFO       (-0.4 r0.9 claude) Drop in spot ETF interest may deepen risk context for Ethereum - Traders Union
 23/11 00:45:39 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)
+23/11 01:01:09 INFO    === eth_veloce (ETH-EUR) ===
+23/11 01:01:09 INFO    Prezzo 1564.05 | medie 1567.02/1565.81 trend SU | notizie -0.01 su 2 (0 nuove, 0 da Claude) | 0.3s
+23/11 01:01:09 INFO       (-0.2 r0.3 claude) Chainflip users face frozen withdrawals after $4.86 million vanishes from Ethereum vault
+23/11 01:01:09 INFO       (-0.1 r0.2 claude) South Korean exchanges halt CYBER transfers amid suspected bridge exploit
+23/11 01:01:09 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)

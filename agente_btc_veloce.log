@@ -4774,3 +4774,9 @@
 23/11 00:45:41 INFO       (+0.6 r0.9 claude) Bitcoin's Price Dip Attracts a Whale as Hedge Fund Scoops up $1B - Cryptonews.net
 23/11 00:45:41 INFO       (+0.3 r0.9 claude) Bitcoin Holds Above $60,900 as Crypto Rebound Enters Second Day; SKY Slides 5.41% - BigGo Finance
 23/11 00:45:41 INFO    -> ATTENDI: notizie sotto la soglia (-0.00)
+23/11 01:01:09 INFO    === btc_veloce (BTC-EUR) ===
+23/11 01:01:10 INFO    Prezzo 55721.88 | medie 55684.47/55532.21 trend SU | notizie -0.10 su 5 (0 nuove, 0 da Claude) | 0.4s
+23/11 01:01:10 INFO       (-0.2 r0.6 claude) Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest
+23/11 01:01:10 INFO       (-0.2 r0.5 claude) UK to ban crypto exchanges from making markets on their own platforms as Bitcoin rules change
+23/11 01:01:10 INFO       (-0.2 r0.9 claude) Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins
+23/11 01:01:10 INFO    -> ATTENDI: notizie sotto la soglia (-0.10)

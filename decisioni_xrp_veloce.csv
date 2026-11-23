@@ -2021,3 +2021,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-23T01:15:47+01:00;0.8446;0.843044;0.843924;giu;-0.005;24;1;1;0;no;attendi;trend 15 minuti non rialzista;XRP Ledger Active Addresses Plunge 60% to 92,000 as XRP Slips Under $0.90 - BigGo Finance;0.304
 2026-11-23T01:30:05+01:00;0.8421;0.843144;0.84371;giu;-0.005;23;0;0;0;no;attendi;trend 15 minuti non rialzista;XRP Ledger Active Addresses Plunge 60% to 92,000 as XRP Slips Under $0.90 - BigGo Finance;0.305
 2026-11-23T01:45:42+01:00;0.8391;0.843056;0.84339;giu;-0.005;23;0;0;0;no;attendi;trend 15 minuti non rialzista;XRP Ledger Active Addresses Plunge 60% to 92,000 as XRP Slips Under $0.90 - BigGo Finance;0.328
+2026-11-23T02:01:10+01:00;0.8412;0.843167;0.843167;su;-0.005;23;0;0;0;no;attendi;notizie sotto la soglia (-0.01);XRP Ledger Active Addresses Plunge 60% to 92,000 as XRP Slips Under $0.90 - BigGo Finance;0.325
