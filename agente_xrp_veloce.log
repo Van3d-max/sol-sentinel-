@@ -4797,3 +4797,7 @@
 23/11 07:46:18 INFO    Prezzo 0.851 | medie 0.854911/0.848943 trend SU | notizie +0.04 su 1 (0 nuove, 0 da Claude) | 0.1s
 23/11 07:46:18 INFO       (+0.3 r0.9 claude) XRP Ledger trial settled 213,000 paid AI requests in 6,324 transactions
 23/11 07:46:18 INFO    -> ATTENDI: obiettivo +1.27% sotto il minimo +2.20% (commissioni)
+23/11 08:01:21 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 08:01:22 INFO    Prezzo 0.8519 | medie 0.8544/0.84979 trend SU | notizie +0.04 su 1 (0 nuove, 0 da Claude) | 0.3s
+23/11 08:01:22 INFO       (+0.3 r0.9 claude) XRP Ledger trial settled 213,000 paid AI requests in 6,324 transactions
+23/11 08:01:22 INFO    -> ATTENDI: obiettivo +1.24% sotto il minimo +2.20% (commissioni)
