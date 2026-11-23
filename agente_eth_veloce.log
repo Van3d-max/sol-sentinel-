@@ -5107,3 +5107,11 @@
 23/11 14:31:11 INFO       (-0.5 r1.0 claude) 85,500 ETH moves from an unknown wallet to Binance - Cryptonews.net
 23/11 14:31:11 INFO       (+0.4 r1.0 claude) Tom Lee’s Bitmine Adds 7,819 ETH as Holdings Reach 4.98% of Ethereum Supply - CoinGape
 23/11 14:31:11 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
+23/11 14:45:51 INFO    === eth_veloce (ETH-EUR) ===
+23/11 14:45:51 INFO    Prezzo 1643.52 | medie 1609.77/1587.46 trend SU | notizie +0.01 su 54 (1 nuove, 1 da Claude) | 0.3s
+23/11 14:45:51 INFO       (+0.5 r1.0 claude) Ethereum outflows from Binance fall to an all-time low - Crypto Briefing
+23/11 14:45:51 INFO       (-0.5 r1.0 claude) 85,500 ETH moves from an unknown wallet to Binance - Cryptonews.net
+23/11 14:45:51 INFO       (+0.5 r0.9 claude) Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 6.09 Million Tokens, and Total Crypto and T
+23/11 14:45:55 INFO       rialzista: Il prezzo (1643,52) è sopra la media mobile a 10 periodi (1609,77) e quella a 30 periodi (1587,46), indicando un trend di breve e medio termine positivo, con i deflussi da Binance ai minimi storici e le partecipazioni di BMNR in crescita.
+23/11 14:45:55 INFO       ribassista: Il punteggio delle notizie è praticamente neutro (0,013), il trasferimento di 85.500 ETH da un wallet sconosciuto a Binance può anticipare pressione di vendita, e il prezzo si trova già circa il 2% sopra la media a 10 periodi, quindi l'estensione potrebbe essere eccessiva.
+23/11 14:45:55 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è favorevole, ma le notizie sono neutre e contrastanti, con un possibile afflusso di ETH verso Binance, quindi l'evidenza complessiva è troppo debole per giustificare l'acquisto.

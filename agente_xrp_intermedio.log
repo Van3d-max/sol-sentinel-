@@ -1468,3 +1468,10 @@
 23/11 13:45:51 INFO       (-0.4 r0.9 claude) Ripple Price Forecast: XRP remains range-bound as retail and institutional capital flows out - www.tmgm.com
 23/11 13:45:51 INFO       (+0.3 r1.0 claude) XRP Could See 'One of the Biggest Reversals Ever,' Analyst Claims - Benzinga
 23/11 13:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 14:46:05 INFO    === xrp_intermedio (XRP-EUR) ===
+23/11 14:46:05 INFO    Trend superiore (ONE_DAY): GIU
+23/11 14:46:05 INFO    Prezzo 0.909 | medie 0.85137/0.84747 trend SU | notizie +0.03 su 42 (0 nuove, 0 da Claude) | 0.5s
+23/11 14:46:05 INFO       (-0.7 r0.9 claude) XRP Slips Below $1 as Ripple's Own Stablecoin Erodes the Token's Core Case - BigGo Finance
+23/11 14:46:05 INFO       (-0.4 r0.9 claude) Ripple Price Forecast: XRP remains range-bound as retail and institutional capital flows out - www.tmgm.com
+23/11 14:46:05 INFO       (+0.3 r1.0 claude) XRP Ledger Lending Amendments Close In on Activation as Validator Votes Climb - BigGo Finance
+23/11 14:46:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

@@ -1486,3 +1486,10 @@
 23/11 13:45:46 INFO       (+0.5 r0.8 claude) Crypto rebounds: Bitcoin reclaims $61,000, Ethereum eyes $1,750; analysts see potential for further recovery -
 23/11 13:45:46 INFO       (-0.4 r0.9 claude) Ethereum quantum risk study flags $72 billion in exposed wallets - Traders Union
 23/11 13:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 14:45:55 INFO    === eth_intermedio (ETH-EUR) ===
+23/11 14:45:55 INFO    Trend superiore (ONE_DAY): GIU
+23/11 14:45:55 INFO    Prezzo 1641.02 | medie 1571.63/1552.92 trend SU | notizie +0.01 su 54 (1 nuove, 1 da Claude) | 0.4s
+23/11 14:45:55 INFO       (+0.5 r1.0 claude) Ethereum outflows from Binance fall to an all-time low - Crypto Briefing
+23/11 14:45:55 INFO       (-0.5 r1.0 claude) 85,500 ETH moves from an unknown wallet to Binance - Cryptonews.net
+23/11 14:45:55 INFO       (+0.5 r0.9 claude) Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 6.09 Million Tokens, and Total Crypto and T
+23/11 14:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

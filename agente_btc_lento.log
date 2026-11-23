@@ -1276,3 +1276,9 @@
 23/11 13:45:51 INFO       (-0.7 r0.9 claude) Bloomberg Has Forecast Bitcoin Falling to $10,000 and the Liquidation of Strategy’s Positions - Incrypted
 23/11 13:45:51 INFO       (-0.6 r1.0 claude) Bitcoin's losing streak is second-longest ever, and some observers see more downside
 23/11 13:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista
+23/11 14:46:00 INFO    === btc_lento (BTC-EUR) ===
+23/11 14:46:00 INFO    Prezzo 57798.11 | medie 57580.47/65304.51 trend GIU | notizie +0.06 su 128 (12 nuove, 12 da Claude) | 0.1s
+23/11 14:46:00 INFO       (+0.7 r1.0 claude) Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO
+23/11 14:46:00 INFO       (-0.8 r1.0 claude) Key facts: Bitcoin Spot ETFs See $1.79B Weekly Outflows; BTC Falls - TradingView
+23/11 14:46:00 INFO       (+0.6 r0.9 claude) Bitcoin Price Surges Near $64K As Nvidia Reinstates CEO - Bitcoin Magazine
+23/11 14:46:00 INFO    -> ATTENDI: trend giornaliero non rialzista

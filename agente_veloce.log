@@ -13146,3 +13146,11 @@
 23/11 14:31:08 INFO       rialzista: Il prezzo (70,79) sopra le medie mobili a 10 e 30 giorni e il flusso di notizie positivo, con primi afflussi netti negli ETF dopo sei settimane, suggeriscono un possibile cambio di trend dopo otto settimane di ribassi.
 23/11 14:31:08 INFO       ribassista: Il prezzo è appena sotto la resistenza a 72 dopo un rimbalzo recente, le notizie sono in gran parte reazioni di prezzo a breve termine che potrebbero essere vendute sulla notizia, e la proposta non definisce uno stop-loss.
 23/11 14:31:08 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono deboli e il piano non definisce un livello di stop-loss o un obiettivo, mentre il prezzo è ancora sotto la resistenza a 72; si può ripresentare la proposta con uno stop esplicito e una conferma di chiusura sopra 72.
+23/11 14:45:43 INFO    === veloce (SOL-EUR) ===
+23/11 14:45:44 INFO    Prezzo 70.1400 | medie 67.9778/66.8348 trend SU | notizie +0.34 su 43 (0 nuove, 0 da Claude) | 0.3s
+23/11 14:45:44 INFO       (+0.6 r1.0 claude) Solana rises 2.6% as Zelle chooses its network for new stablecoin launch - Pluang
+23/11 14:45:44 INFO       (+0.5 r1.0 claude) Solana gains more than 8% after first net ETF inflows in six weeks and 1.0 upgrade - Traders Union
+23/11 14:45:44 INFO       (+0.6 r0.9 claude) Solana rebounds above $72 after eight weeks of losses, eyeing $80 resistance for a bullish reversal. - Pluang
+23/11 14:45:49 INFO       rialzista: Il prezzo (70,14) si trova sopra le medie mobili a 10 e 30 periodi (67,98 e 66,83), e il sentiment delle notizie è moderatamente positivo (0,341) con segnali di afflussi ETF e adozione da parte di Zelle.
+23/11 14:45:49 INFO       ribassista: I titoli sono in gran parte promozionali e in conflitto tra loro: uno indica un rimbalzo sopra 72$ mentre il prezzo quotato è 70,14, l'ATR giornaliero di 0,74 (circa l'1%) sembra implausibilmente basso per SOL, e il recupero arriva dopo otto settimane di perdite con resistenza a 80$.
+23/11 14:45:49 INFO    -> BLOCCATO DAL DIBATTITO: L'evidenza è troppo debole e i dati sono incoerenti (ATR e prezzo citato nei titoli non tornano), il rialzo si basa su notizie promozionali e non sono definiti uno stop-loss né una dimensione di posizione, quindi il rischio non è controllato.

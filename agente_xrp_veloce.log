@@ -4952,3 +4952,11 @@
 23/11 14:31:20 INFO       rialzista: Il prezzo (0.9248) si trova sopra la media a 10 giorni (0.877) e quella a 30 giorni (0.8652), segnalando un trend di breve e medio periodo positivo, con la prospettiva di un possibile avvio degli emendamenti di lending sulla XRP Ledger.
 23/11 14:31:20 INFO       ribassista: Le notizie recenti sono prevalentemente negative (stablecoin di Ripple che erode il caso d'uso di XRP, deflussi di capitale retail e istituzionale, prezzo tornato sotto 1 dollaro), e il punteggio aggregato di 0.024 non offre un sostegno fondamentale convincente.
 23/11 14:31:20 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico rialzista è debole e non è confermato dal sentiment, che è neutro-negativo con notizie contrastanti, quindi il rischio di un ritracciamento non è adeguatamente compensato.
+23/11 14:46:00 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 14:46:01 INFO    Prezzo 0.909 | medie 0.883222/0.867952 trend SU | notizie +0.03 su 42 (0 nuove, 0 da Claude) | 0.3s
+23/11 14:46:01 INFO       (-0.7 r0.9 claude) XRP Slips Below $1 as Ripple's Own Stablecoin Erodes the Token's Core Case - BigGo Finance
+23/11 14:46:01 INFO       (-0.4 r0.9 claude) Ripple Price Forecast: XRP remains range-bound as retail and institutional capital flows out - www.tmgm.com
+23/11 14:46:01 INFO       (+0.3 r1.0 claude) XRP Ledger Lending Amendments Close In on Activation as Validator Votes Climb - BigGo Finance
+23/11 14:46:05 INFO       rialzista: Il prezzo (0.909) si trova sopra la media mobile a 10 periodi (0.8832) e a 30 periodi (0.868), con un trend di breve e medio termine positivo, e la volatilità giornaliera contenuta (ATR 0.0097, circa l'1%) rende un ingresso spot senza leva gestibile.
+23/11 14:46:05 INFO       ribassista: Il punteggio delle notizie è quasi neutro (0.027) e i titoli più pesanti sono negativi, tra cui il calo sotto 1 dollaro e i deflussi di capitale retail e istituzionale, mentre il catalizzatore positivo (emendamenti di lending sul XRP Ledger) non è ancora attivo.
+23/11 14:46:05 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è favorevole ma è contraddetto da un flusso di notizie negativo e da un punteggio complessivo praticamente neutro, quindi le prove non sono sufficienti per giustificare l'acquisto ora.
