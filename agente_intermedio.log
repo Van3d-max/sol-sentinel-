@@ -1537,3 +1537,10 @@
 23/11 21:45:43 INFO       (+0.5 r0.9 claude) Solana price rebounds above $75 with $4.7M infl... - Pluang
 23/11 21:45:43 INFO       (+0.3 r0.9 claude) Why is Solana price rising despite a brutal 8-week losing streak? - Cryptonews.net
 23/11 21:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 22:45:42 INFO    === intermedio (SOL-EUR) ===
+23/11 22:45:43 INFO    Trend superiore (ONE_DAY): GIU
+23/11 22:45:43 INFO    Prezzo 65.9900 | medie 66.6250/65.0278 trend SU | notizie +0.34 su 61 (2 nuove, 2 da Claude) | 0.2s
+23/11 22:45:43 INFO       (+0.5 r1.0 claude) DeFi Development Extends 11-Week Solana Buying Streak, Holdings Top 2.62 Million SOL - bloomingbit
+23/11 22:45:43 INFO       (+0.4 r0.9 claude) Bitwise CIO Matt Hougan on why Solana ETF could hit $10B - CoinDesk
+23/11 22:45:43 INFO       (+0.5 r0.8 claude) Tokenized equities on Solana hit a record $1.8 billion in we - KuCoin
+23/11 22:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

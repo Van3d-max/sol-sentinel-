@@ -1524,3 +1524,10 @@
 23/11 21:45:50 INFO       (+0.4 r0.9 claude) XRP News Today: From $36,000 To $8 Million, XRP ETFs Enter Wall Street’s Repo Market - Cryptonews.net
 23/11 21:45:50 INFO       (-0.5 r1.0 claude) Founder Explains Why He Wouldn’t Touch XRP With a 10-Foot Pole - Cryptonews.net
 23/11 21:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 22:45:47 INFO    === xrp_intermedio (XRP-EUR) ===
+23/11 22:45:47 INFO    Trend superiore (ONE_DAY): GIU
+23/11 22:45:47 INFO    Prezzo 0.8592 | medie 0.866755/0.852992 trend SU | notizie -0.01 su 57 (1 nuove, 1 da Claude) | 0.3s
+23/11 22:45:47 INFO       (-0.6 r0.9 claude) XRP Price Prediction: ETF Outflows Top $30M as Token Faces Worst November - Coinpaper
+23/11 22:45:47 INFO       (+0.4 r0.9 claude) XRP News Today: From $36,000 To $8 Million, XRP ETFs Enter Wall Street’s Repo Market - Cryptonews.net
+23/11 22:45:47 INFO       (-0.5 r1.0 claude) Founder Explains Why He Wouldn’t Touch XRP With a 10-Foot Pole - Cryptonews.net
+23/11 22:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
