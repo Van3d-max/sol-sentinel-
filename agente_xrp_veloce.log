@@ -5021,3 +5021,9 @@
 23/11 16:46:00 INFO       rialzista: Il prezzo (0.8912) è sopra la media a 30 giorni (0.8881) e il sentiment delle notizie è leggermente positivo (0.124), con un possibile momentum dopo il rialzo dell'8,8% segnalato dai titoli.
 23/11 16:46:00 INFO       ribassista: Il prezzo resta sotto la media a 10 giorni (0.9091), i titoli sono per lo più promozionali e non confermano un trend, e con ATR giornaliero di 0.0097 (circa 1,1%) il rischio di un rientro è concreto.
 23/11 16:46:00 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto la media a 10 giorni, il sentiment si basa su titoli promozionali e il punteggio di 0.124 non giustifica un ingresso spot senza una conferma tecnica più chiara.
+23/11 17:01:36 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 17:01:36 INFO    Prezzo 0.8929 | medie 0.906911/0.889657 trend SU | notizie +0.00 su 1 (1 nuove, 1 da Claude) | 0.3s
+23/11 17:01:36 INFO       (+0.1 r0.1 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More
+23/11 17:01:39 INFO       rialzista: Il prezzo (0.8929) è appena sopra la media a 30 giorni (0.8897), quindi la tendenza di medio periodo potrebbe reggere e un rimbalzo verso la media a 10 giorni (0.9069) è plausibile.
+23/11 17:01:39 INFO       ribassista: Il prezzo è sotto la media a 10 giorni (0.9069), il sentiment è neutro (0.004) e il titolo riguarda Ethereum, non XRP, quindi non offre un catalizzatore specifico per l'acquisto.
+23/11 17:01:39 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto la media a 10 giorni, la notizia è neutra e riguarda un altro asset, quindi non c'è evidenza sufficiente per giustificare un acquisto spot con volatilità giornaliera dell'1,07%.

@@ -13216,3 +13216,10 @@
 23/11 16:45:49 INFO       rialzista: Il flusso di notizie è positivo, con nuovi afflussi netti negli ETF, l'adozione da parte di Zelle e l'accumulo continuo dal treasury DeFi, e il prezzo si trova vicino alla media a 30 giorni, che può fungere da supporto.
 23/11 16:45:49 INFO       ribassista: Il prezzo di 68,06 è sotto la media a 10 giorni (69,45) e non ha ancora recuperato la media a 30 giorni, quindi il trend di breve periodo resta debole nonostante le notizie favorevoli, che in parte sono già scontate dopo il rialzo dell'8%.
 23/11 16:45:49 INFO    -> BLOCCATO DAL DIBATTITO: Le notizie positive non sono ancora confermate dal prezzo, che resta sotto la media a 10 giorni e a ridosso di quella a 30, quindi conviene attendere un recupero sopra 69,45 prima di entrare in acquisto spot.
+23/11 17:01:27 INFO    === veloce (SOL-EUR) ===
+23/11 17:01:27 INFO    Prezzo 68.4400 | medie 69.2567/68.2500 trend SU | notizie +0.02 su 2 (1 nuove, 1 da Claude) | 0.3s
+23/11 17:01:27 INFO       (+0.1 r0.1 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More
+23/11 17:01:27 INFO       (+0.1 r0.3 claude) Solana Meme Coin for Fiona the Hippo Raises $100K for Cincinnati Zoo Charity
+23/11 17:01:30 INFO       rialzista: Il prezzo (68.44) è sopra la media a 30 giorni (68.25), e la volatilità giornaliera contenuta (ATR 0.77) permette uno stop stretto con rischio limitato.
+23/11 17:01:30 INFO       ribassista: Il prezzo è sotto la media a 10 giorni (69.26), segnale di debolezza a breve, e le notizie sono quasi neutre (punteggio 0.021) e non riguardano direttamente Solana.
+23/11 17:01:30 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono deboli: segnali di trend contrastanti tra media a 10 e a 30 giorni, notizie quasi neutre e poco pertinenti, quindi non si giustifica un acquisto spot.
