@@ -4954,3 +4954,9 @@
 23/11 08:15:48 INFO       (-0.6 r0.9 claude) Hayes Warns Bitcoin May Slide to $55K, With $50K in Play as Tech Rout Deepens - BigGo Finance
 23/11 08:15:48 INFO       (-0.5 r0.9 claude) Bitcoin Price Forecast: BTC recovery remains fragile as $1.78 billion ETF outflows offset easing Fed fears - F
 23/11 08:15:48 INFO    -> ATTENDI: notizia shock: Bitcoin ETF Outflows Hit Highest Since June as Token Posts Seventh Weekly Drop -
+23/11 08:31:15 INFO    === btc_veloce (BTC-EUR) ===
+23/11 08:31:15 INFO    Prezzo 55775.17 | medie 55822.93/55834.26 trend GIU | notizie -0.15 su 93 (3 nuove, 3 da Claude) | 0.2s
+23/11 08:31:15 INFO       (-0.7 r1.0 claude) Bitcoin ETFs shed $1.8B in third-largest weekly outflow
+23/11 08:31:15 INFO       (-0.6 r0.9 claude) Bitcoin ETF Outflows Hit $1.8B as Ethereum Exits Persist - Bitcoin Foundation
+23/11 08:31:15 INFO       (-0.6 r0.9 claude) Hayes Warns Bitcoin May Slide to $55K, With $50K in Play as Tech Rout Deepens - BigGo Finance
+23/11 08:31:15 INFO    -> ATTENDI: trend 15 minuti non rialzista
