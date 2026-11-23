@@ -1433,3 +1433,10 @@
 23/11 08:45:47 INFO       (-0.6 r0.9 claude) Spot XRP ETFs Hit Negative Record as SOL Funds Finally Break Their Streak - CryptoPotato
 23/11 08:45:47 INFO       (-0.6 r0.4 claude) Crypto Slumps as BTC, ETH, XRP Hover Near Yearly Lows - TradingPedia
 23/11 08:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 09:45:57 INFO    === xrp_intermedio (XRP-EUR) ===
+23/11 09:45:57 INFO    Trend superiore (ONE_DAY): GIU
+23/11 09:45:57 INFO    Prezzo 0.854 | medie 0.845755/0.842462 trend SU | notizie -0.12 su 32 (4 nuove, 4 da Claude) | 0.3s
+23/11 09:45:57 INFO       (-0.6 r0.9 claude) XRP Faces Worst November On Record As ETF Outflows Top $30M, Breaking 7-Month Inflow Streak - TradingView
+23/11 09:45:57 INFO       (-0.3 r1.0 claude) XRP Tumbles to $0.85, Landing in the $0.90-$0.70 Accumulation Zone Analysts Flagged for Months - BigGo Finance
+23/11 09:45:57 INFO       (+0.3 r1.0 claude) Ripple News: XRP Eyes Recovery as $0.90 Support Holds - Cryptonews
+23/11 09:45:57 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

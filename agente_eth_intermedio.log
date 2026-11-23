@@ -1451,3 +1451,10 @@
 23/11 08:45:45 INFO       (-0.5 r0.6 claude) Bitcoin ETF Outflows Hit $1.8B as Ethereum Exits Persist - Bitcoin Foundation
 23/11 08:45:45 INFO       (+0.4 r0.9 claude) Ethereum sets Hoodi testnet date for Glamsterdam upgrade: ETH gains momentum - Traders Union
 23/11 08:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 09:45:52 INFO    === eth_intermedio (ETH-EUR) ===
+23/11 09:45:53 INFO    Trend superiore (ONE_DAY): GIU
+23/11 09:45:53 INFO    Prezzo 1568.53 | medie 1565.38/1543.55 trend SU | notizie +0.06 su 39 (2 nuove, 2 da Claude) | 0.4s
+23/11 09:45:53 INFO       (+0.5 r1.0 claude) Ethereum rebounds above $1,700 as bullish RSI divergence emerges - Traders Union
+23/11 09:45:53 INFO       (+0.3 r1.0 claude) ETHEREUM: COULD ETH BE PREPARING FOR ANOTHER MASSIVE RALLY? - KuCoin
+23/11 09:45:53 INFO       (-0.5 r0.6 claude) Bitcoin ETF Outflows Hit $1.8B as Ethereum Exits Persist - Bitcoin Foundation
+23/11 09:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
