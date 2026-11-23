@@ -5272,3 +5272,9 @@
 23/11 21:01:18 INFO       (-0.4 r1.0 claude) What Held Up While Bitcoin Fell - Yahoo Finance
 23/11 21:01:18 INFO       (+0.3 r1.0 claude) Bitcoin Price News: Top 4 Reasons Why BTC Price Could Rally Soon - Cryptonews.net
 23/11 21:01:18 INFO    -> ATTENDI: trend 15 minuti non rialzista
+23/11 21:15:48 INFO    === btc_veloce (BTC-EUR) ===
+23/11 21:15:49 INFO    Prezzo 56284.78 | medie 56195.98/56537.34 trend GIU | notizie +0.01 su 136 (5 nuove, 5 da Claude) | 0.2s
+23/11 21:15:49 INFO       (-0.4 r1.0 claude) Bitcoin Price Fades Near $61,000 As Stocks Soar On Huang's Return - Bitcoin Magazine
+23/11 21:15:49 INFO       (+0.6 r0.9 claude) Strategy Expands Bitcoin Holdings to 851,310 as Saylor Boosts Buyback Program to $4 Billion - citybiz
+23/11 21:15:49 INFO       (-0.4 r1.0 claude) What Held Up While Bitcoin Fell - Yahoo Finance
+23/11 21:15:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
