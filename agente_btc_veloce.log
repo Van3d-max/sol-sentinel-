@@ -4780,3 +4780,9 @@
 23/11 01:01:10 INFO       (-0.2 r0.5 claude) UK to ban crypto exchanges from making markets on their own platforms as Bitcoin rules change
 23/11 01:01:10 INFO       (-0.2 r0.9 claude) Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins
 23/11 01:01:10 INFO    -> ATTENDI: notizie sotto la soglia (-0.10)
+23/11 01:15:43 INFO    === btc_veloce (BTC-EUR) ===
+23/11 01:15:43 INFO    Prezzo 55517.03 | medie 55676.02/55543.21 trend SU | notizie -0.01 su 77 (5 nuove, 5 da Claude) | 0.2s
+23/11 01:15:43 INFO       (+0.4 r0.9 claude) Bitcoin Reclaims $60,000 as Four-Year Cycle Bottom Comes Into Focus - Businesskorea
+23/11 01:15:43 INFO       (+0.6 r0.9 claude) Strategy hints at more Bitcoin purchases after $33M buy - Crypto Briefing
+23/11 01:15:43 INFO       (+0.6 r0.9 claude) Bitcoin's Price Dip Attracts a Whale as Hedge Fund Scoops up $1B - Cryptonews.net
+23/11 01:15:43 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
