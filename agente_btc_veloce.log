@@ -4912,3 +4912,9 @@
 23/11 06:31:06 INFO       (-0.6 r0.9 claude) US Spot-Bitcoin ETFs See $1.79 Billion Weekly Outflow, Third-Largest on Record - bloomingbit
 23/11 06:31:06 INFO       (-0.6 r0.9 claude) Spot bitcoin ETFs shed $1.8 billion in past week as outflows become 'structural': analysts - The Block
 23/11 06:31:06 INFO    -> ATTENDI: notizia shock: Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
+23/11 06:45:44 INFO    === btc_veloce (BTC-EUR) ===
+23/11 06:45:45 INFO    Prezzo 55893.80 | medie 55889.04/55666.23 trend SU | notizie -0.18 su 89 (4 nuove, 4 da Claude) | 0.1s
+23/11 06:45:45 INFO       (-0.7 r0.9 claude) Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
+23/11 06:45:45 INFO       (-0.6 r1.0 claude) Bitcoin ETF Outflows Accelerate, Removing a Key Source of Support - TradingView
+23/11 06:45:45 INFO       (-0.6 r0.9 claude) US Spot-Bitcoin ETFs See $1.79 Billion Weekly Outflow, Third-Largest on Record - bloomingbit
+23/11 06:45:45 INFO    -> ATTENDI: notizia shock: Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com

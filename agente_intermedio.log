@@ -1427,3 +1427,10 @@
 23/11 05:45:45 INFO       (+0.3 r0.9 claude) Solana Price Forecast: SOL holds above $70 as ETF inflows ease selloff - FXStreet
 23/11 05:45:45 INFO       (+0.5 r0.9 claude) Solana ETFs Defy Wall Street’s Big Crypto Sell-Off - BeInCrypto
 23/11 05:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 06:45:42 INFO    === intermedio (SOL-EUR) ===
+23/11 06:45:42 INFO    Trend superiore (ONE_DAY): GIU
+23/11 06:45:42 INFO    Prezzo 65.3300 | medie 64.2830/63.6884 trend SU | notizie +0.18 su 33 (1 nuove, 1 da Claude) | 0.2s
+23/11 06:45:42 INFO       (+0.8 r1.0 claude) Solana Surges 3.8% on Oversold Bounce, ETF Inflows, Positive News - CoinMarketCap
+23/11 06:45:42 INFO       (+0.3 r0.9 claude) Solana ETFs post $4.38 million weekly inflow as Bitcoin, Ether and XRP funds bleed - Crypto Briefing
+23/11 06:45:42 INFO       (+0.3 r0.9 claude) Solana Price Forecast: SOL holds above $70 as ETF inflows ease selloff - FXStreet
+23/11 06:45:42 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
