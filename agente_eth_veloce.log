@@ -5083,3 +5083,9 @@
 23/11 13:31:05 INFO       (-0.4 r0.9 claude) Ethereum quantum risk study flags $72 billion in exposed wallets - Traders Union
 23/11 13:31:05 INFO       (-0.3 r1.0 claude) $72 Billion in Ethereum Sits in Quantum Computer Attack Blind Spot; Key Migration Could Take Up to 235 Days - 
 23/11 13:31:05 INFO    -> ATTENDI: notizie sotto la soglia (-0.13)
+23/11 13:45:46 INFO    === eth_veloce (ETH-EUR) ===
+23/11 13:45:46 INFO    Prezzo 1574.95 | medie 1572.48/1571.46 trend SU | notizie -0.09 su 46 (4 nuove, 4 da Claude) | 0.1s
+23/11 13:45:46 INFO       (-0.5 r1.0 claude) 85,500 ETH moves from an unknown wallet to Binance - Cryptonews.net
+23/11 13:45:46 INFO       (+0.5 r0.8 claude) Crypto rebounds: Bitcoin reclaims $61,000, Ethereum eyes $1,750; analysts see potential for further recovery -
+23/11 13:45:46 INFO       (-0.4 r0.9 claude) Ethereum quantum risk study flags $72 billion in exposed wallets - Traders Union
+23/11 13:45:46 INFO    -> ATTENDI: notizie sotto la soglia (-0.09)

@@ -1479,3 +1479,10 @@
 23/11 12:45:45 INFO       (-0.6 r0.5 claude) US Crypto ETFs Extend Weekly Selloff as Bitcoin and Ethereum Funds Face Continued Withdrawals - FinanceFeeds
 23/11 12:45:45 INFO       (-0.5 r0.5 claude) Seventh week of Bitcoin’s decline: a trader broke down scenarios for Bitcoin and Ethereum price action - Incry
 23/11 12:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 13:45:46 INFO    === eth_intermedio (ETH-EUR) ===
+23/11 13:45:46 INFO    Trend superiore (ONE_DAY): GIU
+23/11 13:45:46 INFO    Prezzo 1574.95 | medie 1567.00/1549.97 trend SU | notizie -0.09 su 46 (4 nuove, 4 da Claude) | 0.3s
+23/11 13:45:46 INFO       (-0.5 r1.0 claude) 85,500 ETH moves from an unknown wallet to Binance - Cryptonews.net
+23/11 13:45:46 INFO       (+0.5 r0.8 claude) Crypto rebounds: Bitcoin reclaims $61,000, Ethereum eyes $1,750; analysts see potential for further recovery -
+23/11 13:45:46 INFO       (-0.4 r0.9 claude) Ethereum quantum risk study flags $72 billion in exposed wallets - Traders Union
+23/11 13:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
