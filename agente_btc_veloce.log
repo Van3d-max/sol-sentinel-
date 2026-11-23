@@ -5044,3 +5044,9 @@
 23/11 12:01:20 INFO       (+0.5 r1.0 claude) Bitcoin rebounds from 2-year low as Wall Street futures recover
 23/11 12:01:20 INFO       (+0.5 r1.0 claude) Bitcoin rebounds from 2-year low as Wall Street futures recover - CoinDesk
 23/11 12:01:20 INFO    -> ATTENDI: obiettivo +0.98% sotto il minimo +2.20% (commissioni)
+23/11 12:15:49 INFO    === btc_veloce (BTC-EUR) ===
+23/11 12:15:49 INFO    Prezzo 55881.37 | medie 55950.62/55919.15 trend SU | notizie +0.01 su 90 (8 nuove, 8 da Claude) | 0.2s
+23/11 12:15:49 INFO       (-0.7 r0.9 claude) Bloomberg Has Forecast Bitcoin Falling to $10,000 and the Liquidation of Strategy’s Positions - Incrypted
+23/11 12:15:49 INFO       (+0.6 r1.0 claude) BTC price gains 12% from $55K: Three things to know in Bitcoin this week - TradingView
+23/11 12:15:49 INFO       (+0.5 r1.0 claude) Bitcoin rebounds from 2-year low as Wall Street futures recover
+23/11 12:15:49 INFO    -> ATTENDI: notizia shock: Bloomberg Has Forecast Bitcoin Falling to $10,000 and the Liquidation of Strateg
