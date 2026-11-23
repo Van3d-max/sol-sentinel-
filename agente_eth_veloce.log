@@ -4766,3 +4766,9 @@
 23/11 00:01:15 INFO       (-0.2 r0.3 claude) Chainflip users face frozen withdrawals after $4.86 million vanishes from Ethereum vault
 23/11 00:01:15 INFO       (-0.1 r0.2 claude) South Korean exchanges halt CYBER transfers amid suspected bridge exploit
 23/11 00:01:15 INFO    -> ATTENDI: trend 15 minuti non rialzista
+23/11 00:15:44 INFO    === eth_veloce (ETH-EUR) ===
+23/11 00:15:45 INFO    Prezzo 1569.80 | medie 1565.61/1565.56 trend SU | notizie -0.02 su 20 (1 nuove, 1 da Claude) | 0.3s
+23/11 00:15:45 INFO       (+0.3 r0.6 claude) HSBC Opens Tokenized Hong Kong Dollar Money Market Fund Class to Retail Clients via RedCoin on Ethereum - Crow
+23/11 00:15:45 INFO       (-0.6 r0.6 claude) Bitcoin and Ethereum ETF Outflows Stay in the Billions for Another Week - CryptoPotato
+23/11 00:15:45 INFO       (-0.4 r0.9 claude) Drop in spot ETF interest may deepen risk context for Ethereum - Traders Union
+23/11 00:15:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)
