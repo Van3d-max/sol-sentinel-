@@ -1439,3 +1439,8 @@
 23/11 06:45:43 INFO       (-0.6 r1.0 claude) Ethereum spot ETFs recorded a $97.38 million net outflow on November 20, marking the sixth consecutive day of 
 23/11 06:45:43 INFO       (-0.2 r0.9 claude) BlackRock’s staked Ethereum ETF can delay redemptions if unstaked ETH runs short - CryptoSlate
 23/11 06:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 07:46:03 INFO    === eth_intermedio (ETH-EUR) ===
+23/11 07:46:03 INFO    Trend superiore (ONE_DAY): GIU
+23/11 07:46:03 INFO    Prezzo 1563.67 | medie 1564.41/1539.27 trend SU | notizie -0.10 su 1 (0 nuove, 0 da Claude) | 0.2s
+23/11 07:46:03 INFO       (-0.2 r0.8 claude) BlackRock’s staked Ethereum ETF can delay redemptions if unstaked ETH runs short
+23/11 07:46:03 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

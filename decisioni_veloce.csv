@@ -1738,3 +1738,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-23T08:01:17+01:00;65.4500;65.2433;64.7905;su;+0.220;36;3;3;0;no;attendi;obiettivo +1.37% sotto il minimo +2.20% (commissioni);Solana Surges 3.8% on Oversold Bounce, ETF Inflows, Positive News - CoinMarketCap;0.457
 2026-11-23T08:15:45+01:00;65.5800;65.3233;64.8681;su;+0.186;37;2;2;0;no;attendi;obiettivo +1.38% sotto il minimo +2.20% (commissioni);Solana Surges 3.8% on Oversold Bounce, ETF Inflows, Positive News - CoinMarketCap;0.458
 2026-11-23T08:31:05+01:00;65.4600;65.3878;64.9376;su;-0.079;1;0;0;0;no;attendi;notizie sotto la soglia (-0.08);Solana’s new memory checks could make some older app transactions fail;0.446
+2026-11-23T08:45:58+01:00;65.4500;65.4100;65.0095;su;-0.076;1;0;0;0;no;attendi;notizie sotto la soglia (-0.08);Solana’s new memory checks could make some older app transactions fail;0.43

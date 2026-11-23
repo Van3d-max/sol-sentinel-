@@ -1440,3 +1440,10 @@
 23/11 06:45:45 INFO       (-0.6 r1.0 claude) Bitcoin ETF Outflows Accelerate, Removing a Key Source of Support - TradingView
 23/11 06:45:45 INFO       (-0.6 r0.9 claude) US Spot-Bitcoin ETFs See $1.79 Billion Weekly Outflow, Third-Largest on Record - bloomingbit
 23/11 06:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 07:46:09 INFO    === btc_intermedio (BTC-EUR) ===
+23/11 07:46:09 INFO    Trend superiore (ONE_DAY): GIU
+23/11 07:46:09 INFO    Prezzo 55829.23 | medie 55579.86/54751.20 trend SU | notizie -0.13 su 9 (0 nuove, 0 da Claude) | 0.2s
+23/11 07:46:09 INFO       (-0.4 r0.7 claude) This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack
+23/11 07:46:09 INFO       (-0.2 r0.4 claude) Bitquery counted 400 fewer BTC in Maple’s disclosed wallets than Maple reported
+23/11 07:46:09 INFO       (-0.2 r0.5 claude) Repaying a Bitcoin-backed loan on Sui can leave you waiting to withdraw native BTC
+23/11 07:46:09 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

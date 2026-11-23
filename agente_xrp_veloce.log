@@ -4793,3 +4793,7 @@
 23/11 07:31:10 INFO       (+0.6 r0.9 claude) MASSIVE: 🇬🇧The UK government has selected Ripple to help t - KuCoin
 23/11 07:31:10 INFO       (-0.6 r0.5 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP remain vulnerable as bears drive prices t
 23/11 07:31:10 INFO    -> ATTENDI: notizie sotto la soglia (-0.04)
+23/11 07:46:18 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 07:46:18 INFO    Prezzo 0.851 | medie 0.854911/0.848943 trend SU | notizie +0.04 su 1 (0 nuove, 0 da Claude) | 0.1s
+23/11 07:46:18 INFO       (+0.3 r0.9 claude) XRP Ledger trial settled 213,000 paid AI requests in 6,324 transactions
+23/11 07:46:18 INFO    -> ATTENDI: obiettivo +1.27% sotto il minimo +2.20% (commissioni)

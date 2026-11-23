@@ -4936,3 +4936,9 @@
 23/11 07:31:09 INFO       (+0.5 r1.0 claude) Bitcoin Higher After Weekend Dip Buyers Prevent Further Slide - marketscreener.com
 23/11 07:31:09 INFO       (+0.5 r1.0 claude) Bitcoin rebounds above $61,000 after liquidation-driven selloff - Investing.com
 23/11 07:31:09 INFO    -> ATTENDI: notizia shock: Bitcoin ETF Outflows Hit Highest Since June as Token Posts Seventh Weekly Drop -
+23/11 07:46:09 INFO    === btc_veloce (BTC-EUR) ===
+23/11 07:46:09 INFO    Prezzo 55829.23 | medie 55942.07/55762.58 trend SU | notizie -0.13 su 9 (0 nuove, 0 da Claude) | 0.2s
+23/11 07:46:09 INFO       (-0.4 r0.7 claude) This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack
+23/11 07:46:09 INFO       (-0.2 r0.4 claude) Bitquery counted 400 fewer BTC in Maple’s disclosed wallets than Maple reported
+23/11 07:46:09 INFO       (-0.2 r0.5 claude) Repaying a Bitcoin-backed loan on Sui can leave you waiting to withdraw native BTC
+23/11 07:46:09 INFO    -> ATTENDI: notizie sotto la soglia (-0.13)
