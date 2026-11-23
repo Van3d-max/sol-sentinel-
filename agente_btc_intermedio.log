@@ -1419,3 +1419,10 @@
 23/11 03:45:51 INFO       (-0.7 r0.9 claude) $669 Million: Bitcoin Spot ETFs Face Major Outflows - Cryptonews.net
 23/11 03:45:51 INFO       (-0.6 r1.0 claude) Bitcoin spot ETFs bleed $669 million as outflow streak stretches to four days - TradingView
 23/11 03:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 04:45:51 INFO    === btc_intermedio (BTC-EUR) ===
+23/11 04:45:52 INFO    Trend superiore (ONE_DAY): GIU
+23/11 04:45:52 INFO    Prezzo 55625.98 | medie 55488.99/54529.67 trend SU | notizie -0.17 su 67 (5 nuove, 5 da Claude) | 0.4s
+23/11 04:45:52 INFO       (-0.8 r1.0 claude) Bitcoin Heads For Worst November Since 2018 As ETF Outflows Top $4 Billion - Yahoo Finance
+23/11 04:45:52 INFO       (-0.6 r1.0 claude) Bitcoin holders realize $17B in losses over 30 days - TradingView
+23/11 04:45:52 INFO       (-0.7 r0.9 claude) BlackRock and other Bitcoin ETF issuers see $1.79 billion in weekly outflows - Crypto Briefing
+23/11 04:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

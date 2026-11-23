@@ -1400,3 +1400,10 @@
 23/11 03:45:53 INFO       (-0.4 r0.6 claude) Bitcoin, Ethereum Rise, but XRP, Dogecoin Dip Amid Crypto’s Punishing November: Analyst Flags BTC’s ‘Vita - Be
 23/11 03:45:53 INFO       (-1.0 r1.0 claude) XRP Ledger Active Addresses Plunge 60% to 92,000 as XRP Slips Under $0.90 - BigGo Finance
 23/11 03:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 04:45:53 INFO    === xrp_intermedio (XRP-EUR) ===
+23/11 04:45:53 INFO    Trend superiore (ONE_DAY): GIU
+23/11 04:45:53 INFO    Prezzo 0.8482 | medie 0.844305/0.837938 trend SU | notizie +0.01 su 23 (0 nuove, 0 da Claude) | 0.5s
+23/11 04:45:53 INFO       (+0.6 r0.9 claude) MASSIVE: 🇬🇧The UK government has selected Ripple to help t - KuCoin
+23/11 04:45:53 INFO       (-0.6 r0.5 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP remain vulnerable as bears drive prices t
+23/11 04:45:53 INFO       (-0.4 r0.6 claude) Bitcoin, Ethereum Rise, but XRP, Dogecoin Dip Amid Crypto’s Punishing November: Analyst Flags BTC’s ‘Vita - Be
+23/11 04:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
