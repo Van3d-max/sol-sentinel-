@@ -1204,3 +1204,9 @@
 23/11 01:45:42 INFO       (+0.6 r0.9 claude) Strategy hints at more Bitcoin purchases after $33M buy - Crypto Briefing
 23/11 01:45:42 INFO       (-0.6 r0.8 claude) BlackRock iShares Bitcoin Trust, IBIT, Records Historic Outflow on Day of Anthropic IPO Debut on Nasdaq - Crow
 23/11 01:45:42 INFO    -> ATTENDI: trend giornaliero non rialzista
+23/11 02:45:48 INFO    === btc_lento (BTC-EUR) ===
+23/11 02:45:49 INFO    Prezzo 55045.81 | medie 57580.47/65304.51 trend GIU | notizie -0.05 su 98 (4 nuove, 4 da Claude) | 0.2s
+23/11 02:45:49 INFO       (-0.6 r0.9 claude) Bitcoin spot ETFs bleed $669 million as outflow streak stretches to four days - Crypto Briefing
+23/11 02:45:49 INFO       (+0.6 r0.9 claude) Bitcoin's Price Dip Attracts a Whale as Hedge Fund Scoops up $1B - Cryptonews.net
+23/11 02:45:49 INFO       (+0.6 r0.9 claude) Strategy hints at more Bitcoin purchases after $33M buy - Crypto Briefing
+23/11 02:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista
