@@ -1426,3 +1426,10 @@
 23/11 07:46:18 INFO    Prezzo 0.851 | medie 0.84487/0.840668 trend SU | notizie +0.04 su 1 (0 nuove, 0 da Claude) | 0.2s
 23/11 07:46:18 INFO       (+0.3 r0.9 claude) XRP Ledger trial settled 213,000 paid AI requests in 6,324 transactions
 23/11 07:46:18 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 08:45:47 INFO    === xrp_intermedio (XRP-EUR) ===
+23/11 08:45:47 INFO    Trend superiore (ONE_DAY): GIU
+23/11 08:45:47 INFO    Prezzo 0.8554 | medie 0.84509/0.84179 trend SU | notizie -0.07 su 23 (0 nuove, 0 da Claude) | 0.2s
+23/11 08:45:47 INFO       (+0.3 r1.0 claude) Ripple News: XRP Eyes Recovery as $0.90 Support Holds - Cryptonews
+23/11 08:45:47 INFO       (-0.6 r0.9 claude) Spot XRP ETFs Hit Negative Record as SOL Funds Finally Break Their Streak - CryptoPotato
+23/11 08:45:47 INFO       (-0.6 r0.4 claude) Crypto Slumps as BTC, ETH, XRP Hover Near Yearly Lows - TradingPedia
+23/11 08:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
