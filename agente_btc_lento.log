@@ -1288,3 +1288,9 @@
 23/11 15:46:05 INFO       (-0.7 r0.9 claude) Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
 23/11 15:46:05 INFO       (+0.7 r0.9 claude) Bitcoin rockets above $64,000 as Nvidia reinstates Jensen Huang, wiping out $372 million in shorts - CryptoSla
 23/11 15:46:05 INFO    -> ATTENDI: trend giornaliero non rialzista
+23/11 16:45:56 INFO    === btc_lento (BTC-EUR) ===
+23/11 16:45:56 INFO    Prezzo 57017.40 | medie 57580.47/65304.51 trend GIU | notizie +0.12 su 135 (12 nuove, 12 da Claude) | 0.1s
+23/11 16:45:56 INFO       (+0.8 r1.0 claude) Bitcoin climbs to $63,000 as $250 million in shorts get liquidated in 10 minutes - TradingView
+23/11 16:45:56 INFO       (+0.7 r1.0 claude) Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO
+23/11 16:45:56 INFO       (-0.7 r0.9 claude) Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
+23/11 16:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista

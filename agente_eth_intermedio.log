@@ -1500,3 +1500,10 @@
 23/11 15:46:01 INFO       (-0.2 r0.8 claude) BlackRock’s staked Ethereum ETF can delay redemptions if unstaked ETH runs short
 23/11 15:46:01 INFO       (-0.2 r0.1 claude) Chainflip founder admits heavy losses after second hack in 10 weeks drains $12 million
 23/11 15:46:01 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 16:45:51 INFO    === eth_intermedio (ETH-EUR) ===
+23/11 16:45:52 INFO    Trend superiore (ONE_DAY): GIU
+23/11 16:45:52 INFO    Prezzo 1616.18 | medie 1578.01/1556.52 trend SU | notizie +0.12 su 67 (3 nuove, 3 da Claude) | 0.4s
+23/11 16:45:52 INFO       (-0.7 r1.0 claude) BlackRock ETF Dumps 1 Million ETH Worth $1.75B as Ethereum Outflows Accelerate: Is ETH In Trouble? - Coinspeak
+23/11 16:45:52 INFO       (+0.6 r0.9 claude) Bitmine Could Hit Its 5% Ether Goal in Under a Month at Its Current Buying Pace - unchainedcrypto.com
+23/11 16:45:52 INFO       (+0.6 r1.0 claude) Bitmine adds 7,819 ETH as Tom Lee makes the 'hard money' case - The Block
+23/11 16:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

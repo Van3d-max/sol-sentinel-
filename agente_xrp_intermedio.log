@@ -1482,3 +1482,10 @@
 23/11 15:46:12 INFO       (+0.5 r0.9 claude) Ripple's RLUSD Hits Record $2.87B Supply, Topping Trump-Tied USD1 - BigGo Finance
 23/11 15:46:12 INFO       (-0.7 r0.9 claude) XRP Slips Below $1 as Ripple's Own Stablecoin Erodes the Token's Core Case - BigGo Finance
 23/11 15:46:12 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 16:46:00 INFO    === xrp_intermedio (XRP-EUR) ===
+23/11 16:46:01 INFO    Trend superiore (ONE_DAY): GIU
+23/11 16:46:01 INFO    Prezzo 0.8912 | medie 0.85765/0.850334 trend SU | notizie +0.12 su 48 (0 nuove, 0 da Claude) | 0.5s
+23/11 16:46:01 INFO       (+0.6 r1.0 claude) Why is XRP price up 8.8% today? - Traders Union
+23/11 16:46:01 INFO       (+0.5 r1.0 claude) How High Could XRP Price Go This Week as 3 Bullish Signals Emerge? - CoinGape
+23/11 16:46:01 INFO       (+0.5 r0.9 claude) Ripple's RLUSD Hits Record $2.87B Supply, Topping Trump-Tied USD1 - BigGo Finance
+23/11 16:46:01 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

@@ -13208,3 +13208,11 @@
 23/11 16:31:05 INFO       rialzista: Il prezzo (69,1) resta sopra la media a 30 giorni (68,06), il sentiment delle notizie è positivo (0,317) e i flussi netti negli ETF e l'adozione da parte di Zelle sostengono un possibile proseguimento del rialzo.
 23/11 16:31:05 INFO       ribassista: Il prezzo è sotto la media a 10 giorni (69,79), il rialzo dell'8% sulle notizie potrebbe essere già scontato, e la volatilità giornaliera contenuta (ATR 0,747) non offre un chiaro punto di ingresso con rischio definito.
 23/11 16:31:05 INFO    -> BLOCCATO DAL DIBATTITO: I segnali sono misti: il prezzo è sotto la media a 10 giorni nonostante notizie positive che potrebbero essere già scontate, quindi l'evidenza non è sufficiente per giustificare l'acquisto spot.
+23/11 16:45:44 INFO    === veloce (SOL-EUR) ===
+23/11 16:45:45 INFO    Prezzo 68.0600 | medie 69.4489/68.1529 trend SU | notizie +0.31 su 50 (1 nuove, 1 da Claude) | 0.3s
+23/11 16:45:45 INFO       (+0.6 r1.0 claude) Solana rises 2.6% as Zelle chooses its network for new stablecoin launch - Pluang
+23/11 16:45:45 INFO       (+0.5 r1.0 claude) Solana gains more than 8% after first net ETF inflows in six weeks and 1.0 upgrade - Traders Union
+23/11 16:45:45 INFO       (+0.4 r0.9 claude) DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million - The Block
+23/11 16:45:49 INFO       rialzista: Il flusso di notizie è positivo, con nuovi afflussi netti negli ETF, l'adozione da parte di Zelle e l'accumulo continuo dal treasury DeFi, e il prezzo si trova vicino alla media a 30 giorni, che può fungere da supporto.
+23/11 16:45:49 INFO       ribassista: Il prezzo di 68,06 è sotto la media a 10 giorni (69,45) e non ha ancora recuperato la media a 30 giorni, quindi il trend di breve periodo resta debole nonostante le notizie favorevoli, che in parte sono già scontate dopo il rialzo dell'8%.
+23/11 16:45:49 INFO    -> BLOCCATO DAL DIBATTITO: Le notizie positive non sono ancora confermate dal prezzo, che resta sotto la media a 10 giorni e a ridosso di quella a 30, quindi conviene attendere un recupero sopra 69,45 prima di entrare in acquisto spot.
