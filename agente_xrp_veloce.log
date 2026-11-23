@@ -5035,3 +5035,9 @@
 23/11 17:15:59 INFO       rialzista: Il prezzo ha recuperato in fretta con un rialzo dell'8,8% segnalato dai titoli, si trova sopra la media a 30 giorni e le notizie sull'adozione di RLUSD sono positive.
 23/11 17:15:59 INFO       ribassista: Il prezzo resta sotto la media a 10 giorni (0,9051), i titoli sono in gran parte promozionali e il rialzo recente potrebbe esaurirsi con una volatilità giornaliera dell'1% circa.
 23/11 17:15:59 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto la media a 10 giorni, lo slancio dipende da titoli promozionali e il punteggio di sentiment (0,121) non giustifica un ingresso spot esposto alla volatilità.
+23/11 17:31:54 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 17:31:54 INFO    Prezzo 0.8878 | medie 0.902378/0.892733 trend SU | notizie +0.00 su 1 (0 nuove, 0 da Claude) | 0.1s
+23/11 17:31:54 INFO       (+0.1 r0.1 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More
+23/11 17:31:56 INFO       rialzista: Il prezzo ha un margine di rimbalzo verso la media a 30 giorni (0.8927) e la media a 10 giorni (0.9024), con un sentiment di mercato leggermente positivo.
+23/11 17:31:56 INFO       ribassista: Il prezzo (0.8878) è sotto entrambe le medie mobili, il trend di breve periodo resta debole e il titolo di notizia è riferito a Ethereum, quindi non dà un segnale specifico su XRP.
+23/11 17:31:56 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto entrambe le medie, lo score delle notizie (0.004) è quasi neutro e il titolo riguarda Ethereum anziché XRP, quindi non c'è evidenza sufficiente per assumere una posizione spot.

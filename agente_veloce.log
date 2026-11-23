@@ -13231,3 +13231,10 @@
 23/11 17:15:50 INFO       rialzista: Il prezzo (68,5) è sopra la media mobile a 30 periodi (68,36) e le notizie recenti sono positive, con flussi ETF e nuove adozioni che sostengono la domanda.
 23/11 17:15:50 INFO       ribassista: Il prezzo è sotto la media a 10 periodi (69,09), il che indica debolezza di breve termine, e i titoli positivi potrebbero essere già scontati dopo il rialzo del 9%.
 23/11 17:15:50 INFO    -> BLOCCATO DAL DIBATTITO: I segnali sono contrastanti (prezzo sotto la MA10 ma sopra la MA30, notizie positive ma probabilmente già prezzate) e la proposta non definisce uno stop loss, quindi il rischio non è adeguatamente controllato.
+23/11 17:31:20 INFO    === veloce (SOL-EUR) ===
+23/11 17:31:20 INFO    Prezzo 67.7300 | medie 68.9011/68.4438 trend SU | notizie +0.02 su 2 (0 nuove, 0 da Claude) | 0.2s
+23/11 17:31:20 INFO       (+0.1 r0.1 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More
+23/11 17:31:20 INFO       (+0.1 r0.3 claude) Solana Meme Coin for Fiona the Hippo Raises $100K for Cincinnati Zoo Charity
+23/11 17:31:22 INFO       rialzista: Il prezzo a 67,73 è vicino ai minimi recenti e un rimbalzo verso la media a 30 giorni (68,44) è possibile, con notizie leggermente positive.
+23/11 17:31:22 INFO       ribassista: Il prezzo è sotto sia la media a 10 giorni (68,90) sia quella a 30 giorni, il trend di breve periodo è negativo, e le notizie sono deboli (punteggio 0,02) e poco pertinenti a SOL.
+23/11 17:31:22 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo è sotto entrambe le medie mobili, il punteggio delle notizie è quasi neutro e i titoli riguardano Ethereum e un meme coin, quindi le prove a favore dell'acquisto sono insufficienti.

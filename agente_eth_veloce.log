@@ -5178,3 +5178,11 @@
 23/11 17:15:52 INFO       (+0.6 r0.9 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More - Yahoo Finance
 23/11 17:15:52 INFO       (-0.7 r1.0 claude) BlackRock ETF Dumps 1 Million ETH Worth $1.75B as Ethereum Outflows Accelerate: Is ETH In Trouble? - Coinspeak
 23/11 17:15:52 INFO    -> ATTENDI: notizia shock: BlackRock ETF Dumps 1 Million ETH Worth $1.75B as Ethereum Outflows Accelerate: 
+23/11 17:31:31 INFO    === eth_veloce (ETH-EUR) ===
+23/11 17:31:32 INFO    Prezzo 1610.05 | medie 1625.03/1616.27 trend SU | notizie +0.15 su 4 (0 nuove, 0 da Claude) | 0.2s
+23/11 17:31:32 INFO       (+0.6 r0.9 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More
+23/11 17:31:32 INFO       (-0.3 r0.4 claude) More than $2 billion rushed out of Sky’s stablecoin in a single day
+23/11 17:31:32 INFO       (-0.2 r0.9 claude) Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack
+23/11 17:31:34 INFO       rialzista: Il sentiment delle notizie resta leggermente positivo (punteggio 0.155), trainato dall'accumulo istituzionale di ETH riportato da Tom Lee, e il prezzo potrebbe recuperare verso la media mobile a 10 periodi (1625).
+23/11 17:31:34 INFO       ribassista: Il prezzo (1610.05) è sotto sia la media a 10 periodi (1625.03) sia quella a 30 periodi (1616.27), il trend di breve termine è debole e i deflussi da 2 miliardi dallo stablecoin di Sky e i rischi quantistici pesano sul sentiment.
+23/11 17:31:34 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo sotto entrambe le medie mobili, un sentiment delle notizie misto e quasi neutro e una volatilità giornaliera non trascurabile (ATR 14.67) non forniscono evidenze sufficienti per un acquisto spot.

@@ -5178,3 +5178,11 @@
 23/11 17:15:55 INFO       (+0.7 r1.0 claude) Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO
 23/11 17:15:55 INFO       (+0.7 r0.9 claude) Bitcoin rockets above $64,000 as Nvidia reinstates Jensen Huang, wiping out $372 million in shorts - CryptoSla
 23/11 17:15:55 INFO    -> ATTENDI: notizia shock: Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
+23/11 17:31:42 INFO    === btc_veloce (BTC-EUR) ===
+23/11 17:31:42 INFO    Prezzo 56660.45 | medie 57375.18/57156.55 trend SU | notizie +0.16 su 38 (2 nuove, 2 da Claude) | 0.1s
+23/11 17:31:42 INFO       (+0.7 r1.0 claude) Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO
+23/11 17:31:42 INFO       (+0.4 r0.9 claude) Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations
+23/11 17:31:42 INFO       (+0.5 r0.9 claude) Bitcoin rockets above $64,000 as Nvidia reinstates Jensen Huang, wiping out $372 million in shorts
+23/11 17:31:46 INFO       rialzista: Il prezzo ha un rimbalzo recente dai minimi intorno a 55.000 dollari e il punteggio delle notizie è leggermente positivo (0,156), quindi un ingresso spot potrebbe catturare una ripresa.
+23/11 17:31:46 INFO       ribassista: Il prezzo di 56.660 dollari è sotto le medie mobili a 10 e 30 periodi (57.375 e 57.157), segnale di trend debole, e i titoli citano livelli di 64.000 dollari che non corrispondono ai dati di mercato, quindi risultano probabilmente obsoleti o inattendibili.
+23/11 17:31:46 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto entrambe le medie mobili, il sentiment positivo si basa su titoli che non corrispondono al prezzo attuale e alla notizia su Nvidia, e l'ATR giornaliero (circa 477 dollari, circa lo 0,8%) non giustifica un rischio d'ingresso non verificato.
