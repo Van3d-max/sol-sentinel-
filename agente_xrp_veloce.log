@@ -5027,3 +5027,11 @@
 23/11 17:01:39 INFO       rialzista: Il prezzo (0.8929) è appena sopra la media a 30 giorni (0.8897), quindi la tendenza di medio periodo potrebbe reggere e un rimbalzo verso la media a 10 giorni (0.9069) è plausibile.
 23/11 17:01:39 INFO       ribassista: Il prezzo è sotto la media a 10 giorni (0.9069), il sentiment è neutro (0.004) e il titolo riguarda Ethereum, non XRP, quindi non offre un catalizzatore specifico per l'acquisto.
 23/11 17:01:39 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto la media a 10 giorni, la notizia è neutra e riguarda un altro asset, quindi non c'è evidenza sufficiente per giustificare un acquisto spot con volatilità giornaliera dell'1,07%.
+23/11 17:15:56 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 17:15:56 INFO    Prezzo 0.893 | medie 0.905056/0.891276 trend SU | notizie +0.12 su 47 (0 nuove, 0 da Claude) | 0.2s
+23/11 17:15:56 INFO       (+0.6 r1.0 claude) Why is XRP price up 8.8% today? - Traders Union
+23/11 17:15:56 INFO       (+0.5 r1.0 claude) How High Could XRP Price Go This Week as 3 Bullish Signals Emerge? - CoinGape
+23/11 17:15:56 INFO       (+0.5 r0.9 claude) Ripple's RLUSD Hits Record $2.87B Supply, Topping Trump-Tied USD1 - BigGo Finance
+23/11 17:15:59 INFO       rialzista: Il prezzo ha recuperato in fretta con un rialzo dell'8,8% segnalato dai titoli, si trova sopra la media a 30 giorni e le notizie sull'adozione di RLUSD sono positive.
+23/11 17:15:59 INFO       ribassista: Il prezzo resta sotto la media a 10 giorni (0,9051), i titoli sono in gran parte promozionali e il rialzo recente potrebbe esaurirsi con una volatilità giornaliera dell'1% circa.
+23/11 17:15:59 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto la media a 10 giorni, lo slancio dipende da titoli promozionali e il punteggio di sentiment (0,121) non giustifica un ingresso spot esposto alla volatilità.

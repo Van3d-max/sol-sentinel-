@@ -13223,3 +13223,11 @@
 23/11 17:01:30 INFO       rialzista: Il prezzo (68.44) è sopra la media a 30 giorni (68.25), e la volatilità giornaliera contenuta (ATR 0.77) permette uno stop stretto con rischio limitato.
 23/11 17:01:30 INFO       ribassista: Il prezzo è sotto la media a 10 giorni (69.26), segnale di debolezza a breve, e le notizie sono quasi neutre (punteggio 0.021) e non riguardano direttamente Solana.
 23/11 17:01:30 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono deboli: segnali di trend contrastanti tra media a 10 e a 30 giorni, notizie quasi neutre e poco pertinenti, quindi non si giustifica un acquisto spot.
+23/11 17:15:47 INFO    === veloce (SOL-EUR) ===
+23/11 17:15:47 INFO    Prezzo 68.5000 | medie 69.0933/68.3590 trend SU | notizie +0.34 su 54 (4 nuove, 4 da Claude) | 0.3s
+23/11 17:15:47 INFO       (+0.6 r1.0 claude) SOL Price Jumps 9% as DeFi Dev Corp Extends Solana Buying Streak to 11 Weeks - CoinGape
+23/11 17:15:47 INFO       (+0.5 r0.9 claude) Solana posts first weekly ETF inflow in six wee... - Pluang
+23/11 17:15:47 INFO       (+0.6 r1.0 claude) Solana rises 2.6% as Zelle chooses its network for new stablecoin launch - Pluang
+23/11 17:15:50 INFO       rialzista: Il prezzo (68,5) è sopra la media mobile a 30 periodi (68,36) e le notizie recenti sono positive, con flussi ETF e nuove adozioni che sostengono la domanda.
+23/11 17:15:50 INFO       ribassista: Il prezzo è sotto la media a 10 periodi (69,09), il che indica debolezza di breve termine, e i titoli positivi potrebbero essere già scontati dopo il rialzo del 9%.
+23/11 17:15:50 INFO    -> BLOCCATO DAL DIBATTITO: I segnali sono contrastanti (prezzo sotto la MA10 ma sopra la MA30, notizie positive ma probabilmente già prezzate) e la proposta non definisce uno stop loss, quindi il rischio non è adeguatamente controllato.
