@@ -5049,3 +5049,7 @@
 23/11 17:46:01 INFO       rialzista: Il prezzo a 0.8772 è circa il 2,3% sotto la media a 10 giorni, quindi un rimbalzo verso la media è plausibile, e le notizie su RLUSD e sui segnali rialzisti sostengono un sentiment leggermente positivo.
 23/11 17:46:01 INFO       ribassista: Il prezzo è sotto sia la media a 10 giorni sia quella a 30 giorni, il rialzo dell'8,8% di oggi sembra essersi già esaurito, e i titoli sono in gran parte promozionali con un punteggio di notizie debole (0,135).
 23/11 17:46:01 INFO    -> BLOCCATO DAL DIBATTITO: Il trend di breve periodo è negativo, le notizie sono deboli e per lo più promozionali, e senza un segnale tecnico di inversione il rischio di acquistare spot non è giustificato.
+23/11 18:01:43 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 18:01:43 INFO    Prezzo 0.8787 | medie 0.894078/0.894971 trend GIU | notizie +0.00 su 1 (0 nuove, 0 da Claude) | 0.1s
+23/11 18:01:43 INFO       (+0.1 r0.1 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More
+23/11 18:01:43 INFO    -> ATTENDI: trend 15 minuti non rialzista

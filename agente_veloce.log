@@ -13246,3 +13246,8 @@
 23/11 17:45:47 INFO       rialzista: Il flusso di notizie è positivo (punteggio 0.338), con acquisti ripetuti da parte di DeFi Dev Corp, un primo afflusso settimanale netto negli ETF dopo sei settimane e l'adozione di Solana da parte di Zelle per uno stablecoin, che potrebbero sostenere un rimbalzo.
 23/11 17:45:47 INFO       ribassista: Il prezzo (67.42) è sotto sia la media mobile a 10 periodi (68.61) sia quella a 30 periodi (68.51), quindi il trend di breve e medio termine resta debole, e i titoli rialzisti non si stanno ancora traducendo in una ripresa del prezzo.
 23/11 17:45:47 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo resta sotto entrambe le medie mobili e le notizie positive non sono ancora confermate dall'andamento del prezzo, quindi la prova a favore dell'acquisto spot è debole; conviene attendere che il prezzo recuperi le medie con una chiusura sopra di esse.
+23/11 18:01:28 INFO    === veloce (SOL-EUR) ===
+23/11 18:01:29 INFO    Prezzo 67.5800 | medie 68.4267/68.6048 trend GIU | notizie +0.02 su 2 (0 nuove, 0 da Claude) | 0.1s
+23/11 18:01:29 INFO       (+0.1 r0.1 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More
+23/11 18:01:29 INFO       (+0.1 r0.3 claude) Solana Meme Coin for Fiona the Hippo Raises $100K for Cincinnati Zoo Charity
+23/11 18:01:29 INFO    -> ATTENDI: trend 15 minuti non rialzista

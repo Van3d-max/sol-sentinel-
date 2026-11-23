@@ -5194,3 +5194,9 @@
 23/11 17:45:56 INFO       rialzista: Il flusso di notizie è positivo, con Strategy che accumula bitcoin e titoli che parlano di un rialzo, quindi il sentiment potrebbe spingere il prezzo verso l'alto.
 23/11 17:45:56 INFO       ribassista: Il prezzo (56.298,87) è sotto le medie mobili a 10 e 30 periodi (circa 57.180-57.190), il punteggio delle notizie è debole (0,148) e i titoli citano prezzi sopra 64.000 dollari, incoerenti con i dati di mercato, quindi potrebbero essere obsoleti o inaffidabili.
 23/11 17:45:56 INFO    -> BLOCCATO DAL DIBATTITO: Il trend è negativo (prezzo sotto entrambe le medie), il sentiment è debole e le notizie a favore sono in contrasto con il prezzo di mercato, quindi le prove non giustificano un acquisto spot con questa volatilità giornaliera (ATR circa 475 dollari).
+23/11 18:01:42 INFO    === btc_veloce (BTC-EUR) ===
+23/11 18:01:42 INFO    Prezzo 56630.96 | medie 57066.23/57214.12 trend GIU | notizie +0.12 su 39 (0 nuove, 0 da Claude) | 0.1s
+23/11 18:01:42 INFO       (+0.7 r1.0 claude) Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO
+23/11 18:01:42 INFO       (+0.4 r0.9 claude) Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations
+23/11 18:01:42 INFO       (-0.3 r1.0 claude) Bitcoin rebound already losing steam as AI trade returns with a bang
+23/11 18:01:42 INFO    -> ATTENDI: trend 15 minuti non rialzista
