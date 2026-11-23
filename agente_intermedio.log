@@ -1544,3 +1544,10 @@
 23/11 22:45:43 INFO       (+0.4 r0.9 claude) Bitwise CIO Matt Hougan on why Solana ETF could hit $10B - CoinDesk
 23/11 22:45:43 INFO       (+0.5 r0.8 claude) Tokenized equities on Solana hit a record $1.8 billion in we - KuCoin
 23/11 22:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 23:45:38 INFO    === intermedio (SOL-EUR) ===
+23/11 23:45:39 INFO    Trend superiore (ONE_DAY): GIU
+23/11 23:45:39 INFO    Prezzo 65.7500 | medie 66.7250/65.0596 trend SU | notizie +0.32 su 55 (0 nuove, 0 da Claude) | 0.3s
+23/11 23:45:39 INFO       (+0.5 r1.0 claude) DeFi Development Extends 11-Week Solana Buying Streak, Holdings Top 2.62 Million SOL - bloomingbit
+23/11 23:45:39 INFO       (+0.4 r0.9 claude) Bitwise CIO Matt Hougan on why Solana ETF could hit $10B - CoinDesk
+23/11 23:45:39 INFO       (+0.5 r0.8 claude) Tokenized equities on Solana hit a record $1.8 billion in we - KuCoin
+23/11 23:45:39 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
