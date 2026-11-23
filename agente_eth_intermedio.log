@@ -1472,3 +1472,10 @@
 23/11 11:46:00 INFO       (-0.5 r0.5 claude) Seventh week of Bitcoin’s decline: a trader broke down scenarios for Bitcoin and Ethereum price action - Incry
 23/11 11:46:00 INFO       (+0.5 r1.0 claude) Ethereum rebounds above $1,700 as bullish RSI divergence emerges - Traders Union
 23/11 11:46:00 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 12:45:44 INFO    === eth_intermedio (ETH-EUR) ===
+23/11 12:45:45 INFO    Trend superiore (ONE_DAY): GIU
+23/11 12:45:45 INFO    Prezzo 1567.81 | medie 1567.00/1548.50 trend SU | notizie -0.05 su 47 (3 nuove, 3 da Claude) | 0.2s
+23/11 12:45:45 INFO       (-0.3 r0.9 claude) $72 Billion in Ethereum May Be Exposed to Future Quantum-Computing Attacks - bloomingbit
+23/11 12:45:45 INFO       (-0.6 r0.5 claude) US Crypto ETFs Extend Weekly Selloff as Bitcoin and Ethereum Funds Face Continued Withdrawals - FinanceFeeds
+23/11 12:45:45 INFO       (-0.5 r0.5 claude) Seventh week of Bitcoin’s decline: a trader broke down scenarios for Bitcoin and Ethereum price action - Incry
+23/11 12:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

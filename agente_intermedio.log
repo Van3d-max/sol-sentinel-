@@ -1467,3 +1467,10 @@
 23/11 11:45:57 INFO       (+0.5 r0.9 claude) Solana hits record $1.8 billion in weekly tokenized equities trading - Crypto Briefing
 23/11 11:45:57 INFO       (+0.4 r0.9 claude) Solana launches solana.ai platform for autonomous AI agents and payments - Crypto News
 23/11 11:45:57 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 12:45:42 INFO    === intermedio (SOL-EUR) ===
+23/11 12:45:43 INFO    Trend superiore (ONE_DAY): GIU
+23/11 12:45:43 INFO    Prezzo 65.7600 | medie 64.7735/64.2388 trend SU | notizie +0.29 su 37 (2 nuove, 2 da Claude) | 0.2s
+23/11 12:45:43 INFO       (+0.6 r0.9 claude) Solana hits record $1.8B weekly volume in tokenized stock trading, capturing 43% market share. - Pluang
+23/11 12:45:43 INFO       (+0.5 r0.8 claude) Jupiter’s weekly Solana perps volume hits $3.95 billion, a 12-month high - Crypto Briefing
+23/11 12:45:43 INFO       (+0.5 r0.9 claude) Solana hits record $1.8 billion in weekly tokenized equities trading - Crypto Briefing
+23/11 12:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

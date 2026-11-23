@@ -1264,3 +1264,9 @@
 23/11 11:46:03 INFO       (-0.7 r1.0 claude) Bitcoin ETFs shed $1.8B in third-largest weekly outflow - TradingView
 23/11 11:46:03 INFO       (-0.6 r0.9 claude) Bitcoin ETF: BlackRock loses $1.37 billion, investors flee - Cointribune
 23/11 11:46:03 INFO    -> ATTENDI: trend giornaliero non rialzista
+23/11 12:45:47 INFO    === btc_lento (BTC-EUR) ===
+23/11 12:45:47 INFO    Prezzo 55879.19 | medie 57580.47/65304.51 trend GIU | notizie -0.08 su 118 (6 nuove, 6 da Claude) | 0.1s
+23/11 12:45:47 INFO       (-0.7 r0.9 claude) Bloomberg Has Forecast Bitcoin Falling to $10,000 and the Liquidation of Strategy’s Positions - Incrypted
+23/11 12:45:47 INFO       (-0.6 r1.0 claude) Bitcoin's losing streak is second-longest ever, and some observers see more downside
+23/11 12:45:47 INFO       (-0.6 r1.0 claude) Bitcoin's losing streak is second-longest ever, some observers see more downside: Crypto Daily - CoinDesk
+23/11 12:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista
