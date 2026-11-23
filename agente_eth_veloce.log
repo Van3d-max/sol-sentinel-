@@ -5065,3 +5065,9 @@
 23/11 12:45:44 INFO       (-0.6 r0.5 claude) US Crypto ETFs Extend Weekly Selloff as Bitcoin and Ethereum Funds Face Continued Withdrawals - FinanceFeeds
 23/11 12:45:44 INFO       (-0.5 r0.5 claude) Seventh week of Bitcoin’s decline: a trader broke down scenarios for Bitcoin and Ethereum price action - Incry
 23/11 12:45:44 INFO    -> ATTENDI: notizie sotto la soglia (-0.05)
+23/11 13:01:21 INFO    === eth_veloce (ETH-EUR) ===
+23/11 13:01:21 INFO    Prezzo 1572.22 | medie 1571.30/1569.85 trend SU | notizie -0.08 su 48 (3 nuove, 3 da Claude) | 0.2s
+23/11 13:01:21 INFO       (-0.4 r0.9 claude) Ethereum quantum risk study flags $72 billion in exposed wallets - Traders Union
+23/11 13:01:21 INFO       (-0.3 r0.9 claude) $72 Billion in Ethereum May Be Exposed to Future Quantum-Computing Attacks - bloomingbit
+23/11 13:01:21 INFO       (-0.6 r0.5 claude) US Crypto ETFs Extend Weekly Selloff as Bitcoin and Ethereum Funds Face Continued Withdrawals - FinanceFeeds
+23/11 13:01:21 INFO    -> ATTENDI: notizie sotto la soglia (-0.08)
