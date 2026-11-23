@@ -4997,3 +4997,11 @@
 23/11 16:01:25 INFO       rialzista: Il prezzo (0,9082) resta sopra la media mobile a 30 periodi (0,8817), il trend di medio termine è ancora positivo e le notizie su RLUSD e il rialzo dell'8,8% indicano domanda di mercato.
 23/11 16:01:25 INFO       ribassista: Il prezzo è sotto la media a 10 periodi (0,9132), il punteggio delle notizie è debole (0,093), il titolo sul calo sotto 1 dollaro contraddice il rally e il rialzo dell'8,8% potrebbe essere un picco da inseguimento.
 23/11 16:01:25 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole e contraddittorio: il punteggio delle notizie è quasi neutro, le notizie più recenti sono in conflitto tra loro, il prezzo è sotto la media a 10 giorni e l'acquisto spot non offre un vantaggio chiaro rispetto a una volatilità giornaliera di circa l'1%.
+23/11 16:15:57 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 16:15:57 INFO    Prezzo 0.9064 | medie 0.913733/0.884152 trend SU | notizie +0.12 su 47 (3 nuove, 3 da Claude) | 0.2s
+23/11 16:15:57 INFO       (+0.6 r1.0 claude) Why is XRP price up 8.8% today? - Traders Union
+23/11 16:15:57 INFO       (+0.5 r1.0 claude) How High Could XRP Price Go This Week as 3 Bullish Signals Emerge? - CoinGape
+23/11 16:15:57 INFO       (+0.5 r0.9 claude) Ripple's RLUSD Hits Record $2.87B Supply, Topping Trump-Tied USD1 - BigGo Finance
+23/11 16:16:01 INFO       rialzista: Il prezzo resta sopra la media mobile a 30 periodi (0,8842) e il sentiment delle notizie è leggermente positivo (0,122), con un possibile rimbalzo dopo il rialzo dell'8,8%.
+23/11 16:16:01 INFO       ribassista: Il prezzo (0,9064) è sotto la media a 10 periodi (0,9137), i titoli sono prevalentemente promozionali ("could go", "bullish signals") e non esiste uno stop loss né un obiettivo definito.
+23/11 16:16:01 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono deboli: il momentum di breve periodo è negativo, il sentiment è modesto e basato su titoli promozionali, e senza stop loss la volatilità giornaliera di circa l'1,1% espone il desk a un rischio non controllato.
