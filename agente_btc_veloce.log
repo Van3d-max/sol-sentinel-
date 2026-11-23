@@ -5098,3 +5098,9 @@
 23/11 14:16:17 INFO       (+0.4 r0.9 claude) Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot
 23/11 14:16:17 INFO       (+0.5 r1.0 claude) Bitcoin rebounds from 2-year low as Wall Street futures recover
 23/11 14:16:17 INFO    -> ATTENDI: obiettivo +2.00% sotto il minimo +2.20% (commissioni)
+23/11 14:31:14 INFO    === btc_veloce (BTC-EUR) ===
+23/11 14:31:15 INFO    Prezzo 58487.67 | medie 56754.29/56302.55 trend SU | notizie +0.07 su 120 (13 nuove, 13 da Claude) | 0.2s
+23/11 14:31:15 INFO       (+0.6 r0.9 claude) Bitcoin Recovery Tops $61K as Stock Futures Rebound - Bitcoin Foundation
+23/11 14:31:15 INFO       (-0.6 r0.9 claude) Bitcoin Could Fall Another 40% if Stocks Crater by Christmas, Darius Dale Warns - Benzinga
+23/11 14:31:15 INFO       (-0.8 r1.0 claude) Key facts: Bitcoin Spot ETFs See $1.79B Weekly Outflows; BTC Falls - TradingView
+23/11 14:31:15 INFO    -> ATTENDI: notizia shock: Key facts: Bitcoin Spot ETFs See $1.79B Weekly Outflows; BTC Falls - TradingView

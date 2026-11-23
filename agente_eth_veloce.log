@@ -5101,3 +5101,9 @@
 23/11 14:16:07 INFO       (-0.2 r0.8 claude) BlackRock’s staked Ethereum ETF can delay redemptions if unstaked ETH runs short
 23/11 14:16:07 INFO       (-0.2 r0.1 claude) Chainflip founder admits heavy losses after second hack in 10 weeks drains $12 million
 23/11 14:16:07 INFO    -> ATTENDI: notizie sotto la soglia (-0.12)
+23/11 14:31:11 INFO    === eth_veloce (ETH-EUR) ===
+23/11 14:31:11 INFO    Prezzo 1669.21 | medie 1601.47/1584.16 trend SU | notizie -0.01 su 49 (4 nuove, 4 da Claude) | 0.2s
+23/11 14:31:11 INFO       (+0.5 r1.0 claude) Ethereum outflows from Binance fall to an all-time low - Crypto Briefing
+23/11 14:31:11 INFO       (-0.5 r1.0 claude) 85,500 ETH moves from an unknown wallet to Binance - Cryptonews.net
+23/11 14:31:11 INFO       (+0.4 r1.0 claude) Tom Lee’s Bitmine Adds 7,819 ETH as Holdings Reach 4.98% of Ethereum Supply - CoinGape
+23/11 14:31:11 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)

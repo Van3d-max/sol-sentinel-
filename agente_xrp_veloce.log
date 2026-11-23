@@ -4944,3 +4944,11 @@
 23/11 14:16:28 INFO       rialzista: Il prezzo (0.9103) è sopra entrambe le medie mobili e la media a 10 periodi (0.8688) è già sopra quella a 30 (0.8617), quindi il trend di breve termine è positivo.
 23/11 14:16:28 INFO       ribassista: Il prezzo è circa il 5% sopra la media a 10 periodi, circa sei volte l'ATR giornaliero, quindi l'ingresso appare esteso, non ci sono notizie a supporto (punteggio 0.0) e non è definito alcuno stop-loss.
 23/11 14:16:28 INFO    -> BLOCCATO DAL DIBATTITO: Il trend è favorevole, ma l'ingresso è esteso sopra le medie, non ci sono notizie a supporto e manca un livello di stop-loss, quindi le prove sono insufficienti per un acquisto spot.
+23/11 14:31:16 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 14:31:16 INFO    Prezzo 0.9248 | medie 0.876967/0.865224 trend SU | notizie +0.02 su 42 (1 nuove, 1 da Claude) | 0.2s
+23/11 14:31:16 INFO       (-0.7 r0.9 claude) XRP Slips Below $1 as Ripple's Own Stablecoin Erodes the Token's Core Case - BigGo Finance
+23/11 14:31:16 INFO       (-0.4 r0.9 claude) Ripple Price Forecast: XRP remains range-bound as retail and institutional capital flows out - www.tmgm.com
+23/11 14:31:16 INFO       (+0.3 r1.0 claude) XRP Ledger Lending Amendments Close In on Activation as Validator Votes Climb - BigGo Finance
+23/11 14:31:20 INFO       rialzista: Il prezzo (0.9248) si trova sopra la media a 10 giorni (0.877) e quella a 30 giorni (0.8652), segnalando un trend di breve e medio periodo positivo, con la prospettiva di un possibile avvio degli emendamenti di lending sulla XRP Ledger.
+23/11 14:31:20 INFO       ribassista: Le notizie recenti sono prevalentemente negative (stablecoin di Ripple che erode il caso d'uso di XRP, deflussi di capitale retail e istituzionale, prezzo tornato sotto 1 dollaro), e il punteggio aggregato di 0.024 non offre un sostegno fondamentale convincente.
+23/11 14:31:20 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico rialzista è debole e non è confermato dal sentiment, che è neutro-negativo con notizie contrastanti, quindi il rischio di un ritracciamento non è adeguatamente compensato.

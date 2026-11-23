@@ -13138,3 +13138,11 @@
 23/11 14:15:59 INFO       (-0.2 r0.9 claude) Solana’s new memory checks could make some older app transactions fail
 23/11 14:15:59 INFO       (+0.1 r0.3 claude) Solana Meme Coin for Fiona the Hippo Raises $100K for Cincinnati Zoo Charity
 23/11 14:15:59 INFO    -> ATTENDI: notizie sotto la soglia (-0.00)
+23/11 14:31:03 INFO    === veloce (SOL-EUR) ===
+23/11 14:31:03 INFO    Prezzo 70.7900 | medie 67.5167/66.6433 trend SU | notizie +0.34 su 46 (2 nuove, 2 da Claude) | 0.2s
+23/11 14:31:03 INFO       (+0.6 r1.0 claude) Solana rises 2.6% as Zelle chooses its network for new stablecoin launch - Pluang
+23/11 14:31:03 INFO       (+0.5 r1.0 claude) Solana gains more than 8% after first net ETF inflows in six weeks and 1.0 upgrade - Traders Union
+23/11 14:31:03 INFO       (+0.6 r0.9 claude) Solana rebounds above $72 after eight weeks of losses, eyeing $80 resistance for a bullish reversal. - Pluang
+23/11 14:31:08 INFO       rialzista: Il prezzo (70,79) sopra le medie mobili a 10 e 30 giorni e il flusso di notizie positivo, con primi afflussi netti negli ETF dopo sei settimane, suggeriscono un possibile cambio di trend dopo otto settimane di ribassi.
+23/11 14:31:08 INFO       ribassista: Il prezzo è appena sotto la resistenza a 72 dopo un rimbalzo recente, le notizie sono in gran parte reazioni di prezzo a breve termine che potrebbero essere vendute sulla notizia, e la proposta non definisce uno stop-loss.
+23/11 14:31:08 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono deboli e il piano non definisce un livello di stop-loss o un obiettivo, mentre il prezzo è ancora sotto la resistenza a 72; si può ripresentare la proposta con uno stop esplicito e una conferma di chiusura sopra 72.
