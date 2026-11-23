@@ -13238,3 +13238,11 @@
 23/11 17:31:22 INFO       rialzista: Il prezzo a 67,73 è vicino ai minimi recenti e un rimbalzo verso la media a 30 giorni (68,44) è possibile, con notizie leggermente positive.
 23/11 17:31:22 INFO       ribassista: Il prezzo è sotto sia la media a 10 giorni (68,90) sia quella a 30 giorni, il trend di breve periodo è negativo, e le notizie sono deboli (punteggio 0,02) e poco pertinenti a SOL.
 23/11 17:31:22 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo è sotto entrambe le medie mobili, il punteggio delle notizie è quasi neutro e i titoli riguardano Ethereum e un meme coin, quindi le prove a favore dell'acquisto sono insufficienti.
+23/11 17:45:44 INFO    === veloce (SOL-EUR) ===
+23/11 17:45:44 INFO    Prezzo 67.4200 | medie 68.6144/68.5143 trend SU | notizie +0.34 su 54 (1 nuove, 1 da Claude) | 0.5s
+23/11 17:45:44 INFO       (+0.6 r1.0 claude) SOL Price Jumps 9% as DeFi Dev Corp Extends Solana Buying Streak to 11 Weeks - CoinGape
+23/11 17:45:44 INFO       (+0.5 r0.9 claude) Solana posts first weekly ETF inflow in six wee... - Pluang
+23/11 17:45:44 INFO       (+0.6 r1.0 claude) Solana rises 2.6% as Zelle chooses its network for new stablecoin launch - Pluang
+23/11 17:45:47 INFO       rialzista: Il flusso di notizie è positivo (punteggio 0.338), con acquisti ripetuti da parte di DeFi Dev Corp, un primo afflusso settimanale netto negli ETF dopo sei settimane e l'adozione di Solana da parte di Zelle per uno stablecoin, che potrebbero sostenere un rimbalzo.
+23/11 17:45:47 INFO       ribassista: Il prezzo (67.42) è sotto sia la media mobile a 10 periodi (68.61) sia quella a 30 periodi (68.51), quindi il trend di breve e medio termine resta debole, e i titoli rialzisti non si stanno ancora traducendo in una ripresa del prezzo.
+23/11 17:45:47 INFO    -> BLOCCATO DAL DIBATTITO: Il prezzo resta sotto entrambe le medie mobili e le notizie positive non sono ancora confermate dall'andamento del prezzo, quindi la prova a favore dell'acquisto spot è debole; conviene attendere che il prezzo recuperi le medie con una chiusura sopra di esse.

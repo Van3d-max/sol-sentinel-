@@ -1510,3 +1510,10 @@
 23/11 16:45:56 INFO       (+0.8 r1.0 claude) Bitcoin climbs to $63,000 as $250 million in shorts get liquidated in 10 minutes - TradingView
 23/11 16:45:56 INFO       (+0.7 r1.0 claude) Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO
 23/11 16:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 17:45:56 INFO    === btc_intermedio (BTC-EUR) ===
+23/11 17:45:56 INFO    Trend superiore (ONE_DAY): GIU
+23/11 17:45:56 INFO    Prezzo 56255.00 | medie 56139.84/55427.58 trend SU | notizie +0.15 su 115 (6 nuove, 6 da Claude) | 0.3s
+23/11 17:45:56 INFO       (+0.6 r0.9 claude) Strategy adds 457 bitcoin to balance sheet, buys back $212M of STRC - Yahoo Finance
+23/11 17:45:56 INFO       (+0.7 r1.0 claude) Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO
+23/11 17:45:56 INFO       (+0.7 r0.9 claude) Bitcoin rockets above $64,000 as Nvidia reinstates Jensen Huang, wiping out $372 million in shorts - CryptoSla
+23/11 17:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

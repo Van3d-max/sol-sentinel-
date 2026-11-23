@@ -5186,3 +5186,11 @@
 23/11 17:31:46 INFO       rialzista: Il prezzo ha un rimbalzo recente dai minimi intorno a 55.000 dollari e il punteggio delle notizie è leggermente positivo (0,156), quindi un ingresso spot potrebbe catturare una ripresa.
 23/11 17:31:46 INFO       ribassista: Il prezzo di 56.660 dollari è sotto le medie mobili a 10 e 30 periodi (57.375 e 57.157), segnale di trend debole, e i titoli citano livelli di 64.000 dollari che non corrispondono ai dati di mercato, quindi risultano probabilmente obsoleti o inattendibili.
 23/11 17:31:46 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole: il prezzo è sotto entrambe le medie mobili, il sentiment positivo si basa su titoli che non corrispondono al prezzo attuale e alla notizia su Nvidia, e l'ATR giornaliero (circa 477 dollari, circa lo 0,8%) non giustifica un rischio d'ingresso non verificato.
+23/11 17:45:52 INFO    === btc_veloce (BTC-EUR) ===
+23/11 17:45:52 INFO    Prezzo 56298.87 | medie 57187.43/57178.63 trend SU | notizie +0.15 su 115 (6 nuove, 6 da Claude) | 0.1s
+23/11 17:45:52 INFO       (+0.6 r0.9 claude) Strategy adds 457 bitcoin to balance sheet, buys back $212M of STRC - Yahoo Finance
+23/11 17:45:52 INFO       (+0.7 r1.0 claude) Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO
+23/11 17:45:52 INFO       (+0.7 r0.9 claude) Bitcoin rockets above $64,000 as Nvidia reinstates Jensen Huang, wiping out $372 million in shorts - CryptoSla
+23/11 17:45:56 INFO       rialzista: Il flusso di notizie è positivo, con Strategy che accumula bitcoin e titoli che parlano di un rialzo, quindi il sentiment potrebbe spingere il prezzo verso l'alto.
+23/11 17:45:56 INFO       ribassista: Il prezzo (56.298,87) è sotto le medie mobili a 10 e 30 periodi (circa 57.180-57.190), il punteggio delle notizie è debole (0,148) e i titoli citano prezzi sopra 64.000 dollari, incoerenti con i dati di mercato, quindi potrebbero essere obsoleti o inaffidabili.
+23/11 17:45:56 INFO    -> BLOCCATO DAL DIBATTITO: Il trend è negativo (prezzo sotto entrambe le medie), il sentiment è debole e le notizie a favore sono in contrasto con il prezzo di mercato, quindi le prove non giustificano un acquisto spot con questa volatilità giornaliera (ATR circa 475 dollari).

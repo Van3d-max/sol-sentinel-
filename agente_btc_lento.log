@@ -1294,3 +1294,9 @@
 23/11 16:45:56 INFO       (+0.7 r1.0 claude) Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO
 23/11 16:45:56 INFO       (-0.7 r0.9 claude) Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
 23/11 16:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista
+23/11 17:45:56 INFO    === btc_lento (BTC-EUR) ===
+23/11 17:45:56 INFO    Prezzo 56255.00 | medie 57580.47/65304.51 trend GIU | notizie +0.12 su 123 (6 nuove, 6 da Claude) | 0.1s
+23/11 17:45:56 INFO       (+0.7 r1.0 claude) Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO
+23/11 17:45:56 INFO       (+0.7 r0.9 claude) Bitcoin rockets above $64,000 as Nvidia reinstates Jensen Huang, wiping out $372 million in shorts - CryptoSla
+23/11 17:45:56 INFO       (+0.6 r0.9 claude) Strategy adds 457 bitcoin to balance sheet, buys back $212M of STRC - Yahoo Finance
+23/11 17:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista
