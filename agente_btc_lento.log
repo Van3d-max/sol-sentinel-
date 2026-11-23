@@ -1222,3 +1222,9 @@
 23/11 04:45:52 INFO       (-0.6 r1.0 claude) Bitcoin holders realize $17B in losses over 30 days - TradingView
 23/11 04:45:52 INFO       (-0.7 r0.9 claude) BlackRock and other Bitcoin ETF issuers see $1.79 billion in weekly outflows - Crypto Briefing
 23/11 04:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista
+23/11 05:45:48 INFO    === btc_lento (BTC-EUR) ===
+23/11 05:45:48 INFO    Prezzo 56145.00 | medie 57580.47/65304.51 trend GIU | notizie -0.14 su 99 (3 nuove, 3 da Claude) | 0.1s
+23/11 05:45:48 INFO       (-0.8 r1.0 claude) Bitcoin Heads For Worst November Since 2018 As ETF Outflows Top $4 Billion - Yahoo Finance
+23/11 05:45:48 INFO       (-0.7 r0.9 claude) Bitcoin Spot ETFs Record $669M Net Outflow on November 20 - KuCoin
+23/11 05:45:48 INFO       (-0.7 r0.9 claude) BlackRock and other Bitcoin ETF issuers see $1.79 billion in weekly outflows - Crypto Briefing
+23/11 05:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista

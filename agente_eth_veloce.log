@@ -4895,3 +4895,9 @@
 23/11 05:31:00 INFO       (+0.5 r0.6 claude) Bitcoin Rebounds Above US$60,000, Ethereum Rises As Crypto Market Recovers From Sell-Off - BusinessToday Malay
 23/11 05:31:00 INFO       (-0.6 r0.4 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP remain vulnerable as bears drive prices t
 23/11 05:31:00 INFO    -> ATTENDI: notizie sotto la soglia (-0.08)
+23/11 05:45:45 INFO    === eth_veloce (ETH-EUR) ===
+23/11 05:45:45 INFO    Prezzo 1577.40 | medie 1574.17/1565.96 trend SU | notizie -0.08 su 30 (0 nuove, 0 da Claude) | 0.2s
+23/11 05:45:45 INFO       (-0.6 r1.0 claude) Ethereum spot ETFs recorded a $97.38 million net outflow on November 20, marking the sixth consecutive day of 
+23/11 05:45:45 INFO       (+0.5 r0.6 claude) Bitcoin Rebounds Above US$60,000, Ethereum Rises As Crypto Market Recovers From Sell-Off - BusinessToday Malay
+23/11 05:45:45 INFO       (-0.6 r0.4 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP remain vulnerable as bears drive prices t
+23/11 05:45:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.08)
