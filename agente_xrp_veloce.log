@@ -4787,3 +4787,9 @@
 23/11 07:15:50 INFO       (-0.6 r0.5 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP remain vulnerable as bears drive prices t
 23/11 07:15:50 INFO       (-0.4 r0.6 claude) Bitcoin, Ethereum Rise, but XRP, Dogecoin Dip Amid Crypto’s Punishing November: Analyst Flags BTC’s ‘Vita - Be
 23/11 07:15:50 INFO    -> ATTENDI: obiettivo +1.29% sotto il minimo +2.20% (commissioni)
+23/11 07:31:10 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 07:31:10 INFO    Prezzo 0.8526 | medie 0.854833/0.848248 trend SU | notizie -0.04 su 28 (1 nuove, 1 da Claude) | 0.3s
+23/11 07:31:10 INFO       (-0.6 r0.9 claude) Spot XRP ETFs Hit Negative Record as SOL Funds Finally Break Their Streak - CryptoPotato
+23/11 07:31:10 INFO       (+0.6 r0.9 claude) MASSIVE: 🇬🇧The UK government has selected Ripple to help t - KuCoin
+23/11 07:31:10 INFO       (-0.6 r0.5 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP remain vulnerable as bears drive prices t
+23/11 07:31:10 INFO    -> ATTENDI: notizie sotto la soglia (-0.04)
