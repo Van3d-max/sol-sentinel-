@@ -1528,3 +1528,10 @@
 23/11 19:45:47 INFO       (+0.6 r0.9 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More
 23/11 19:45:47 INFO       (+0.6 r0.9 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More - Yahoo Finance
 23/11 19:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 20:45:48 INFO    === eth_intermedio (ETH-EUR) ===
+23/11 20:45:49 INFO    Trend superiore (ONE_DAY): GIU
+23/11 20:45:49 INFO    Prezzo 1581.70 | medie 1585.04/1561.74 trend SU | notizie +0.12 su 75 (2 nuove, 2 da Claude) | 0.2s
+23/11 20:45:49 INFO       (+0.6 r0.9 claude) BREAKING: BitMine buys another $13,400,000 Ethereum! The - KuCoin
+23/11 20:45:49 INFO       (+0.7 r0.9 claude) BitMine Buys Another 7,819 Ethereum as 5% Supply Target Draws Near - Kriptofoni
+23/11 20:45:49 INFO       (-0.5 r0.9 claude) BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn
+23/11 20:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

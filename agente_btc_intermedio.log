@@ -1531,3 +1531,10 @@
 23/11 19:45:51 INFO       (+0.6 r0.9 claude) Abraxas Capital reportedly scoops up $1 billion in Bitcoin over two days - Cryptonews.net
 23/11 19:45:51 INFO       (-0.4 r0.9 claude) Bitcoin rebound already losing steam as AI trade returns with a bang - Cryptonews.net
 23/11 19:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 20:45:52 INFO    === btc_intermedio (BTC-EUR) ===
+23/11 20:45:52 INFO    Trend superiore (ONE_DAY): GIU
+23/11 20:45:52 INFO    Prezzo 56160.32 | medie 56248.46/55524.80 trend SU | notizie +0.04 su 134 (6 nuove, 6 da Claude) | 0.2s
+23/11 20:45:52 INFO       (+0.6 r0.9 claude) Strategy Expands Bitcoin Holdings to 851,310 as Saylor Boosts Buyback Program to $4 Billion - citybiz
+23/11 20:45:52 INFO       (-0.4 r1.0 claude) What Held Up While Bitcoin Fell - Yahoo Finance
+23/11 20:45:52 INFO       (+0.3 r1.0 claude) Bitcoin Price News: Top 4 Reasons Why BTC Price Could Rally Soon - Cryptonews.net
+23/11 20:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

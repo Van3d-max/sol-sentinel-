@@ -1312,3 +1312,9 @@
 23/11 19:45:51 INFO       (+0.6 r0.9 claude) Abraxas Capital reportedly scoops up $1 billion in Bitcoin over two days - Cryptonews.net
 23/11 19:45:51 INFO       (-0.7 r0.9 claude) Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
 23/11 19:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista
+23/11 20:45:52 INFO    === btc_lento (BTC-EUR) ===
+23/11 20:45:52 INFO    Prezzo 56160.32 | medie 57580.47/65304.51 trend GIU | notizie +0.06 su 139 (6 nuove, 6 da Claude) | 0.1s
+23/11 20:45:52 INFO       (+0.6 r0.9 claude) Strategy Expands Bitcoin Holdings to 851,310 as Saylor Boosts Buyback Program to $4 Billion - citybiz
+23/11 20:45:52 INFO       (-0.7 r0.9 claude) Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
+23/11 20:45:52 INFO       (+0.7 r1.0 claude) Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO
+23/11 20:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista

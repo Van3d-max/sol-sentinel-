@@ -1294,3 +1294,9 @@
 23/11 19:45:53 INFO       (+0.6 r1.0 claude) Why is XRP price up 8.8% today? - Traders Union
 23/11 19:45:53 INFO       (-0.5 r0.8 claude) XRP Price Prediction: Inflation Data Could Push XRP to Lower Lows This Week - FXEmpire
 23/11 19:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista
+23/11 20:45:54 INFO    === xrp_lento (XRP-EUR) ===
+23/11 20:45:54 INFO    Prezzo 0.8602 | medie 0.86747/1.0136 trend GIU | notizie -0.01 su 63 (3 nuove, 3 da Claude) | 0.1s
+23/11 20:45:54 INFO       (-0.6 r0.9 claude) XRP Price Prediction: ETF Outflows Top $30M as Token Faces Worst November - Coinpaper
+23/11 20:45:54 INFO       (-0.5 r1.0 claude) Founder Explains Why He Wouldn’t Touch XRP With a 10-Foot Pole - Cryptonews.net
+23/11 20:45:54 INFO       (+0.6 r1.0 claude) Why is XRP price up 8.8% today? - Traders Union
+23/11 20:45:54 INFO    -> ATTENDI: trend giornaliero non rialzista
