@@ -5075,3 +5075,9 @@
 23/11 19:01:23 INFO    Prezzo 0.8712 | medie 0.880333/0.897452 trend GIU | notizie +0.00 su 1 (0 nuove, 0 da Claude) | 0.3s
 23/11 19:01:23 INFO       (+0.1 r0.1 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More
 23/11 19:01:23 INFO    -> ATTENDI: trend 15 minuti non rialzista
+23/11 19:15:50 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 19:15:51 INFO    Prezzo 0.872 | medie 0.878056/0.895933 trend GIU | notizie -0.03 su 50 (5 nuove, 5 da Claude) | 0.3s
+23/11 19:15:51 INFO       (-0.5 r1.0 claude) Founder Explains Why He Wouldn’t Touch XRP With a 10-Foot Pole - Cryptonews.net
+23/11 19:15:51 INFO       (-0.4 r1.0 claude) Ripple’s David Schwartz Sold 88% of His XRP: Here Is Why He Says He Did It - 24/7 Wall St.
+23/11 19:15:51 INFO       (+0.3 r1.0 claude) How High Could XRP Price Go This Week as 3 Bullish Signals Emerge? - Cryptonews.net
+23/11 19:15:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
