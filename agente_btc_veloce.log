@@ -4852,3 +4852,9 @@
 23/11 04:01:15 INFO       (-0.7 r0.9 claude) Bitcoin Spot ETFs Record $669M Net Outflow on November 20 - KuCoin
 23/11 04:01:15 INFO       (-0.7 r0.9 claude) $669 Million: Bitcoin Spot ETFs Face Major Outflows - Cryptonews.net
 23/11 04:01:15 INFO    -> ATTENDI: trend 15 minuti non rialzista
+23/11 04:15:45 INFO    === btc_veloce (BTC-EUR) ===
+23/11 04:15:45 INFO    Prezzo 55828.06 | medie 55491.74/55566.89 trend GIU | notizie -0.18 su 65 (5 nuove, 5 da Claude) | 0.1s
+23/11 04:15:45 INFO       (-0.7 r0.9 claude) BlackRock and other Bitcoin ETF issuers see $1.79 billion in weekly outflows - Crypto Briefing
+23/11 04:15:45 INFO       (-0.6 r0.9 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP remain vulnerable as bears drive prices t
+23/11 04:15:45 INFO       (-0.6 r0.8 claude) Bitcoin slumps as it pays the price for Wall Street’s souring AI bets - AFR
+23/11 04:15:45 INFO    -> ATTENDI: trend 15 minuti non rialzista
