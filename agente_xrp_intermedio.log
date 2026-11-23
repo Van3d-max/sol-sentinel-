@@ -1379,3 +1379,10 @@
 23/11 00:45:42 INFO       (+0.3 r0.9 claude) XRP Ledger trial settled 213,000 paid AI requests in 6,324 transactions
 23/11 00:45:42 INFO       (-0.4 r1.0 claude) XRP Dumps to Key Zone: Is This the ‘Painful Opportunity’ Bulls Were Waiting For? - CryptoRank
 23/11 00:45:42 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 01:45:42 INFO    === xrp_intermedio (XRP-EUR) ===
+23/11 01:45:43 INFO    Trend superiore (ONE_DAY): GIU
+23/11 01:45:43 INFO    Prezzo 0.8371 | medie 0.84366/0.837382 trend SU | notizie +0.00 su 22 (0 nuove, 0 da Claude) | 0.4s
+23/11 01:45:43 INFO       (-1.0 r1.0 claude) XRP Ledger Active Addresses Plunge 60% to 92,000 as XRP Slips Under $0.90 - BigGo Finance
+23/11 01:45:43 INFO       (+0.3 r0.9 claude) XRP Ledger trial settled 213,000 paid AI requests in 6,324 transactions
+23/11 01:45:43 INFO       (-0.4 r1.0 claude) XRP Dumps to Key Zone: Is This the ‘Painful Opportunity’ Bulls Were Waiting For? - CryptoRank
+23/11 01:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

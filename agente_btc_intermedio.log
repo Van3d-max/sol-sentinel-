@@ -1398,3 +1398,10 @@
 23/11 00:45:41 INFO       (+0.6 r0.9 claude) Bitcoin's Price Dip Attracts a Whale as Hedge Fund Scoops up $1B - Cryptonews.net
 23/11 00:45:41 INFO       (+0.3 r0.9 claude) Bitcoin Holds Above $60,900 as Crypto Rebound Enters Second Day; SKY Slides 5.41% - BigGo Finance
 23/11 00:45:41 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 01:45:41 INFO    === btc_intermedio (BTC-EUR) ===
+23/11 01:45:42 INFO    Trend superiore (ONE_DAY): GIU
+23/11 01:45:42 INFO    Prezzo 55453.31 | medie 55258.14/54432.00 trend SU | notizie +0.01 su 80 (0 nuove, 0 da Claude) | 0.4s
+23/11 01:45:42 INFO       (+0.4 r0.9 claude) Bitcoin Reclaims $60,000 as Four-Year Cycle Bottom Comes Into Focus - Businesskorea
+23/11 01:45:42 INFO       (+0.6 r0.9 claude) Strategy hints at more Bitcoin purchases after $33M buy - Crypto Briefing
+23/11 01:45:42 INFO       (+0.6 r0.9 claude) Bitcoin's Price Dip Attracts a Whale as Hedge Fund Scoops up $1B - Cryptonews.net
+23/11 01:45:42 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
