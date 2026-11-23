@@ -5282,3 +5282,9 @@
 23/11 21:31:03 INFO       (+0.6 r0.9 claude) BREAKING: BitMine buys another $13,400,000 Ethereum! The - KuCoin
 23/11 21:31:03 INFO       (+0.7 r0.9 claude) BitMine Buys Another 7,819 Ethereum as 5% Supply Target Draws Near - Kriptofoni
 23/11 21:31:03 INFO    -> ATTENDI: trend 15 minuti non rialzista
+23/11 21:45:45 INFO    === eth_veloce (ETH-EUR) ===
+23/11 21:45:45 INFO    Prezzo 1573.63 | medie 1582.84/1595.45 trend GIU | notizie +0.10 su 76 (1 nuove, 1 da Claude) | 0.3s
+23/11 21:45:45 INFO       (+0.6 r0.9 claude) BREAKING: BitMine buys another $13,400,000 Ethereum! The - KuCoin
+23/11 21:45:45 INFO       (+0.7 r0.9 claude) BitMine Buys Another 7,819 Ethereum as 5% Supply Target Draws Near - Kriptofoni
+23/11 21:45:45 INFO       (-0.5 r0.9 claude) BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn
+23/11 21:45:45 INFO    -> ATTENDI: trend 15 minuti non rialzista
