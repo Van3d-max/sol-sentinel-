@@ -4695,3 +4695,7 @@
 23/11 03:15:49 INFO       (-1.0 r1.0 claude) XRP Ledger Active Addresses Plunge 60% to 92,000 as XRP Slips Under $0.90 - BigGo Finance
 23/11 03:15:49 INFO       (+0.3 r0.9 claude) XRP Ledger trial settled 213,000 paid AI requests in 6,324 transactions
 23/11 03:15:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
+23/11 03:31:36 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 03:31:36 INFO    Prezzo 0.8503 | medie 0.837289/0.840086 trend GIU | notizie +0.09 su 1 (0 nuove, 0 da Claude) | 0.3s
+23/11 03:31:36 INFO       (+0.3 r0.9 claude) XRP Ledger trial settled 213,000 paid AI requests in 6,324 transactions
+23/11 03:31:36 INFO    -> ATTENDI: trend 15 minuti non rialzista
