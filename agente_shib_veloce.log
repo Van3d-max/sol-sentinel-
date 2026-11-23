@@ -4770,3 +4770,9 @@
 23/11 11:31:09 INFO    === shib_veloce (SHIB-EUR) ===
 23/11 11:31:10 INFO    Prezzo 3.31e-06 | medie 3.29444e-06/3.2819e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 23/11 11:31:10 INFO    -> ATTENDI: obiettivo +0.97% sotto il minimo +2.20% (commissioni)
+23/11 11:46:07 INFO    === shib_veloce (SHIB-EUR) ===
+23/11 11:46:07 INFO    Prezzo 3.31e-06 | medie 3.29778e-06/3.28429e-06 trend SU | notizie +0.14 su 8 (0 nuove, 0 da Claude) | 0.3s
+23/11 11:46:07 INFO       (+0.6 r1.0 claude) Shiba Inu News Today: SHIB Price Jumps on Burn and Development Buzz - Coin Gabbar
+23/11 11:46:07 INFO       (+0.1 r0.7 claude) Missed Dogecoin and Shiba Inu Before Their Biggest Rallies? - openPR.com
+23/11 11:46:07 INFO       (+0.1 r0.8 claude) Shiba Inu Shib.io Clarification: GitHub Links Confirmed - Bitcoin Foundation
+23/11 11:46:07 INFO    -> ATTENDI: obiettivo +0.91% sotto il minimo +2.20% (commissioni)

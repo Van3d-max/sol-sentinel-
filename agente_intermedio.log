@@ -1460,3 +1460,10 @@
 23/11 10:45:51 INFO       (+0.6 r1.0 claude) Mainnet upgrade and ETF inflows lift Solana price as intraday rally continues - Traders Union
 23/11 10:45:51 INFO       (+0.4 r1.0 claude) Solana ETFs Attract $4.38M Inflows as Bitcoin ETFs Lose $1.79B - KuCoin
 23/11 10:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 11:45:56 INFO    === intermedio (SOL-EUR) ===
+23/11 11:45:57 INFO    Trend superiore (ONE_DAY): GIU
+23/11 11:45:57 INFO    Prezzo 66.3600 | medie 64.6725/64.1594 trend SU | notizie +0.29 su 36 (1 nuove, 1 da Claude) | 0.4s
+23/11 11:45:57 INFO       (+0.6 r0.9 claude) Solana hits record $1.8B weekly volume in tokenized stock trading, capturing 43% market share. - Pluang
+23/11 11:45:57 INFO       (+0.5 r0.9 claude) Solana hits record $1.8 billion in weekly tokenized equities trading - Crypto Briefing
+23/11 11:45:57 INFO       (+0.4 r0.9 claude) Solana launches solana.ai platform for autonomous AI agents and payments - Crypto News
+23/11 11:45:57 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
