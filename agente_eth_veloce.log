@@ -4847,3 +4847,9 @@
 23/11 03:31:21 INFO    Prezzo 1574.75 | medie 1558.44/1562.40 trend GIU | notizie -0.00 su 1 (0 nuove, 0 da Claude) | 0.3s
 23/11 03:31:21 INFO       (-0.1 r0.2 claude) South Korean exchanges halt CYBER transfers amid suspected bridge exploit
 23/11 03:31:21 INFO    -> ATTENDI: trend 15 minuti non rialzista
+23/11 03:45:48 INFO    === eth_veloce (ETH-EUR) ===
+23/11 03:45:48 INFO    Prezzo 1574.65 | medie 1559.72/1563.18 trend GIU | notizie -0.11 su 24 (5 nuove, 5 da Claude) | 0.2s
+23/11 03:45:48 INFO       (-0.6 r1.0 claude) Ethereum spot ETFs recorded a $97.38 million net outflow on November 20, marking the sixth consecutive day of 
+23/11 03:45:48 INFO       (-0.1 r1.0 claude) Ethereum Investor Faces Heavy Losses After Selling 3,700 ETH - Cryptonews.net
+23/11 03:45:48 INFO       (+0.3 r0.4 claude) Bitcoin, Ethereum Rise, but XRP, Dogecoin Dip Amid Crypto’s Punishing November: Analyst Flags BTC’s ‘Vita - Be
+23/11 03:45:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
