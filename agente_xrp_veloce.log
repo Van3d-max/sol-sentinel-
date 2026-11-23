@@ -4960,3 +4960,8 @@
 23/11 14:46:05 INFO       rialzista: Il prezzo (0.909) si trova sopra la media mobile a 10 periodi (0.8832) e a 30 periodi (0.868), con un trend di breve e medio termine positivo, e la volatilità giornaliera contenuta (ATR 0.0097, circa l'1%) rende un ingresso spot senza leva gestibile.
 23/11 14:46:05 INFO       ribassista: Il punteggio delle notizie è quasi neutro (0.027) e i titoli più pesanti sono negativi, tra cui il calo sotto 1 dollaro e i deflussi di capitale retail e istituzionale, mentre il catalizzatore positivo (emendamenti di lending sul XRP Ledger) non è ancora attivo.
 23/11 14:46:05 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è favorevole ma è contraddetto da un flusso di notizie negativo e da un punteggio complessivo praticamente neutro, quindi le prove non sono sufficienti per giustificare l'acquisto ora.
+23/11 15:02:10 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 15:02:10 INFO    Prezzo 0.9096 | medie 0.889133/0.870605 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.4s
+23/11 15:02:15 INFO       rialzista: Il prezzo (0.9096) è sopra la media mobile a 10 giorni (0.8891) e a 30 giorni (0.8706), con medie allineate al rialzo, quindi il trend di breve e medio periodo è positivo.
+23/11 15:02:15 INFO       ribassista: Il dato di notizie è neutro (0.0) senza titoli a supporto, il prezzo è già circa il 4,5% sopra la media a 30 giorni e l'ATR giornaliero indica volatilità non trascurabile per un asset così esposto a shock improvvisi.
+23/11 15:02:15 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è basato solo sull'analisi tecnica, senza alcuna conferma dalle notizie né un piano di gestione del rischio (stop-loss e dimensione della posizione) definito, quindi le prove sono troppo deboli per un acquisto spot.

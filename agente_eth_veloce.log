@@ -5115,3 +5115,9 @@
 23/11 14:45:55 INFO       rialzista: Il prezzo (1643,52) è sopra la media mobile a 10 periodi (1609,77) e quella a 30 periodi (1587,46), indicando un trend di breve e medio termine positivo, con i deflussi da Binance ai minimi storici e le partecipazioni di BMNR in crescita.
 23/11 14:45:55 INFO       ribassista: Il punteggio delle notizie è praticamente neutro (0,013), il trasferimento di 85.500 ETH da un wallet sconosciuto a Binance può anticipare pressione di vendita, e il prezzo si trova già circa il 2% sopra la media a 10 periodi, quindi l'estensione potrebbe essere eccessiva.
 23/11 14:45:55 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è favorevole, ma le notizie sono neutre e contrastanti, con un possibile afflusso di ETH verso Binance, quindi l'evidenza complessiva è troppo debole per giustificare l'acquisto.
+23/11 15:01:48 INFO    === eth_veloce (ETH-EUR) ===
+23/11 15:01:48 INFO    Prezzo 1629.54 | medie 1616.28/1590.16 trend SU | notizie -0.11 su 3 (0 nuove, 0 da Claude) | 0.3s
+23/11 15:01:48 INFO       (-0.2 r0.9 claude) Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack
+23/11 15:01:48 INFO       (-0.2 r0.8 claude) BlackRock’s staked Ethereum ETF can delay redemptions if unstaked ETH runs short
+23/11 15:01:48 INFO       (-0.2 r0.1 claude) Chainflip founder admits heavy losses after second hack in 10 weeks drains $12 million
+23/11 15:01:48 INFO    -> ATTENDI: notizie sotto la soglia (-0.11)
