@@ -4965,3 +4965,11 @@
 23/11 15:02:15 INFO       rialzista: Il prezzo (0.9096) è sopra la media mobile a 10 giorni (0.8891) e a 30 giorni (0.8706), con medie allineate al rialzo, quindi il trend di breve e medio periodo è positivo.
 23/11 15:02:15 INFO       ribassista: Il dato di notizie è neutro (0.0) senza titoli a supporto, il prezzo è già circa il 4,5% sopra la media a 30 giorni e l'ATR giornaliero indica volatilità non trascurabile per un asset così esposto a shock improvvisi.
 23/11 15:02:15 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è basato solo sull'analisi tecnica, senza alcuna conferma dalle notizie né un piano di gestione del rischio (stop-loss e dimensione della posizione) definito, quindi le prove sono troppo deboli per un acquisto spot.
+23/11 15:16:04 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 15:16:04 INFO    Prezzo 0.9109 | medie 0.895/0.873286 trend SU | notizie +0.07 su 45 (3 nuove, 3 da Claude) | 0.2s
+23/11 15:16:04 INFO       (+0.5 r0.9 claude) Ripple's RLUSD Hits Record $2.87B Supply, Topping Trump-Tied USD1 - BigGo Finance
+23/11 15:16:04 INFO       (-0.7 r0.9 claude) XRP Slips Below $1 as Ripple's Own Stablecoin Erodes the Token's Core Case - BigGo Finance
+23/11 15:16:04 INFO       (-0.4 r0.9 claude) Ripple Price Forecast: XRP remains range-bound as retail and institutional capital flows out - www.tmgm.com
+23/11 15:16:07 INFO       rialzista: Il prezzo (0.9109) è sopra la media mobile a 10 periodi (0.895) e a 30 periodi (0.8733), indicando un trend di breve e medio periodo ancora positivo.
+23/11 15:16:07 INFO       ribassista: Il punteggio delle notizie è quasi neutro (0.065), i titoli sono contrastanti e il sentiment dei flussi di capitale è negativo, quindi il trend rialzista non ha un catalizzatore chiaro.
+23/11 15:16:07 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è debole e le notizie sono contrastanti (uno dei titoli più recenti parla di XRP sotto 1 dollaro e di flussi in uscita), quindi l'evidenza non giustifica un acquisto spot senza leva e senza uno stop definito.

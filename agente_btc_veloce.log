@@ -5118,3 +5118,11 @@
 23/11 15:02:01 INFO       rialzista: Il prezzo (57.635,92) è sopra la media mobile a 10 periodi (57.153) e a 30 periodi (56.459), con una struttura di trend moderatamente positiva e uno sfondo di notizie leggermente favorevole.
 23/11 15:02:01 INFO       ribassista: I titoli citano un BTC sopra 64.000 dollari, incompatibile con il prezzo di mercato di 57.636, quindi il segnale di notizie è inaffidabile e la tesi rialzista poggia su dati non verificati.
 23/11 15:02:01 INFO    -> BLOCCATO DAL DIBATTITO: I titoli di notizia riportano prezzi sopra 64.000 dollari, in contrasto con il prezzo di mercato di 57.636, quindi le evidenze sono troppo deboli per approvare l'acquisto spot senza prima verificare i dati.
+23/11 15:15:59 INFO    === btc_veloce (BTC-EUR) ===
+23/11 15:15:59 INFO    Prezzo 57726.80 | medie 57347.81/56546.02 trend SU | notizie +0.14 su 124 (14 nuove, 14 da Claude) | 0.2s
+23/11 15:15:59 INFO       (+0.7 r1.0 claude) Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO
+23/11 15:15:59 INFO       (+0.7 r0.9 claude) Bitcoin rockets above $64,000 as Nvidia reinstates Jensen Huang, wiping out $372 million in shorts - CryptoSla
+23/11 15:15:59 INFO       (+0.6 r0.9 claude) Bitcoin Price Surges Near $64K As Nvidia Reinstates CEO - Bitcoin Magazine
+23/11 15:16:02 INFO       rialzista: Il prezzo (57.726,8) è sopra la media mobile a 10 periodi (57.347,8) e a 30 periodi (56.546,0), indicando un trend di breve e medio termine positivo.
+23/11 15:16:02 INFO       ribassista: I titoli citati parlano di un BTC sopra i 64.000 dollari e di un presunto reintegro di un CEO di Nvidia, cifre e fatti che non coincidono con i dati di mercato e che quindi non possono essere considerati affidabili come base per l'acquisto.
+23/11 15:16:02 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è debole (prezzo solo poco sopra le medie, con volatilità giornaliera di circa 506 dollari) e le notizie, con punteggio 0,14, sono in contraddizione con il prezzo osservato, quindi l'evidenza non giustifica un acquisto spot.

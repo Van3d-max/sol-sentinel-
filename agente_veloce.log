@@ -13160,3 +13160,11 @@
 23/11 15:01:40 INFO       rialzista: Il prezzo (70.02) si trova sopra la media mobile a 10 periodi (68.44) e a 30 periodi (67.03), indicando un trend di breve e medio termine positivo con volatilità giornaliera contenuta (ATR 0.75).
 23/11 15:01:40 INFO       ribassista: Il punteggio delle notizie è quasi neutro (0.013), il titolo di supporto è irrilevante (una meme coin benefica) e il segnale tecnico si basa solo su due medie mobili senza un catalizzatore chiaro.
 23/11 15:01:40 INFO    -> BLOCCATO DAL DIBATTITO: Il trend tecnico è favorevole ma debole e non è supportato da notizie rilevanti o da un catalizzatore, quindi le prove non giustificano l'ingresso.
+23/11 15:15:44 INFO    === veloce (SOL-EUR) ===
+23/11 15:15:44 INFO    Prezzo 69.6100 | medie 68.8367/67.2010 trend SU | notizie +0.34 su 44 (2 nuove, 2 da Claude) | 0.2s
+23/11 15:15:44 INFO       (+0.6 r1.0 claude) Solana rises 2.6% as Zelle chooses its network for new stablecoin launch - Pluang
+23/11 15:15:44 INFO       (+0.5 r1.0 claude) Solana gains more than 8% after first net ETF inflows in six weeks and 1.0 upgrade - Traders Union
+23/11 15:15:44 INFO       (+0.6 r0.9 claude) Solana rebounds above $72 after eight weeks of losses, eyeing $80 resistance for a bullish reversal. - Pluang
+23/11 15:15:49 INFO       rialzista: Il prezzo (69,61) è sopra la media mobile a 10 periodi (68,84) e a 30 periodi (67,20), lo score delle notizie è positivo (0,337) e i titoli citano afflussi netti negli ETF e l'adozione di Zelle.
+23/11 15:15:49 INFO       ribassista: I titoli parlano di un rimbalzo sopra 72$ con resistenza a 80$, quindi non coincidono con il prezzo attuale, e il vantaggio sulle medie è modesto, con un ATR di circa l'1% che suggerisce poca forza direzionale.
+23/11 15:15:49 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole e i titoli non corrispondono al prezzo di mercato attuale, quindi i dati potrebbero non essere aggiornati e non giustificano l'ingresso ora.
