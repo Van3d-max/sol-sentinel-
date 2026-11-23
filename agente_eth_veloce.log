@@ -5129,3 +5129,10 @@
 23/11 15:15:55 INFO       rialzista: Il prezzo (1630,84) è sopra la media a 10 giorni (1623,06) e a 30 giorni (1593,16), e i flussi di acquisto istituzionali citati nelle notizie sostengono la domanda.
 23/11 15:15:55 INFO       ribassista: Il punteggio notizie è quasi neutro (0,094), il rialzo recente del 6% sembra in parte guidato da short liquidations e il prezzo è vicino alla media a 10 giorni, quindi un ritracciamento è plausibile.
 23/11 15:15:55 INFO    -> COMPRA: trend su + notizie +0.09; Il trend è allineato al rialzo e il rischio è contenuto (spot senza leva, ATR giornaliero circa l'1%), ma la dimensione della posizione va mantenuta modesta data la debolezza del segnale da notizie.
+23/11 15:31:12 INFO    === eth_veloce (ETH-EUR) ===
+23/11 15:31:13 INFO    Prezzo 1638.92 | medie 1630.10/1596.44 trend SU | notizie +0.06 su 63 (4 nuove, 4 da Claude) | 0.3s
+23/11 15:31:13 INFO       (-0.7 r1.0 claude) BlackRock ETF Dumps 1 Million ETH Worth $1.75B as Ethereum Outflows Accelerate: Is ETH In Trouble? - Coinspeak
+23/11 15:31:13 INFO       (+0.6 r1.0 claude) Bitmine adds 7,819 ETH as Tom Lee makes the 'hard money' case - The Block
+23/11 15:31:13 INFO       (+0.5 r1.0 claude) Bitmine On Verge Of Owning 5% Of Ethereum After Latest Purchase - Yahoo Finance
+23/11 15:31:13 INFO    POSIZIONE CHIUSA (notizia shock: BlackRock ETF Dumps 1 Million ETH Worth $1.75B as Ethereum Outflows Accelerate: ): -0.71 EUR
+23/11 15:31:13 INFO    -> VENDUTO: notizia shock: BlackRock ETF Dumps 1 Million ETH Worth $1.75B as Ethereum Outflows Accelerate: 

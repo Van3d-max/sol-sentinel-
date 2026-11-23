@@ -1,33 +1,8 @@
 {
-  "pos": {
-    "apertura": "2026-11-23T16:15:55+01:00",
-    "quantita": 0.06095018518064311,
-    "entrata": 1630.84,
-    "costo": 100.0,
-    "comm": 0.6,
-    "sl": 1599.0067548252791,
-    "sl_limite": 1583.0166872770262,
-    "id_stop": null,
-    "tp": 1678.5898677620812,
-    "ordini": [
-      "paper-385ba023"
-    ],
-    "notizie": 0.094,
-    "dibattito": "Il trend \u00e8 allineato al rialzo e il rischio \u00e8 contenuto (spot senza leva, ATR giornaliero circa l'1%), ma la dimensione della posizione va mantenuta modesta data la debolezza del segnale da notizie.",
-    "ctx": {
-      "ora": 16,
-      "giorno": 0,
-      "notizie": 0.094,
-      "distanza_media_pct": 2.365,
-      "forza_trend_pct": 1.877,
-      "atr_pct": 0.976,
-      "obiettivo_pct": 2.928,
-      "stop_pct": 1.952
-    }
-  },
+  "pos": null,
   "giorno": "2026-11-23",
   "ingressi_oggi": 1,
-  "pnl_oggi": 0.0,
-  "ultima_uscita": 0.0,
+  "pnl_oggi": -0.7068773687179544,
+  "ultima_uscita": 1795447873.1891775,
   "bloccato": null
 }

@@ -13168,3 +13168,11 @@
 23/11 15:15:49 INFO       rialzista: Il prezzo (69,61) è sopra la media mobile a 10 periodi (68,84) e a 30 periodi (67,20), lo score delle notizie è positivo (0,337) e i titoli citano afflussi netti negli ETF e l'adozione di Zelle.
 23/11 15:15:49 INFO       ribassista: I titoli parlano di un rimbalzo sopra 72$ con resistenza a 80$, quindi non coincidono con il prezzo attuale, e il vantaggio sulle medie è modesto, con un ATR di circa l'1% che suggerisce poca forza direzionale.
 23/11 15:15:49 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è debole e i titoli non corrispondono al prezzo di mercato attuale, quindi i dati potrebbero non essere aggiornati e non giustificano l'ingresso ora.
+23/11 15:31:06 INFO    === veloce (SOL-EUR) ===
+23/11 15:31:06 INFO    Prezzo 70.0000 | medie 69.2644/67.4029 trend SU | notizie +0.33 su 45 (1 nuove, 1 da Claude) | 0.3s
+23/11 15:31:06 INFO       (+0.6 r1.0 claude) Solana rises 2.6% as Zelle chooses its network for new stablecoin launch - Pluang
+23/11 15:31:06 INFO       (+0.5 r1.0 claude) Solana gains more than 8% after first net ETF inflows in six weeks and 1.0 upgrade - Traders Union
+23/11 15:31:06 INFO       (+0.6 r0.9 claude) Solana rebounds above $72 after eight weeks of losses, eyeing $80 resistance for a bullish reversal. - Pluang
+23/11 15:31:10 INFO       rialzista: Il prezzo (70,0) è sopra la media mobile a 10 periodi (69,26) e a 30 periodi (67,40), con notizie recenti positive su adozione per stablecoin Zelle e flussi ETF netti in entrata.
+23/11 15:31:10 INFO       ribassista: Il margine sopra la media a 10 periodi è esiguo, i titoli citano livelli di prezzo (oltre 72 dollari) non coerenti con il prezzo di mercato dato, e dopo otto settimane di perdite un singolo afflusso ETF non basta a confermare un'inversione.
+23/11 15:31:10 INFO    -> BLOCCATO DAL DIBATTITO: Le prove sono deboli e incoerenti (livelli citati nei titoli non allineati al prezzo di mercato, slancio di breve periodo non consolidato e nessuno stop-loss definito), quindi il rischio non è giustificato.

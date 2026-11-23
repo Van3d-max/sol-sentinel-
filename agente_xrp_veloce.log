@@ -4973,3 +4973,11 @@
 23/11 15:16:07 INFO       rialzista: Il prezzo (0.9109) è sopra la media mobile a 10 periodi (0.895) e a 30 periodi (0.8733), indicando un trend di breve e medio periodo ancora positivo.
 23/11 15:16:07 INFO       ribassista: Il punteggio delle notizie è quasi neutro (0.065), i titoli sono contrastanti e il sentiment dei flussi di capitale è negativo, quindi il trend rialzista non ha un catalizzatore chiaro.
 23/11 15:16:07 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico è debole e le notizie sono contrastanti (uno dei titoli più recenti parla di XRP sotto 1 dollaro e di flussi in uscita), quindi l'evidenza non giustifica un acquisto spot senza leva e senza uno stop definito.
+23/11 15:31:17 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 15:31:17 INFO    Prezzo 0.9201 | medie 0.901478/0.876314 trend SU | notizie +0.07 su 45 (0 nuove, 0 da Claude) | 0.3s
+23/11 15:31:17 INFO       (+0.5 r0.9 claude) Ripple's RLUSD Hits Record $2.87B Supply, Topping Trump-Tied USD1 - BigGo Finance
+23/11 15:31:17 INFO       (-0.7 r0.9 claude) XRP Slips Below $1 as Ripple's Own Stablecoin Erodes the Token's Core Case - BigGo Finance
+23/11 15:31:17 INFO       (-0.4 r0.9 claude) Ripple Price Forecast: XRP remains range-bound as retail and institutional capital flows out - www.tmgm.com
+23/11 15:31:21 INFO       rialzista: Il prezzo (0.9201) è sopra la media mobile a 10 periodi (0.9015) e a 30 periodi (0.8763), indicando un trend di breve e medio termine positivo, e la notizia sull'offerta record di RLUSD mostra un'attività reale dell'ecosistema Ripple.
+23/11 15:31:21 INFO       ribassista: Il punteggio delle notizie è quasi neutro (0.065), i titoli più pesanti sono negativi e parlano di XRP sotto 1 dollaro e di flussi di capitale in uscita, con un prezzo range-bound che non conferma un breakout.
+23/11 15:31:21 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale tecnico favorevole è debole rispetto a un sentiment neutro e contraddittorio, quindi senza un vantaggio chiaro l'acquisto spot non giustifica il rischio.
