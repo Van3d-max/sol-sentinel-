@@ -5143,3 +5143,9 @@
 23/11 22:01:20 INFO    Prezzo 0.8642 | medie 0.862244/0.870867 trend GIU | notizie +0.00 su 1 (0 nuove, 0 da Claude) | 0.3s
 23/11 22:01:20 INFO       (+0.1 r0.1 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More
 23/11 22:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
+23/11 22:15:51 INFO    === xrp_veloce (XRP-EUR) ===
+23/11 22:15:51 INFO    Prezzo 0.8622 | medie 0.861933/0.869419 trend GIU | notizie -0.01 su 58 (1 nuove, 1 da Claude) | 0.1s
+23/11 22:15:51 INFO       (-0.6 r0.9 claude) XRP Price Prediction: ETF Outflows Top $30M as Token Faces Worst November - Coinpaper
+23/11 22:15:51 INFO       (+0.4 r0.9 claude) XRP News Today: From $36,000 To $8 Million, XRP ETFs Enter Wall Street’s Repo Market - Cryptonews.net
+23/11 22:15:51 INFO       (-0.5 r1.0 claude) Founder Explains Why He Wouldn’t Touch XRP With a 10-Foot Pole - Cryptonews.net
+23/11 22:15:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
