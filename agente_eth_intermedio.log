@@ -1514,3 +1514,10 @@
 23/11 17:45:50 INFO       (+0.6 r0.9 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More - Yahoo Finance
 23/11 17:45:50 INFO       (-0.7 r1.0 claude) BlackRock ETF Dumps 1 Million ETH Worth $1.75B as Ethereum Outflows Accelerate: Is ETH In Trouble? - Coinspeak
 23/11 17:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 18:45:49 INFO    === eth_intermedio (ETH-EUR) ===
+23/11 18:45:49 INFO    Trend superiore (ONE_DAY): GIU
+23/11 18:45:49 INFO    Prezzo 1595.30 | medie 1582.54/1559.43 trend SU | notizie +0.14 su 67 (2 nuove, 2 da Claude) | 0.4s
+23/11 18:45:49 INFO       (+0.6 r0.9 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More
+23/11 18:45:49 INFO       (+0.6 r0.9 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More - Yahoo Finance
+23/11 18:45:49 INFO       (-0.7 r1.0 claude) BlackRock ETF Dumps 1 Million ETH Worth $1.75B as Ethereum Outflows Accelerate: Is ETH In Trouble? - Coinspeak
+23/11 18:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

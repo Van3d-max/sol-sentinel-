@@ -5212,3 +5212,9 @@
 23/11 18:31:08 INFO       (+0.6 r0.9 claude) Strategy adds 457 bitcoin to balance sheet, buys back $212M of STRC - Yahoo Finance
 23/11 18:31:08 INFO       (+0.4 r0.9 claude) Bitcoin rallies as Nvidia brings back Jensen Huang - Yahoo Finance
 23/11 18:31:08 INFO    -> ATTENDI: trend 15 minuti non rialzista
+23/11 18:45:52 INFO    === btc_veloce (BTC-EUR) ===
+23/11 18:45:52 INFO    Prezzo 56306.28 | medie 56675.92/57276.50 trend GIU | notizie +0.11 su 131 (5 nuove, 5 da Claude) | 0.3s
+23/11 18:45:52 INFO       (+0.6 r1.0 claude) Abraxas Capital reportedly scoops up $1 billion in Bitcoin over two days - TradingView
+23/11 18:45:52 INFO       (+0.6 r0.9 claude) Strategy adds 457 bitcoin to balance sheet, buys back $212M of STRC - Yahoo Finance
+23/11 18:45:52 INFO       (+0.4 r0.9 claude) Bitcoin rallies as Nvidia brings back Jensen Huang - Yahoo Finance
+23/11 18:45:52 INFO    -> ATTENDI: trend 15 minuti non rialzista

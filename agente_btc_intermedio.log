@@ -1517,3 +1517,10 @@
 23/11 17:45:56 INFO       (+0.7 r1.0 claude) Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO
 23/11 17:45:56 INFO       (+0.7 r0.9 claude) Bitcoin rockets above $64,000 as Nvidia reinstates Jensen Huang, wiping out $372 million in shorts - CryptoSla
 23/11 17:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 18:45:52 INFO    === btc_intermedio (BTC-EUR) ===
+23/11 18:45:53 INFO    Trend superiore (ONE_DAY): GIU
+23/11 18:45:53 INFO    Prezzo 56306.28 | medie 56195.76/55466.75 trend SU | notizie +0.11 su 131 (5 nuove, 5 da Claude) | 0.7s
+23/11 18:45:53 INFO       (+0.6 r1.0 claude) Abraxas Capital reportedly scoops up $1 billion in Bitcoin over two days - TradingView
+23/11 18:45:53 INFO       (+0.6 r0.9 claude) Strategy adds 457 bitcoin to balance sheet, buys back $212M of STRC - Yahoo Finance
+23/11 18:45:53 INFO       (+0.4 r0.9 claude) Bitcoin rallies as Nvidia brings back Jensen Huang - Yahoo Finance
+23/11 18:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

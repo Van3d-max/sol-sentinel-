@@ -1496,3 +1496,10 @@
 23/11 17:46:01 INFO       (+0.5 r1.0 claude) How High Could XRP Price Go This Week as 3 Bullish Signals Emerge? - CoinGape
 23/11 17:46:01 INFO       (+0.5 r0.9 claude) Ripple's RLUSD Hits Record $2.87B Supply, Topping Trump-Tied USD1 - BigGo Finance
 23/11 17:46:01 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+23/11 18:45:56 INFO    === xrp_intermedio (XRP-EUR) ===
+23/11 18:45:56 INFO    Trend superiore (ONE_DAY): GIU
+23/11 18:45:56 INFO    Prezzo 0.8706 | medie 0.86187/0.851938 trend SU | notizie +0.04 su 45 (4 nuove, 4 da Claude) | 0.4s
+23/11 18:45:56 INFO       (-0.5 r1.0 claude) Founder Explains Why He Wouldn’t Touch XRP With a 10-Foot Pole - Cryptonews.net
+23/11 18:45:56 INFO       (-0.4 r1.0 claude) Ripple’s David Schwartz Sold 88% of His XRP: Here Is Why He Says He Did It - 24/7 Wall St.
+23/11 18:45:56 INFO       (+0.3 r1.0 claude) How High Could XRP Price Go This Week as 3 Bullish Signals Emerge? - Cryptonews.net
+23/11 18:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
