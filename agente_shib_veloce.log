@@ -4860,3 +4860,6 @@
 23/11 15:46:13 INFO    === shib_veloce (SHIB-EUR) ===
 23/11 15:46:13 INFO    Prezzo 3.48e-06 | medie 3.44444e-06/3.36095e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 23/11 15:46:13 INFO    -> ATTENDI: obiettivo +1.83% sotto il minimo +2.20% (commissioni)
+23/11 16:01:26 INFO    === shib_veloce (SHIB-EUR) ===
+23/11 16:01:26 INFO    Prezzo 3.48e-06 | medie 3.44444e-06/3.36095e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.1s
+23/11 16:01:26 INFO    -> ATTENDI: obiettivo +1.83% sotto il minimo +2.20% (commissioni)

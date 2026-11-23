@@ -13184,3 +13184,11 @@
 23/11 15:45:59 INFO       rialzista: Il prezzo sta sopra la media mobile a 30 giorni (67,57) e il flusso di notizie è positivo (punteggio 0,335), con afflussi netti negli ETF e l'adozione da parte di Zelle che sostengono un possibile rialzo.
 23/11 15:45:59 INFO       ribassista: Il prezzo (69,09) è sotto la media a 10 giorni (69,6), segno di debolezza nel breve termine, e le notizie rialziste potrebbero essere già scontate dopo rialzi del 2,6% e dell'8%.
 23/11 15:45:59 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale è misto: il prezzo è sotto la media a 10 giorni, le notizie positive sono già in parte scontate e l'ATR giornaliero (0,78, circa l'1%) appare sospettosamente basso per SOL, quindi le evidenze non sono abbastanza forti per aprire la posizione.
+23/11 16:01:13 INFO    === veloce (SOL-EUR) ===
+23/11 16:01:14 INFO    Prezzo 69.2900 | medie 69.9544/67.7419 trend SU | notizie +0.34 su 48 (2 nuove, 2 da Claude) | 0.1s
+23/11 16:01:14 INFO       (+0.6 r1.0 claude) Solana rises 2.6% as Zelle chooses its network for new stablecoin launch - Pluang
+23/11 16:01:14 INFO       (+0.5 r0.7 claude) Backpack Tokenized Securities Pass $10 Billion in Onchain Volume Five Months After Launching on Solana - genfi
+23/11 16:01:14 INFO       (+0.5 r1.0 claude) Solana gains more than 8% after first net ETF inflows in six weeks and 1.0 upgrade - Traders Union
+23/11 16:01:17 INFO       rialzista: Il prezzo supera la media mobile a 30 giorni (67,74) e le notizie recenti sono nettamente positive, con nuovi flussi verso l'ETF e l'adozione di Zelle e Backpack.
+23/11 16:01:17 INFO       ribassista: Il prezzo (69,29) resta sotto la media a 10 giorni (69,95), il segnale di breve periodo è debole e i titoli sono promozionali e in parte ripetitivi, quindi il rialzo potrebbe essere già scontato.
+23/11 16:01:17 INFO    -> BLOCCATO DAL DIBATTITO: I segnali tecnici sono contrastanti (prezzo sotto la MA10 ma sopra la MA30), la volatilità giornaliera è contenuta (ATR circa 1,1%) e il sentiment positivo si basa su titoli promozionali, quindi le prove non giustificano un ingresso ora.
