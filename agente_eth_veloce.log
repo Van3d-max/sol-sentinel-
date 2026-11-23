@@ -4953,3 +4953,9 @@
 23/11 08:01:18 INFO       (-0.6 r1.0 claude) Ethereum spot ETFs recorded a $97.38 million net outflow on November 20, marking the sixth consecutive day of 
 23/11 08:01:18 INFO       (+0.3 r0.7 claude) LIVE Crypto News – Bitcoin and Ethereum Bounce Back: Market Finally Turning? - Yahoo Finance
 23/11 08:01:18 INFO    -> ATTENDI: trend 15 minuti non rialzista
+23/11 08:15:46 INFO    === eth_veloce (ETH-EUR) ===
+23/11 08:15:47 INFO    Prezzo 1560.96 | medie 1566.53/1570.66 trend GIU | notizie -0.04 su 36 (1 nuove, 1 da Claude) | 0.3s
+23/11 08:15:47 INFO       (-0.5 r0.6 claude) Bitcoin ETF Outflows Hit $1.8B as Ethereum Exits Persist - Bitcoin Foundation
+23/11 08:15:47 INFO       (+0.4 r0.9 claude) Ethereum sets Hoodi testnet date for Glamsterdam upgrade: ETH gains momentum - Traders Union
+23/11 08:15:47 INFO       (-0.6 r1.0 claude) Ethereum spot ETFs recorded a $97.38 million net outflow on November 20, marking the sixth consecutive day of 
+23/11 08:15:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
