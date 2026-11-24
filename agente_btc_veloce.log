@@ -5356,3 +5356,9 @@
 24/11 00:31:07 INFO       (-0.7 r0.9 claude) Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
 24/11 00:31:07 INFO       (+0.4 r0.7 claude) Grayscale Calls Crypto Oversold as 21Shares Sticks to 2027 Bitcoin Forecast - Yahoo Finance
 24/11 00:31:07 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 00:45:54 INFO    === btc_veloce (BTC-EUR) ===
+24/11 00:45:55 INFO    Prezzo 56147.02 | medie 56157.73/56157.64 trend SU | notizie -0.02 su 135 (3 nuove, 3 da Claude) | 0.5s
+24/11 00:45:55 INFO       (-0.6 r0.9 claude) Crypto Market Today, Nov. 23: Bitcoin Sits Out Wall Street's Historic Rally as $1.8 Billion ETF Exodus Weighs 
+24/11 00:45:55 INFO       (-0.7 r0.9 claude) Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
+24/11 00:45:55 INFO       (+0.4 r0.7 claude) Grayscale Calls Crypto Oversold as 21Shares Sticks to 2027 Bitcoin Forecast - Yahoo Finance
+24/11 00:45:55 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)

@@ -1336,3 +1336,9 @@
 23/11 23:45:40 INFO       (-0.7 r0.9 claude) Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
 23/11 23:45:40 INFO       (+0.6 r0.9 claude) Strategy Expands Bitcoin Holdings to 851,310 as Saylor Boosts Buyback Program to $4 Billion - citybiz
 23/11 23:45:40 INFO    -> ATTENDI: trend giornaliero non rialzista
+24/11 00:45:55 INFO    === btc_lento (BTC-EUR) ===
+24/11 00:45:56 INFO    Prezzo 56147.02 | medie 56993.66/64770.15 trend GIU | notizie +0.02 su 138 (3 nuove, 3 da Claude) | 0.1s
+24/11 00:45:56 INFO       (-0.6 r0.9 claude) Crypto Market Today, Nov. 23: Bitcoin Sits Out Wall Street's Historic Rally as $1.8 Billion ETF Exodus Weighs 
+24/11 00:45:56 INFO       (-0.7 r0.9 claude) Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
+24/11 00:45:56 INFO       (-0.4 r1.0 claude) Is Bitcoin Heading for $50,000? - The Motley Fool
+24/11 00:45:56 INFO    -> ATTENDI: trend giornaliero non rialzista
