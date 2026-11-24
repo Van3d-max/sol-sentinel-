@@ -1628,3 +1628,10 @@
 24/11 12:45:52 INFO       (-0.6 r1.0 claude) XRP Price Declines To $0.93 As Crypto Investors Stand Aloof - MarketForces Africa
 24/11 12:45:52 INFO       (-0.4 r1.0 claude) XRP (XRP) Weekly Forecast: Downtrend May Resume After Monday’s Liquidity Sweep - FXEmpire
 24/11 12:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 13:45:50 INFO    === xrp_intermedio (XRP-EUR) ===
+24/11 13:45:51 INFO    Trend superiore (ONE_DAY): GIU
+24/11 13:45:51 INFO    Prezzo 0.8398 | medie 0.863215/0.85828 trend SU | notizie -0.14 su 47 (1 nuove, 1 da Claude) | 0.2s
+24/11 13:45:51 INFO       (-0.6 r1.0 claude) Why is XRP falling? - FXStreet
+24/11 13:45:51 INFO       (-0.6 r1.0 claude) XRP Price Struggles Below $1 as Selling Pressure Puts $0.90 at Risk - Coinpedia
+24/11 13:45:51 INFO       (-0.6 r1.0 claude) XRP Price Declines To $0.93 As Crypto Investors Stand Aloof - MarketForces Africa
+24/11 13:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

@@ -1414,3 +1414,9 @@
 24/11 12:45:50 INFO       (-0.8 r0.9 claude) Bitcoin sell-off: Binance hack sparked it, forced selling deepened it - 21Shares
 24/11 12:45:50 INFO       (-0.6 r1.0 claude) Bitcoin (BTC) price falls below $60,000 as it hands back Monday's NVDA-driven rally - CoinDesk
 24/11 12:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista
+24/11 13:45:49 INFO    === btc_lento (BTC-EUR) ===
+24/11 13:45:49 INFO    Prezzo 54826.26 | medie 56993.66/64770.15 trend GIU | notizie -0.19 su 126 (1 nuove, 1 da Claude) | 0.1s
+24/11 13:45:49 INFO       (-0.8 r1.0 claude) Bitcoin drops as November spot ETF outflows increase to record $4.71 billion
+24/11 13:45:49 INFO       (-0.7 r0.9 claude) Bitcoin drops as November spot ETF outflows increase to record $4.71 billion - CoinDesk
+24/11 13:45:49 INFO       (-0.8 r0.9 claude) Bitcoin sell-off: Binance hack sparked it, forced selling deepened it - 21Shares
+24/11 13:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista

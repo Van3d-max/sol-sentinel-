@@ -1650,3 +1650,10 @@
 24/11 12:45:50 INFO       (-0.8 r0.9 claude) Bitcoin sell-off: Binance hack sparked it, forced selling deepened it - 21Shares
 24/11 12:45:50 INFO       (-0.5 r1.0 claude) Can Bitcoin Regain the $90,000 Price Level by Year End? Galaxy Digital CEO Mike Novogratz Says It's Unlikely. 
 24/11 12:45:50 INFO    -> ATTENDI: trend orario non rialzista
+24/11 13:45:49 INFO    === btc_intermedio (BTC-EUR) ===
+24/11 13:45:49 INFO    Trend superiore (ONE_DAY): GIU
+24/11 13:45:49 INFO    Prezzo 54826.26 | medie 55615.21/55804.81 trend GIU | notizie -0.20 su 108 (1 nuove, 1 da Claude) | 0.2s
+24/11 13:45:49 INFO       (-0.8 r1.0 claude) Bitcoin drops as November spot ETF outflows increase to record $4.71 billion
+24/11 13:45:49 INFO       (-0.7 r0.9 claude) Bitcoin drops as November spot ETF outflows increase to record $4.71 billion - CoinDesk
+24/11 13:45:49 INFO       (-0.8 r0.9 claude) Bitcoin sell-off: Binance hack sparked it, forced selling deepened it - 21Shares
+24/11 13:45:49 INFO    -> ATTENDI: trend orario non rialzista
