@@ -5637,3 +5637,9 @@
 24/11 19:15:53 INFO       (-0.4 r1.0 claude) Why Is XRP Falling Again After Its Jensen Huang Rally? - 24/7 Wall St.
 24/11 19:15:53 INFO       (-0.3 r1.0 claude) XRP Price Stalls Below $1 as XRPL Wipes Testnet and Devnet - Cryptonews
 24/11 19:15:53 INFO    -> ATTENDI: notizie sotto la soglia (-0.12)
+24/11 19:31:08 INFO    === xrp_veloce (XRP-EUR) ===
+24/11 19:31:08 INFO    Prezzo 0.8382 | medie 0.840311/0.837152 trend SU | notizie -0.07 su 51 (3 nuove, 3 da Claude) | 0.1s
+24/11 19:31:08 INFO       (-0.4 r1.0 claude) Can XRP Hold 90 Cents After Its Worst November Ever? - 24/7 Wall St.
+24/11 19:31:08 INFO       (-0.4 r1.0 claude) Why Is XRP Falling Again After Its Jensen Huang Rally? - 24/7 Wall St.
+24/11 19:31:08 INFO       (+0.3 r0.9 claude) XRP Sees Growing Institutional Activity in Q3: What's Next? - Benzinga
+24/11 19:31:08 INFO    -> ATTENDI: notizie sotto la soglia (-0.07)
