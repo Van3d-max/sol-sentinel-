@@ -5374,3 +5374,9 @@
 24/11 01:15:45 INFO       (-0.7 r0.9 claude) Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
 24/11 01:15:45 INFO       (+0.4 r0.7 claude) Grayscale Calls Crypto Oversold as 21Shares Sticks to 2027 Bitcoin Forecast - Yahoo Finance
 24/11 01:15:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)
+24/11 01:30:59 INFO    === btc_veloce (BTC-EUR) ===
+24/11 01:31:00 INFO    Prezzo 56300.58 | medie 56195.19/56179.12 trend SU | notizie -0.02 su 120 (0 nuove, 0 da Claude) | 0.3s
+24/11 01:31:00 INFO       (-0.4 r0.9 claude) Bitcoin Crashed to $55,000 and MicroStrategy Bought Only 457 BTC. Why? - BeInCrypto
+24/11 01:31:00 INFO       (-0.6 r0.9 claude) Crypto Market Today, Nov. 23: Bitcoin Sits Out Wall Street's Historic Rally as $1.8 Billion ETF Exodus Weighs 
+24/11 01:31:00 INFO       (-0.7 r0.9 claude) Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
+24/11 01:31:00 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)
