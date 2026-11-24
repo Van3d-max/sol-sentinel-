@@ -5638,3 +5638,9 @@
 24/11 12:15:50 INFO       (-0.6 r1.0 claude) Bitcoin Sinks Below $60,000 as Rebound Fizzles - WSJ
 24/11 12:15:50 INFO       (-0.6 r1.0 claude) Bitcoin (BTC) price falls below $60,000 as it hands back Monday's NVDA-driven rally - CoinDesk
 24/11 12:15:50 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 12:31:07 INFO    === btc_veloce (BTC-EUR) ===
+24/11 12:31:07 INFO    Prezzo 54938.74 | medie 54735.83/54941.22 trend GIU | notizie -0.19 su 116 (4 nuove, 4 da Claude) | 0.2s
+24/11 12:31:07 INFO       (-0.8 r0.9 claude) Bitcoin sell-off: Binance hack sparked it, forced selling deepened it - 21Shares
+24/11 12:31:07 INFO       (-0.6 r1.0 claude) Bitcoin (BTC) price falls below $60,000 as it hands back Monday's NVDA-driven rally - CoinDesk
+24/11 12:31:07 INFO       (-0.6 r0.9 claude) Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple
+24/11 12:31:07 INFO    -> ATTENDI: trend 15 minuti non rialzista
