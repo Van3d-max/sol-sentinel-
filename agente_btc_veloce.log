@@ -5662,3 +5662,9 @@
 24/11 13:15:52 INFO       (-0.7 r0.9 claude) Bitcoin drops as November spot ETF outflows increase to record $4.71 billion - CoinDesk
 24/11 13:15:52 INFO       (-0.7 r0.9 claude) Bitcoin Price Drops to $60k as Nvidia Rally Fades and ETFs Shed $570M: What’s Next? - Cryptonews.net
 24/11 13:15:52 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 13:31:08 INFO    === btc_veloce (BTC-EUR) ===
+24/11 13:31:08 INFO    Prezzo 54814.39 | medie 54887.91/54865.27 trend SU | notizie -0.21 su 133 (6 nuove, 6 da Claude) | 0.3s
+24/11 13:31:08 INFO       (-0.8 r1.0 claude) Bitcoin drops as November spot ETF outflows increase to record $4.71 billion
+24/11 13:31:08 INFO       (-0.7 r0.9 claude) Bitcoin drops as November spot ETF outflows increase to record $4.71 billion - CoinDesk
+24/11 13:31:08 INFO       (-0.7 r0.9 claude) Bitcoin Price Drops to $60k as Nvidia Rally Fades and ETFs Shed $570M: What’s Next? - Cryptonews.net
+24/11 13:31:08 INFO    -> ATTENDI: notizia shock: Bitcoin drops as November spot ETF outflows increase to record $4.71 billion
