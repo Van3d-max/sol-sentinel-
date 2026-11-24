@@ -5704,3 +5704,9 @@
 24/11 15:01:29 INFO       (-0.8 r1.0 claude) Bitcoin drops as November spot ETF outflows increase to record $4.71 billion
 24/11 15:01:29 INFO       (+0.3 r0.9 claude) UniCredit Opens Bitcoin to Italian Savers, Capping Gains at 65%
 24/11 15:01:29 INFO    -> ATTENDI: notizia shock: Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record
+24/11 15:15:54 INFO    === btc_veloce (BTC-EUR) ===
+24/11 15:15:54 INFO    Prezzo 54554.49 | medie 54850.21/54827.69 trend SU | notizie -0.21 su 129 (18 nuove, 18 da Claude) | 0.2s
+24/11 15:15:54 INFO       (-0.7 r1.0 claude) Live updates: Bitcoin pulls back to $60,000, stock rally fades, as tariffs re-enter the picture - CoinDesk
+24/11 15:15:54 INFO       (-0.8 r1.0 claude) Bitcoin slips back below its old floor as sellers lean on $60,000. - investingLive
+24/11 15:15:54 INFO       (-0.7 r1.0 claude) Bitcoin ETFs Lose $570M as Blackrock's 3-Day Exodus Hits $1.6B - Bitcoin News
+24/11 15:15:54 INFO    -> ATTENDI: notizia shock: Live updates: Bitcoin pulls back to $60,000, stock rally fades, as tariffs re-en
