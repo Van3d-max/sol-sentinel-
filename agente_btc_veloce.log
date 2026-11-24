@@ -5386,3 +5386,9 @@
 24/11 01:45:44 INFO       (-0.4 r0.9 claude) Bitcoin Crashed to $55,000 and MicroStrategy Bought Only 457 BTC. Why? - BeInCrypto
 24/11 01:45:44 INFO       (-0.6 r0.9 claude) Crypto Market Today, Nov. 23: Bitcoin Sits Out Wall Street's Historic Rally as $1.8 Billion ETF Exodus Weighs 
 24/11 01:45:44 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 02:01:12 INFO    === btc_veloce (BTC-EUR) ===
+24/11 02:01:12 INFO    Prezzo 55885.87 | medie 56166.28/56176.64 trend GIU | notizie +0.05 su 40 (0 nuove, 0 da Claude) | 0.2s
+24/11 02:01:12 INFO       (+0.3 r0.8 claude) CFTC staff say exchanges can count Bitcoin toward operating reserves
+24/11 02:01:12 INFO       (+0.4 r0.9 claude) “This Is An Excellent Entry Point” – UTXO’s Loren Asmus Gives Bitcoin Outlook
+24/11 02:01:12 INFO       (-0.3 r0.9 claude) Bitcoin Price Fades Near $61,000 as Stocks Soar on Huang’s Return
+24/11 02:01:12 INFO    -> ATTENDI: trend 15 minuti non rialzista
