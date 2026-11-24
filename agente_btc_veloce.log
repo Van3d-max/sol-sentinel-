@@ -5392,3 +5392,9 @@
 24/11 02:01:12 INFO       (+0.4 r0.9 claude) “This Is An Excellent Entry Point” – UTXO’s Loren Asmus Gives Bitcoin Outlook
 24/11 02:01:12 INFO       (-0.3 r0.9 claude) Bitcoin Price Fades Near $61,000 as Stocks Soar on Huang’s Return
 24/11 02:01:12 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 02:15:47 INFO    === btc_veloce (BTC-EUR) ===
+24/11 02:15:47 INFO    Prezzo 55759.59 | medie 56130.39/56161.64 trend GIU | notizie -0.05 su 132 (4 nuove, 4 da Claude) | 0.2s
+24/11 02:15:47 INFO       (-0.4 r0.8 claude) Nvidia's 32% Surge Fails to Lift Bitcoin Past $61,000 as ETF Outflows Weigh - BigGo Finance
+24/11 02:15:47 INFO       (-0.4 r0.9 claude) Bitcoin Crashed to $55,000 and MicroStrategy Bought Only 457 BTC. Why? - BeInCrypto
+24/11 02:15:47 INFO       (-0.6 r0.9 claude) Crypto Market Today, Nov. 23: Bitcoin Sits Out Wall Street's Historic Rally as $1.8 Billion ETF Exodus Weighs 
+24/11 02:15:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
