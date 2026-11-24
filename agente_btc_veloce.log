@@ -5614,3 +5614,9 @@
 24/11 11:15:55 INFO       (-0.6 r0.9 claude) Bitcoin (BTC) price drops below $60,000 as Nvidia (NVDA)-led rally loses steam - CoinDesk
 24/11 11:15:55 INFO       (-0.6 r0.9 claude) Bitcoin Slips Under $60K as Gold Logs Worst Selloff in 44 Years - Bitbo
 24/11 11:15:55 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 11:31:05 INFO    === btc_veloce (BTC-EUR) ===
+24/11 11:31:05 INFO    Prezzo 54644.65 | medie 54724.51/55027.71 trend GIU | notizie -0.23 su 131 (5 nuove, 5 da Claude) | 0.2s
+24/11 11:31:05 INFO       (-0.8 r0.9 claude) Bitcoin sell-off: Binance hack sparked it, forced selling deepened it - 21Shares
+24/11 11:31:05 INFO       (-0.6 r0.9 claude) Bitcoin (BTC) price drops below $60,000 as Nvidia (NVDA)-led rally loses steam - CoinDesk
+24/11 11:31:05 INFO       (-0.6 r0.8 claude) Altcoins lose $408B as Bitcoin price falls below $60K and memecoin demand fades - Crypto News
+24/11 11:31:05 INFO    -> ATTENDI: trend 15 minuti non rialzista
