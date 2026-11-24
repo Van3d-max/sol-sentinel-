@@ -5684,3 +5684,9 @@
 24/11 14:15:50 INFO       (-0.5 r0.6 claude) BlackRock leads Bitcoin and Ethereum ETF outflows as $728M exits - Crypto News
 24/11 14:15:50 INFO       (-0.5 r0.8 claude) Ethereum treasury firm BTCS sells over half its ETH to $43.8M in Aave debt - Crypto News
 24/11 14:15:50 INFO    -> ATTENDI: notizie sotto la soglia (-0.12)
+24/11 14:31:05 INFO    === eth_veloce (ETH-EUR) ===
+24/11 14:31:05 INFO    Prezzo 1551.67 | medie 1546.21/1543.89 trend SU | notizie -0.13 su 80 (1 nuove, 1 da Claude) | 0.1s
+24/11 14:31:05 INFO       (-0.6 r1.0 claude) Ethereum Treasury BTCS Dumps 27,300 ETH To Repay $43.8M Aave Debt - Coinpedia
+24/11 14:31:05 INFO       (-0.5 r0.6 claude) BlackRock leads Bitcoin and Ethereum ETF outflows as $728M exits - Crypto News
+24/11 14:31:05 INFO       (-0.5 r0.8 claude) Ethereum treasury firm BTCS sells over half its ETH to $43.8M in Aave debt - Crypto News
+24/11 14:31:05 INFO    -> ATTENDI: notizie sotto la soglia (-0.13)
