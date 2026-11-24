@@ -5800,3 +5800,9 @@
 24/11 19:01:20 INFO       (-0.7 r1.0 claude) Why is Bitcoin down today? BTC drops below $60,000 as ETF outflows mount - TradingView
 24/11 19:01:20 INFO       (-0.5 r1.0 claude) Bitcoin Price Struggles to Hold $60K as Nvidia CEO Return Rally Fades Fast - Cryptonews.net
 24/11 19:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 19:15:50 INFO    === btc_veloce (BTC-EUR) ===
+24/11 19:15:51 INFO    Prezzo 54643.14 | medie 54653.63/54613.89 trend SU | notizie -0.21 su 129 (7 nuove, 7 da Claude) | 0.3s
+24/11 19:15:51 INFO       (-0.8 r1.0 claude) Bitcoin losses hit highest level since FTX collapse - Crypto News
+24/11 19:15:51 INFO       (-0.7 r1.0 claude) Bitcoin Slips Below $60,000 as Tariff Fears Weigh on Stocks and Anthropic Breaks IPO Price - BigGo Finance
+24/11 19:15:51 INFO       (-0.6 r1.0 claude) Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price - Cryptonews.net
+24/11 19:15:51 INFO    -> ATTENDI: notizia shock: Bitcoin Slips Below $60,000 as Tariff Fears Weigh on Stocks and Anthropic Breaks
