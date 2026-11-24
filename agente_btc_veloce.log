@@ -5788,3 +5788,9 @@
 24/11 18:31:38 INFO       (-0.7 r0.9 claude) BlackRock drives Bitcoin ETFs to worst month on record as crypto fund withdrawals near $6 billion
 24/11 18:31:38 INFO       (-0.7 r1.0 claude) Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record
 24/11 18:31:38 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 18:45:51 INFO    === btc_veloce (BTC-EUR) ===
+24/11 18:45:51 INFO    Prezzo 54599.44 | medie 54565.69/54629.14 trend GIU | notizie -0.19 su 128 (12 nuove, 12 da Claude) | 0.1s
+24/11 18:45:51 INFO       (-0.7 r0.9 claude) Bitcoin’s Capitulation 'Begins' as US Buyers Go Missing, Glassnode Says - Benzinga
+24/11 18:45:51 INFO       (-0.7 r1.0 claude) Why is Bitcoin down today? BTC drops below $60,000 as ETF outflows mount - TradingView
+24/11 18:45:51 INFO       (-0.6 r0.9 claude) Bitcoin dips while ongoing institutional selling through US ETFs limits upward momentum - Traders Union
+24/11 18:45:51 INFO    -> ATTENDI: trend 15 minuti non rialzista

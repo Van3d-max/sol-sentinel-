@@ -5622,3 +5622,9 @@
 24/11 18:31:43 INFO    === xrp_veloce (XRP-EUR) ===
 24/11 18:31:44 INFO    Prezzo 0.8403 | medie 0.837278/0.837224 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 1.0s
 24/11 18:31:44 INFO    -> ATTENDI: obiettivo +1.67% sotto il minimo +2.20% (commissioni)
+24/11 18:45:53 INFO    === xrp_veloce (XRP-EUR) ===
+24/11 18:45:53 INFO    Prezzo 0.8402 | medie 0.838111/0.837295 trend SU | notizie -0.17 su 49 (2 nuove, 2 da Claude) | 0.2s
+24/11 18:45:53 INFO       (-0.4 r1.0 claude) Can XRP Hold 90 Cents After Its Worst November Ever? - 24/7 Wall St.
+24/11 18:45:53 INFO       (-0.4 r1.0 claude) Why Is XRP Falling Again After Its Jensen Huang Rally? - 24/7 Wall St.
+24/11 18:45:53 INFO       (-0.6 r1.0 claude) XRP drops almost 8% after token lags despite new institutional partnerships - Traders Union
+24/11 18:45:53 INFO    -> ATTENDI: notizie sotto la soglia (-0.17)

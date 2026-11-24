@@ -1685,3 +1685,10 @@
 24/11 17:45:47 INFO       (-0.7 r0.9 claude) Bitcoin losses hit heaviest level since the FTX collapse - Crypto Briefing
 24/11 17:45:47 INFO       (-0.6 r0.9 claude) Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price
 24/11 17:45:47 INFO    -> ATTENDI: trend orario non rialzista
+24/11 18:45:51 INFO    === btc_intermedio (BTC-EUR) ===
+24/11 18:45:52 INFO    Trend superiore (ONE_DAY): GIU
+24/11 18:45:52 INFO    Prezzo 54599.44 | medie 55192.41/55711.49 trend GIU | notizie -0.19 su 128 (12 nuove, 12 da Claude) | 0.2s
+24/11 18:45:52 INFO       (-0.7 r0.9 claude) Bitcoin’s Capitulation 'Begins' as US Buyers Go Missing, Glassnode Says - Benzinga
+24/11 18:45:52 INFO       (-0.7 r1.0 claude) Why is Bitcoin down today? BTC drops below $60,000 as ETF outflows mount - TradingView
+24/11 18:45:52 INFO       (-0.6 r0.9 claude) Bitcoin dips while ongoing institutional selling through US ETFs limits upward momentum - Traders Union
+24/11 18:45:52 INFO    -> ATTENDI: trend orario non rialzista

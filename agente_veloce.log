@@ -13819,3 +13819,9 @@
 24/11 18:31:19 INFO    === veloce (SOL-EUR) ===
 24/11 18:31:20 INFO    Prezzo 63.5100 | medie 63.2389/63.3081 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.6s
 24/11 18:31:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 18:45:46 INFO    === veloce (SOL-EUR) ===
+24/11 18:45:46 INFO    Prezzo 63.3000 | medie 63.2822/63.2890 trend GIU | notizie -0.01 su 37 (0 nuove, 0 da Claude) | 0.1s
+24/11 18:45:46 INFO       (-0.6 r0.7 claude) CoinShares Dumped All Its Ether and Half Its Solana for $19.3 Million - Memeburn
+24/11 18:45:46 INFO       (-0.4 r1.0 claude) Solana price slips near $72 after a 20% rebound fades - Crypto News
+24/11 18:45:46 INFO       (+0.4 r0.9 claude) Solana Treasury Growth Reaches 11 Weeks as Company Holdings Hit 2.62 Million SOL - Kriptofoni
+24/11 18:45:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
