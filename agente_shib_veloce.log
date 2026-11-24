@@ -5343,3 +5343,9 @@
 24/11 13:01:26 INFO    === shib_veloce (SHIB-EUR) ===
 24/11 13:01:26 INFO    Prezzo 3.27e-06 | medie 3.29556e-06/3.32143e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.6s
 24/11 13:01:26 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 13:15:54 INFO    === shib_veloce (SHIB-EUR) ===
+24/11 13:15:55 INFO    Prezzo 3.23e-06 | medie 3.27889e-06/3.31524e-06 trend GIU | notizie +0.07 su 12 (0 nuove, 0 da Claude) | 0.3s
+24/11 13:15:55 INFO       (+0.2 r0.9 claude) Shiba Inu community launches new Shibarium expl... - Pluang
+24/11 13:15:55 INFO       (+0.1 r0.8 claude) Shiba Inu (SHIB) Community Builds New Shibarium Explorer While Shytoshi Kusama Stays Silent - U.Today
+24/11 13:15:55 INFO       (+0.1 r1.0 claude) Shiba Inu Price Prediction: Will SHIB Rally in 2026 as Jensen Returns? - Coin Gabbar
+24/11 13:15:55 INFO    -> ATTENDI: trend 15 minuti non rialzista

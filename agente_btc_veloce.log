@@ -5656,3 +5656,9 @@
 24/11 13:01:25 INFO       (-0.6 r0.9 claude) Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple
 24/11 13:01:25 INFO       (-0.3 r0.9 claude) Live updates: Bitcoin pulls back to $60,000 as stock rally fails to budge crypto
 24/11 13:01:25 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 13:15:52 INFO    === btc_veloce (BTC-EUR) ===
+24/11 13:15:52 INFO    Prezzo 54504.41 | medie 54849.50/54882.87 trend GIU | notizie -0.21 su 135 (16 nuove, 16 da Claude) | 0.3s
+24/11 13:15:52 INFO       (-0.8 r1.0 claude) Bitcoin drops as November spot ETF outflows increase to record $4.71 billion
+24/11 13:15:52 INFO       (-0.7 r0.9 claude) Bitcoin drops as November spot ETF outflows increase to record $4.71 billion - CoinDesk
+24/11 13:15:52 INFO       (-0.7 r0.9 claude) Bitcoin Price Drops to $60k as Nvidia Rally Fades and ETFs Shed $570M: What’s Next? - Cryptonews.net
+24/11 13:15:52 INFO    -> ATTENDI: trend 15 minuti non rialzista
