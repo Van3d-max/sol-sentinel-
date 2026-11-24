@@ -13888,3 +13888,9 @@
 24/11 21:31:03 INFO    === veloce (SOL-EUR) ===
 24/11 21:31:03 INFO    Prezzo 63.3800 | medie 63.0611/63.1614 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.2s
 24/11 21:31:03 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 21:45:47 INFO    === veloce (SOL-EUR) ===
+24/11 21:45:47 INFO    Prezzo 63.1900 | medie 63.0678/63.1757 trend GIU | notizie +0.06 su 34 (2 nuove, 2 da Claude) | 0.3s
+24/11 21:45:47 INFO       (+0.5 r0.9 claude) DTCC Taps Solana for 2027 Tokenization Rollout as Ripple Builds Rival Bank Network - BigGo Finance
+24/11 21:45:47 INFO       (+0.3 r0.5 claude) Mert Mumtaz Says Bitcoin’s Dominance Could Be Broken: Speaks About Solana, Zcash, and Ethereum - Cryptonews.ne
+24/11 21:45:47 INFO       (-0.6 r0.7 claude) CoinShares Dumped All Its Ether and Half Its Solana for $19.3 Million - Memeburn
+24/11 21:45:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
