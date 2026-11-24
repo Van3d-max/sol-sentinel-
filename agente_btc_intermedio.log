@@ -1608,3 +1608,10 @@
 24/11 06:45:46 INFO       (-0.6 r0.9 claude) On the Chain: Bitcoin slides towards US$60,000 as US$1.8 billion exits crypto funds and investors remain cauti
 24/11 06:45:46 INFO       (-0.4 r0.9 claude) Bitcoin Crashed to $55,000 and MicroStrategy Bought Only 457 BTC. Why? - BeInCrypto
 24/11 06:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 07:45:47 INFO    === btc_intermedio (BTC-EUR) ===
+24/11 07:45:47 INFO    Trend superiore (ONE_DAY): GIU
+24/11 07:45:47 INFO    Prezzo 55384.50 | medie 56240.47/55747.97 trend SU | notizie -0.15 su 133 (2 nuove, 2 da Claude) | 0.2s
+24/11 07:45:47 INFO       (-0.6 r1.0 claude) Bitcoin slips toward $60,000 as fund outflows and broader market weakness weigh - Anadolu Ajansı
+24/11 07:45:47 INFO       (-0.5 r1.0 claude) Bitcoin Price Recovery Faces Weak Demand After $4.7B Leverage Wipeout - Cryptonews.net
+24/11 07:45:47 INFO       (-0.6 r1.0 claude) Bitcoin price struggles near $60K as Nvidia rally fades, ETFs shed $570M - Crypto News
+24/11 07:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

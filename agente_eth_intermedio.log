@@ -1605,3 +1605,10 @@
 24/11 06:45:44 INFO       (-0.6 r0.8 claude) BTCS sold more Ethereum than it has left to repay $43.8 million in debt
 24/11 06:45:44 INFO       (-0.5 r0.9 claude) BTCS sold more Ethereum than it has left to repay $43.8 million in debt - CryptoSlate
 24/11 06:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 07:45:45 INFO    === eth_intermedio (ETH-EUR) ===
+24/11 07:45:45 INFO    Trend superiore (ONE_DAY): GIU
+24/11 07:45:45 INFO    Prezzo 1558.36 | medie 1583.04/1568.72 trend SU | notizie -0.01 su 85 (2 nuove, 2 da Claude) | 0.2s
+24/11 07:45:45 INFO       (-0.6 r0.9 claude) Ethereum ETF outflows and upgrade delay: Can ETH regain momentum? - Traders Union
+24/11 07:45:45 INFO       (-0.6 r0.8 claude) BTCS sold more Ethereum than it has left to repay $43.8 million in debt
+24/11 07:45:45 INFO       (-0.5 r0.9 claude) BTCS sold more Ethereum than it has left to repay $43.8 million in debt - CryptoSlate
+24/11 07:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
