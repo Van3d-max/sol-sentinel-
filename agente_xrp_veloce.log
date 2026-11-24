@@ -5589,3 +5589,9 @@
 24/11 17:01:24 INFO    === xrp_veloce (XRP-EUR) ===
 24/11 17:01:25 INFO    Prezzo 0.8314 | medie 0.832911/0.839062 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.4s
 24/11 17:01:25 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 17:15:50 INFO    === xrp_veloce (XRP-EUR) ===
+24/11 17:15:50 INFO    Prezzo 0.8352 | medie 0.8324/0.838271 trend GIU | notizie -0.16 su 49 (4 nuove, 4 da Claude) | 0.1s
+24/11 17:15:50 INFO       (-0.6 r1.0 claude) XRP drops almost 8% after token lags despite new institutional partnerships - Traders Union
+24/11 17:15:50 INFO       (-0.3 r1.0 claude) XRP Price Stalls Below $1 as XRPL Wipes Testnet and Devnet - Cryptonews
+24/11 17:15:50 INFO       (-0.6 r1.0 claude) Why is XRP falling? - FXStreet
+24/11 17:15:50 INFO    -> ATTENDI: trend 15 minuti non rialzista
