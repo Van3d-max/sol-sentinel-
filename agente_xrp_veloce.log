@@ -5619,3 +5619,6 @@
 24/11 18:15:50 INFO       (-0.3 r1.0 claude) XRP Price Stalls Below $1 as XRPL Wipes Testnet and Devnet - Cryptonews
 24/11 18:15:50 INFO       (-0.6 r1.0 claude) Why is XRP falling? - FXStreet
 24/11 18:15:50 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 18:31:43 INFO    === xrp_veloce (XRP-EUR) ===
+24/11 18:31:44 INFO    Prezzo 0.8403 | medie 0.837278/0.837224 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 1.0s
+24/11 18:31:44 INFO    -> ATTENDI: obiettivo +1.67% sotto il minimo +2.20% (commissioni)

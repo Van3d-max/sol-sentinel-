@@ -5782,3 +5782,9 @@
 24/11 18:15:48 INFO       (-0.7 r0.9 claude) Bitcoin losses hit heaviest level since the FTX collapse - Crypto Briefing
 24/11 18:15:48 INFO       (-0.6 r0.8 claude) Bitcoin Liquidity Tightens and Hawkish Fed Bets Weigh on Crypto - StoneX
 24/11 18:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 18:31:36 INFO    === btc_veloce (BTC-EUR) ===
+24/11 18:31:38 INFO    Prezzo 54738.09 | medie 54533.23/54639.10 trend GIU | notizie -0.19 su 35 (1 nuove, 1 da Claude) | 1.7s
+24/11 18:31:38 INFO       (-0.6 r0.9 claude) Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price
+24/11 18:31:38 INFO       (-0.7 r0.9 claude) BlackRock drives Bitcoin ETFs to worst month on record as crypto fund withdrawals near $6 billion
+24/11 18:31:38 INFO       (-0.7 r1.0 claude) Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record
+24/11 18:31:38 INFO    -> ATTENDI: trend 15 minuti non rialzista

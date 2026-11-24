@@ -5780,3 +5780,9 @@
 24/11 18:15:46 INFO       (-1.0 r1.0 claude) Ethereum tumbles 5.6 percent as Ethereum Foundation security push fails to boost sentiment - Traders Union
 24/11 18:15:46 INFO       (-0.7 r0.9 claude) Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says 'we do not take this lightly
 24/11 18:15:46 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 18:31:27 INFO    === eth_veloce (ETH-EUR) ===
+24/11 18:31:30 INFO    Prezzo 1535.35 | medie 1529.70/1534.00 trend GIU | notizie -0.27 su 6 (0 nuove, 0 da Claude) | 2.8s
+24/11 18:31:30 INFO       (-0.6 r0.9 claude) BitMine’s $655 million Ethereum hit wipes out nearly three years of staking income
+24/11 18:31:30 INFO       (-0.6 r0.3 claude) BlackRock drives Bitcoin ETFs to worst month on record as crypto fund withdrawals near $6 billion
+24/11 18:31:30 INFO       (-0.5 r0.9 claude) BTCS sells more than half its ether to repay $43.8 million in Aave debt
+24/11 18:31:30 INFO    -> ATTENDI: trend 15 minuti non rialzista
