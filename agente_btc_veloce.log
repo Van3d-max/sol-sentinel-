@@ -5722,3 +5722,9 @@
 24/11 15:45:55 INFO       (-0.8 r1.0 claude) Bitcoin slips back below its old floor as sellers lean on $60,000. - investingLive
 24/11 15:45:55 INFO       (-0.7 r0.9 claude) Bitcoin ETFs see another $570 million in net outflows as November total nears $5 billion and BTC dips below $6
 24/11 15:45:55 INFO    -> ATTENDI: notizia shock: BlackRock drives Bitcoin ETFs to worst month on record as crypto fund withdrawal
+24/11 16:01:20 INFO    === btc_veloce (BTC-EUR) ===
+24/11 16:01:20 INFO    Prezzo 54366.41 | medie 54753.65/54793.08 trend GIU | notizie -0.19 su 37 (1 nuove, 1 da Claude) | 0.2s
+24/11 16:01:20 INFO       (-0.7 r0.9 claude) BlackRock drives Bitcoin ETFs to worst month on record as crypto fund withdrawals near $6 billion
+24/11 16:01:20 INFO       (-0.7 r1.0 claude) Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record
+24/11 16:01:20 INFO       (-0.8 r1.0 claude) Bitcoin drops as November spot ETF outflows increase to record $4.71 billion
+24/11 16:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
