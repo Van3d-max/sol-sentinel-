@@ -5854,3 +5854,9 @@
 24/11 21:16:01 INFO       (-0.6 r1.0 claude) Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares
 24/11 21:16:01 INFO       (-0.6 r1.0 claude) Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares - TradingView
 24/11 21:16:01 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 21:31:06 INFO    === btc_veloce (BTC-EUR) ===
+24/11 21:31:06 INFO    Prezzo 54618.46 | medie 54427.45/54496.73 trend GIU | notizie -0.14 su 136 (7 nuove, 7 da Claude) | 0.1s
+24/11 21:31:06 INFO       (-0.5 r1.0 claude) Bitcoin Slips Below $60,000 as AI Risks Dominate 'Oversold' Market: Grayscale - Benzinga
+24/11 21:31:06 INFO       (-0.8 r1.0 claude) Bitcoin losses hit highest level since FTX collapse - Crypto News
+24/11 21:31:06 INFO       (-0.6 r1.0 claude) Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares
+24/11 21:31:06 INFO    -> ATTENDI: trend 15 minuti non rialzista
