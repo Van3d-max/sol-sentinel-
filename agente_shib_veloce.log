@@ -5142,3 +5142,9 @@
 24/11 04:01:15 INFO    === shib_veloce (SHIB-EUR) ===
 24/11 04:01:15 INFO    Prezzo 3.31e-06 | medie 3.33222e-06/3.33762e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 24/11 04:01:15 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 04:15:47 INFO    === shib_veloce (SHIB-EUR) ===
+24/11 04:15:47 INFO    Prezzo 3.31e-06 | medie 3.33222e-06/3.33762e-06 trend GIU | notizie -0.08 su 12 (0 nuove, 0 da Claude) | 0.2s
+24/11 04:15:47 INFO       (-0.3 r0.9 claude) Shiba Inu Santa rally hopes dimmed by December track record with 1 win, 4 losses in past 5 years - 디지털투데이
+24/11 04:15:47 INFO       (-0.5 r0.8 claude) Shiba Inu Dev Flags Security Concerns as Pump.Fun Migration Asks Users for Private Keys - U.Today
+24/11 04:15:47 INFO       (-0.4 r0.9 claude) Shiba Inu (SHIB) Santa Rally Hopes Meet a Grinch: Four Red Decembers in Five - U.Today
+24/11 04:15:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
