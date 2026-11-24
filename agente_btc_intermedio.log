@@ -1664,3 +1664,10 @@
 24/11 14:45:55 INFO       (-0.7 r0.9 claude) Bitcoin ETF Outflows Hit A Record $4.71 Billion - Yahoo Finance
 24/11 14:45:55 INFO       (-0.7 r1.0 claude) Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record
 24/11 14:45:55 INFO    -> ATTENDI: trend orario non rialzista
+24/11 15:45:55 INFO    === btc_intermedio (BTC-EUR) ===
+24/11 15:45:56 INFO    Trend superiore (ONE_DAY): GIU
+24/11 15:45:56 INFO    Prezzo 54496.34 | medie 55455.06/55776.14 trend GIU | notizie -0.15 su 117 (6 nuove, 6 da Claude) | 0.3s
+24/11 15:45:56 INFO       (-0.7 r0.9 claude) BlackRock drives Bitcoin ETFs to worst month on record as crypto fund withdrawals near $6 billion
+24/11 15:45:56 INFO       (-0.8 r1.0 claude) Bitcoin slips back below its old floor as sellers lean on $60,000. - investingLive
+24/11 15:45:56 INFO       (-0.7 r0.9 claude) Bitcoin ETFs see another $570 million in net outflows as November total nears $5 billion and BTC dips below $6
+24/11 15:45:56 INFO    -> ATTENDI: trend orario non rialzista
