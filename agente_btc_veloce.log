@@ -5548,3 +5548,9 @@
 24/11 08:31:10 INFO       (-0.5 r1.0 claude) Bitcoin Price Recovery Faces Weak Demand After $4.7B Leverage Wipeout - Cryptonews.net
 24/11 08:31:10 INFO       (-0.5 r0.9 claude) Bitcoin slips back toward $60,000 as Jensen Huang’s Nvidia return rally fizzles - The Block
 24/11 08:31:10 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 08:45:49 INFO    === btc_veloce (BTC-EUR) ===
+24/11 08:45:49 INFO    Prezzo 55270.88 | medie 55306.72/55359.46 trend GIU | notizie -0.22 su 135 (7 nuove, 7 da Claude) | 0.2s
+24/11 08:45:49 INFO       (-0.7 r1.0 claude) Bitcoin Price Forecast: BTC resumes downtrend as Nvidia-driven squeeze fades, ETF outflows persist - FXStreet
+24/11 08:45:49 INFO       (-0.5 r1.0 claude) Bitcoin’s next crash may come from holders, not leverage, as $10.7 billion gets liquidated
+24/11 08:45:49 INFO       (-0.5 r1.0 claude) Bitcoin’s next crash may come from holders, not leverage, as $10.7 billion gets liquidated - CryptoSlate
+24/11 08:45:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
