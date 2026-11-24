@@ -1563,3 +1563,10 @@
 24/11 00:45:53 INFO       (+0.2 r1.0 claude) Ethereum Foundation doubles protocol security team ahead of overhaul
 24/11 00:45:53 INFO       (+0.6 r0.9 claude) BREAKING: BitMine buys another $13,400,000 Ethereum! The - KuCoin
 24/11 00:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 01:45:42 INFO    === eth_intermedio (ETH-EUR) ===
+24/11 01:45:42 INFO    Trend superiore (ONE_DAY): GIU
+24/11 01:45:42 INFO    Prezzo 1571.76 | medie 1587.21/1565.35 trend SU | notizie +0.09 su 80 (1 nuove, 1 da Claude) | 0.3s
+24/11 01:45:42 INFO       (+0.4 r0.9 claude) Bitmine has bought Ether every week since June 2025, adding 7,819 more - Cryptonews.net
+24/11 01:45:42 INFO       (-0.3 r0.7 claude) Ethereum Foundation cuts staff 20% to focus on protocol security and post-quantum research - Crypto Briefing
+24/11 01:45:42 INFO       (+0.2 r1.0 claude) Ethereum Foundation doubles protocol security team ahead of overhaul
+24/11 01:45:42 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

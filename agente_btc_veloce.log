@@ -5380,3 +5380,9 @@
 24/11 01:31:00 INFO       (-0.6 r0.9 claude) Crypto Market Today, Nov. 23: Bitcoin Sits Out Wall Street's Historic Rally as $1.8 Billion ETF Exodus Weighs 
 24/11 01:31:00 INFO       (-0.7 r0.9 claude) Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
 24/11 01:31:00 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)
+24/11 01:45:44 INFO    === btc_veloce (BTC-EUR) ===
+24/11 01:45:44 INFO    Prezzo 56273.14 | medie 56179.04/56187.79 trend GIU | notizie -0.06 su 136 (2 nuove, 2 da Claude) | 0.3s
+24/11 01:45:44 INFO       (-0.5 r0.9 claude) Nvidia's 32% Surge Fails to Lift Bitcoin Past $61,000 as ETF Outflows Weigh - finance.biggo.com
+24/11 01:45:44 INFO       (-0.4 r0.9 claude) Bitcoin Crashed to $55,000 and MicroStrategy Bought Only 457 BTC. Why? - BeInCrypto
+24/11 01:45:44 INFO       (-0.6 r0.9 claude) Crypto Market Today, Nov. 23: Bitcoin Sits Out Wall Street's Historic Rally as $1.8 Billion ETF Exodus Weighs 
+24/11 01:45:44 INFO    -> ATTENDI: trend 15 minuti non rialzista

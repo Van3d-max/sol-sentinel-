@@ -1566,3 +1566,10 @@
 24/11 00:45:55 INFO       (-0.7 r0.9 claude) Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support - Bloomberg.com
 24/11 00:45:55 INFO       (+0.4 r0.7 claude) Grayscale Calls Crypto Oversold as 21Shares Sticks to 2027 Bitcoin Forecast - Yahoo Finance
 24/11 00:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 01:45:44 INFO    === btc_intermedio (BTC-EUR) ===
+24/11 01:45:45 INFO    Trend superiore (ONE_DAY): GIU
+24/11 01:45:45 INFO    Prezzo 56273.14 | medie 56402.66/55640.17 trend SU | notizie -0.06 su 136 (2 nuove, 2 da Claude) | 0.3s
+24/11 01:45:45 INFO       (-0.5 r0.9 claude) Nvidia's 32% Surge Fails to Lift Bitcoin Past $61,000 as ETF Outflows Weigh - finance.biggo.com
+24/11 01:45:45 INFO       (-0.4 r0.9 claude) Bitcoin Crashed to $55,000 and MicroStrategy Bought Only 457 BTC. Why? - BeInCrypto
+24/11 01:45:45 INFO       (-0.6 r0.9 claude) Crypto Market Today, Nov. 23: Bitcoin Sits Out Wall Street's Historic Rally as $1.8 Billion ETF Exodus Weighs 
+24/11 01:45:45 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
