@@ -5540,3 +5540,9 @@
 24/11 08:15:46 INFO       (-0.6 r0.9 claude) Ethereum ETF outflows and upgrade delay: Can ETH regain momentum? - Traders Union
 24/11 08:15:46 INFO       (-0.6 r0.8 claude) BTCS sold more Ethereum than it has left to repay $43.8 million in debt
 24/11 08:15:46 INFO    -> ATTENDI: notizie sotto la soglia (-0.04)
+24/11 08:31:08 INFO    === eth_veloce (ETH-EUR) ===
+24/11 08:31:09 INFO    Prezzo 1548.90 | medie 1555.48/1556.84 trend GIU | notizie -0.05 su 84 (2 nuove, 2 da Claude) | 0.3s
+24/11 08:31:09 INFO       (-0.6 r0.9 claude) Ethereum price struggles near $1,700 as ETFs lose nearly $85 million - Crypto News
+24/11 08:31:09 INFO       (-0.6 r0.9 claude) Ethereum struggles to recover as AI fears and ETF outflows weigh - Traders Union
+24/11 08:31:09 INFO       (-0.6 r0.9 claude) Ethereum ETF outflows and upgrade delay: Can ETH regain momentum? - Traders Union
+24/11 08:31:09 INFO    -> ATTENDI: trend 15 minuti non rialzista
