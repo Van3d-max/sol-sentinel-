@@ -5878,3 +5878,9 @@
 24/11 22:15:45 INFO       (-0.6 r1.0 claude) Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares
 24/11 22:15:45 INFO       (+0.4 r1.0 claude) “Escape Velocity” Coming for Bitcoin with Repeat of 2017 Cycle | Michaël van de Poppe
 24/11 22:15:45 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 22:31:00 INFO    === btc_veloce (BTC-EUR) ===
+24/11 22:31:00 INFO    Prezzo 54679.41 | medie 54498.58/54552.95 trend GIU | notizie -0.05 su 37 (0 nuove, 0 da Claude) | 0.3s
+24/11 22:31:00 INFO       (-0.6 r1.0 claude) Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares
+24/11 22:31:00 INFO       (+0.4 r1.0 claude) “Escape Velocity” Coming for Bitcoin with Repeat of 2017 Cycle | Michaël van de Poppe
+24/11 22:31:00 INFO       (+0.4 r0.9 claude) André Dragosch: Bitcoin at “Fire Sale” Valuations Heading Into Fed Pivot
+24/11 22:31:00 INFO    -> ATTENDI: trend 15 minuti non rialzista
