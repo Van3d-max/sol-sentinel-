@@ -1396,3 +1396,9 @@
 24/11 09:45:49 INFO       (-0.6 r0.9 claude) Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s
 24/11 09:45:49 INFO       (-0.6 r0.9 claude) Why Bitcoin Gave Back Its Nvidia Rally: ETF Outflows and a Strong Dollar - Around Prague
 24/11 09:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista
+24/11 10:45:55 INFO    === btc_lento (BTC-EUR) ===
+24/11 10:45:55 INFO    Prezzo 54496.08 | medie 56993.66/64770.15 trend GIU | notizie -0.17 su 144 (1 nuove, 1 da Claude) | 0.2s
+24/11 10:45:55 INFO       (-0.7 r0.9 claude) Bitcoin ETF Outflows Set Monthly Record at $4.71 Billion - The Defiant
+24/11 10:45:55 INFO       (-0.7 r1.0 claude) Bitcoin Price Forecast: BTC resumes downtrend as Nvidia-driven squeeze fades, ETF outflows persist - FXStreet
+24/11 10:45:55 INFO       (-0.6 r0.9 claude) Bitcoin (BTC) price drops below $60,000 as Nvidia (NVDA)-led rally loses steam - CoinDesk
+24/11 10:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista

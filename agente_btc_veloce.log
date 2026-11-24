@@ -5596,3 +5596,9 @@
 24/11 10:31:13 INFO       (-0.6 r0.9 claude) Bitcoin (BTC) price drops below $60,000 as Nvidia (NVDA)-led rally loses steam - CoinDesk
 24/11 10:31:13 INFO       (-0.6 r0.9 claude) Bitcoin Slips Under $60K as Gold Logs Worst Selloff in 44 Years - Bitbo
 24/11 10:31:13 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 10:45:54 INFO    === btc_veloce (BTC-EUR) ===
+24/11 10:45:55 INFO    Prezzo 54496.08 | medie 54897.66/55164.27 trend GIU | notizie -0.25 su 134 (1 nuove, 1 da Claude) | 0.3s
+24/11 10:45:55 INFO       (-0.7 r0.9 claude) Bitcoin ETF Outflows Set Monthly Record at $4.71 Billion - The Defiant
+24/11 10:45:55 INFO       (-0.6 r0.9 claude) Bitcoin (BTC) price drops below $60,000 as Nvidia (NVDA)-led rally loses steam - CoinDesk
+24/11 10:45:55 INFO       (-0.6 r0.9 claude) Bitcoin Slips Under $60K as Gold Logs Worst Selloff in 44 Years - Bitbo
+24/11 10:45:55 INFO    -> ATTENDI: trend 15 minuti non rialzista

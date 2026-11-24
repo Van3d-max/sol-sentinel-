@@ -1629,3 +1629,10 @@
 24/11 09:45:49 INFO       (-0.7 r1.0 claude) Bitcoin Price Forecast: BTC resumes downtrend as Nvidia-driven squeeze fades, ETF outflows persist - FXStreet
 24/11 09:45:49 INFO       (-0.5 r1.0 claude) Bitcoin’s next crash may come from holders, not leverage, as $10.7 billion gets liquidated
 24/11 09:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 10:45:55 INFO    === btc_intermedio (BTC-EUR) ===
+24/11 10:45:55 INFO    Trend superiore (ONE_DAY): GIU
+24/11 10:45:55 INFO    Prezzo 54496.08 | medie 55990.16/55824.23 trend SU | notizie -0.25 su 134 (1 nuove, 1 da Claude) | 0.5s
+24/11 10:45:55 INFO       (-0.7 r0.9 claude) Bitcoin ETF Outflows Set Monthly Record at $4.71 Billion - The Defiant
+24/11 10:45:55 INFO       (-0.6 r0.9 claude) Bitcoin (BTC) price drops below $60,000 as Nvidia (NVDA)-led rally loses steam - CoinDesk
+24/11 10:45:55 INFO       (-0.6 r0.9 claude) Bitcoin Slips Under $60K as Gold Logs Worst Selloff in 44 Years - Bitbo
+24/11 10:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

@@ -1608,3 +1608,10 @@
 24/11 09:45:51 INFO       (+0.2 r0.9 claude) Why Is XRP So Popular in Japan? New Data Reveals Its Dominance Over Solana - Coinpaper
 24/11 09:45:51 INFO       (+0.2 r0.9 claude) David Schwartz Fires Back at Viral Claim He Sold 88% of His XRP in Months - CCN.com
 24/11 09:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 10:45:57 INFO    === xrp_intermedio (XRP-EUR) ===
+24/11 10:45:58 INFO    Trend superiore (ONE_DAY): GIU
+24/11 10:45:58 INFO    Prezzo 0.8491 | medie 0.87141/0.858308 trend SU | notizie +0.06 su 55 (2 nuove, 2 da Claude) | 0.5s
+24/11 10:45:58 INFO       (+0.3 r0.7 claude) Eight Central Banks Build New Payment Network: XRP's Role - Coinpaper
+24/11 10:45:58 INFO       (+0.2 r0.9 claude) Why Is XRP So Popular in Japan? New Data Reveals Its Dominance Over Solana - Coinpaper
+24/11 10:45:58 INFO       (-0.5 r0.8 claude) Ripple and Stellar outlook: Bears threaten XRP and XLM rebound - FXStreet
+24/11 10:45:58 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
