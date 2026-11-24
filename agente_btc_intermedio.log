@@ -1594,3 +1594,10 @@
 24/11 04:45:43 INFO       (+0.4 r0.9 claude) Bitcoin And Ethereum Get A Bigger Role In US Derivatives Markets: Here’s What The CFTC Changed - TradingView
 24/11 04:45:43 INFO       (+0.4 r0.9 claude) Bitcoin And Ethereum Get A Bigger Role In US Derivatives Markets: Here’s What The CFTC Changed - Yahoo Finance
 24/11 04:45:43 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 05:45:48 INFO    === btc_intermedio (BTC-EUR) ===
+24/11 05:45:48 INFO    Trend superiore (ONE_DAY): GIU
+24/11 05:45:48 INFO    Prezzo 55594.47 | medie 56288.85/55691.85 trend SU | notizie -0.05 su 118 (4 nuove, 4 da Claude) | 0.2s
+24/11 05:45:48 INFO       (-0.6 r1.0 claude) Bitcoin Falls Below $60,000, Erasing Monday's Rebound - The Defiant
+24/11 05:45:48 INFO       (+0.4 r0.9 claude) Bitcoin And Ethereum Get A Bigger Role In US Derivatives Markets: Here’s What The CFTC Changed - TradingView
+24/11 05:45:48 INFO       (-0.4 r0.9 claude) Bitcoin Fails to Hold Nvidia Bump With Crypto Headwinds in Focus - Bloomberg Tax
+24/11 05:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

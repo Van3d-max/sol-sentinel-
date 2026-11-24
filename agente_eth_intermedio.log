@@ -1591,3 +1591,10 @@
 24/11 04:45:42 INFO       (-0.5 r0.9 claude) BTCS sold more Ethereum than it has left to repay $43.8 million in debt - CryptoSlate
 24/11 04:45:42 INFO       (-0.6 r0.8 claude) CASE STUDY | Leading Ethereum Treasury Firm Forced to Sell as Market Downturn Exposes DeFi Debt Risks - BitKE
 24/11 04:45:42 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 05:45:46 INFO    === eth_intermedio (ETH-EUR) ===
+24/11 05:45:46 INFO    Trend superiore (ONE_DAY): GIU
+24/11 05:45:46 INFO    Prezzo 1565.17 | medie 1584.16/1566.96 trend SU | notizie +0.02 su 83 (2 nuove, 2 da Claude) | 0.2s
+24/11 05:45:46 INFO       (-0.6 r0.8 claude) BTCS sold more Ethereum than it has left to repay $43.8 million in debt
+24/11 05:45:46 INFO       (-0.5 r0.9 claude) BTCS sold more Ethereum than it has left to repay $43.8 million in debt - CryptoSlate
+24/11 05:45:46 INFO       (-0.6 r0.8 claude) CASE STUDY | Leading Ethereum Treasury Firm Forced to Sell as Market Downturn Exposes DeFi Debt Risks - BitKE
+24/11 05:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

@@ -1573,3 +1573,10 @@
 24/11 04:45:44 INFO       (+0.3 r0.9 claude) Ripple CEO says XRP demand could rise in high-inflation countries - 디지털투데이
 24/11 04:45:44 INFO       (-0.4 r1.0 claude) XRP Just Formed a Death Cross: What It Means and the Levels to Watch - 24/7 Wall St.
 24/11 04:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 05:45:50 INFO    === xrp_intermedio (XRP-EUR) ===
+24/11 05:45:50 INFO    Trend superiore (ONE_DAY): GIU
+24/11 05:45:50 INFO    Prezzo 0.8785 | medie 0.871875/0.855418 trend SU | notizie +0.05 su 49 (2 nuove, 2 da Claude) | 0.2s
+24/11 05:45:50 INFO       (+0.3 r1.0 claude) Crypto Analyst Zach Rector Says He Has Almost No Cash Left After Buying XRP Under $1, Sees $7 to $10 - BigGo F
+24/11 05:45:50 INFO       (-0.5 r0.8 claude) XRP Price Prediction: Inflation Data Could Push XRP to Lower Lows This Week - FXEmpire
+24/11 05:45:50 INFO       (+0.3 r0.9 claude) Ripple CEO says XRP demand could rise in high-inflation countries - 디지털투데이
+24/11 05:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
