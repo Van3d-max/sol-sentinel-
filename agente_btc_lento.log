@@ -1372,3 +1372,9 @@
 24/11 05:45:48 INFO       (-0.6 r0.9 claude) Crypto Market Today, Nov. 23: Bitcoin Sits Out Wall Street's Historic Rally as $1.8 Billion ETF Exodus Weighs 
 24/11 05:45:48 INFO       (+0.4 r0.9 claude) Bitcoin And Ethereum Get A Bigger Role In US Derivatives Markets: Here’s What The CFTC Changed - TradingView
 24/11 05:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista
+24/11 06:45:46 INFO    === btc_lento (BTC-EUR) ===
+24/11 06:45:46 INFO    Prezzo 55332.96 | medie 56993.66/64770.15 trend GIU | notizie -0.04 su 127 (2 nuove, 2 da Claude) | 0.2s
+24/11 06:45:46 INFO       (-0.5 r0.9 claude) Bitcoin slips back toward $60,000 as Jensen Huang’s Nvidia return rally fizzles - The Block
+24/11 06:45:46 INFO       (-0.6 r0.9 claude) On the Chain: Bitcoin slides towards US$60,000 as US$1.8 billion exits crypto funds and investors remain cauti
+24/11 06:45:46 INFO       (-0.6 r1.0 claude) Bitcoin Falls Below $60,000, Erasing Monday's Rebound - The Defiant
+24/11 06:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista
