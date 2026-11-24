@@ -13910,3 +13910,9 @@
 24/11 22:30:58 INFO    Prezzo 63.5500 | medie 63.2133/63.2243 trend GIU | notizie -0.06 su 1 (0 nuove, 0 da Claude) | 0.3s
 24/11 22:30:58 INFO       (-0.2 r0.3 claude) Ansem claims wallet hack after an 87 million ANSEM token dump, but on-chain data raises questions
 24/11 22:30:58 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 22:45:42 INFO    === veloce (SOL-EUR) ===
+24/11 22:45:42 INFO    Prezzo 63.8000 | medie 63.3133/63.2462 trend SU | notizie +0.07 su 34 (0 nuove, 0 da Claude) | 0.2s
+24/11 22:45:42 INFO       (+0.5 r0.9 claude) DTCC Taps Solana for 2027 Tokenization Rollout as Ripple Builds Rival Bank Network - BigGo Finance
+24/11 22:45:42 INFO       (+0.2 r0.9 claude) Form POS AM Invesco Galaxy Solana - StreetInsider
+24/11 22:45:42 INFO       (+0.3 r0.5 claude) Mert Mumtaz Says Bitcoin’s Dominance Could Be Broken: Speaks About Solana, Zcash, and Ethereum - Cryptonews.ne
+24/11 22:45:42 INFO    -> ATTENDI: obiettivo +1.38% sotto il minimo +2.20% (commissioni)

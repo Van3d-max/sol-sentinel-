@@ -1468,3 +1468,9 @@
 24/11 21:45:51 INFO       (-0.6 r1.0 claude) Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares - TradingView
 24/11 21:45:51 INFO       (-0.7 r1.0 claude) Why is Bitcoin down today? BTC drops below $60,000 as ETF outflows mount - TradingView
 24/11 21:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista
+24/11 22:45:47 INFO    === btc_lento (BTC-EUR) ===
+24/11 22:45:47 INFO    Prezzo 54733.14 | medie 56993.66/64770.15 trend GIU | notizie -0.13 su 135 (8 nuove, 8 da Claude) | 0.1s
+24/11 22:45:47 INFO       (-0.8 r1.0 claude) Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion - The Motl
+24/11 22:45:47 INFO       (-0.6 r1.0 claude) Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares
+24/11 22:45:47 INFO       (-0.5 r0.9 claude) Bitcoin Rebound or Capitulation? Bitget Wallet Warns of Thin Spot Demand Amid $3.47B ETF Outflows - FF News
+24/11 22:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista

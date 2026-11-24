@@ -1713,3 +1713,10 @@
 24/11 21:45:51 INFO       (-0.6 r1.0 claude) Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares
 24/11 21:45:51 INFO       (-0.6 r1.0 claude) Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares - TradingView
 24/11 21:45:51 INFO    -> ATTENDI: trend orario non rialzista
+24/11 22:45:46 INFO    === btc_intermedio (BTC-EUR) ===
+24/11 22:45:47 INFO    Trend superiore (ONE_DAY): GIU
+24/11 22:45:47 INFO    Prezzo 54733.14 | medie 54876.69/55631.29 trend GIU | notizie -0.11 su 116 (8 nuove, 8 da Claude) | 0.2s
+24/11 22:45:47 INFO       (-0.8 r1.0 claude) Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion - The Motl
+24/11 22:45:47 INFO       (-0.5 r0.9 claude) Bitcoin’s $60,000 bear market is testing miners harder than the 2022 crypto winter
+24/11 22:45:47 INFO       (-0.5 r0.9 claude) Bitcoin Rebound or Capitulation? Bitget Wallet Warns of Thin Spot Demand Amid $3.47B ETF Outflows - FF News
+24/11 22:45:47 INFO    -> ATTENDI: trend orario non rialzista
