@@ -1622,3 +1622,10 @@
 24/11 08:45:50 INFO       (-0.5 r1.0 claude) Bitcoin’s next crash may come from holders, not leverage, as $10.7 billion gets liquidated
 24/11 08:45:50 INFO       (-0.5 r1.0 claude) Bitcoin’s next crash may come from holders, not leverage, as $10.7 billion gets liquidated - CryptoSlate
 24/11 08:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 09:45:49 INFO    === btc_intermedio (BTC-EUR) ===
+24/11 09:45:49 INFO    Trend superiore (ONE_DAY): GIU
+24/11 09:45:49 INFO    Prezzo 55045.83 | medie 56166.24/55805.90 trend SU | notizie -0.20 su 135 (4 nuove, 4 da Claude) | 0.3s
+24/11 09:45:49 INFO       (-0.6 r0.9 claude) Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s
+24/11 09:45:49 INFO       (-0.7 r1.0 claude) Bitcoin Price Forecast: BTC resumes downtrend as Nvidia-driven squeeze fades, ETF outflows persist - FXStreet
+24/11 09:45:49 INFO       (-0.5 r1.0 claude) Bitcoin’s next crash may come from holders, not leverage, as $10.7 billion gets liquidated
+24/11 09:45:49 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

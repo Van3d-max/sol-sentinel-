@@ -1619,3 +1619,10 @@
 24/11 08:45:47 INFO       (-0.6 r0.9 claude) Ethereum struggles to recover as AI fears and ETF outflows weigh - Traders Union
 24/11 08:45:47 INFO       (-0.6 r0.9 claude) Ethereum ETF outflows and upgrade delay: Can ETH regain momentum? - Traders Union
 24/11 08:45:47 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 09:45:46 INFO    === eth_intermedio (ETH-EUR) ===
+24/11 09:45:46 INFO    Trend superiore (ONE_DAY): GIU
+24/11 09:45:46 INFO    Prezzo 1546.58 | medie 1581.04/1570.26 trend SU | notizie -0.04 su 89 (2 nuove, 2 da Claude) | 0.5s
+24/11 09:45:46 INFO       (-0.6 r0.9 claude) Ethereum struggles to recover as AI fears and ETF outflows weigh - Traders Union
+24/11 09:45:46 INFO       (-0.5 r0.9 claude) Ethereum price stalls near $1,700 as ETFs lose another $85 million - Crypto News
+24/11 09:45:46 INFO       (-0.6 r0.9 claude) Ethereum ETF outflows and upgrade delay: Can ETH regain momentum? - Traders Union
+24/11 09:45:46 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

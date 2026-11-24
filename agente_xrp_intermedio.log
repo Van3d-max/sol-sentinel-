@@ -1601,3 +1601,10 @@
 24/11 08:45:52 INFO       (-0.2 r1.0 claude) Ripple CTO Schwartz: Dark-Pool XRP Buying Is Possible, but Sellers Are the Catch - BigGo Finance
 24/11 08:45:52 INFO       (+0.3 r1.0 claude) Crypto Analyst Zach Rector Says He Has Almost No Cash Left After Buying XRP Under $1, Sees $7 to $10 - BigGo F
 24/11 08:45:52 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 09:45:50 INFO    === xrp_intermedio (XRP-EUR) ===
+24/11 09:45:51 INFO    Trend superiore (ONE_DAY): GIU
+24/11 09:45:51 INFO    Prezzo 0.8577 | medie 0.87389/0.857916 trend SU | notizie +0.07 su 49 (1 nuove, 1 da Claude) | 0.3s
+24/11 09:45:51 INFO       (+0.3 r0.7 claude) Eight Central Banks Build New Payment Network: XRP's Role - Coinpaper
+24/11 09:45:51 INFO       (+0.2 r0.9 claude) Why Is XRP So Popular in Japan? New Data Reveals Its Dominance Over Solana - Coinpaper
+24/11 09:45:51 INFO       (+0.2 r0.9 claude) David Schwartz Fires Back at Viral Claim He Sold 88% of His XRP in Months - CCN.com
+24/11 09:45:51 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
