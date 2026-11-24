@@ -5530,3 +5530,9 @@
 24/11 07:45:47 INFO       (-0.5 r1.0 claude) Bitcoin Price Recovery Faces Weak Demand After $4.7B Leverage Wipeout - Cryptonews.net
 24/11 07:45:47 INFO       (-0.6 r1.0 claude) Bitcoin price struggles near $60K as Nvidia rally fades, ETFs shed $570M - Crypto News
 24/11 07:45:47 INFO    -> ATTENDI: notizie sotto la soglia (-0.15)
+24/11 08:01:18 INFO    === btc_veloce (BTC-EUR) ===
+24/11 08:01:18 INFO    Prezzo 55308.84 | medie 55392.55/55323.79 trend SU | notizie -0.18 su 135 (3 nuove, 3 da Claude) | 0.2s
+24/11 08:01:18 INFO       (-0.6 r0.9 claude) Bitcoin Price Forecast: BTC resumes downtrend as Nvidia-driven squeeze fades, ETF outflows persist - www.tmgm.
+24/11 08:01:18 INFO       (-0.6 r1.0 claude) Bitcoin slips toward $60,000 as fund outflows and broader market weakness weigh - Anadolu Ajansı
+24/11 08:01:18 INFO       (-0.5 r1.0 claude) Bitcoin Price Recovery Faces Weak Demand After $4.7B Leverage Wipeout - Cryptonews.net
+24/11 08:01:18 INFO    -> ATTENDI: notizie sotto la soglia (-0.18)
