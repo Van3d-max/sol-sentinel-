@@ -5626,3 +5626,9 @@
 24/11 11:46:14 INFO       (-0.6 r0.9 claude) Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s
 24/11 11:46:14 INFO       (-0.5 r0.9 claude) Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades
 24/11 11:46:14 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 12:01:18 INFO    === btc_veloce (BTC-EUR) ===
+24/11 12:01:18 INFO    Prezzo 55053.97 | medie 54713.42/54985.30 trend GIU | notizie -0.23 su 132 (9 nuove, 9 da Claude) | 0.2s
+24/11 12:01:18 INFO       (-0.8 r0.9 claude) Bitcoin sell-off: Binance hack sparked it, forced selling deepened it - 21Shares
+24/11 12:01:18 INFO       (-0.6 r1.0 claude) Bitcoin Sinks Below $60,000 as Rebound Fizzles - WSJ
+24/11 12:01:18 INFO       (-0.6 r1.0 claude) Bitcoin (BTC) price falls below $60,000 as it hands back Monday's NVDA-driven rally - CoinDesk
+24/11 12:01:18 INFO    -> ATTENDI: trend 15 minuti non rialzista
