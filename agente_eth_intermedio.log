@@ -1654,3 +1654,10 @@
 24/11 13:45:47 INFO       (-0.5 r0.8 claude) Ethereum treasury firm BTCS sells over half its ETH to $43.8M in Aave debt - Crypto News
 24/11 13:45:47 INFO       (-0.6 r0.9 claude) BitMine’s $655 million Ethereum hit wipes out nearly three years of staking income
 24/11 13:45:47 INFO    -> ATTENDI: trend orario non rialzista
+24/11 14:45:52 INFO    === eth_intermedio (ETH-EUR) ===
+24/11 14:45:52 INFO    Trend superiore (ONE_DAY): GIU
+24/11 14:45:52 INFO    Prezzo 1544.09 | medie 1560.40/1569.85 trend GIU | notizie -0.12 su 79 (2 nuove, 2 da Claude) | 0.4s
+24/11 14:45:52 INFO       (-0.6 r1.0 claude) Ethereum Treasury BTCS Dumps 27,300 ETH To Repay $43.8M Aave Debt - Coinpedia
+24/11 14:45:52 INFO       (-0.5 r0.6 claude) BlackRock leads Bitcoin and Ethereum ETF outflows as $728M exits - Crypto News
+24/11 14:45:52 INFO       (-0.5 r0.8 claude) Ethereum treasury firm BTCS sells over half its ETH to $43.8M in Aave debt - Crypto News
+24/11 14:45:52 INFO    -> ATTENDI: trend orario non rialzista
