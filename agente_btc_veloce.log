@@ -5494,3 +5494,9 @@
 24/11 06:15:46 INFO       (-0.6 r1.0 claude) Bitcoin Falls Below $60,000, Erasing Monday's Rebound - The Defiant
 24/11 06:15:46 INFO       (+0.4 r0.9 claude) Bitcoin And Ethereum Get A Bigger Role In US Derivatives Markets: Here’s What The CFTC Changed - TradingView
 24/11 06:15:46 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 06:31:02 INFO    === btc_veloce (BTC-EUR) ===
+24/11 06:31:02 INFO    Prezzo 55384.16 | medie 55452.69/55455.15 trend GIU | notizie -0.09 su 118 (2 nuove, 2 da Claude) | 0.3s
+24/11 06:31:02 INFO       (-0.5 r0.9 claude) Bitcoin slips back toward $60,000 as Jensen Huang’s Nvidia return rally fizzles - The Block
+24/11 06:31:02 INFO       (-0.4 r0.9 claude) Bitcoin Crashed to $55,000 and MicroStrategy Bought Only 457 BTC. Why? - BeInCrypto
+24/11 06:31:02 INFO       (-0.6 r1.0 claude) Bitcoin Falls Below $60,000, Erasing Monday's Rebound - The Defiant
+24/11 06:31:02 INFO    -> ATTENDI: trend 15 minuti non rialzista
