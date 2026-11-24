@@ -1402,3 +1402,9 @@
 24/11 10:45:55 INFO       (-0.7 r1.0 claude) Bitcoin Price Forecast: BTC resumes downtrend as Nvidia-driven squeeze fades, ETF outflows persist - FXStreet
 24/11 10:45:55 INFO       (-0.6 r0.9 claude) Bitcoin (BTC) price drops below $60,000 as Nvidia (NVDA)-led rally loses steam - CoinDesk
 24/11 10:45:55 INFO    -> ATTENDI: trend giornaliero non rialzista
+24/11 11:46:14 INFO    === btc_lento (BTC-EUR) ===
+24/11 11:46:14 INFO    Prezzo 54685.34 | medie 56993.66/64770.15 trend GIU | notizie -0.17 su 45 (1 nuove, 1 da Claude) | 0.1s
+24/11 11:46:14 INFO       (-0.6 r0.9 claude) Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple
+24/11 11:46:14 INFO       (-0.6 r0.9 claude) Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s
+24/11 11:46:14 INFO       (-0.5 r0.9 claude) Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades
+24/11 11:46:14 INFO    -> ATTENDI: trend giornaliero non rialzista

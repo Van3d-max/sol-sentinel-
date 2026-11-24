@@ -1628,3 +1628,9 @@
 24/11 10:45:50 INFO       (-0.2 r0.4 claude) Why Is XRP So Popular in Japan? New Data Reveals Its Dominance Over Solana - Coinpaper
 24/11 10:45:50 INFO       (-0.2 r0.9 claude) Solana Needs a Daily Close Above $80 and Repeat ETF Inflows to Break Its Downtrend, Analyst Says - BigGo Finan
 24/11 10:45:50 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 11:45:58 INFO    === intermedio (SOL-EUR) ===
+24/11 11:45:58 INFO    Trend superiore (ONE_DAY): GIU
+24/11 11:45:58 INFO    Prezzo 64.2900 | medie 66.1890/65.4916 trend SU | notizie +0.00 su 2 (0 nuove, 0 da Claude) | 0.2s
+24/11 11:45:58 INFO       (+0.1 r0.1 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More
+24/11 11:45:58 INFO       (+0.1 r0.3 claude) Solana Meme Coin for Fiona the Hippo Raises $100K for Cincinnati Zoo Charity
+24/11 11:45:58 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

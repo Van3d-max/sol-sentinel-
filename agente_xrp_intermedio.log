@@ -1615,3 +1615,9 @@
 24/11 10:45:58 INFO       (+0.2 r0.9 claude) Why Is XRP So Popular in Japan? New Data Reveals Its Dominance Over Solana - Coinpaper
 24/11 10:45:58 INFO       (-0.5 r0.8 claude) Ripple and Stellar outlook: Bears threaten XRP and XLM rebound - FXStreet
 24/11 10:45:58 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 11:46:24 INFO    === xrp_intermedio (XRP-EUR) ===
+24/11 11:46:24 INFO    Trend superiore (ONE_DAY): GIU
+24/11 11:46:24 INFO    Prezzo 0.8482 | medie 0.868415/0.858382 trend SU | notizie +0.00 su 2 (0 nuove, 0 da Claude) | 0.3s
+24/11 11:46:24 INFO       (+0.1 r0.1 claude) Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More
+24/11 11:46:24 INFO       (+0.0 r0.9 claude) XRP borrowers face a $207,500 tipping point as one vault dominates an $8 million market
+24/11 11:46:24 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

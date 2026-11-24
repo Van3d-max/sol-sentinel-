@@ -5620,3 +5620,9 @@
 24/11 11:31:05 INFO       (-0.6 r0.9 claude) Bitcoin (BTC) price drops below $60,000 as Nvidia (NVDA)-led rally loses steam - CoinDesk
 24/11 11:31:05 INFO       (-0.6 r0.8 claude) Altcoins lose $408B as Bitcoin price falls below $60K and memecoin demand fades - Crypto News
 24/11 11:31:05 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 11:46:14 INFO    === btc_veloce (BTC-EUR) ===
+24/11 11:46:14 INFO    Prezzo 54685.34 | medie 54709.87/54998.04 trend GIU | notizie -0.38 su 39 (1 nuove, 1 da Claude) | 0.2s
+24/11 11:46:14 INFO       (-0.6 r0.9 claude) Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple
+24/11 11:46:14 INFO       (-0.6 r0.9 claude) Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s
+24/11 11:46:14 INFO       (-0.5 r0.9 claude) Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades
+24/11 11:46:14 INFO    -> ATTENDI: trend 15 minuti non rialzista

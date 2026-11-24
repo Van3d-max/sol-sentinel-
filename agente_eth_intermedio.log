@@ -1633,3 +1633,10 @@
 24/11 10:45:53 INFO       (-0.5 r0.9 claude) Ethereum price stalls near $1,700 as ETFs lose another $85 million - Crypto News
 24/11 10:45:53 INFO       (+0.3 r1.0 claude) Ethereum Price Analysis: ETH Rebounds 15% but This Level Must Be Reclaimed - CryptoRank
 24/11 10:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 11:46:04 INFO    === eth_intermedio (ETH-EUR) ===
+24/11 11:46:04 INFO    Trend superiore (ONE_DAY): GIU
+24/11 11:46:04 INFO    Prezzo 1545.88 | medie 1570.78/1570.63 trend SU | notizie -0.40 su 9 (0 nuove, 0 da Claude) | 0.2s
+24/11 11:46:04 INFO       (-0.6 r0.9 claude) BitMine’s $655 million Ethereum hit wipes out nearly three years of staking income
+24/11 11:46:04 INFO       (-0.5 r0.9 claude) BTCS sells more than half its ether to repay $43.8 million in Aave debt
+24/11 11:46:04 INFO       (-0.6 r0.8 claude) BTCS sold more Ethereum than it has left to repay $43.8 million in debt
+24/11 11:46:04 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
