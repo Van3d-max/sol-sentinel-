@@ -5698,3 +5698,9 @@
 24/11 14:45:55 INFO       (-0.7 r0.9 claude) Bitcoin ETF Outflows Hit A Record $4.71 Billion - Yahoo Finance
 24/11 14:45:55 INFO       (-0.7 r1.0 claude) Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record
 24/11 14:45:55 INFO    -> ATTENDI: notizia shock: Bitcoin ETFs see another $570 million in net outflows as November total nears $5
+24/11 15:01:29 INFO    === btc_veloce (BTC-EUR) ===
+24/11 15:01:29 INFO    Prezzo 55026.50 | medie 54901.68/54836.94 trend SU | notizie -0.17 su 37 (1 nuove, 1 da Claude) | 0.4s
+24/11 15:01:29 INFO       (-0.7 r1.0 claude) Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record
+24/11 15:01:29 INFO       (-0.8 r1.0 claude) Bitcoin drops as November spot ETF outflows increase to record $4.71 billion
+24/11 15:01:29 INFO       (+0.3 r0.9 claude) UniCredit Opens Bitcoin to Italian Savers, Capping Gains at 65%
+24/11 15:01:29 INFO    -> ATTENDI: notizia shock: Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record
