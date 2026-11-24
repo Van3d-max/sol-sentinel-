@@ -5508,3 +5508,9 @@
 24/11 20:31:10 INFO    === shib_veloce (SHIB-EUR) ===
 24/11 20:31:10 INFO    Prezzo 3.22e-06 | medie 3.23778e-06/3.27857e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.2s
 24/11 20:31:10 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 20:45:55 INFO    === shib_veloce (SHIB-EUR) ===
+24/11 20:45:56 INFO    Prezzo 3.22e-06 | medie 3.23778e-06/3.27857e-06 trend GIU | notizie -0.05 su 12 (0 nuove, 0 da Claude) | 1.2s
+24/11 20:45:56 INFO       (-0.6 r0.9 claude) Shiba Inu Price Prediction: SHIB Slides Back to April 2021 Prices While Pepeto Holders Stake 52.66 Trillion To
+24/11 20:45:56 INFO       (+0.2 r0.8 claude) Shiba Inu Community Launches New Shibarium Explorer as Kusama Remains Silent - Hokanews
+24/11 20:45:56 INFO       (-0.4 r0.7 claude) Dogecoin, Shiba Inu Shed $67B in 2 Years: What's Going on With Memes? - Benzinga
+24/11 20:45:56 INFO    -> ATTENDI: trend 15 minuti non rialzista
