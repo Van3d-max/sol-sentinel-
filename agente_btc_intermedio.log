@@ -1678,3 +1678,10 @@
 24/11 16:45:55 INFO       (-0.7 r0.9 claude) BlackRock drives Bitcoin ETFs to worst month on record as crypto fund withdrawals near $6 billion
 24/11 16:45:55 INFO       (-0.8 r1.0 claude) Bitcoin slips back below its old floor as sellers lean on $60,000. - investingLive
 24/11 16:45:55 INFO    -> ATTENDI: trend orario non rialzista
+24/11 17:45:47 INFO    === btc_intermedio (BTC-EUR) ===
+24/11 17:45:47 INFO    Trend superiore (ONE_DAY): GIU
+24/11 17:45:47 INFO    Prezzo 54700.69 | medie 55265.99/55727.14 trend GIU | notizie -0.20 su 128 (4 nuove, 4 da Claude) | 0.4s
+24/11 17:45:47 INFO       (-0.6 r0.9 claude) Bitcoin dips while ongoing institutional selling through US ETFs limits upward momentum - Traders Union
+24/11 17:45:47 INFO       (-0.7 r0.9 claude) Bitcoin losses hit heaviest level since the FTX collapse - Crypto Briefing
+24/11 17:45:47 INFO       (-0.6 r0.9 claude) Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price
+24/11 17:45:47 INFO    -> ATTENDI: trend orario non rialzista
