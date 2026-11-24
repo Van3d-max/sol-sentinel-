@@ -1670,3 +1670,10 @@
 24/11 18:45:54 INFO       (-0.4 r1.0 claude) Why Is XRP Falling Again After Its Jensen Huang Rally? - 24/7 Wall St.
 24/11 18:45:54 INFO       (-0.6 r1.0 claude) XRP drops almost 8% after token lags despite new institutional partnerships - Traders Union
 24/11 18:45:54 INFO    -> ATTENDI: trend orario non rialzista
+24/11 19:45:49 INFO    === xrp_intermedio (XRP-EUR) ===
+24/11 19:45:49 INFO    Trend superiore (ONE_DAY): GIU
+24/11 19:45:49 INFO    Prezzo 0.8374 | medie 0.85449/0.857472 trend GIU | notizie -0.07 su 51 (0 nuove, 0 da Claude) | 0.2s
+24/11 19:45:49 INFO       (-0.4 r1.0 claude) Can XRP Hold 90 Cents After Its Worst November Ever? - 24/7 Wall St.
+24/11 19:45:49 INFO       (-0.4 r1.0 claude) Why Is XRP Falling Again After Its Jensen Huang Rally? - 24/7 Wall St.
+24/11 19:45:49 INFO       (+0.3 r0.9 claude) XRP Sees Growing Institutional Activity in Q3: What's Next? - Benzinga
+24/11 19:45:49 INFO    -> ATTENDI: trend orario non rialzista
