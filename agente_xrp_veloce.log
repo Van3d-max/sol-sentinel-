@@ -5697,3 +5697,9 @@
 24/11 22:01:16 INFO    === xrp_veloce (XRP-EUR) ===
 24/11 22:01:17 INFO    Prezzo 0.8406 | medie 0.838244/0.838581 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 24/11 22:01:17 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 22:15:46 INFO    === xrp_veloce (XRP-EUR) ===
+24/11 22:15:46 INFO    Prezzo 0.8415 | medie 0.838778/0.839105 trend GIU | notizie -0.09 su 51 (0 nuove, 0 da Claude) | 0.2s
+24/11 22:15:46 INFO       (-0.6 r1.0 claude) XRP Price Prediction: Next Leg Down Could Start After Sweeping $0.94 - FXEmpire
+24/11 22:15:46 INFO       (-0.4 r1.0 claude) Can XRP Hold 90 Cents After Its Worst November Ever? - 24/7 Wall St.
+24/11 22:15:46 INFO       (-0.4 r1.0 claude) Why Is XRP Falling Again After Its Jensen Huang Rally? - 24/7 Wall St.
+24/11 22:15:46 INFO    -> ATTENDI: trend 15 minuti non rialzista
