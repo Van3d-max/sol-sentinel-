@@ -1580,3 +1580,10 @@
 24/11 02:45:44 INFO       (-0.3 r0.9 claude) Bitcoin Fails to Hold Nvidia Bump With Crypto Headwinds in Focus - Bloomberg.com
 24/11 02:45:44 INFO       (-0.4 r0.9 claude) Bitcoin Crashed to $55,000 and MicroStrategy Bought Only 457 BTC. Why? - BeInCrypto
 24/11 02:45:44 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+24/11 03:45:57 INFO    === btc_intermedio (BTC-EUR) ===
+24/11 03:45:58 INFO    Trend superiore (ONE_DAY): GIU
+24/11 03:45:58 INFO    Prezzo 55215.85 | medie 56353.39/55662.80 trend SU | notizie -0.06 su 132 (2 nuove, 2 da Claude) | 1.5s
+24/11 03:45:58 INFO       (-0.6 r1.0 claude) Bitcoin Falls Below $60,000, Erasing Monday's Rebound - The Defiant
+24/11 03:45:58 INFO       (+0.4 r0.9 claude) Bitcoin And Ethereum Get A Bigger Role In US Derivatives Markets: Here’s What The CFTC Changed - Yahoo Finance
+24/11 03:45:58 INFO       (-0.4 r0.9 claude) Bitcoin Fails to Hold Nvidia Bump With Crypto Headwinds in Focus - Bloomberg Tax
+24/11 03:45:58 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
