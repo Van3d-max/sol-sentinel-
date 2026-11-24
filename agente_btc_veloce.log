@@ -5794,3 +5794,9 @@
 24/11 18:45:51 INFO       (-0.7 r1.0 claude) Why is Bitcoin down today? BTC drops below $60,000 as ETF outflows mount - TradingView
 24/11 18:45:51 INFO       (-0.6 r0.9 claude) Bitcoin dips while ongoing institutional selling through US ETFs limits upward momentum - Traders Union
 24/11 18:45:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 19:01:20 INFO    === btc_veloce (BTC-EUR) ===
+24/11 19:01:20 INFO    Prezzo 54557.60 | medie 54596.85/54615.93 trend GIU | notizie -0.18 su 115 (5 nuove, 5 da Claude) | 0.5s
+24/11 19:01:20 INFO       (-0.7 r0.9 claude) Bitcoin’s Capitulation 'Begins' as US Buyers Go Missing, Glassnode Says - Benzinga
+24/11 19:01:20 INFO       (-0.7 r1.0 claude) Why is Bitcoin down today? BTC drops below $60,000 as ETF outflows mount - TradingView
+24/11 19:01:20 INFO       (-0.5 r1.0 claude) Bitcoin Price Struggles to Hold $60K as Nvidia CEO Return Rally Fades Fast - Cryptonews.net
+24/11 19:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
