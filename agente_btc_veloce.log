@@ -5890,3 +5890,9 @@
 24/11 22:45:46 INFO       (-0.5 r0.9 claude) Bitcoin’s $60,000 bear market is testing miners harder than the 2022 crypto winter
 24/11 22:45:46 INFO       (-0.5 r0.9 claude) Bitcoin Rebound or Capitulation? Bitget Wallet Warns of Thin Spot Demand Amid $3.47B ETF Outflows - FF News
 24/11 22:45:46 INFO    -> ATTENDI: trend 15 minuti non rialzista
+24/11 23:01:16 INFO    === btc_veloce (BTC-EUR) ===
+24/11 23:01:17 INFO    Prezzo 54623.11 | medie 54586.88/54556.89 trend SU | notizie -0.10 su 37 (0 nuove, 0 da Claude) | 0.3s
+24/11 23:01:17 INFO       (-0.5 r0.9 claude) Bitcoin’s $60,000 bear market is testing miners harder than the 2022 crypto winter
+24/11 23:01:17 INFO       (-0.6 r1.0 claude) Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares
+24/11 23:01:17 INFO       (+0.4 r1.0 claude) “Escape Velocity” Coming for Bitcoin with Repeat of 2017 Cycle | Michaël van de Poppe
+24/11 23:01:17 INFO    -> ATTENDI: notizie sotto la soglia (-0.10)
