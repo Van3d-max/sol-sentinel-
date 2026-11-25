@@ -6406,3 +6406,9 @@
 25/11 21:01:19 INFO       (-0.8 r1.0 claude) Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%
 25/11 21:01:19 INFO       (-0.8 r1.0 claude) Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets
 25/11 21:01:19 INFO    -> ATTENDI: notizie sotto la soglia (-0.22)
+25/11 21:15:45 INFO    === btc_veloce (BTC-EUR) ===
+25/11 21:15:45 INFO    Prezzo 54847.51 | medie 54630.53/54214.94 trend SU | notizie -0.25 su 131 (7 nuove, 7 da Claude) | 0.4s
+25/11 21:15:45 INFO       (-0.6 r1.0 claude) Bitcoin Price Struggles Below $60K as Spot Buyers Retreat and Leverage Builds - Cryptonews.net
+25/11 21:15:45 INFO       (-0.8 r1.0 claude) Bitcoin Is Headed for Its Worst Month Since 2022 -- WSJ - Moomoo
+25/11 21:15:45 INFO       (+0.6 r0.9 claude) Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor - Bitcoin Magazine
+25/11 21:15:45 INFO    -> ATTENDI: notizia shock: Bitcoin Is Headed for Its Worst Month Since 2022 -- WSJ - Moomoo
