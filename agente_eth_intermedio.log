@@ -1871,3 +1871,10 @@
 25/11 21:31:04 INFO       (-0.6 r0.9 claude) Peter Brandt Says Nothing Could Stop Ethereum From Falling Below $500 if This Level Fails - Cryptonews.net
 25/11 21:31:04 INFO       (-0.6 r0.9 claude) US policy uncertainty puts Ethereum under selling pressure as outflows persist - Traders Union
 25/11 21:31:04 INFO    -> ATTENDI: trend orario non rialzista
+25/11 22:30:59 INFO    === eth_intermedio (ETH-EUR) ===
+25/11 22:30:59 INFO    Trend superiore (ONE_DAY): GIU
+25/11 22:30:59 INFO    Prezzo 1533.58 | medie 1512.36/1532.33 trend GIU | notizie -0.16 su 66 (1 nuove, 1 da Claude) | 0.4s
+25/11 22:30:59 INFO       (-0.6 r0.9 claude) Ethereum drops 29% in a month. Can ETH hold $1,650? - Crypto News
+25/11 22:30:59 INFO       (-0.3 r1.0 claude) Peter Brandt Warns Ethereum Could Crash Below $500 if One Key Level Breaks - BeInCrypto
+25/11 22:30:59 INFO       (-0.6 r0.9 claude) Peter Brandt Says Nothing Could Stop Ethereum From Falling Below $500 if This Level Fails - Cryptonews.net
+25/11 22:30:59 INFO    -> ATTENDI: trend orario non rialzista

@@ -6434,3 +6434,9 @@
 25/11 22:16:11 INFO       (+0.1 r0.8 claude) Ethereum Foundation backs Keccak-256 to counter quantum, AI threats
 25/11 22:16:11 INFO       (-0.1 r0.3 claude) VanEck is dropping Gemini from nearly $1 billion in Bitcoin, Ethereum and Solana ETFs
 25/11 22:16:11 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)
+25/11 22:30:59 INFO    === eth_veloce (ETH-EUR) ===
+25/11 22:30:59 INFO    Prezzo 1533.58 | medie 1535.07/1531.84 trend SU | notizie -0.16 su 66 (1 nuove, 1 da Claude) | 0.3s
+25/11 22:30:59 INFO       (-0.6 r0.9 claude) Ethereum drops 29% in a month. Can ETH hold $1,650? - Crypto News
+25/11 22:30:59 INFO       (-0.3 r1.0 claude) Peter Brandt Warns Ethereum Could Crash Below $500 if One Key Level Breaks - BeInCrypto
+25/11 22:30:59 INFO       (-0.6 r0.9 claude) Peter Brandt Says Nothing Could Stop Ethereum From Falling Below $500 if This Level Fails - Cryptonews.net
+25/11 22:30:59 INFO    -> ATTENDI: notizie sotto la soglia (-0.16)

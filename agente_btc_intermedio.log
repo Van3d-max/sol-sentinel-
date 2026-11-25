@@ -1874,3 +1874,10 @@
 25/11 21:31:06 INFO       (-0.8 r1.0 claude) Bitcoin Is Headed for Its Worst Month Since 2022 -- WSJ - Moomoo
 25/11 21:31:06 INFO       (+0.6 r0.9 claude) Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor - Bitcoin Magazine
 25/11 21:31:06 INFO    -> ATTENDI: trend orario non rialzista
+25/11 22:31:02 INFO    === btc_intermedio (BTC-EUR) ===
+25/11 22:31:02 INFO    Trend superiore (ONE_DAY): GIU
+25/11 22:31:02 INFO    Prezzo 54733.84 | medie 53933.12/54607.42 trend GIU | notizie -0.21 su 116 (4 nuove, 4 da Claude) | 0.4s
+25/11 22:31:02 INFO       (-0.7 r1.0 claude) Bitcoin Funds Head for Worst Month as Outflows Near $5 Billion - Bloomberg
+25/11 22:31:02 INFO       (-0.6 r1.0 claude) Bitcoin Price Struggles Below $60K as Spot Buyers Retreat and Leverage Builds - Cryptonews.net
+25/11 22:31:02 INFO       (-0.8 r1.0 claude) Bitcoin Is Headed for Its Worst Month Since 2022 -- WSJ - Moomoo
+25/11 22:31:02 INFO    -> ATTENDI: trend orario non rialzista
