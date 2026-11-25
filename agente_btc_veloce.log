@@ -6280,3 +6280,9 @@
 25/11 15:01:23 INFO       (-0.8 r0.9 claude) Bitcoin Price Slumps Below $57,500 as Nasdaq Sinks 4% at Open
 25/11 15:01:23 INFO       (-0.8 r1.0 claude) Bitcoin slides below $59,000, on pace for its worst month since June 2022 - Yahoo Finance
 25/11 15:01:23 INFO    -> ATTENDI: trend 15 minuti non rialzista
+25/11 15:15:52 INFO    === btc_veloce (BTC-EUR) ===
+25/11 15:15:53 INFO    Prezzo 52850.00 | medie 53160.20/53430.96 trend GIU | notizie -0.33 su 128 (6 nuove, 6 da Claude) | 0.3s
+25/11 15:15:53 INFO       (-1.0 r1.0 claude) Bitcoin Price Crash: BTC Could Hit $48K in the Next 7–10 Days - Coinpedia
+25/11 15:15:53 INFO       (-0.8 r0.9 claude) Bitcoin Price Slumps Below $57,500 as Nasdaq Sinks 4% at Open
+25/11 15:15:53 INFO       (-0.8 r1.0 claude) Bitcoin slides below $59,000, on pace for its worst month since June 2022 - Yahoo Finance
+25/11 15:15:53 INFO    -> ATTENDI: trend 15 minuti non rialzista
