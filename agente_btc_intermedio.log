@@ -1790,3 +1790,10 @@
 25/11 08:45:49 INFO       (+0.6 r0.9 claude) Key facts: Strategy Buys 457 Bitcoin; Raises Limit, Approves $1B Shift - TradingView
 25/11 08:45:49 INFO       (-0.6 r1.0 claude) Bitcoin Price Falls Below $60,000 Again – Will US Inflation Data Trigger Another Sell-off? - Coinpedia
 25/11 08:45:49 INFO    -> ATTENDI: trend orario non rialzista
+25/11 09:46:01 INFO    === btc_intermedio (BTC-EUR) ===
+25/11 09:46:02 INFO    Trend superiore (ONE_DAY): GIU
+25/11 09:46:02 INFO    Prezzo 53826.81 | medie 54340.31/55308.99 trend GIU | notizie -0.20 su 129 (3 nuove, 3 da Claude) | 0.5s
+25/11 09:46:02 INFO       (-0.7 r0.9 claude) LIVE – Crypto News Today: Bitcoin Hit by Trump Tariff Threat and US Treasury Cyberattack as IBIT Bleeds Billio
+25/11 09:46:02 INFO       (-0.6 r0.9 claude) Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower
+25/11 09:46:02 INFO       (-0.7 r0.9 claude) Bitcoin Funds Head for Worst Month as Outflows Near $5 Billion - Bloomberg.com
+25/11 09:46:02 INFO    -> ATTENDI: trend orario non rialzista
