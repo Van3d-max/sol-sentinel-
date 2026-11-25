@@ -6184,3 +6184,9 @@
 25/11 19:31:16 INFO    Prezzo 0.8561 | medie 0.843833/0.831729 trend SU | notizie -0.02 su 1 (0 nuove, 0 da Claude) | 0.2s
 25/11 19:31:16 INFO       (-0.2 r0.9 claude) Just 10 accounts drove all of the XRP Ledger's trading growth last quarter
 25/11 19:31:16 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)
+25/11 19:45:47 INFO    === xrp_veloce (XRP-EUR) ===
+25/11 19:45:47 INFO    Prezzo 0.8561 | medie 0.846256/0.833252 trend SU | notizie -0.01 su 58 (1 nuove, 1 da Claude) | 0.3s
+25/11 19:45:47 INFO       (-0.3 r0.9 claude) XRP Struggles Below $1 Despite RLUSD's Growth - Cointribune
+25/11 19:45:47 INFO       (-0.6 r1.0 claude) XRP slips below $1 as Ripple’s business wins fail to lift the token - Crypto Briefing
+25/11 19:45:47 INFO       (+0.2 r1.0 claude) Can XRP Reach Standard Chartered’s $12.60 Target by 2028? - Yahoo Finance
+25/11 19:45:47 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
