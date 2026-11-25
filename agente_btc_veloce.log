@@ -6226,3 +6226,9 @@
 25/11 12:45:49 INFO       (-0.7 r1.0 claude) Bitcoin falls below $59,000 as November ETF outflows approach $5 billion - Investing.com
 25/11 12:45:49 INFO       (-0.5 r1.0 claude) Bitcoin falls below the Rainbow Chart's lowest band, into 'fire sale' territory - TradingView
 25/11 12:45:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
+25/11 13:01:16 INFO    === btc_veloce (BTC-EUR) ===
+25/11 13:01:16 INFO    Prezzo 53500.00 | medie 53580.39/53757.12 trend GIU | notizie -0.30 su 129 (3 nuove, 3 da Claude) | 0.3s
+25/11 13:01:16 INFO       (-0.7 r1.0 claude) Bitcoin Slips Below $59K Ahead Of PCE Report, Heads For Worst Month Since July 2022 - TradingView
+25/11 13:01:16 INFO       (-0.7 r0.9 claude) Bitcoin Slips Below $59K Ahead Of PCE Report, Heads For Worst Month Since July 2022 - Yahoo Finance
+25/11 13:01:16 INFO       (-0.7 r1.0 claude) Bitcoin falls below $59,000 as November ETF outflows approach $5 billion - Investing.com
+25/11 13:01:16 INFO    -> ATTENDI: trend 15 minuti non rialzista
