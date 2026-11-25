@@ -14333,3 +14333,11 @@
 25/11 17:01:21 INFO       rialzista: Il prezzo (61.66) è sopra le medie mobili a 10 e 30 periodi, e il punteggio delle notizie è leggermente positivo (0.216), con l'emissione di 1 miliardo di USDC su Solana e l'avvio di SBI Solana a sostegno della domanda.
 25/11 17:01:21 INFO       ribassista: Il margine sopra le medie è quasi nullo (circa 0.1%), l'ATR giornaliero di 0.585 indica bassa volatilità e direzionalità, e un titolo recente segnala una caduta verso il minimo di 65$ con rischio di ulteriore ribasso.
 25/11 17:01:21 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale di trend è troppo debole, le notizie sono contrastanti e un titolo (SOL a 66.75$) non è coerente con il prezzo di mercato attuale, quindi le evidenze non giustificano un acquisto spot.
+25/11 17:15:44 INFO    === veloce (SOL-EUR) ===
+25/11 17:15:45 INFO    Prezzo 62.5700 | medie 61.6400/61.5481 trend SU | notizie +0.19 su 52 (1 nuove, 1 da Claude) | 0.3s
+25/11 17:15:45 INFO       (+0.5 r0.8 claude) Circle mints 1 billion USDC on Solana in latest liquidity push - Cryptonews.net
+25/11 17:15:45 INFO       (+0.4 r0.9 claude) SBI Solana Global Begins Operations as SBI, SMFG and Solana Foundation Build Japan's Onchain Finance Hub - htt
+25/11 17:15:45 INFO       (-0.5 r1.0 claude) Solana falls to $66.75 as traders watch the $65 low - Crypto News
+25/11 17:15:49 INFO       rialzista: Il prezzo (62,57) è sopra la media mobile a 10 periodi (61,64) e a 30 periodi (61,55), e il punteggio delle notizie è leggermente positivo (0,193), con l'emissione di 1 miliardo di USDC su Solana come segnale di attività.
+25/11 17:15:49 INFO       ribassista: Il margine sopra le medie è ridotto (circa 1,5%), il punteggio delle notizie è debole, e il titolo che riporta un calo a 66,75 con il minimo di 65 da monitorare è incoerente con il prezzo attuale e rende incerto il quadro di mercato.
+25/11 17:15:49 INFO    -> BLOCCATO DAL DIBATTITO: Le evidenze sono deboli e contraddittorie, il titolo negativo non è allineato al prezzo corrente, la volatilità giornaliera è bassa rispetto ai movimenti attesi e non sono definiti stop loss né obiettivi, quindi il rischio non è giustificato.
