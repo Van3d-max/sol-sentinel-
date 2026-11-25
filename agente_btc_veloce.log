@@ -6238,3 +6238,9 @@
 25/11 13:15:56 INFO       (-0.7 r1.0 claude) Live updates: Bitcoin slips back under $59,000, with tech rout continuing - CoinDesk
 25/11 13:15:56 INFO       (-0.6 r0.9 claude) Bitcoin’s crash protection could make its next selloff worse as US inflation data looms
 25/11 13:15:56 INFO    -> ATTENDI: trend 15 minuti non rialzista
+25/11 13:31:06 INFO    === btc_veloce (BTC-EUR) ===
+25/11 13:31:06 INFO    Prezzo 53389.39 | medie 53573.08/53752.50 trend GIU | notizie -0.28 su 128 (2 nuove, 2 da Claude) | 0.2s
+25/11 13:31:06 INFO       (-0.7 r1.0 claude) Bitcoin Slips Below $59K Ahead Of PCE Report, Heads For Worst Month Since July 2022 - TradingView
+25/11 13:31:06 INFO       (-0.6 r0.9 claude) Bitcoin’s crash protection could make its next selloff worse as US inflation data looms
+25/11 13:31:06 INFO       (-0.7 r1.0 claude) Bitcoin falls below $59,000 as November ETF outflows approach $5 billion - Investing.com
+25/11 13:31:06 INFO    -> ATTENDI: trend 15 minuti non rialzista
