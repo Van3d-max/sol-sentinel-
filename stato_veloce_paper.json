@@ -1,7 +1,32 @@
 {
-  "pos": null,
+  "pos": {
+    "apertura": "2026-11-25T18:45:49+01:00",
+    "quantita": 1.579030976965846,
+    "entrata": 62.95,
+    "costo": 100.0,
+    "comm": 0.6,
+    "sl": 61.693835518584265,
+    "sl_limite": 61.07689716339842,
+    "id_stop": null,
+    "tp": 64.83424672212361,
+    "ordini": [
+      "paper-66079344"
+    ],
+    "notizie": 0.231,
+    "dibattito": "Il trade \u00e8 spot senza leva, la tendenza \u00e8 confermata da entrambe le medie mobili, la volatilit\u00e0 giornaliera \u00e8 contenuta (ATR circa 1%) e il sentiment delle notizie \u00e8 moderatamente positivo, quindi il rischio \u00e8 accettabile.",
+    "ctx": {
+      "ora": 18,
+      "giorno": 2,
+      "notizie": 0.231,
+      "distanza_media_pct": 2.143,
+      "forza_trend_pct": 0.599,
+      "atr_pct": 0.998,
+      "obiettivo_pct": 2.993,
+      "stop_pct": 1.995
+    }
+  },
   "giorno": "2026-11-25",
-  "ingressi_oggi": 0,
+  "ingressi_oggi": 1,
   "pnl_oggi": 0.0,
   "ultima_uscita": 1793813512.3742967,
   "bloccato": null
