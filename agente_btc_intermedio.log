@@ -1853,3 +1853,10 @@
 25/11 18:31:14 INFO       (-0.8 r1.0 claude) Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%
 25/11 18:31:14 INFO       (-0.8 r1.0 claude) Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets
 25/11 18:31:14 INFO    -> ATTENDI: trend orario non rialzista
+25/11 19:31:15 INFO    === btc_intermedio (BTC-EUR) ===
+25/11 19:31:15 INFO    Trend superiore (ONE_DAY): GIU
+25/11 19:31:15 INFO    Prezzo 54658.01 | medie 53870.13/54706.18 trend GIU | notizie -0.34 su 116 (6 nuove, 6 da Claude) | 0.2s
+25/11 19:31:15 INFO       (-0.8 r1.0 claude) Bitcoin Is Headed for Its Worst Month Since 2022 -- WSJ - Moomoo
+25/11 19:31:15 INFO       (-0.8 r1.0 claude) Bitcoin Falls Toward $57,000 as Hotter Inflation and Tariff Worries Sink Stocks - Yahoo Finance
+25/11 19:31:15 INFO       (-0.8 r1.0 claude) Bitcoin Falls Toward 2-Year Low. Rising Inflation and Higher Interest Rates Are Its Threats. - Barron's
+25/11 19:31:15 INFO    -> ATTENDI: trend orario non rialzista
