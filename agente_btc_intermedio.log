@@ -1727,3 +1727,10 @@
 24/11 23:45:46 INFO       (-0.7 r0.9 claude) Bitcoin realized losses hit FTX-era levels as BTC risks $53,200 - FXStreet
 24/11 23:45:46 INFO       (-0.5 r0.9 claude) In Response to the Turmoil at Nvidia, Bitcoin Drops Below $70,000. Is This a Buy-the-Dip Opportunity? - The Gl
 24/11 23:45:46 INFO    -> ATTENDI: trend orario non rialzista
+25/11 00:45:46 INFO    === btc_intermedio (BTC-EUR) ===
+25/11 00:45:46 INFO    Trend superiore (ONE_DAY): GIU
+25/11 00:45:46 INFO    Prezzo 54336.72 | medie 54823.54/55594.66 trend GIU | notizie -0.21 su 131 (2 nuove, 2 da Claude) | 0.4s
+25/11 00:45:46 INFO       (-0.8 r1.0 claude) Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion - Yahoo Fi
+25/11 00:45:46 INFO       (-0.6 r0.9 claude) US Spot Bitcoin ETFs Bleed $4.71 Billion in November, Topping June's Record - BigGo Finance
+25/11 00:45:46 INFO       (-0.8 r1.0 claude) Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion - The Motl
+25/11 00:45:46 INFO    -> ATTENDI: trend orario non rialzista
