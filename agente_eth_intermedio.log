@@ -1801,3 +1801,10 @@
 25/11 10:45:45 INFO       (-0.7 r1.0 claude) Ethereum slides toward $1,650 as ETF outflows and rate fears return - Traders Union
 25/11 10:45:45 INFO       (+0.3 r1.0 claude) Tom Lee Explains Why He’s Bullish on Ethereum, Shares the “Hard Money” Case - BeInCrypto
 25/11 10:45:45 INFO    -> ATTENDI: trend orario non rialzista
+25/11 11:45:49 INFO    === eth_intermedio (ETH-EUR) ===
+25/11 11:45:50 INFO    Trend superiore (ONE_DAY): GIU
+25/11 11:45:50 INFO    Prezzo 1501.28 | medie 1519.68/1551.31 trend GIU | notizie -0.13 su 59 (1 nuove, 1 da Claude) | 0.3s
+25/11 11:45:50 INFO       (-0.6 r0.9 claude) Ethereum Price Prediction: Peter Brandt Warns of $500 Crash Amid Persistent ETF Outflows - CoinGape
+25/11 11:45:50 INFO       (-0.3 r1.0 claude) ETH Price Prediction: 70% Crash Below $1,383 - Bitcoin Foundation
+25/11 11:45:50 INFO       (-0.7 r1.0 claude) Ethereum slides toward $1,650 as ETF outflows and rate fears return - Traders Union
+25/11 11:45:50 INFO    -> ATTENDI: trend orario non rialzista

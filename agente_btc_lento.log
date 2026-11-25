@@ -1546,3 +1546,9 @@
 25/11 10:45:48 INFO       (-0.7 r1.0 claude) Bitcoin Funds Head for Worst Month as Outflows Near $5 Billion - Bloomberg
 25/11 10:45:48 INFO       (-0.6 r0.9 claude) Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower - CoinDesk
 25/11 10:45:48 INFO    -> ATTENDI: trend giornaliero non rialzista
+25/11 11:45:54 INFO    === btc_lento (BTC-EUR) ===
+25/11 11:45:54 INFO    Prezzo 53583.81 | medie 56617.12/64209.21 trend GIU | notizie -0.29 su 149 (13 nuove, 13 da Claude) | 0.1s
+25/11 11:45:54 INFO       (-0.7 r1.0 claude) Bitcoin falls below $59,000 as November ETF outflows approach $5 billion - Investing.com
+25/11 11:45:54 INFO       (-0.7 r1.0 claude) Bitcoin: Losses explode, Glassnode fears a new drop toward $37,000 - Cointribune
+25/11 11:45:54 INFO       (-0.7 r1.0 claude) Bitcoin Price Risks $55K Crash After US Spot ETFs’ Record Biggest Monthly Outflow Since Launch - CoinGape
+25/11 11:45:54 INFO    -> ATTENDI: trend giornaliero non rialzista
