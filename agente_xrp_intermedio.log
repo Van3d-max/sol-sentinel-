@@ -1774,3 +1774,10 @@
 25/11 09:46:03 INFO       (-0.2 r0.9 claude) Just 10 accounts drove all of the XRP Ledger's trading growth last quarter
 25/11 09:46:03 INFO       (+0.1 r1.0 claude) XRP’s shrinking exchange supply may be telling investors the wrong story
 25/11 09:46:03 INFO    -> ATTENDI: trend orario non rialzista
+25/11 10:45:49 INFO    === xrp_intermedio (XRP-EUR) ===
+25/11 10:45:49 INFO    Trend superiore (ONE_DAY): GIU
+25/11 10:45:49 INFO    Prezzo 0.8326 | medie 0.838315/0.855406 trend GIU | notizie -0.01 su 49 (0 nuove, 0 da Claude) | 0.3s
+25/11 10:45:49 INFO       (+0.4 r0.9 claude) Trading Volume Per Account Rises 437% on XRP Ledger - Bitcoin Foundation
+25/11 10:45:49 INFO       (-0.3 r0.8 claude) Western Union Is Going On-Chain: Can Ripple and XRP Still Compete? - Coinpaper
+25/11 10:45:49 INFO       (+0.4 r0.9 claude) Ripple partners with Turkish banking giant Yapı Kredi to expand crypto custody services - Crypto News
+25/11 10:45:49 INFO    -> ATTENDI: trend orario non rialzista
