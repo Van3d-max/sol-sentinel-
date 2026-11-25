@@ -6256,3 +6256,9 @@
 25/11 14:01:20 INFO       (-0.7 r0.9 claude) Bitcoin Slips Below $59K Ahead Of PCE Report, Heads For Worst Month Since July 2022 - Yahoo Finance
 25/11 14:01:20 INFO       (-0.6 r0.9 claude) Bitcoin’s crash protection could make its next selloff worse as US inflation data looms
 25/11 14:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
+25/11 14:15:52 INFO    === btc_veloce (BTC-EUR) ===
+25/11 14:15:52 INFO    Prezzo 53223.89 | medie 53441.66/53618.19 trend GIU | notizie -0.26 su 115 (6 nuove, 6 da Claude) | 0.2s
+25/11 14:15:52 INFO       (-0.7 r1.0 claude) Bitcoin falls below $58,000 after hot US inflation data - Cryptonews.net
+25/11 14:15:52 INFO       (-0.7 r1.0 claude) Bitcoin Funds Head for Worst Month as Outflows Near $5 Billion - Bloomberg
+25/11 14:15:52 INFO       (-0.6 r0.9 claude) Bitcoin trades as a high-beta tech proxy amid a strong downtrend - Investing.com
+25/11 14:15:52 INFO    -> ATTENDI: trend 15 minuti non rialzista
