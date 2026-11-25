@@ -6118,3 +6118,9 @@
 25/11 08:15:48 INFO       (-0.6 r1.0 claude) Bitcoin Price Falls Below $60,000 Again – Will US Inflation Data Trigger Another Sell-off? - Coinpedia
 25/11 08:15:48 INFO       (-0.6 r1.0 claude) Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000 - The Block
 25/11 08:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
+25/11 08:31:07 INFO    === btc_veloce (BTC-EUR) ===
+25/11 08:31:07 INFO    Prezzo 54126.25 | medie 53916.23/54002.93 trend GIU | notizie -0.20 su 128 (2 nuove, 2 da Claude) | 0.2s
+25/11 08:31:07 INFO       (-0.7 r0.9 claude) Bitcoin Funds Head for Worst Month as Outflows Near $5 Billion - Bloomberg.com
+25/11 08:31:07 INFO       (+0.6 r0.9 claude) Key facts: Strategy Buys 457 Bitcoin; Raises Limit, Approves $1B Shift - TradingView
+25/11 08:31:07 INFO       (-0.6 r1.0 claude) Bitcoin Price Falls Below $60,000 Again – Will US Inflation Data Trigger Another Sell-off? - Coinpedia
+25/11 08:31:07 INFO    -> ATTENDI: trend 15 minuti non rialzista
