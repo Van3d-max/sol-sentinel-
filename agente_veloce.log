@@ -14375,3 +14375,9 @@
 25/11 18:31:10 INFO       (-0.5 r0.8 claude) Solana DEX Velocity halts trading over bug just months after relaunch
 25/11 18:31:10 INFO       (-0.2 r0.3 claude) VanEck is dropping Gemini from nearly $1 billion in Bitcoin, Ethereum and Solana ETFs
 25/11 18:31:10 INFO    -> TIENI: trend su, notizie +0.05, stop 61.6938
+25/11 18:45:54 INFO    === veloce (SOL-EUR) ===
+25/11 18:45:54 INFO    Prezzo 63.4800 | medie 62.6633/61.8867 trend SU | notizie +0.30 su 59 (3 nuove, 3 da Claude) | 0.1s
+25/11 18:45:54 INFO       (+0.6 r0.9 claude) Japan's largest financial institutions tap Solana for stablecoin payments and tokenization - Yahoo Finance
+25/11 18:45:54 INFO       (+0.6 r0.9 claude) SBI, SMBC launch Solana joint venture for stablecoin payments and tokenization - Ledger Insights
+25/11 18:45:54 INFO       (+0.7 r0.9 claude) Japan's biggest banks pick Solana as Fidelity adds DeFi tokens - Yahoo Finance
+25/11 18:45:54 INFO    -> TIENI: trend su, notizie +0.30, stop 61.6938
