@@ -6200,3 +6200,9 @@
 25/11 11:45:49 INFO       (-0.3 r1.0 claude) ETH Price Prediction: 70% Crash Below $1,383 - Bitcoin Foundation
 25/11 11:45:49 INFO       (-0.7 r1.0 claude) Ethereum slides toward $1,650 as ETF outflows and rate fears return - Traders Union
 25/11 11:45:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
+25/11 12:01:17 INFO    === eth_veloce (ETH-EUR) ===
+25/11 12:01:18 INFO    Prezzo 1495.88 | medie 1501.43/1503.34 trend GIU | notizie -0.16 su 60 (1 nuove, 1 da Claude) | 0.3s
+25/11 12:01:18 INFO       (-0.6 r0.9 claude) Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes
+25/11 12:01:18 INFO       (-0.6 r0.9 claude) Ethereum Price Prediction: Peter Brandt Warns of $500 Crash Amid Persistent ETF Outflows - CoinGape
+25/11 12:01:18 INFO       (-0.3 r1.0 claude) ETH Price Prediction: 70% Crash Below $1,383 - Bitcoin Foundation
+25/11 12:01:18 INFO    -> ATTENDI: trend 15 minuti non rialzista
