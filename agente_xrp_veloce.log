@@ -5865,3 +5865,7 @@
 25/11 05:01:17 INFO       (-0.6 r0.5 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP extend losses as oversold crypto market e
 25/11 05:01:17 INFO       (-0.3 r0.9 claude) Institutions secretly accumulate XRP? Ripple's former CTO says unlikely - 디지털투데이
 25/11 05:01:17 INFO    -> ATTENDI: notizie sotto la soglia (-0.13)
+25/11 05:15:47 INFO    === xrp_veloce (XRP-EUR) ===
+25/11 05:15:48 INFO    Prezzo 0.8377 | medie 0.839122/0.837976 trend SU | notizie +0.04 su 1 (0 nuove, 0 da Claude) | 0.3s
+25/11 05:15:48 INFO       (+0.1 r1.0 claude) XRP’s shrinking exchange supply may be telling investors the wrong story
+25/11 05:15:48 INFO    -> ATTENDI: obiettivo +1.09% sotto il minimo +2.20% (commissioni)
