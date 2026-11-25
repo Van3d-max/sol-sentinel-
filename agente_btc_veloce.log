@@ -6208,3 +6208,9 @@
 25/11 12:01:20 INFO       (-0.7 r1.0 claude) Bitcoin: Losses explode, Glassnode fears a new drop toward $37,000 - Cointribune
 25/11 12:01:20 INFO       (-0.7 r0.9 claude) Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout
 25/11 12:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
+25/11 12:15:49 INFO    === btc_veloce (BTC-EUR) ===
+25/11 12:15:50 INFO    Prezzo 53455.99 | medie 53656.95/53806.94 trend GIU | notizie -0.34 su 120 (6 nuove, 6 da Claude) | 0.3s
+25/11 12:15:50 INFO       (-0.7 r1.0 claude) Bitcoin falls below $59,000 as November ETF outflows approach $5 billion - Investing.com
+25/11 12:15:50 INFO       (-0.7 r1.0 claude) Bitcoin Funds Head for Worst Month as Outflows Near $5 Billion - Bloomberg
+25/11 12:15:50 INFO       (-0.6 r0.9 claude) Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower - CoinDesk
+25/11 12:15:50 INFO    -> ATTENDI: trend 15 minuti non rialzista
