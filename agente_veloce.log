@@ -14357,3 +14357,9 @@
 25/11 17:45:49 INFO       rialzista: Il prezzo (62.95) è sopra sia la media mobile a 10 periodi (61.99) sia quella a 30 (61.63), con un trend di breve e medio periodo in rialzo, supportato da notizie istituzionali favorevoli su Solana (adozione da parte di banche giapponesi, Fidelity e Circle).
 25/11 17:45:49 INFO       ribassista: Le notizie sono in parte promozionali e il punteggio complessivo è solo leggermente positivo (0.231), mentre il prezzo si trova già a circa 1.5% sopra la media a 10 periodi, con il rischio di un ritracciamento verso la media.
 25/11 17:45:49 INFO    -> COMPRA: trend su + notizie +0.23; Il trade è spot senza leva, la tendenza è confermata da entrambe le medie mobili, la volatilità giornaliera è contenuta (ATR circa 1%) e il sentiment delle notizie è moderatamente positivo, quindi il rischio è accettabile.
+25/11 18:01:12 INFO    === veloce (SOL-EUR) ===
+25/11 18:01:13 INFO    Prezzo 63.1400 | medie 62.2033/61.6929 trend SU | notizie +0.23 su 56 (0 nuove, 0 da Claude) | 0.4s
+25/11 18:01:13 INFO       (+0.7 r0.9 claude) Japan's biggest banks pick Solana as Fidelity adds DeFi tokens - Yahoo Finance
+25/11 18:01:13 INFO       (+0.5 r0.8 claude) Circle mints 1 billion USDC on Solana in latest liquidity push - Cryptonews.net
+25/11 18:01:13 INFO       (+0.4 r0.9 claude) SBI Solana Global Begins Operations as SBI, SMFG and Solana Foundation Build Japan's Onchain Finance Hub - htt
+25/11 18:01:13 INFO    -> TIENI: trend su, notizie +0.23, stop 61.6938
