@@ -1814,3 +1814,10 @@
 25/11 16:31:20 INFO    Prezzo 0.8249 | medie 0.83521/0.850816 trend GIU | notizie -0.03 su 1 (0 nuove, 0 da Claude) | 0.4s
 25/11 16:31:20 INFO       (-0.2 r0.9 claude) Just 10 accounts drove all of the XRP Ledger's trading growth last quarter
 25/11 16:31:20 INFO    -> ATTENDI: trend orario non rialzista
+25/11 17:31:13 INFO    === xrp_intermedio (XRP-EUR) ===
+25/11 17:31:14 INFO    Trend superiore (ONE_DAY): GIU
+25/11 17:31:14 INFO    Prezzo 0.8352 | medie 0.83458/0.84913 trend GIU | notizie -0.03 su 58 (0 nuove, 0 da Claude) | 0.5s
+25/11 17:31:14 INFO       (-0.6 r1.0 claude) XRP slips below $1 as Ripple’s business wins fail to lift the token - Crypto Briefing
+25/11 17:31:14 INFO       (-0.5 r1.0 claude) XRP Just Dropped Below $1. Here's the Contrarian Case for Buying XRP Right Now. - The Motley Fool
+25/11 17:31:14 INFO       (+0.3 r1.0 claude) Ripple veteran weighs whether Wall Street can secretly buy billions in XRP - TheStreet
+25/11 17:31:14 INFO    -> ATTENDI: trend orario non rialzista

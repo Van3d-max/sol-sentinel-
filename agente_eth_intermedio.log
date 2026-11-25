@@ -1836,3 +1836,10 @@
 25/11 16:31:12 INFO       (-0.5 r1.0 claude) Ethereum Whale Dumps 17,183 ETH for $28.68M in DAI - Cryptonews.net
 25/11 16:31:12 INFO       (-0.6 r1.0 claude) Ethereum Price Prediction: Peter Brandt Warns of $500 Crash Amid Persistent ETF Outflows - Cryptonews.net
 25/11 16:31:12 INFO    -> ATTENDI: trend orario non rialzista
+25/11 17:31:09 INFO    === eth_intermedio (ETH-EUR) ===
+25/11 17:31:09 INFO    Trend superiore (ONE_DAY): GIU
+25/11 17:31:09 INFO    Prezzo 1512.35 | medie 1511.14/1539.85 trend GIU | notizie -0.28 su 70 (1 nuove, 1 da Claude) | 0.3s
+25/11 17:31:09 INFO       (-0.6 r0.9 claude) Peter Brandt Says Nothing Could Stop Ethereum From Falling Below $500 if This Level Fails - Cryptonews.net
+25/11 17:31:09 INFO       (-0.6 r0.9 claude) US policy uncertainty puts Ethereum under selling pressure as outflows persist - Traders Union
+25/11 17:31:09 INFO       (-0.7 r1.0 claude) Ethereum Price Analysis: Where Is ETH’s Bottom as the Breakdown Accelerates? - CryptoPotato
+25/11 17:31:09 INFO    -> ATTENDI: trend orario non rialzista
