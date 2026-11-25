@@ -14325,3 +14325,11 @@
 25/11 16:45:49 INFO       (+0.4 r0.9 claude) SBI Solana Global Begins Operations as SBI, SMFG and Solana Foundation Build Japan's Onchain Finance Hub - htt
 25/11 16:45:49 INFO       (-0.5 r1.0 claude) Solana falls to $66.75 as traders watch the $65 low - Crypto News
 25/11 16:45:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
+25/11 17:01:18 INFO    === veloce (SOL-EUR) ===
+25/11 17:01:18 INFO    Prezzo 61.6600 | medie 61.5533/61.5171 trend SU | notizie +0.22 su 52 (2 nuove, 2 da Claude) | 0.4s
+25/11 17:01:18 INFO       (+0.5 r0.8 claude) Circle mints 1 billion USDC on Solana in latest liquidity push - Cryptonews.net
+25/11 17:01:18 INFO       (+0.4 r0.9 claude) SBI Solana Global Begins Operations as SBI, SMFG and Solana Foundation Build Japan's Onchain Finance Hub - htt
+25/11 17:01:18 INFO       (-0.5 r1.0 claude) Solana falls to $66.75 as traders watch the $65 low - Crypto News
+25/11 17:01:21 INFO       rialzista: Il prezzo (61.66) è sopra le medie mobili a 10 e 30 periodi, e il punteggio delle notizie è leggermente positivo (0.216), con l'emissione di 1 miliardo di USDC su Solana e l'avvio di SBI Solana a sostegno della domanda.
+25/11 17:01:21 INFO       ribassista: Il margine sopra le medie è quasi nullo (circa 0.1%), l'ATR giornaliero di 0.585 indica bassa volatilità e direzionalità, e un titolo recente segnala una caduta verso il minimo di 65$ con rischio di ulteriore ribasso.
+25/11 17:01:21 INFO    -> BLOCCATO DAL DIBATTITO: Il segnale di trend è troppo debole, le notizie sono contrastanti e un titolo (SOL a 66.75$) non è coerente con il prezzo di mercato attuale, quindi le evidenze non giustificano un acquisto spot.
