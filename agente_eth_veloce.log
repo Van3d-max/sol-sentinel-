@@ -5996,3 +5996,9 @@
 25/11 03:15:52 INFO       (-0.6 r0.9 claude) Ethereum Price Forecast: Tariff concerns pressure crypto as ETH drops below $1,700 - www.tmgm.com
 25/11 03:15:52 INFO       (-0.6 r0.9 claude) Ethereum Price Forecast: ETH falls below $1,700 as tariff fears weigh on crypto - FXStreet
 25/11 03:15:52 INFO    -> ATTENDI: trend 15 minuti non rialzista
+25/11 03:31:03 INFO    === eth_veloce (ETH-EUR) ===
+25/11 03:31:03 INFO    Prezzo 1517.62 | medie 1514.04/1523.08 trend GIU | notizie -0.01 su 3 (0 nuove, 0 da Claude) | 0.3s
+25/11 03:31:03 INFO       (-0.5 r0.9 claude) BTCS sells more than half its ether to repay $43.8 million in Aave debt
+25/11 03:31:03 INFO       (+0.1 r0.2 claude) What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t
+25/11 03:31:03 INFO       (+0.0 r0.7 claude) Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing
+25/11 03:31:03 INFO    -> ATTENDI: trend 15 minuti non rialzista
