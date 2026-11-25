@@ -6154,3 +6154,9 @@
 25/11 09:46:01 INFO       (-0.6 r0.9 claude) Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower
 25/11 09:46:01 INFO       (-0.7 r0.9 claude) Bitcoin Funds Head for Worst Month as Outflows Near $5 Billion - Bloomberg.com
 25/11 09:46:01 INFO    -> ATTENDI: trend 15 minuti non rialzista
+25/11 10:01:20 INFO    === btc_veloce (BTC-EUR) ===
+25/11 10:01:20 INFO    Prezzo 53934.16 | medie 53921.24/53959.66 trend GIU | notizie -0.23 su 131 (4 nuove, 4 da Claude) | 0.2s
+25/11 10:01:20 INFO       (-0.7 r1.0 claude) BTC News: ARK Sells $6.8M Bitcoin ETF as $4.9B Outflows Deepen Market Fear - Yahoo Finance
+25/11 10:01:20 INFO       (-0.6 r0.9 claude) Gold vs Bitcoin: Gold Leads as Bitcoin Price Slides on AI Selloff - FXEmpire
+25/11 10:01:20 INFO       (-0.7 r0.9 claude) LIVE – Crypto News Today: Bitcoin Hit by Trump Tariff Threat and US Treasury Cyberattack as IBIT Bleeds Billio
+25/11 10:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
