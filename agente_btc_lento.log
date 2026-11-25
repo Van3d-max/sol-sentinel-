@@ -1570,3 +1570,9 @@
 25/11 14:45:53 INFO       (-0.8 r1.0 claude) Bitcoin slides below $59,000, on pace for its worst month since June 2022 - Yahoo Finance
 25/11 14:45:53 INFO       (-0.7 r1.0 claude) Bitcoin price tests $58K floor as $107M liquidated, ETFs bleed cash - Seeking Alpha
 25/11 14:45:53 INFO    -> ATTENDI: trend giornaliero non rialzista
+25/11 16:31:19 INFO    === btc_lento (BTC-EUR) ===
+25/11 16:31:19 INFO    Prezzo 53509.49 | medie 56617.12/64209.21 trend GIU | notizie -0.27 su 144 (22 nuove, 22 da Claude) | 0.1s
+25/11 16:31:19 INFO       (-0.8 r1.0 claude) Bitcoin crashes below $60,000: how much worse could the crypto rout get? - Cryptonews.net
+25/11 16:31:19 INFO       (-1.0 r1.0 claude) Bitcoin Price Crash: BTC Could Hit $48K in the Next 7–10 Days - Coinpedia
+25/11 16:31:19 INFO       (-0.8 r1.0 claude) Bitcoin’s selloff deepens as Trump tariffs and hot inflation revive market fears
+25/11 16:31:19 INFO    -> ATTENDI: trend giornaliero non rialzista

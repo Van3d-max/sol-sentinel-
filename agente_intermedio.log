@@ -1823,3 +1823,10 @@
 25/11 14:45:47 INFO       (+0.5 r0.9 claude) Solana gains as tokenized U.S. Treasuries rise amid strong dollar and investor shift from Ethereum. - Pluang
 25/11 14:45:47 INFO       (-0.6 r0.8 claude) Solana's bearish outlook persists amid Fed tightening, prolonged US-Iran stalemate and growth concerns - inves
 25/11 14:45:47 INFO    -> ATTENDI: trend orario non rialzista
+25/11 16:31:08 INFO    === intermedio (SOL-EUR) ===
+25/11 16:31:09 INFO    Trend superiore (ONE_DAY): GIU
+25/11 16:31:09 INFO    Prezzo 61.9400 | medie 62.5275/64.3168 trend GIU | notizie +0.17 su 49 (3 nuove, 3 da Claude) | 0.4s
+25/11 16:31:09 INFO       (-0.5 r1.0 claude) Solana falls to $66.75 as traders watch the $65 low - Crypto News
+25/11 16:31:09 INFO       (+0.4 r0.9 claude) WIZE Adds 4,592 Solana (SOL) as Holdings Reach 72,104 - Cryptonews.net
+25/11 16:31:09 INFO       (+0.5 r0.9 claude) SBI, SMBC and Solana Foundation unite to develop stablecoin payments and tokenized investment products - Crypt
+25/11 16:31:09 INFO    -> ATTENDI: trend orario non rialzista
