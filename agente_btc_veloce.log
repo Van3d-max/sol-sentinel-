@@ -6034,3 +6034,9 @@
 25/11 04:45:47 INFO       (-0.6 r0.9 claude) Bitcoin options traders pile into puts at a pace last seen in 2022 - Cryptonews.net
 25/11 04:45:47 INFO       (-0.6 r0.7 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP extend losses as oversold crypto market e
 25/11 04:45:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
+25/11 05:01:16 INFO    === btc_veloce (BTC-EUR) ===
+25/11 05:01:16 INFO    Prezzo 54084.28 | medie 54123.43/54157.92 trend GIU | notizie -0.08 su 37 (1 nuove, 1 da Claude) | 0.2s
+25/11 05:01:16 INFO       (+0.3 r0.9 claude) The CFTC opens the door to Bitcoin reserves at US exchanges with a 20% catch
+25/11 05:01:16 INFO       (-0.5 r0.9 claude) Bitcoin faces a familiar macro threat as the US prepares another round of tariffs
+25/11 05:01:16 INFO       (-0.3 r0.9 claude) CleanSpark weighs selling more Bitcoin than it mines to de-risk books
+25/11 05:01:16 INFO    -> ATTENDI: trend 15 minuti non rialzista
