@@ -6446,3 +6446,9 @@
 25/11 22:45:42 INFO       (-0.3 r1.0 claude) Peter Brandt Warns Ethereum Could Crash Below $500 if One Key Level Breaks - BeInCrypto
 25/11 22:45:42 INFO       (-0.6 r0.9 claude) Peter Brandt Says Nothing Could Stop Ethereum From Falling Below $500 if This Level Fails - Cryptonews.net
 25/11 22:45:42 INFO    -> ATTENDI: notizie sotto la soglia (-0.16)
+25/11 23:01:19 INFO    === eth_veloce (ETH-EUR) ===
+25/11 23:01:20 INFO    Prezzo 1529.87 | medie 1535.87/1533.60 trend SU | notizie -0.01 su 3 (0 nuove, 0 da Claude) | 0.3s
+25/11 23:01:20 INFO       (-0.6 r0.9 claude) Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes
+25/11 23:01:20 INFO       (+0.1 r0.8 claude) Ethereum Foundation backs Keccak-256 to counter quantum, AI threats
+25/11 23:01:20 INFO       (+0.0 r0.7 claude) Morning Minute: Ethereum Focuses on Security As AI Threats Rise
+25/11 23:01:20 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
