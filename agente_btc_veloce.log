@@ -6094,3 +6094,9 @@
 25/11 07:15:47 INFO       (-0.7 r0.9 claude) Bitcoin Funds Head for Worst Month as Outflows Near $5 Billion - Bloomberg.com
 25/11 07:15:47 INFO       (-0.9 r1.0 claude) On the Chain: Bitcoin falls below US$60,000 as record ETF withdrawals deepen crypto sell-off - Proactive finan
 25/11 07:15:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
+25/11 07:31:03 INFO    === btc_veloce (BTC-EUR) ===
+25/11 07:31:03 INFO    Prezzo 53961.52 | medie 54014.11/54049.86 trend GIU | notizie -0.07 su 36 (0 nuove, 0 da Claude) | 0.3s
+25/11 07:31:03 INFO       (+0.3 r0.9 claude) The CFTC opens the door to Bitcoin reserves at US exchanges with a 20% catch
+25/11 07:31:03 INFO       (-0.5 r0.9 claude) Bitcoin faces a familiar macro threat as the US prepares another round of tariffs
+25/11 07:31:03 INFO       (-0.3 r0.9 claude) CleanSpark weighs selling more Bitcoin than it mines to de-risk books
+25/11 07:31:03 INFO    -> ATTENDI: trend 15 minuti non rialzista
