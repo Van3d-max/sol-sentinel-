@@ -1543,3 +1543,6 @@
 25/11 17:31:15 INFO    === shib_lento (SHIB-EUR) ===
 25/11 17:31:15 INFO    Prezzo 3.19e-06 | medie 3.395e-06/3.854e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.1s
 25/11 17:31:15 INFO    -> ATTENDI: trend giornaliero non rialzista
+25/11 18:31:18 INFO    === shib_lento (SHIB-EUR) ===
+25/11 18:31:18 INFO    Prezzo 3.22e-06 | medie 3.395e-06/3.854e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.1s
+25/11 18:31:18 INFO    -> ATTENDI: trend giornaliero non rialzista
