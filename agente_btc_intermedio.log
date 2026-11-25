@@ -1734,3 +1734,10 @@
 25/11 00:45:46 INFO       (-0.6 r0.9 claude) US Spot Bitcoin ETFs Bleed $4.71 Billion in November, Topping June's Record - BigGo Finance
 25/11 00:45:46 INFO       (-0.8 r1.0 claude) Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion - The Motl
 25/11 00:45:46 INFO    -> ATTENDI: trend orario non rialzista
+25/11 01:45:51 INFO    === btc_intermedio (BTC-EUR) ===
+25/11 01:45:51 INFO    Trend superiore (ONE_DAY): GIU
+25/11 01:45:51 INFO    Prezzo 54026.33 | medie 54779.88/55568.93 trend GIU | notizie -0.21 su 128 (0 nuove, 0 da Claude) | 0.4s
+25/11 01:45:51 INFO       (-0.7 r0.9 claude) Bitcoin Shows Signs of Capitulation: U.S. Equities Under Pressure, Potential Break Below $60,000 to Test $53,0
+25/11 01:45:51 INFO       (-0.6 r0.9 claude) US Spot Bitcoin ETFs Bleed $4.71 Billion in November, Topping June's Record - BigGo Finance
+25/11 01:45:51 INFO       (-0.8 r1.0 claude) Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion - The Motl
+25/11 01:45:51 INFO    -> ATTENDI: trend orario non rialzista

@@ -1731,3 +1731,10 @@
 25/11 00:45:44 INFO       (-0.6 r0.9 claude) Ethereum Price Forecast: ETH falls below $1,700 as tariff fears weigh on crypto - FXStreet
 25/11 00:45:44 INFO       (-0.8 r0.9 claude) Ethereum falls as institutional withdrawals persist through spot ETF channel - Traders Union
 25/11 00:45:44 INFO    -> ATTENDI: trend orario non rialzista
+25/11 01:45:49 INFO    === eth_intermedio (ETH-EUR) ===
+25/11 01:45:50 INFO    Trend superiore (ONE_DAY): GIU
+25/11 01:45:50 INFO    Prezzo 1514.93 | medie 1538.86/1562.50 trend GIU | notizie -0.12 su 70 (0 nuove, 0 da Claude) | 0.4s
+25/11 01:45:50 INFO       (-0.6 r0.9 claude) Ethereum Price Forecast: Tariff concerns pressure crypto as ETH drops below $1,700 - www.tmgm.com
+25/11 01:45:50 INFO       (-0.6 r0.9 claude) Ethereum Price Forecast: ETH falls below $1,700 as tariff fears weigh on crypto - FXStreet
+25/11 01:45:50 INFO       (-0.8 r0.9 claude) Ethereum falls as institutional withdrawals persist through spot ETF channel - Traders Union
+25/11 01:45:50 INFO    -> ATTENDI: trend orario non rialzista
