@@ -6190,3 +6190,9 @@
 25/11 11:15:49 INFO       (-0.6 r0.9 claude) Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower - CoinDesk
 25/11 11:15:49 INFO       (-0.7 r1.0 claude) BTC News: ARK Sells $6.8M Bitcoin ETF as $4.9B Outflows Deepen Market Fear - Yahoo Finance
 25/11 11:15:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
+25/11 11:31:06 INFO    === btc_veloce (BTC-EUR) ===
+25/11 11:31:06 INFO    Prezzo 53446.44 | medie 53775.20/53882.12 trend GIU | notizie -0.30 su 114 (5 nuove, 5 da Claude) | 0.1s
+25/11 11:31:06 INFO       (-0.7 r0.9 claude) Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout
+25/11 11:31:06 INFO       (-0.6 r1.0 claude) Why is Bitcoin Dropping? - Coinpedia
+25/11 11:31:06 INFO       (-0.5 r1.0 claude) Bitcoin price may fall below $53K if bear-market history repeats
+25/11 11:31:06 INFO    -> ATTENDI: trend 15 minuti non rialzista
