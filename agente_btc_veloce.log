@@ -5914,3 +5914,9 @@
 24/11 23:45:46 INFO       (-0.7 r0.9 claude) Bitcoin realized losses hit FTX-era levels as BTC risks $53,200 - FXStreet
 24/11 23:45:46 INFO       (-0.5 r0.9 claude) In Response to the Turmoil at Nvidia, Bitcoin Drops Below $70,000. Is This a Buy-the-Dip Opportunity? - The Gl
 24/11 23:45:46 INFO    -> ATTENDI: notizia shock: Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a 
+25/11 00:01:14 INFO    === btc_veloce (BTC-EUR) ===
+25/11 00:01:14 INFO    Prezzo 54474.24 | medie 54635.56/54537.90 trend SU | notizie -0.18 su 36 (1 nuove, 1 da Claude) | 0.2s
+25/11 00:01:14 INFO       (-0.5 r0.9 claude) Bitcoin faces a familiar macro threat as the US prepares another round of tariffs
+25/11 00:01:14 INFO       (-0.5 r0.9 claude) Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse
+25/11 00:01:14 INFO       (-0.5 r0.9 claude) Bitcoin’s $60,000 bear market is testing miners harder than the 2022 crypto winter
+25/11 00:01:14 INFO    -> ATTENDI: notizie sotto la soglia (-0.18)
