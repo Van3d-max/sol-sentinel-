@@ -1773,3 +1773,10 @@
 25/11 06:45:45 INFO       (-0.6 r0.9 claude) Ethereum Price Prediction: A Failed ETH Bounce Puts $1,500 Back in Play as AlphaPepe’s Presale Tops $3.47M - S
 25/11 06:45:45 INFO       (+0.4 r0.4 claude) Russia’s largest stock exchange to launch Bitcoin, Ethereum, USDT trading - Crypto News
 25/11 06:45:45 INFO    -> ATTENDI: trend orario non rialzista
+25/11 07:45:45 INFO    === eth_intermedio (ETH-EUR) ===
+25/11 07:45:45 INFO    Trend superiore (ONE_DAY): GIU
+25/11 07:45:45 INFO    Prezzo 1500.73 | medie 1528.19/1556.45 trend GIU | notizie -0.14 su 61 (1 nuove, 1 da Claude) | 0.2s
+25/11 07:45:45 INFO       (-0.6 r0.9 claude) Ethereum sells off as BTCS repays Aave debt: Can ETH avoid deeper losses? - Traders Union
+25/11 07:45:45 INFO       (-0.6 r0.9 claude) Ethereum Price Prediction: A Failed ETH Bounce Puts $1,500 Back in Play as AlphaPepe’s Presale Tops $3.47M - S
+25/11 07:45:45 INFO       (+0.4 r0.4 claude) Russia’s largest stock exchange to launch Bitcoin, Ethereum, USDT trading - Crypto News
+25/11 07:45:45 INFO    -> ATTENDI: trend orario non rialzista

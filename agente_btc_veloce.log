@@ -6100,3 +6100,9 @@
 25/11 07:31:03 INFO       (-0.5 r0.9 claude) Bitcoin faces a familiar macro threat as the US prepares another round of tariffs
 25/11 07:31:03 INFO       (-0.3 r0.9 claude) CleanSpark weighs selling more Bitcoin than it mines to de-risk books
 25/11 07:31:03 INFO    -> ATTENDI: trend 15 minuti non rialzista
+25/11 07:45:47 INFO    === btc_veloce (BTC-EUR) ===
+25/11 07:45:48 INFO    Prezzo 53735.34 | medie 53985.26/54040.06 trend GIU | notizie -0.26 su 127 (9 nuove, 9 da Claude) | 0.2s
+25/11 07:45:48 INFO       (-0.6 r1.0 claude) Bitcoin Price Falls Below $60,000 Again – Will US Inflation Data Trigger Another Sell-off? - Coinpedia
+25/11 07:45:48 INFO       (-0.6 r1.0 claude) Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000 - The Block
+25/11 07:45:48 INFO       (-0.7 r1.0 claude) Bitcoin extends losses below $59,000 as ETF outflows weigh - Investing.com
+25/11 07:45:48 INFO    -> ATTENDI: trend 15 minuti non rialzista

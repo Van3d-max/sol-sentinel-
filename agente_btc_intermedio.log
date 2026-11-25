@@ -1776,3 +1776,10 @@
 25/11 06:45:47 INFO       (-0.7 r0.9 claude) Bitcoin Funds Head for Worst Month as Outflows Near $5 Billion - Bloomberg.com
 25/11 06:45:47 INFO       (-0.9 r1.0 claude) On the Chain: Bitcoin falls below US$60,000 as record ETF withdrawals deepen crypto sell-off - Proactive finan
 25/11 06:45:47 INFO    -> ATTENDI: trend orario non rialzista
+25/11 07:45:48 INFO    === btc_intermedio (BTC-EUR) ===
+25/11 07:45:48 INFO    Trend superiore (ONE_DAY): GIU
+25/11 07:45:48 INFO    Prezzo 53735.34 | medie 54455.60/55388.90 trend GIU | notizie -0.26 su 127 (9 nuove, 9 da Claude) | 0.2s
+25/11 07:45:48 INFO       (-0.6 r1.0 claude) Bitcoin Price Falls Below $60,000 Again – Will US Inflation Data Trigger Another Sell-off? - Coinpedia
+25/11 07:45:48 INFO       (-0.6 r1.0 claude) Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000 - The Block
+25/11 07:45:48 INFO       (-0.7 r1.0 claude) Bitcoin extends losses below $59,000 as ETF outflows weigh - Investing.com
+25/11 07:45:48 INFO    -> ATTENDI: trend orario non rialzista
