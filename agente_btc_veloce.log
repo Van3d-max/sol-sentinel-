@@ -6832,3 +6832,9 @@
 26/11 14:45:46 INFO       (-0.7 r0.9 claude) Spot bitcoin ETFs are on track for their biggest monthly outflow on record - CoinDesk
 26/11 14:45:46 INFO       (-0.4 r0.9 claude) Bitcoin public key exposure climbs to a record 7.12 million BTC - Crypto Briefing
 26/11 14:45:46 INFO    -> ATTENDI: notizia shock: Galaxy Scraps Bitcoin Bottom Call, Warns $58,525 Close Could Open Steep Slide - 
+26/11 15:01:20 INFO    === btc_veloce (BTC-EUR) ===
+26/11 15:01:20 INFO    Prezzo 55143.75 | medie 55328.16/55301.05 trend SU | notizie -0.10 su 31 (0 nuove, 0 da Claude) | 0.3s
+26/11 15:01:20 INFO       (-0.6 r0.9 claude) Bitcoin ETFs are bleeding cash and the Fed is unlikely to help
+26/11 15:01:20 INFO       (-0.5 r0.9 claude) Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over
+26/11 15:01:20 INFO       (+0.3 r0.9 claude) US government could be barred from selling its strategic Bitcoin holdings for 20 years
+26/11 15:01:20 INFO    -> ATTENDI: notizie sotto la soglia (-0.10)
