@@ -6704,3 +6704,9 @@
 26/11 09:31:10 INFO       (-0.6 r0.9 claude) Ethereum Stalls as ETF Outflows, Hot Inflation Weigh - TradingPedia
 26/11 09:31:10 INFO       (-0.6 r0.9 claude) Ethereum (ETH) Price Prediction: Citi trims its target as ETH stays stuck below key trend lines - Blockchain N
 26/11 09:31:10 INFO    -> ATTENDI: trend 15 minuti non rialzista
+26/11 09:45:54 INFO    === eth_veloce (ETH-EUR) ===
+26/11 09:45:54 INFO    Prezzo 1551.87 | medie 1543.67/1543.32 trend SU | notizie -0.02 su 4 (0 nuove, 0 da Claude) | 0.3s
+26/11 09:45:54 INFO       (-0.1 r0.8 claude) Lido tightens Ethereum staking penalties as operators gain access to larger validators
+26/11 09:45:54 INFO       (-0.6 r0.9 claude) Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes
+26/11 09:45:54 INFO       (+0.1 r0.8 claude) Ethereum Foundation backs Keccak-256 to counter quantum, AI threats
+26/11 09:45:54 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)
