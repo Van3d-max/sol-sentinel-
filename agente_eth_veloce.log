@@ -6656,3 +6656,9 @@
 26/11 07:31:05 INFO       (-0.6 r0.9 claude) Ethereum Price Forecast: ETH below $1,700 amid hot inflation - FXStreet
 26/11 07:31:05 INFO       (+0.2 r1.0 claude) Will ETH consolidate gains amid bullish momentum and mixed technical signals? - Traders Union
 26/11 07:31:05 INFO    -> ATTENDI: trend 15 minuti non rialzista
+26/11 07:45:48 INFO    === eth_veloce (ETH-EUR) ===
+26/11 07:45:49 INFO    Prezzo 1541.92 | medie 1539.67/1545.11 trend GIU | notizie -0.24 su 60 (4 nuove, 4 da Claude) | 0.3s
+26/11 07:45:49 INFO       (-0.6 r0.9 claude) Ethereum (ETH) Price Prediction: Citi trims its target as ETH stays stuck below key trend lines - Blockchain N
+26/11 07:45:49 INFO       (-0.5 r0.9 claude) US Spot Ethereum ETFs See $68.5 Million Net Outflow, Marking Eighth Straight Day of Redemptions - BigGo Financ
+26/11 07:45:49 INFO       (-0.6 r0.9 claude) Ethereum Price Forecast: ETH below $1,700 amid hot inflation - FXStreet
+26/11 07:45:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
