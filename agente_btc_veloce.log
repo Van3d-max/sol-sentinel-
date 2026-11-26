@@ -6586,3 +6586,9 @@
 26/11 04:31:27 INFO       (-0.3 r0.9 claude) Bitcoin has fallen so far that its original Rainbow Chart has run out of colors
 26/11 04:31:27 INFO       (+0.6 r0.9 claude) Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor
 26/11 04:31:27 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
+26/11 04:45:49 INFO    === btc_veloce (BTC-EUR) ===
+26/11 04:45:49 INFO    Prezzo 55602.67 | medie 55451.47/55358.89 trend SU | notizie -0.15 su 106 (1 nuove, 1 da Claude) | 0.1s
+26/11 04:45:49 INFO       (-0.7 r0.9 claude) Galaxy withdraws Bitcoin bottom call, warns of potential drop to $48,500 - FXStreet
+26/11 04:45:49 INFO       (-0.5 r0.9 claude) Bitcoin Price Below $60,000: Galaxy Retracts Bottom Call - shattered.io
+26/11 04:45:49 INFO       (+0.4 r0.9 claude) House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage - The Block
+26/11 04:45:49 INFO    -> ATTENDI: notizia shock: Galaxy withdraws Bitcoin bottom call, warns of potential drop to $48,500 - FXStr
