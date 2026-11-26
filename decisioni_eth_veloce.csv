@@ -2343,3 +2343,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-26T10:15:44+01:00;1548.71;1541.17;1543.59;giu;-0.045;62;2;2;0;no;attendi;trend 15 minuti non rialzista;Ethereum Price Reclaims $1,700: Network Activity Defies 39% Crash, $80M Shorts Liquidated - 99Bitcoins;0.338
 2026-11-26T10:31:10+01:00;1546.37;1542.30;1543.33;giu;-0.139;59;2;2;0;no;attendi;trend 15 minuti non rialzista;Ethereum Price Reclaims $1,700: Network Activity Defies 39% Crash, $80M Shorts Liquidated - 99Bitcoins;0.334
 2026-11-26T10:45:54+01:00;1551.87;1543.67;1543.32;su;-0.021;4;0;0;0;no;attendi;notizie sotto la soglia (-0.02);Lido tightens Ethereum staking penalties as operators gain access to larger validators;0.339
+2026-11-26T11:01:12+01:00;1550.41;1544.75;1543.27;su;-0.054;60;1;1;0;no;attendi;notizie sotto la soglia (-0.05);Ethereum Price Reclaims $1,700: Network Activity Defies 39% Crash, $80M Shorts Liquidated - TradingView;0.327
