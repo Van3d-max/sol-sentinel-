@@ -7006,3 +7006,9 @@
 26/11 22:01:12 INFO       (+0.3 r0.9 claude) Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases
 26/11 22:01:12 INFO       (-0.2 r1.0 claude) Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery
 26/11 22:01:12 INFO    -> ATTENDI: notizie sotto la soglia (-0.11)
+26/11 22:15:43 INFO    === btc_veloce (BTC-EUR) ===
+26/11 22:15:43 INFO    Prezzo 55139.74 | medie 55353.80/55246.30 trend SU | notizie -0.05 su 109 (3 nuove, 3 da Claude) | 0.2s
+26/11 22:15:43 INFO       (-0.6 r0.9 claude) Bitcoin Miners Just Hit Capitulation as BTC Falls $26K Below Production Cost - Coinpedia
+26/11 22:15:43 INFO       (+0.5 r1.0 claude) Bitcoin broke through the $60,000 mark amid a rally in risk assets. What should we expect next? - Oninvest
+26/11 22:15:43 INFO       (+0.3 r0.8 claude) A 30% Bitcoin crash hasn't shaken this asset manager's $1.6 million call - Yahoo Finance
+26/11 22:15:43 INFO    -> ATTENDI: notizie sotto la soglia (-0.05)
