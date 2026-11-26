@@ -1624,3 +1624,9 @@
 26/11 00:30:58 INFO       (+0.1 r0.8 claude) Ethereum Foundation backs Keccak-256 to counter quantum, AI threats
 26/11 00:30:58 INFO       (+0.1 r0.2 claude) What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t
 26/11 00:30:58 INFO    -> ATTENDI: trend giornaliero non rialzista
+26/11 01:30:55 INFO    === eth_lento (ETH-EUR) ===
+26/11 01:30:55 INFO    Prezzo 1549.12 | medie 1575.54/1820.07 trend GIU | notizie -0.19 su 85 (0 nuove, 0 da Claude) | 0.1s
+26/11 01:30:55 INFO       (-0.6 r0.9 claude) Ethereum drops 29% in a month. Can ETH hold $1,650? - Crypto News
+26/11 01:30:55 INFO       (-0.7 r1.0 claude) Ethereum Price Analysis: Where Is ETH’s Bottom as the Breakdown Accelerates? - CryptoPotato
+26/11 01:30:55 INFO       (-0.6 r0.9 claude) Peter Brandt Says Nothing Could Stop Ethereum From Falling Below $500 if This Level Fails - Cryptonews.net
+26/11 01:30:55 INFO    -> ATTENDI: trend giornaliero non rialzista

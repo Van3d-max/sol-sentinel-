@@ -6508,3 +6508,9 @@
 26/11 01:15:43 INFO       (-0.6 r1.0 claude) Bitcoin has fallen so far that its original Rainbow Chart has run out of colors - CryptoSlate
 26/11 01:15:43 INFO       (+0.4 r1.0 claude) Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It
 26/11 01:15:43 INFO    -> ATTENDI: notizie sotto la soglia (-0.15)
+26/11 01:30:57 INFO    === btc_veloce (BTC-EUR) ===
+26/11 01:30:57 INFO    Prezzo 55341.57 | medie 55172.37/54938.82 trend SU | notizie -0.16 su 129 (1 nuove, 1 da Claude) | 0.2s
+26/11 01:30:57 INFO       (-0.6 r0.9 claude) Bitcoin’s Slide Below $60,000 Is A Stress Test For Corporate Crypto Treasuries - Forbes
+26/11 01:30:57 INFO       (-0.6 r1.0 claude) Bitcoin has fallen so far that its original Rainbow Chart has run out of colors - CryptoSlate
+26/11 01:30:57 INFO       (-0.3 r0.9 claude) Bitcoin Plunges 23% in November, Erasing Gains Since Trump’s Election - Businesskorea
+26/11 01:30:57 INFO    -> ATTENDI: notizie sotto la soglia (-0.16)
