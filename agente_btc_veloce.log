@@ -6886,3 +6886,9 @@
 26/11 17:01:17 INFO       (-0.3 r0.9 claude) Bitcoin’s recovery above $60,000 faces a threat from Japan while Wall Street sleeps
 26/11 17:01:17 INFO       (-0.6 r0.9 claude) Bitcoin ETFs are bleeding cash and the Fed is unlikely to help
 26/11 17:01:17 INFO    -> ATTENDI: trend 15 minuti non rialzista
+26/11 17:15:48 INFO    === btc_veloce (BTC-EUR) ===
+26/11 17:15:48 INFO    Prezzo 55135.52 | medie 55048.88/55204.12 trend GIU | notizie -0.06 su 123 (10 nuove, 10 da Claude) | 0.2s
+26/11 17:15:48 INFO       (-0.7 r1.0 claude) Galaxy Research Warns Bitcoin Could Fall to $28,200 if June Low Breaks - Yahoo Finance
+26/11 17:15:48 INFO       (+0.5 r1.0 claude) Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading - Yahoo Finance
+26/11 17:15:48 INFO       (-0.5 r1.0 claude) Bitcoin Price Analysis: Can BTC Hold $60K as Apparent Demand Plunges to Record Lows? - CryptoPotato
+26/11 17:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
