@@ -2019,3 +2019,10 @@
 26/11 22:31:07 INFO       (+0.3 r1.0 claude) Elon Musk’s Grok AI Predicts a Huge XRP Price Reversal: Could This Happen? - Cryptonews
 26/11 22:31:07 INFO       (+0.2 r1.0 claude) XRP Enters Crucial 8-Year Macro Retest: Major Breakout Ahead? - Coinpedia
 26/11 22:31:07 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+26/11 23:31:00 INFO    === xrp_intermedio (XRP-EUR) ===
+26/11 23:31:00 INFO    Trend superiore (ONE_DAY): GIU
+26/11 23:31:00 INFO    Prezzo 0.8584 | medie 0.867555/0.851854 trend SU | notizie +0.01 su 43 (0 nuove, 0 da Claude) | 0.2s
+26/11 23:31:00 INFO       (-0.5 r1.0 claude) Ripple CEO Blames Major Tech IPOs and Liquidity Drain for XRP Price Weakness - Coinpaper
+26/11 23:31:00 INFO       (-0.2 r0.9 claude) XRP sellers could lose an extra $3,146 on a large trade if five accounts pull their buy orders
+26/11 23:31:00 INFO       (+0.3 r1.0 claude) Elon Musk’s Grok AI Predicts a Huge XRP Price Reversal: Could This Happen? - Cryptonews
+26/11 23:31:00 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

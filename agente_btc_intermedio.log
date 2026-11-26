@@ -2049,3 +2049,10 @@
 26/11 22:31:04 INFO       (-0.6 r0.9 claude) Bitcoin Miners Just Hit Capitulation as BTC Falls $26K Below Production Cost - Coinpedia
 26/11 22:31:04 INFO       (+0.3 r0.8 claude) A 30% Bitcoin crash hasn't shaken this asset manager's $1.6 million call - Yahoo Finance
 26/11 22:31:04 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+26/11 23:30:59 INFO    === btc_intermedio (BTC-EUR) ===
+26/11 23:30:59 INFO    Trend superiore (ONE_DAY): GIU
+26/11 23:30:59 INFO    Prezzo 55070.62 | medie 55277.00/54636.80 trend SU | notizie -0.07 su 107 (1 nuove, 1 da Claude) | 0.2s
+26/11 23:30:59 INFO       (+0.5 r0.9 claude) US House Panel Advances Bitcoin Reserve Bill With 20-Year Holding Rule - Brave New Coin
+26/11 23:30:59 INFO       (-0.5 r0.8 claude) USDT supply suffers largest contraction since 2022 as Bitcoin struggles near $60K - FXStreet
+26/11 23:30:59 INFO       (-0.5 r0.9 claude) Bitcoin Slide Pressures Miners to Sell Reserves to Cover Costs and Fund AI Pivots - Briefs Finance
+26/11 23:30:59 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
