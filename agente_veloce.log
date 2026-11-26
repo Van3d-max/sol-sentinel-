@@ -14507,3 +14507,9 @@
 26/11 00:01:13 INFO       (-0.5 r0.8 claude) Solana DEX Velocity halts trading over bug just months after relaunch
 26/11 00:01:13 INFO       (+0.1 r0.9 claude) Solana developers move to stop validators finishing work on blocks that already lost
 26/11 00:01:13 INFO    -> TIENI: trend su, notizie +0.03, stop 61.6938
+26/11 00:15:41 INFO    === veloce (SOL-EUR) ===
+26/11 00:15:41 INFO    Prezzo 64.6700 | medie 64.1911/64.1643 trend SU | notizie +0.21 su 59 (0 nuove, 0 da Claude) | 0.3s
+26/11 00:15:41 INFO       (+0.5 r0.8 claude) SBI Expands Blockchain Partnership with Solana, Launches New Venture - KuCoin
+26/11 00:15:41 INFO       (-0.6 r0.5 claude) Crypto Market Today, November 25, 2026: Bitcoin Below $60,000 as Ethereum, XRP and Solana Slide - Eurasia Busi
+26/11 00:15:41 INFO       (+0.6 r0.9 claude) Japan's largest financial institutions tap Solana for stablecoin payments and tokenization - Yahoo Finance
+26/11 00:15:41 INFO    -> TIENI: trend su, notizie +0.21, stop 61.6938
