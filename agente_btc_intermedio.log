@@ -1951,3 +1951,10 @@
 26/11 08:31:09 INFO       (+0.5 r1.0 claude) Bitcoin climbs back above $60,000 on short covering after sharp sell-off - Anadolu Ajansı
 26/11 08:31:09 INFO       (-0.5 r1.0 claude) Bitcoin Erases Nvidia-Driven Rally as Galaxy Retracts "Bear Market Ended in June" Call - BigGo Finance
 26/11 08:31:09 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+26/11 09:31:12 INFO    === btc_intermedio (BTC-EUR) ===
+26/11 09:31:12 INFO    Trend superiore (ONE_DAY): GIU
+26/11 09:31:12 INFO    Prezzo 55306.56 | medie 54655.19/54499.17 trend SU | notizie -0.02 su 131 (3 nuove, 3 da Claude) | 0.2s
+26/11 09:31:12 INFO       (-0.7 r0.9 claude) Spot bitcoin ETFs on track for worst month on record as bear market drags on - The Block
+26/11 09:31:12 INFO       (-0.7 r0.9 claude) 21Shares warns Bitcoin could fall to $53,250 as stablecoin supply sees biggest drop since Terra collapse - Cry
+26/11 09:31:12 INFO       (+0.6 r0.9 claude) Key facts: 485 bitcoin bought; Back urges $3B buy; analyst target rises - TradingView
+26/11 09:31:12 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

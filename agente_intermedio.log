@@ -1942,3 +1942,10 @@
 26/11 08:31:02 INFO       (+0.4 r0.8 claude) Inside SBI and SMBC’s plan to put Japanese finance on Solana - Crypto News
 26/11 08:31:02 INFO       (+0.2 r0.9 claude) SBI brings Japanese stocks to Solana but investors face a five-day wait to cash out
 26/11 08:31:02 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+26/11 09:31:01 INFO    === intermedio (SOL-EUR) ===
+26/11 09:31:01 INFO    Trend superiore (ONE_DAY): GIU
+26/11 09:31:01 INFO    Prezzo 64.5400 | medie 63.7710/63.4572 trend SU | notizie +0.24 su 50 (1 nuove, 1 da Claude) | 0.2s
+26/11 09:31:01 INFO       (+0.6 r0.9 claude) Solana unveils protocol upgrade and new JV: SOL gains momentum - Traders Union
+26/11 09:31:01 INFO       (+0.4 r0.8 claude) Inside SBI and SMBC’s plan to put Japanese finance on Solana - Crypto News
+26/11 09:31:01 INFO       (+0.1 r0.9 claude) Solana’s Next Big Move: The Future of Finance - Yahoo Finance
+26/11 09:31:01 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
