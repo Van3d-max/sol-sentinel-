@@ -1708,3 +1708,9 @@
 26/11 14:31:08 INFO       (-0.7 r0.9 claude) Spot bitcoin ETFs are on track for their biggest monthly outflow on record - CoinDesk
 26/11 14:31:08 INFO       (-0.7 r1.0 claude) Bitcoin's losing streak hits eight weeks, wiping out more than 30% of its value - FXStreet
 26/11 14:31:08 INFO    -> ATTENDI: trend giornaliero non rialzista
+26/11 15:31:05 INFO    === btc_lento (BTC-EUR) ===
+26/11 15:31:06 INFO    Prezzo 54904.78 | medie 56188.63/63655.76 trend GIU | notizie -0.04 su 139 (0 nuove, 0 da Claude) | 0.1s
+26/11 15:31:06 INFO       (-0.7 r1.0 claude) Why Is Bitcoin Dropping So Much? 5 Reasons Behind Its Worst Month Since 2022 - Yahoo Finance
+26/11 15:31:06 INFO       (-0.7 r1.0 claude) Why Is Bitcoin Dropping So Much? 5 Reasons Behind Its Worst Month Since 2022 - 24/7 Wall St.
+26/11 15:31:06 INFO       (-0.7 r1.0 claude) Galaxy Scraps Bitcoin Bottom Call, Warns $58,525 Close Could Open Steep Slide - BigGo Finance
+26/11 15:31:06 INFO    -> ATTENDI: trend giornaliero non rialzista
