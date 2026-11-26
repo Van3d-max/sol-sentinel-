@@ -6538,3 +6538,9 @@
 26/11 02:31:08 INFO       (-0.3 r0.9 claude) Bitcoin has fallen so far that its original Rainbow Chart has run out of colors
 26/11 02:31:08 INFO       (+0.6 r0.9 claude) Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor
 26/11 02:31:08 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
+26/11 02:46:14 INFO    === btc_veloce (BTC-EUR) ===
+26/11 02:46:14 INFO    Prezzo 55556.52 | medie 55362.60/55107.06 trend SU | notizie -0.06 su 31 (0 nuove, 0 da Claude) | 0.2s
+26/11 02:46:14 INFO       (+0.4 r1.0 claude) Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It
+26/11 02:46:14 INFO       (-0.3 r0.9 claude) Bitcoin has fallen so far that its original Rainbow Chart has run out of colors
+26/11 02:46:14 INFO       (+0.6 r0.9 claude) Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor
+26/11 02:46:14 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
