@@ -6592,3 +6592,9 @@
 26/11 04:45:49 INFO       (-0.5 r0.9 claude) Bitcoin Price Below $60,000: Galaxy Retracts Bottom Call - shattered.io
 26/11 04:45:49 INFO       (+0.4 r0.9 claude) House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage - The Block
 26/11 04:45:49 INFO    -> ATTENDI: notizia shock: Galaxy withdraws Bitcoin bottom call, warns of potential drop to $48,500 - FXStr
+26/11 05:01:11 INFO    === btc_veloce (BTC-EUR) ===
+26/11 05:01:11 INFO    Prezzo 55599.33 | medie 55453.03/55388.96 trend SU | notizie +0.06 su 30 (1 nuove, 1 da Claude) | 0.5s
+26/11 05:01:11 INFO       (+0.4 r0.9 claude) Bill to lock up U.S. government bitcoin for 20 years advances to full House
+26/11 05:01:11 INFO       (+0.4 r1.0 claude) Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It
+26/11 05:01:11 INFO       (-0.3 r0.9 claude) Bitcoin has fallen so far that its original Rainbow Chart has run out of colors
+26/11 05:01:11 INFO    -> ATTENDI: obiettivo +1.16% sotto il minimo +2.20% (commissioni)
