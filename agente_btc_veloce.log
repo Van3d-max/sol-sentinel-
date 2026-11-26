@@ -6550,3 +6550,9 @@
 26/11 03:01:09 INFO       (-0.6 r0.9 claude) Bitcoin’s Slide Below $60,000 Is A Stress Test For Corporate Crypto Treasuries - Forbes
 26/11 03:01:09 INFO       (-0.6 r1.0 claude) Bitcoin Price Forecast: BTC/USD 37% Crash Tests Yearly Low—Breakdown or Bounce? - FOREX.com
 26/11 03:01:10 INFO    -> ATTENDI: notizie sotto la soglia (-0.17)
+26/11 03:15:41 INFO    === btc_veloce (BTC-EUR) ===
+26/11 03:15:41 INFO    Prezzo 55361.31 | medie 55400.10/55151.63 trend SU | notizie -0.12 su 109 (1 nuove, 1 da Claude) | 0.2s
+26/11 03:15:41 INFO       (-0.5 r0.9 claude) Bitcoin Price Below $60,000: Galaxy Retracts Bottom Call - shattered.io
+26/11 03:15:41 INFO       (+0.4 r0.9 claude) House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage - The Block
+26/11 03:15:41 INFO       (-0.6 r0.9 claude) Bitcoin’s Slide Below $60,000 Is A Stress Test For Corporate Crypto Treasuries - Forbes
+26/11 03:15:41 INFO    -> ATTENDI: notizie sotto la soglia (-0.12)
