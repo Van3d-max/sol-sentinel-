@@ -6784,3 +6784,9 @@
 26/11 12:45:49 INFO       (-0.6 r0.9 claude) Bitcoin ETFs are bleeding cash and the Fed is unlikely to help
 26/11 12:45:49 INFO       (-0.7 r1.0 claude) Bitcoin's losing streak hits eight weeks, wiping out more than 30% of its value - FXStreet
 26/11 12:45:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
+26/11 13:01:23 INFO    === btc_veloce (BTC-EUR) ===
+26/11 13:01:23 INFO    Prezzo 55338.72 | medie 55253.75/55299.72 trend GIU | notizie -0.06 su 126 (6 nuove, 6 da Claude) | 0.2s
+26/11 13:01:23 INFO       (-0.7 r1.0 claude) Galaxy Scraps Bitcoin Bottom Call, Warns $58,525 Close Could Open Steep Slide - BigGo Finance
+26/11 13:01:23 INFO       (-0.7 r0.9 claude) Spot bitcoin ETFs are on track for their biggest monthly outflow on record - CoinDesk
+26/11 13:01:23 INFO       (-0.6 r0.9 claude) Bitcoin ETFs are bleeding cash and the Fed is unlikely to help
+26/11 13:01:23 INFO    -> ATTENDI: trend 15 minuti non rialzista
