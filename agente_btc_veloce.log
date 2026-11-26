@@ -6610,3 +6610,9 @@
 26/11 05:31:01 INFO       (-0.8 r1.0 claude) Cryptocurrencies: Bitcoin Drops to 5-Month Low - Advisor Perspectives
 26/11 05:31:01 INFO       (-0.7 r0.9 claude) Galaxy withdraws Bitcoin bottom call, warns of potential drop to $48,500 - FXStreet
 26/11 05:31:01 INFO    -> ATTENDI: notizia shock: Galaxy walks back bitcoin's June-bottom call, warns of deeper losses below $58,5
+26/11 05:45:46 INFO    === btc_veloce (BTC-EUR) ===
+26/11 05:45:46 INFO    Prezzo 55427.91 | medie 55520.43/55425.16 trend SU | notizie -0.14 su 125 (1 nuove, 1 da Claude) | 0.2s
+26/11 05:45:46 INFO       (-0.7 r1.0 claude) Galaxy walks back bitcoin's June-bottom call, warns of deeper losses below $58,525 - The Block
+26/11 05:45:46 INFO       (-0.8 r1.0 claude) Cryptocurrencies: Bitcoin Drops to 5-Month Low - Advisor Perspectives
+26/11 05:45:46 INFO       (-0.7 r0.9 claude) Galaxy withdraws Bitcoin bottom call, warns of potential drop to $48,500 - FXStreet
+26/11 05:45:46 INFO    -> ATTENDI: notizia shock: Galaxy walks back bitcoin's June-bottom call, warns of deeper losses below $58,5
