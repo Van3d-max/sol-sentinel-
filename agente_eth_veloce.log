@@ -6620,3 +6620,9 @@
 26/11 06:01:08 INFO       (+0.2 r0.5 claude) Moscow Exchange Set to Launch Bitcoin, Ethereum, and USDT Trading - CryptoPotato
 26/11 06:01:08 INFO       (-0.5 r0.4 claude) How Low Can Bitcoin, Ethereum and XRP Fall? 4 Price Levels to Watch - Yahoo Finance
 26/11 06:01:08 INFO    -> ATTENDI: notizie sotto la soglia (-0.14)
+26/11 06:15:43 INFO    === eth_veloce (ETH-EUR) ===
+26/11 06:15:43 INFO    Prezzo 1536.25 | medie 1548.03/1548.55 trend GIU | notizie -0.21 su 55 (1 nuove, 1 da Claude) | 0.2s
+26/11 06:15:43 INFO       (-0.5 r0.9 claude) US Spot Ethereum ETFs See $68.5 Million Net Outflow, Marking Eighth Straight Day of Redemptions - BigGo Financ
+26/11 06:15:43 INFO       (-0.6 r0.9 claude) Ethereum Price Forecast: ETH below $1,700 amid hot inflation - FXStreet
+26/11 06:15:43 INFO       (+0.2 r0.5 claude) Moscow Exchange Set to Launch Bitcoin, Ethereum, and USDT Trading - CryptoPotato
+26/11 06:15:43 INFO    -> ATTENDI: trend 15 minuti non rialzista

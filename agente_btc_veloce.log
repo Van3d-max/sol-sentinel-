@@ -6622,3 +6622,9 @@
 26/11 06:01:10 INFO       (-0.7 r0.9 claude) Galaxy withdraws Bitcoin bottom call, warns of potential drop to $48,500 - FXStreet
 26/11 06:01:10 INFO       (+0.5 r0.9 claude) Bill to lock up U.S. government bitcoin for 20 years advances to full House - CoinDesk
 26/11 06:01:10 INFO    -> ATTENDI: notizia shock: Galaxy walks back bitcoin's June-bottom call, warns of deeper losses below $58,5
+26/11 06:15:44 INFO    === btc_veloce (BTC-EUR) ===
+26/11 06:15:45 INFO    Prezzo 55178.34 | medie 55504.97/55437.36 trend SU | notizie -0.08 su 110 (1 nuove, 1 da Claude) | 0.2s
+26/11 06:15:45 INFO       (-0.7 r1.0 claude) Galaxy walks back bitcoin's June-bottom call, warns of deeper losses below $58,525 - The Block
+26/11 06:15:45 INFO       (-0.7 r0.9 claude) Galaxy withdraws Bitcoin bottom call, warns of potential drop to $48,500 - FXStreet
+26/11 06:15:45 INFO       (+0.5 r0.9 claude) Bill to lock up U.S. government bitcoin for 20 years advances to full House - CoinDesk
+26/11 06:15:45 INFO    -> ATTENDI: notizia shock: Galaxy walks back bitcoin's June-bottom call, warns of deeper losses below $58,5
