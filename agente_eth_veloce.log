@@ -6674,3 +6674,9 @@
 26/11 08:15:43 INFO       (-0.5 r0.9 claude) US Spot Ethereum ETFs See $68.5 Million Net Outflow, Marking Eighth Straight Day of Redemptions - BigGo Financ
 26/11 08:15:43 INFO       (-0.7 r0.9 claude) Ethereum Price Forecast: ETH stays below $1,700 as ETF outflows top $1.2 Billion - FXStreet
 26/11 08:15:43 INFO    -> ATTENDI: trend 15 minuti non rialzista
+26/11 08:31:05 INFO    === eth_veloce (ETH-EUR) ===
+26/11 08:31:05 INFO    Prezzo 1538.61 | medie 1538.26/1543.65 trend GIU | notizie -0.17 su 57 (2 nuove, 2 da Claude) | 0.3s
+26/11 08:31:05 INFO       (-0.6 r0.9 claude) Ethereum Stalls as ETF Outflows, Hot Inflation Weigh - TradingPedia
+26/11 08:31:05 INFO       (-0.5 r0.9 claude) US Spot Ethereum ETFs See $68.5 Million Net Outflow, Marking Eighth Straight Day of Redemptions - BigGo Financ
+26/11 08:31:05 INFO       (+0.2 r0.9 claude) Ethereum price prediction: Can rebound from $1,600 lead to broader recovery? - Traders Union
+26/11 08:31:05 INFO    -> ATTENDI: trend 15 minuti non rialzista

@@ -1935,3 +1935,10 @@
 26/11 07:31:03 INFO       (+0.4 r0.8 claude) Inside SBI and SMBC’s plan to put Japanese finance on Solana - Crypto News
 26/11 07:31:03 INFO       (+0.5 r0.9 claude) Japan's SBI, SMFG launch joint venture with Solana Foundation - 디지털투데이
 26/11 07:31:03 INFO    -> ATTENDI: trend orario non rialzista
+26/11 08:31:02 INFO    === intermedio (SOL-EUR) ===
+26/11 08:31:02 INFO    Trend superiore (ONE_DAY): GIU
+26/11 08:31:02 INFO    Prezzo 64.6100 | medie 63.6345/63.4810 trend SU | notizie +0.28 su 54 (1 nuove, 1 da Claude) | 0.6s
+26/11 08:31:02 INFO       (+0.6 r0.9 claude) Solana unveils protocol upgrade and new JV: SOL gains momentum - Traders Union
+26/11 08:31:02 INFO       (+0.4 r0.8 claude) Inside SBI and SMBC’s plan to put Japanese finance on Solana - Crypto News
+26/11 08:31:02 INFO       (+0.2 r0.9 claude) SBI brings Japanese stocks to Solana but investors face a five-day wait to cash out
+26/11 08:31:02 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
