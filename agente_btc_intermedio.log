@@ -1930,3 +1930,10 @@
 26/11 05:31:01 INFO       (-0.8 r1.0 claude) Cryptocurrencies: Bitcoin Drops to 5-Month Low - Advisor Perspectives
 26/11 05:31:01 INFO       (-0.7 r0.9 claude) Galaxy withdraws Bitcoin bottom call, warns of potential drop to $48,500 - FXStreet
 26/11 05:31:01 INFO    -> ATTENDI: trend orario non rialzista
+26/11 06:31:00 INFO    === btc_intermedio (BTC-EUR) ===
+26/11 06:31:00 INFO    Trend superiore (ONE_DAY): GIU
+26/11 06:31:00 INFO    Prezzo 55237.50 | medie 54416.42/54508.11 trend GIU | notizie -0.00 su 31 (1 nuove, 1 da Claude) | 0.2s
+26/11 06:31:00 INFO       (+0.4 r0.9 claude) Bill to lock up U.S. government bitcoin for 20 years advances to full House
+26/11 06:31:00 INFO       (-0.2 r0.9 claude) Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route
+26/11 06:31:00 INFO       (+0.4 r1.0 claude) Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It
+26/11 06:31:00 INFO    -> ATTENDI: trend orario non rialzista

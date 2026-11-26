@@ -1654,3 +1654,9 @@
 26/11 05:31:01 INFO       (-0.7 r1.0 claude) Galaxy walks back bitcoin's June-bottom call, warns of deeper losses below $58,525 - The Block
 26/11 05:31:01 INFO       (-0.7 r0.9 claude) Galaxy withdraws Bitcoin bottom call, warns of potential drop to $48,500 - FXStreet
 26/11 05:31:01 INFO    -> ATTENDI: trend giornaliero non rialzista
+26/11 06:31:00 INFO    === btc_lento (BTC-EUR) ===
+26/11 06:31:00 INFO    Prezzo 55231.75 | medie 56188.63/63655.76 trend GIU | notizie -0.09 su 39 (1 nuove, 1 da Claude) | 0.1s
+26/11 06:31:00 INFO       (+0.4 r0.9 claude) Bill to lock up U.S. government bitcoin for 20 years advances to full House
+26/11 06:31:00 INFO       (-0.8 r1.0 claude) Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%
+26/11 06:31:00 INFO       (-0.8 r1.0 claude) Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets
+26/11 06:31:00 INFO    -> ATTENDI: trend giornaliero non rialzista
