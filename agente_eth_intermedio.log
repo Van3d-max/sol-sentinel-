@@ -2018,3 +2018,10 @@
 26/11 18:31:02 INFO       (-0.4 r0.9 claude) Ethereum steadies with institutional ETF outflows and US policy uncertainty weighing on market sentiment - Tra
 26/11 18:31:02 INFO       (-0.7 r0.9 claude) Key facts: Ethereum ETFs Shed $1.23B; ETH Support Levels in Focus - TradingView
 26/11 18:31:02 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+26/11 19:31:07 INFO    === eth_intermedio (ETH-EUR) ===
+26/11 19:31:08 INFO    Trend superiore (ONE_DAY): GIU
+26/11 19:31:08 INFO    Prezzo 1551.85 | medie 1545.74/1529.04 trend SU | notizie -0.11 su 44 (1 nuove, 1 da Claude) | 0.2s
+26/11 19:31:08 INFO       (-0.6 r0.9 claude) Ethereum price falls 29%: Can ETH reclaim $1,730? - Crypto News
+26/11 19:31:08 INFO       (-0.4 r0.9 claude) Ethereum steadies with institutional ETF outflows and US policy uncertainty weighing on market sentiment - Tra
+26/11 19:31:08 INFO       (-0.7 r0.9 claude) Key facts: Ethereum ETFs Shed $1.23B; ETH Support Levels in Focus - TradingView
+26/11 19:31:08 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

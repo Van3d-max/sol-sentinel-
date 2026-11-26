@@ -1961,3 +1961,10 @@
 26/11 18:31:07 INFO       (-0.5 r0.9 claude) Shiba Inu Hovers Near $0.00000365 as Crypto Outflows Thwart Any Rebound - BigGo Finance
 26/11 18:31:07 INFO       (+0.3 r0.9 claude) Shiba Inu Burn Transactions Near 22,000 as Daily Burn Rate Jumps 443% - BigGo Finance
 26/11 18:31:07 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+26/11 19:31:11 INFO    === shib_intermedio (SHIB-EUR) ===
+26/11 19:31:11 INFO    Trend superiore (ONE_DAY): GIU
+26/11 19:31:11 INFO    Prezzo 3.33e-06 | medie 3.305e-06/3.2514e-06 trend SU | notizie +0.05 su 13 (0 nuove, 0 da Claude) | 0.2s
+26/11 19:31:11 INFO       (+0.3 r0.9 claude) Shiba Inu launches privacy upgrade and new bloc... - Pluang
+26/11 19:31:11 INFO       (-0.6 r0.9 claude) Shiba Inu (SHIB) nears 2021 lows amid mixed mon... - Pluang
+26/11 19:31:11 INFO       (-0.5 r0.9 claude) Shiba Inu Hovers Near $0.00000365 as Crypto Outflows Thwart Any Rebound - BigGo Finance
+26/11 19:31:11 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
