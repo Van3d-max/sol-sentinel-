@@ -1923,3 +1923,10 @@
 26/11 04:31:28 INFO       (-0.3 r0.9 claude) Bitcoin has fallen so far that its original Rainbow Chart has run out of colors
 26/11 04:31:28 INFO       (+0.6 r0.9 claude) Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor
 26/11 04:31:28 INFO    -> ATTENDI: trend orario non rialzista
+26/11 05:31:01 INFO    === btc_intermedio (BTC-EUR) ===
+26/11 05:31:01 INFO    Trend superiore (ONE_DAY): GIU
+26/11 05:31:01 INFO    Prezzo 55549.92 | medie 54341.72/54504.32 trend GIU | notizie -0.14 su 126 (4 nuove, 4 da Claude) | 0.4s
+26/11 05:31:01 INFO       (-0.7 r1.0 claude) Galaxy walks back bitcoin's June-bottom call, warns of deeper losses below $58,525 - The Block
+26/11 05:31:01 INFO       (-0.8 r1.0 claude) Cryptocurrencies: Bitcoin Drops to 5-Month Low - Advisor Perspectives
+26/11 05:31:01 INFO       (-0.7 r0.9 claude) Galaxy withdraws Bitcoin bottom call, warns of potential drop to $48,500 - FXStreet
+26/11 05:31:01 INFO    -> ATTENDI: trend orario non rialzista
