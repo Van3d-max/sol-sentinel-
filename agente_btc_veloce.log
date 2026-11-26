@@ -6892,3 +6892,9 @@
 26/11 17:15:48 INFO       (+0.5 r1.0 claude) Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading - Yahoo Finance
 26/11 17:15:48 INFO       (-0.5 r1.0 claude) Bitcoin Price Analysis: Can BTC Hold $60K as Apparent Demand Plunges to Record Lows? - CryptoPotato
 26/11 17:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
+26/11 17:31:05 INFO    === btc_veloce (BTC-EUR) ===
+26/11 17:31:05 INFO    Prezzo 55027.19 | medie 55083.28/55197.91 trend GIU | notizie -0.02 su 121 (5 nuove, 5 da Claude) | 0.2s
+26/11 17:31:05 INFO       (-0.7 r1.0 claude) Galaxy Research Warns Bitcoin Could Fall to $28,200 if June Low Breaks - Yahoo Finance
+26/11 17:31:05 INFO       (+0.6 r1.0 claude) Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading - Bloomberg
+26/11 17:31:05 INFO       (+0.5 r0.9 claude) CryptoQuant CEO Says Bitcoin Could Face Massive Short Squeeze - bloomingbit
+26/11 17:31:05 INFO    -> ATTENDI: trend 15 minuti non rialzista
