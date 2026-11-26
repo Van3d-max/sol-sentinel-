@@ -2025,3 +2025,10 @@
 26/11 19:31:08 INFO       (-0.4 r0.9 claude) Ethereum steadies with institutional ETF outflows and US policy uncertainty weighing on market sentiment - Tra
 26/11 19:31:08 INFO       (-0.7 r0.9 claude) Key facts: Ethereum ETFs Shed $1.23B; ETH Support Levels in Focus - TradingView
 26/11 19:31:08 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+26/11 20:31:02 INFO    === eth_intermedio (ETH-EUR) ===
+26/11 20:31:02 INFO    Trend superiore (ONE_DAY): GIU
+26/11 20:31:02 INFO    Prezzo 1551.04 | medie 1546.32/1529.38 trend SU | notizie -0.13 su 40 (2 nuove, 2 da Claude) | 0.2s
+26/11 20:31:02 INFO       (-0.6 r0.9 claude) Ethereum price falls 29%: Can ETH reclaim $1,730? - Crypto News
+26/11 20:31:02 INFO       (-0.3 r0.6 claude) Did Ethereum Buying Pause Just Shift Bitmine Immersion Technologies' (BMNR) Investment Narrative? - Simply Wal
+26/11 20:31:02 INFO       (-0.4 r0.9 claude) Ethereum steadies with institutional ETF outflows and US policy uncertainty weighing on market sentiment - Tra
+26/11 20:31:02 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
