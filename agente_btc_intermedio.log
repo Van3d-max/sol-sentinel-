@@ -2000,3 +2000,10 @@
 26/11 15:31:05 INFO       (-0.7 r1.0 claude) Why Is Bitcoin Dropping So Much? 5 Reasons Behind Its Worst Month Since 2022 - 24/7 Wall St.
 26/11 15:31:05 INFO       (+0.5 r1.0 claude) Europe's Only Bitcoin ETF Begins Trading In Switzerland - Yahoo Finance
 26/11 15:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+26/11 16:31:06 INFO    === btc_intermedio (BTC-EUR) ===
+26/11 16:31:06 INFO    Trend superiore (ONE_DAY): GIU
+26/11 16:31:06 INFO    Prezzo 55057.46 | medie 55214.20/54541.91 trend SU | notizie -0.07 su 106 (5 nuove, 5 da Claude) | 0.2s
+26/11 16:31:06 INFO       (-0.7 r1.0 claude) Why Is Bitcoin Dropping So Much? 5 Reasons Behind Its Worst Month Since 2022 - Yahoo Finance
+26/11 16:31:06 INFO       (-0.7 r1.0 claude) Why Is Bitcoin Dropping So Much? 5 Reasons Behind Its Worst Month Since 2022 - 24/7 Wall St.
+26/11 16:31:06 INFO       (+0.4 r0.9 claude) Bitcoin News: Swiss ETF Debut Meets $7B Options Expiry and US Strategic Reserve Push - TradingView
+26/11 16:31:06 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
