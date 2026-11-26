@@ -6910,3 +6910,9 @@
 26/11 18:01:14 INFO       (+0.6 r1.0 claude) Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading - Bloomberg
 26/11 18:01:14 INFO       (+0.6 r1.0 claude) BTC News Today: US Bitcoin Strategic Reserve Bill Moves Closer as BTC Reclaims $60K - Yahoo Finance
 26/11 18:01:14 INFO    -> ATTENDI: trend 15 minuti non rialzista
+26/11 18:15:48 INFO    === btc_veloce (BTC-EUR) ===
+26/11 18:15:48 INFO    Prezzo 55085.40 | medie 55102.33/55163.13 trend GIU | notizie -0.05 su 117 (3 nuove, 3 da Claude) | 0.3s
+26/11 18:15:48 INFO       (-0.7 r1.0 claude) Bitcoin Clings to $60,000 as ETF Outflows Near $5 Billion and Fear Grips the Market - BigGo Finance
+26/11 18:15:48 INFO       (-0.7 r1.0 claude) Galaxy Research Warns Bitcoin Could Fall to $28,200 if June Low Breaks - Yahoo Finance
+26/11 18:15:48 INFO       (+0.5 r0.9 claude) CryptoQuant CEO Says Bitcoin Could Face Massive Short Squeeze - bloomingbit
+26/11 18:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
