@@ -6544,3 +6544,9 @@
 26/11 02:46:14 INFO       (-0.3 r0.9 claude) Bitcoin has fallen so far that its original Rainbow Chart has run out of colors
 26/11 02:46:14 INFO       (+0.6 r0.9 claude) Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor
 26/11 02:46:14 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
+26/11 03:01:09 INFO    === btc_veloce (BTC-EUR) ===
+26/11 03:01:09 INFO    Prezzo 55306.35 | medie 55375.16/55125.64 trend SU | notizie -0.17 su 110 (1 nuove, 1 da Claude) | 0.1s
+26/11 03:01:09 INFO       (-0.5 r0.9 claude) Bitcoin Price Below $60,000: Galaxy Retracts Bottom Call - shattered.io
+26/11 03:01:09 INFO       (-0.6 r0.9 claude) Bitcoin’s Slide Below $60,000 Is A Stress Test For Corporate Crypto Treasuries - Forbes
+26/11 03:01:09 INFO       (-0.6 r1.0 claude) Bitcoin Price Forecast: BTC/USD 37% Crash Tests Yearly Low—Breakdown or Bounce? - FOREX.com
+26/11 03:01:10 INFO    -> ATTENDI: notizie sotto la soglia (-0.17)
