@@ -2378,3 +2378,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-26T19:01:12+01:00;1544.29;1540.48;1543.26;giu;+0.001;1;0;0;0;no;attendi;trend 15 minuti non rialzista;Ethereum Foundation backs Keccak-256 to counter quantum, AI threats;0.378
 2026-11-26T19:15:46+01:00;1541.68;1540.53;1542.73;giu;-0.174;45;1;1;0;no;attendi;trend 15 minuti non rialzista;Ethereum price falls 29%: Can ETH reclaim $1,730? - Crypto News;0.366
 2026-11-26T19:31:02+01:00;1547.50;1541.68;1542.58;giu;-0.173;44;0;0;0;no;attendi;trend 15 minuti non rialzista;Ethereum price falls 29%: Can ETH reclaim $1,730? - Crypto News;0.385
+2026-11-26T19:45:55+01:00;1549.31;1543.43;1542.49;su;-0.149;45;2;2;0;no;attendi;notizie sotto la soglia (-0.15);Ethereum price falls 29%: Can ETH reclaim $1,730? - Crypto News;0.371
