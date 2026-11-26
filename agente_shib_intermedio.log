@@ -1922,3 +1922,10 @@
 26/11 12:31:14 INFO    Trend superiore (ONE_DAY): GIU
 26/11 12:31:14 INFO    Prezzo 3.32e-06 | medie 3.2675e-06/3.2548e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 26/11 12:31:14 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+26/11 13:31:17 INFO    === shib_intermedio (SHIB-EUR) ===
+26/11 13:31:17 INFO    Trend superiore (ONE_DAY): GIU
+26/11 13:31:17 INFO    Prezzo 3.32e-06 | medie 3.276e-06/3.2546e-06 trend SU | notizie +0.03 su 17 (1 nuove, 1 da Claude) | 0.5s
+26/11 13:31:17 INFO       (-0.3 r1.0 claude) Shiba Inu lost 96% of its peak value; reaching $1 per token would take over 140,000 years of token burning. - 
+26/11 13:31:17 INFO       (+0.3 r0.9 claude) Shiba Inu Developer Teases a Major Privacy Boost for Its Blockchain - BeInCrypto
+26/11 13:31:17 INFO       (+0.1 r1.0 claude) 3 Ways Shiba Inu (SHIB) Can Finally Recover: Realistic Scenarios - TradingView
+26/11 13:31:17 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
