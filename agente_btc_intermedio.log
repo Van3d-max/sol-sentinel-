@@ -1986,3 +1986,10 @@
 26/11 13:31:13 INFO       (-0.7 r0.9 claude) Spot bitcoin ETFs are on track for their biggest monthly outflow on record - CoinDesk
 26/11 13:31:13 INFO       (-0.5 r0.9 claude) Bitcoin Braces for $7 Billion Options Expiry as Traders Pile Into Puts and ETFs Shed $2 Billion - BigGo Financ
 26/11 13:31:13 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+26/11 14:31:07 INFO    === btc_intermedio (BTC-EUR) ===
+26/11 14:31:08 INFO    Trend superiore (ONE_DAY): GIU
+26/11 14:31:08 INFO    Prezzo 55266.75 | medie 55133.31/54528.81 trend SU | notizie -0.03 su 122 (1 nuove, 1 da Claude) | 0.5s
+26/11 14:31:08 INFO       (-0.7 r1.0 claude) Galaxy Scraps Bitcoin Bottom Call, Warns $58,525 Close Could Open Steep Slide - BigGo Finance
+26/11 14:31:08 INFO       (-0.7 r0.9 claude) Spot bitcoin ETFs are on track for their biggest monthly outflow on record - CoinDesk
+26/11 14:31:08 INFO       (-0.5 r0.9 claude) Bitcoin Braces for $7 Billion Options Expiry as Traders Pile Into Puts and ETFs Shed $2 Billion - BigGo Financ
+26/11 14:31:08 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

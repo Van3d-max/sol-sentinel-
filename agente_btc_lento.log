@@ -1702,3 +1702,9 @@
 26/11 13:31:13 INFO       (-0.7 r0.9 claude) Spot bitcoin ETFs are on track for their biggest monthly outflow on record - CoinDesk
 26/11 13:31:13 INFO       (-0.7 r1.0 claude) Bitcoin's losing streak hits eight weeks, wiping out more than 30% of its value - FXStreet
 26/11 13:31:13 INFO    -> ATTENDI: trend giornaliero non rialzista
+26/11 14:31:08 INFO    === btc_lento (BTC-EUR) ===
+26/11 14:31:08 INFO    Prezzo 55266.75 | medie 56188.63/63655.76 trend GIU | notizie -0.03 su 139 (1 nuove, 1 da Claude) | 0.2s
+26/11 14:31:08 INFO       (-0.7 r1.0 claude) Galaxy Scraps Bitcoin Bottom Call, Warns $58,525 Close Could Open Steep Slide - BigGo Finance
+26/11 14:31:08 INFO       (-0.7 r0.9 claude) Spot bitcoin ETFs are on track for their biggest monthly outflow on record - CoinDesk
+26/11 14:31:08 INFO       (-0.7 r1.0 claude) Bitcoin's losing streak hits eight weeks, wiping out more than 30% of its value - FXStreet
+26/11 14:31:08 INFO    -> ATTENDI: trend giornaliero non rialzista
