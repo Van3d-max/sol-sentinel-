@@ -1930,3 +1930,10 @@
 26/11 09:31:14 INFO       (-0.2 r0.9 claude) Will Ripple Fall Further After Being Halved? 2027 Price Trend Analysis and Forecast - TradingKey
 26/11 09:31:14 INFO       (+0.3 r0.9 claude) XRP Lending Protocol Nears Launch, Tapping Billions of Tokens as Institutional Collateral - BigGo Finance
 26/11 09:31:14 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+26/11 10:31:10 INFO    === xrp_intermedio (XRP-EUR) ===
+26/11 10:31:10 INFO    Trend superiore (ONE_DAY): GIU
+26/11 10:31:10 INFO    Prezzo 0.8671 | medie 0.85612/0.845918 trend SU | notizie +0.11 su 48 (2 nuove, 2 da Claude) | 0.4s
+26/11 10:31:10 INFO       (+0.4 r0.8 claude) Ripple and Stellar Edge Up as Selling Pressure Eases - TradingPedia
+26/11 10:31:10 INFO       (-0.2 r0.9 claude) Will Ripple Fall Further After Being Halved? 2027 Price Trend Analysis and Forecast - TradingKey
+26/11 10:31:10 INFO       (+0.3 r0.9 claude) XRP Lending Protocol Nears Launch, Tapping Billions of Tokens as Institutional Collateral - BigGo Finance
+26/11 10:31:10 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
