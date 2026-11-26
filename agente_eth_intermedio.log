@@ -1913,3 +1913,10 @@
 26/11 03:31:06 INFO       (-0.5 r0.4 claude) How Low Can Bitcoin, Ethereum and XRP Fall? 4 Price Levels to Watch - Yahoo Finance
 26/11 03:31:06 INFO       (-0.6 r0.5 claude) Crypto Market Today, November 25, 2026: Bitcoin Below $60,000 as Ethereum, XRP and Solana Slide - Eurasia Busi
 26/11 03:31:06 INFO    -> ATTENDI: trend orario non rialzista
+26/11 04:31:21 INFO    === eth_intermedio (ETH-EUR) ===
+26/11 04:31:21 INFO    Trend superiore (ONE_DAY): GIU
+26/11 04:31:21 INFO    Prezzo 1552.09 | medie 1522.04/1529.19 trend GIU | notizie -0.04 su 4 (0 nuove, 0 da Claude) | 0.2s
+26/11 04:31:21 INFO       (-0.1 r0.8 claude) Lido tightens Ethereum staking penalties as operators gain access to larger validators
+26/11 04:31:21 INFO       (-0.6 r0.9 claude) Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes
+26/11 04:31:21 INFO       (+0.1 r0.8 claude) Ethereum Foundation backs Keccak-256 to counter quantum, AI threats
+26/11 04:31:21 INFO    -> ATTENDI: trend orario non rialzista

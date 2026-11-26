@@ -1916,3 +1916,10 @@
 26/11 03:31:07 INFO       (+0.4 r0.9 claude) House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage - The Block
 26/11 03:31:07 INFO       (-0.6 r0.9 claude) Bitcoin’s Slide Below $60,000 Is A Stress Test For Corporate Crypto Treasuries - Forbes
 26/11 03:31:07 INFO    -> ATTENDI: trend orario non rialzista
+26/11 04:31:27 INFO    === btc_intermedio (BTC-EUR) ===
+26/11 04:31:28 INFO    Trend superiore (ONE_DAY): GIU
+26/11 04:31:28 INFO    Prezzo 55618.27 | medie 54274.95/54492.66 trend GIU | notizie -0.06 su 31 (0 nuove, 0 da Claude) | 0.2s
+26/11 04:31:28 INFO       (+0.4 r1.0 claude) Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It
+26/11 04:31:28 INFO       (-0.3 r0.9 claude) Bitcoin has fallen so far that its original Rainbow Chart has run out of colors
+26/11 04:31:28 INFO       (+0.6 r0.9 claude) Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor
+26/11 04:31:28 INFO    -> ATTENDI: trend orario non rialzista
