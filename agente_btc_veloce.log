@@ -6778,3 +6778,9 @@
 26/11 12:31:10 INFO       (-0.7 r1.0 claude) Bitcoin's losing streak hits eight weeks, wiping out more than 30% of its value - FXStreet
 26/11 12:31:10 INFO       (-0.7 r0.9 claude) Bitcoin sheds more than 30% of its value as losing streak extends to eight weeks - www.tmgm.com
 26/11 12:31:10 INFO    -> ATTENDI: trend 15 minuti non rialzista
+26/11 12:45:49 INFO    === btc_veloce (BTC-EUR) ===
+26/11 12:45:49 INFO    Prezzo 55469.50 | medie 55223.66/55291.88 trend GIU | notizie -0.04 su 110 (6 nuove, 6 da Claude) | 0.2s
+26/11 12:45:49 INFO       (-0.7 r0.9 claude) Spot bitcoin ETFs are on track for their biggest monthly outflow on record - CoinDesk
+26/11 12:45:49 INFO       (-0.6 r0.9 claude) Bitcoin ETFs are bleeding cash and the Fed is unlikely to help
+26/11 12:45:49 INFO       (-0.7 r1.0 claude) Bitcoin's losing streak hits eight weeks, wiping out more than 30% of its value - FXStreet
+26/11 12:45:49 INFO    -> ATTENDI: trend 15 minuti non rialzista
