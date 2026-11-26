@@ -6900,3 +6900,7 @@
 26/11 17:45:41 INFO       (-0.4 r0.9 claude) Ethereum steadies with institutional ETF outflows and US policy uncertainty weighing on market sentiment - Tra
 26/11 17:45:41 INFO       (-0.7 r0.9 claude) Key facts: Ethereum ETFs Shed $1.23B; ETH Support Levels in Focus - TradingView
 26/11 17:45:41 INFO    -> ATTENDI: trend 15 minuti non rialzista
+26/11 18:01:12 INFO    === eth_veloce (ETH-EUR) ===
+26/11 18:01:12 INFO    Prezzo 1544.29 | medie 1540.48/1543.26 trend GIU | notizie +0.00 su 1 (0 nuove, 0 da Claude) | 0.3s
+26/11 18:01:12 INFO       (+0.1 r0.8 claude) Ethereum Foundation backs Keccak-256 to counter quantum, AI threats
+26/11 18:01:12 INFO    -> ATTENDI: trend 15 minuti non rialzista
