@@ -6634,3 +6634,9 @@
 26/11 06:31:00 INFO       (-0.2 r0.9 claude) Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route
 26/11 06:31:00 INFO       (+0.4 r1.0 claude) Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It
 26/11 06:31:00 INFO    -> ATTENDI: notizie sotto la soglia (-0.00)
+26/11 06:45:44 INFO    === btc_veloce (BTC-EUR) ===
+26/11 06:45:44 INFO    Prezzo 55167.80 | medie 55408.97/55420.46 trend GIU | notizie -0.01 su 110 (5 nuove, 5 da Claude) | 0.2s
+26/11 06:45:44 INFO       (-0.7 r1.0 claude) Galaxy walks back bitcoin's June-bottom call, warns of deeper losses below $58,525 - The Block
+26/11 06:45:44 INFO       (+0.5 r1.0 claude) Bitcoin Rebounds From $57,000 to $61,000 as AI-Linked Stocks Bounce Back - finance.biggo.com
+26/11 06:45:44 INFO       (+0.4 r0.9 claude) Europe's only spot bitcoin ETF starts trading in Switzerland, BIT says - The Block
+26/11 06:45:44 INFO    -> ATTENDI: trend 15 minuti non rialzista
