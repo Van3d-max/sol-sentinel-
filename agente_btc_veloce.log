@@ -6898,3 +6898,9 @@
 26/11 17:31:05 INFO       (+0.6 r1.0 claude) Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading - Bloomberg
 26/11 17:31:05 INFO       (+0.5 r0.9 claude) CryptoQuant CEO Says Bitcoin Could Face Massive Short Squeeze - bloomingbit
 26/11 17:31:05 INFO    -> ATTENDI: trend 15 minuti non rialzista
+26/11 17:45:43 INFO    === btc_veloce (BTC-EUR) ===
+26/11 17:45:43 INFO    Prezzo 55036.05 | medie 55098.82/55190.51 trend GIU | notizie -0.05 su 101 (3 nuove, 3 da Claude) | 0.2s
+26/11 17:45:43 INFO       (-0.7 r1.0 claude) Galaxy Research Warns Bitcoin Could Fall to $28,200 if June Low Breaks - Yahoo Finance
+26/11 17:45:43 INFO       (+0.6 r1.0 claude) Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading - Bloomberg
+26/11 17:45:43 INFO       (-0.4 r1.0 claude) Bitcoin Price Rebounds Above $60K, but 150K BTC Whale Sell-Off Keeps Recovery at Risk - Coinpedia
+26/11 17:45:43 INFO    -> ATTENDI: trend 15 minuti non rialzista
