@@ -6916,3 +6916,9 @@
 26/11 18:15:48 INFO       (-0.7 r1.0 claude) Galaxy Research Warns Bitcoin Could Fall to $28,200 if June Low Breaks - Yahoo Finance
 26/11 18:15:48 INFO       (+0.5 r0.9 claude) CryptoQuant CEO Says Bitcoin Could Face Massive Short Squeeze - bloomingbit
 26/11 18:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
+26/11 18:31:04 INFO    === btc_veloce (BTC-EUR) ===
+26/11 18:31:04 INFO    Prezzo 55241.35 | medie 55118.77/55159.94 trend GIU | notizie -0.08 su 27 (1 nuove, 1 da Claude) | 0.3s
+26/11 18:31:04 INFO       (+0.3 r0.9 claude) Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases
+26/11 18:31:04 INFO       (-0.2 r1.0 claude) Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery
+26/11 18:31:04 INFO       (-0.3 r0.9 claude) Bitcoin’s recovery above $60,000 faces a threat from Japan while Wall Street sleeps
+26/11 18:31:04 INFO    -> ATTENDI: trend 15 minuti non rialzista
