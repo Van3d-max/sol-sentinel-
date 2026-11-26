@@ -6772,3 +6772,9 @@
 26/11 12:15:46 INFO       (-0.5 r0.9 claude) Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend
 26/11 12:15:46 INFO       (-0.2 r0.9 claude) Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity
 26/11 12:15:46 INFO    -> ATTENDI: trend 15 minuti non rialzista
+26/11 12:31:10 INFO    === btc_veloce (BTC-EUR) ===
+26/11 12:31:10 INFO    Prezzo 55195.48 | medie 55213.93/55277.50 trend GIU | notizie -0.04 su 126 (13 nuove, 13 da Claude) | 0.3s
+26/11 12:31:10 INFO       (-0.6 r0.9 claude) Bitcoin ETFs are bleeding cash and the Fed is unlikely to help
+26/11 12:31:10 INFO       (-0.7 r1.0 claude) Bitcoin's losing streak hits eight weeks, wiping out more than 30% of its value - FXStreet
+26/11 12:31:10 INFO       (-0.7 r0.9 claude) Bitcoin sheds more than 30% of its value as losing streak extends to eight weeks - www.tmgm.com
+26/11 12:31:10 INFO    -> ATTENDI: trend 15 minuti non rialzista
