@@ -2005,3 +2005,10 @@
 26/11 20:31:04 INFO    Prezzo 0.8677 | medie 0.86737/0.850168 trend SU | notizie +0.00 su 1 (0 nuove, 0 da Claude) | 0.2s
 26/11 20:31:04 INFO       (+0.1 r0.4 claude) Ripple is worth $90 a share to one fund and $300 to another, SEC filings show
 26/11 20:31:04 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+26/11 21:31:10 INFO    === xrp_intermedio (XRP-EUR) ===
+26/11 21:31:10 INFO    Trend superiore (ONE_DAY): GIU
+26/11 21:31:10 INFO    Prezzo 0.8689 | medie 0.86799/0.850742 trend SU | notizie +0.00 su 39 (1 nuove, 1 da Claude) | 0.4s
+26/11 21:31:10 INFO       (-0.5 r1.0 claude) Ripple CEO Blames Major Tech IPOs and Liquidity Drain for XRP Price Weakness - Coinpaper
+26/11 21:31:10 INFO       (+0.3 r1.0 claude) Elon Musk’s Grok AI Predicts a Huge XRP Price Reversal: Could This Happen? - Cryptonews
+26/11 21:31:10 INFO       (+0.5 r0.9 claude) XRP Price Prediction as Exchange Outflows Top 5 billion and ETF Inflows Return - Cryptonews.net
+26/11 21:31:10 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
