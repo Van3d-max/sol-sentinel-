@@ -6482,3 +6482,9 @@
 26/11 00:15:42 INFO       (-0.6 r0.9 claude) Ethereum drops 29% in a month. Can ETH hold $1,650? - Crypto News
 26/11 00:15:42 INFO       (-0.3 r1.0 claude) Peter Brandt Warns Ethereum Could Crash Below $500 if One Key Level Breaks - BeInCrypto
 26/11 00:15:42 INFO    -> ATTENDI: notizie sotto la soglia (-0.15)
+26/11 00:30:58 INFO    === eth_veloce (ETH-EUR) ===
+26/11 00:30:58 INFO    Prezzo 1551.25 | medie 1540.41/1537.46 trend SU | notizie -0.01 su 3 (0 nuove, 0 da Claude) | 0.2s
+26/11 00:30:58 INFO       (-0.6 r0.9 claude) Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes
+26/11 00:30:58 INFO       (+0.1 r0.8 claude) Ethereum Foundation backs Keccak-256 to counter quantum, AI threats
+26/11 00:30:58 INFO       (+0.0 r0.7 claude) Morning Minute: Ethereum Focuses on Security As AI Threats Rise
+26/11 00:30:58 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)

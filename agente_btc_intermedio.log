@@ -1888,3 +1888,10 @@
 25/11 23:31:02 INFO       (-0.5 r0.9 claude) Crypto Market Today, November 25, 2026: Bitcoin Below $60,000 as Ethereum, XRP and Solana Slide - Eurasia Busi
 25/11 23:31:02 INFO       (-0.7 r1.0 claude) Bitcoin Funds Head for Worst Month as Outflows Near $5 Billion - Bloomberg
 25/11 23:31:02 INFO    -> ATTENDI: trend orario non rialzista
+26/11 00:31:01 INFO    === btc_intermedio (BTC-EUR) ===
+26/11 00:31:01 INFO    Trend superiore (ONE_DAY): GIU
+26/11 00:31:01 INFO    Prezzo 55355.21 | medie 54003.89/54553.81 trend GIU | notizie -0.13 su 110 (4 nuove, 4 da Claude) | 0.3s
+26/11 00:31:01 INFO       (-0.6 r1.0 claude) Bitcoin has fallen so far that its original Rainbow Chart has run out of colors - CryptoSlate
+26/11 00:31:01 INFO       (+0.4 r1.0 claude) Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It
+26/11 00:31:01 INFO       (+0.3 r1.0 claude) Bitcoin Is Vanishing Into “Deep Storage” Faster Than Miners Make It - Bitcoin Magazine
+26/11 00:31:01 INFO    -> ATTENDI: trend orario non rialzista
