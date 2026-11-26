@@ -1750,3 +1750,9 @@
 26/11 21:31:08 INFO       (-0.6 r0.9 claude) Bitcoin ETFs are bleeding cash and the Fed is unlikely to help
 26/11 21:31:08 INFO       (-0.5 r0.9 claude) Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over
 26/11 21:31:08 INFO    -> ATTENDI: trend giornaliero non rialzista
+26/11 22:31:04 INFO    === btc_lento (BTC-EUR) ===
+26/11 22:31:05 INFO    Prezzo 55167.78 | medie 56188.63/63655.76 trend GIU | notizie -0.11 su 121 (1 nuove, 1 da Claude) | 0.1s
+26/11 22:31:05 INFO       (-0.6 r1.0 claude) Bitcoin Drop Forces Miners to Sell Reserves - Briefs Finance
+26/11 22:31:05 INFO       (-0.6 r0.9 claude) Bitcoin Miners Just Hit Capitulation as BTC Falls $26K Below Production Cost - Coinpedia
+26/11 22:31:05 INFO       (-0.7 r1.0 claude) Galaxy Research Warns Bitcoin Could Fall to $28,200 if June Low Breaks - Yahoo Finance
+26/11 22:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista

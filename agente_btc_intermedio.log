@@ -2042,3 +2042,10 @@
 26/11 21:31:08 INFO       (+0.3 r0.9 claude) Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases
 26/11 21:31:08 INFO       (-0.2 r1.0 claude) Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery
 26/11 21:31:08 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+26/11 22:31:04 INFO    === btc_intermedio (BTC-EUR) ===
+26/11 22:31:04 INFO    Trend superiore (ONE_DAY): GIU
+26/11 22:31:04 INFO    Prezzo 55167.78 | medie 55286.07/54623.96 trend SU | notizie -0.11 su 92 (1 nuove, 1 da Claude) | 0.4s
+26/11 22:31:04 INFO       (-0.6 r1.0 claude) Bitcoin Drop Forces Miners to Sell Reserves - Briefs Finance
+26/11 22:31:04 INFO       (-0.6 r0.9 claude) Bitcoin Miners Just Hit Capitulation as BTC Falls $26K Below Production Cost - Coinpedia
+26/11 22:31:04 INFO       (+0.3 r0.8 claude) A 30% Bitcoin crash hasn't shaken this asset manager's $1.6 million call - Yahoo Finance
+26/11 22:31:04 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

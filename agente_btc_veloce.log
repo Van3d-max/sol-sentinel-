@@ -7012,3 +7012,9 @@
 26/11 22:15:43 INFO       (+0.5 r1.0 claude) Bitcoin broke through the $60,000 mark amid a rally in risk assets. What should we expect next? - Oninvest
 26/11 22:15:43 INFO       (+0.3 r0.8 claude) A 30% Bitcoin crash hasn't shaken this asset manager's $1.6 million call - Yahoo Finance
 26/11 22:15:43 INFO    -> ATTENDI: notizie sotto la soglia (-0.05)
+26/11 22:31:04 INFO    === btc_veloce (BTC-EUR) ===
+26/11 22:31:04 INFO    Prezzo 55167.78 | medie 55340.04/55248.61 trend SU | notizie -0.11 su 92 (1 nuove, 1 da Claude) | 0.3s
+26/11 22:31:04 INFO       (-0.6 r1.0 claude) Bitcoin Drop Forces Miners to Sell Reserves - Briefs Finance
+26/11 22:31:04 INFO       (-0.6 r0.9 claude) Bitcoin Miners Just Hit Capitulation as BTC Falls $26K Below Production Cost - Coinpedia
+26/11 22:31:04 INFO       (+0.3 r0.8 claude) A 30% Bitcoin crash hasn't shaken this asset manager's $1.6 million call - Yahoo Finance
+26/11 22:31:04 INFO    -> ATTENDI: notizie sotto la soglia (-0.11)
