@@ -1630,3 +1630,9 @@
 26/11 01:30:58 INFO       (-1.0 r1.0 claude) Bitcoin Price Crash: BTC Could Hit $48K in the Next 7–10 Days - Coinpedia
 26/11 01:30:58 INFO       (-0.8 r1.0 claude) Bitcoin Is Headed for Its Worst Month Since 2022 -- WSJ - Moomoo
 26/11 01:30:58 INFO    -> ATTENDI: trend giornaliero non rialzista
+26/11 02:31:08 INFO    === btc_lento (BTC-EUR) ===
+26/11 02:31:08 INFO    Prezzo 55475.11 | medie 56188.63/63655.76 trend GIU | notizie -0.16 su 42 (0 nuove, 0 da Claude) | 0.1s
+26/11 02:31:08 INFO       (-0.8 r1.0 claude) Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%
+26/11 02:31:08 INFO       (-0.8 r1.0 claude) Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets
+26/11 02:31:08 INFO       (-0.8 r1.0 claude) Bitcoin’s selloff deepens as Trump tariffs and hot inflation revive market fears
+26/11 02:31:08 INFO    -> ATTENDI: trend giornaliero non rialzista

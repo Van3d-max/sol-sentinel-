@@ -1902,3 +1902,10 @@
 26/11 01:30:57 INFO       (-0.6 r1.0 claude) Bitcoin has fallen so far that its original Rainbow Chart has run out of colors - CryptoSlate
 26/11 01:30:57 INFO       (-0.3 r0.9 claude) Bitcoin Plunges 23% in November, Erasing Gains Since Trump’s Election - Businesskorea
 26/11 01:30:57 INFO    -> ATTENDI: trend orario non rialzista
+26/11 02:31:08 INFO    === btc_intermedio (BTC-EUR) ===
+26/11 02:31:08 INFO    Trend superiore (ONE_DAY): GIU
+26/11 02:31:08 INFO    Prezzo 55475.11 | medie 54129.03/54520.19 trend GIU | notizie -0.06 su 31 (0 nuove, 0 da Claude) | 0.5s
+26/11 02:31:08 INFO       (+0.4 r1.0 claude) Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It
+26/11 02:31:08 INFO       (-0.3 r0.9 claude) Bitcoin has fallen so far that its original Rainbow Chart has run out of colors
+26/11 02:31:08 INFO       (+0.6 r0.9 claude) Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor
+26/11 02:31:08 INFO    -> ATTENDI: trend orario non rialzista

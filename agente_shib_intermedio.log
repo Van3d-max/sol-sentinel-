@@ -1851,3 +1851,10 @@
 26/11 01:31:00 INFO    Trend superiore (ONE_DAY): GIU
 26/11 01:31:00 INFO    Prezzo 3.29e-06 | medie 3.1975e-06/3.268e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.4s
 26/11 01:31:00 INFO    -> ATTENDI: trend orario non rialzista
+26/11 02:31:10 INFO    === shib_intermedio (SHIB-EUR) ===
+26/11 02:31:10 INFO    Trend superiore (ONE_DAY): GIU
+26/11 02:31:10 INFO    Prezzo 3.32e-06 | medie 3.204e-06/3.2682e-06 trend GIU | notizie +0.12 su 12 (0 nuove, 0 da Claude) | 0.4s
+26/11 02:31:10 INFO       (+0.3 r0.9 claude) Shiba Inu Developer Teases a Major Privacy Boost for Its Blockchain - Yahoo Finance
+26/11 02:31:10 INFO       (+0.2 r0.9 claude) Shiba Inu's Shibarium is ready to add privacy f... - Pluang
+26/11 02:31:10 INFO       (+0.5 r1.0 claude) 520 billion Shiba Inu tokens withdrawn from exc... - Pluang
+26/11 02:31:10 INFO    -> ATTENDI: trend orario non rialzista

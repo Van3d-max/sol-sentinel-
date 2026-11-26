@@ -6532,3 +6532,9 @@
 26/11 02:15:43 INFO       (-0.3 r0.9 claude) Bitcoin Plunges 23% in November, Erasing Gains Since Trump’s Election - Businesskorea
 26/11 02:15:43 INFO       (+0.4 r1.0 claude) Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It
 26/11 02:15:43 INFO    -> ATTENDI: notizie sotto la soglia (-0.14)
+26/11 02:31:07 INFO    === btc_veloce (BTC-EUR) ===
+26/11 02:31:08 INFO    Prezzo 55475.11 | medie 55337.69/55076.38 trend SU | notizie -0.06 su 31 (0 nuove, 0 da Claude) | 0.3s
+26/11 02:31:08 INFO       (+0.4 r1.0 claude) Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It
+26/11 02:31:08 INFO       (-0.3 r0.9 claude) Bitcoin has fallen so far that its original Rainbow Chart has run out of colors
+26/11 02:31:08 INFO       (+0.6 r0.9 claude) Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor
+26/11 02:31:08 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
