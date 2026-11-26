@@ -1962,3 +1962,10 @@
 26/11 10:31:05 INFO       (-0.6 r0.9 claude) Ethereum Stalls as ETF Outflows, Hot Inflation Weigh - TradingPedia
 26/11 10:31:05 INFO       (-0.3 r0.9 claude) ICO-Era Whale Unloads $53 Million of Ethereum (ETH) a Decade Later - Cryptonews.net
 26/11 10:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+26/11 11:30:59 INFO    === eth_intermedio (ETH-EUR) ===
+26/11 11:30:59 INFO    Trend superiore (ONE_DAY): GIU
+26/11 11:30:59 INFO    Prezzo 1547.02 | medie 1537.18/1527.90 trend SU | notizie -0.08 su 54 (0 nuove, 0 da Claude) | 0.2s
+26/11 11:30:59 INFO       (+0.6 r1.0 claude) Ethereum Price Reclaims $1,700: Network Activity Defies 39% Crash, $80M Shorts Liquidated - 99Bitcoins
+26/11 11:30:59 INFO       (-0.6 r0.9 claude) Ethereum Stalls as ETF Outflows, Hot Inflation Weigh - TradingPedia
+26/11 11:30:59 INFO       (-0.3 r0.9 claude) ICO-Era Whale Unloads $53 Million of Ethereum (ETH) a Decade Later - Cryptonews.net
+26/11 11:30:59 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
