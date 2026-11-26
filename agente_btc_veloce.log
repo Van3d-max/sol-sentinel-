@@ -6766,3 +6766,9 @@
 26/11 12:01:18 INFO       (-0.2 r0.9 claude) Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity
 26/11 12:01:18 INFO       (+0.2 r0.7 claude) Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour
 26/11 12:01:18 INFO    -> ATTENDI: notizie sotto la soglia (-0.07)
+26/11 12:15:46 INFO    === btc_veloce (BTC-EUR) ===
+26/11 12:15:46 INFO    Prezzo 55221.21 | medie 55248.01/55271.23 trend GIU | notizie -0.17 su 30 (1 nuove, 1 da Claude) | 0.3s
+26/11 12:15:46 INFO       (-0.6 r0.9 claude) Bitcoin ETFs are bleeding cash and the Fed is unlikely to help
+26/11 12:15:46 INFO       (-0.5 r0.9 claude) Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend
+26/11 12:15:46 INFO       (-0.2 r0.9 claude) Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity
+26/11 12:15:46 INFO    -> ATTENDI: trend 15 minuti non rialzista
