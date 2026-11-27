@@ -7432,3 +7432,9 @@
 27/11 15:45:47 INFO       (-0.7 r1.0 claude) Bitcoin drops below $59,000 as $213M in long positions liquidated - Crypto Briefing
 27/11 15:45:47 INFO       (-0.6 r1.0 claude) Bitcoin Briefly Falls Below $59,000 - bloomingbit
 27/11 15:45:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 16:01:16 INFO    === btc_veloce (BTC-EUR) ===
+27/11 16:01:16 INFO    Prezzo 54842.95 | medie 55118.97/55699.02 trend GIU | notizie -0.01 su 102 (4 nuove, 4 da Claude) | 0.2s
+27/11 16:01:16 INFO       (-0.8 r1.0 claude) Bitcoin Suddenly Tanks Below $60K Again as Hourly Liquidations Near $200M - CryptoPotato
+27/11 16:01:16 INFO       (-0.7 r1.0 claude) Why Is Bitcoin Crashing Today? Bitcoin Falls Below $59K After $7 Billion Options Expiry - Coinpaper
+27/11 16:01:16 INFO       (-0.7 r1.0 claude) Bitcoin drops below $59,000 as $213M in long positions liquidated - Crypto Briefing
+27/11 16:01:16 INFO    -> ATTENDI: trend 15 minuti non rialzista
