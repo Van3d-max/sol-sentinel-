@@ -1822,3 +1822,9 @@
 27/11 09:31:05 INFO       (+0.5 r1.0 claude) Bitcoin Breaks Above $62,000 - bloomingbit
 27/11 09:31:05 INFO       (+0.5 r0.9 claude) LIVE – Crypto News Today: Why Is Bitcoin Up? Gold and Wall Street Rally Fuel BTC Bounce - Yahoo Finance
 27/11 09:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista
+27/11 10:31:05 INFO    === btc_lento (BTC-EUR) ===
+27/11 10:31:05 INFO    Prezzo 56276.29 | medie 55810.81/63074.60 trend GIU | notizie +0.00 su 113 (2 nuove, 2 da Claude) | 0.1s
+27/11 10:31:05 INFO       (+0.5 r0.9 claude) Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound
+27/11 10:31:05 INFO       (+0.6 r1.0 claude) Bitcoin recovers to $61.5k; set for first positive week in 8 - Investing.com
+27/11 10:31:05 INFO       (-0.5 r0.8 claude) Bitcoin price recovery at risk as stablecoin market cap declines 12% in 30 days - Crypto News
+27/11 10:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista

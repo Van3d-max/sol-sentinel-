@@ -2122,3 +2122,10 @@
 27/11 09:31:03 INFO       (-0.4 r0.9 claude) BMNR Stock News: Bitmine Stops Buying Ethereum At 5% Supply Cap - Coinpedia
 27/11 09:31:03 INFO       (+0.5 r1.0 claude) Ethereum price rises 3% as developers confirm December 15 test for Glamsterdam upgrade - Crypto News
 27/11 09:31:03 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 10:31:02 INFO    === eth_intermedio (ETH-EUR) ===
+27/11 10:31:03 INFO    Trend superiore (ONE_DAY): GIU
+27/11 10:31:03 INFO    Prezzo 1577.66 | medie 1558.45/1541.48 trend SU | notizie -0.02 su 61 (2 nuove, 2 da Claude) | 0.3s
+27/11 10:31:03 INFO       (-0.5 r0.9 claude) Ethereum consolidates near yearly lows as bearish macro backdrop remains intact despite short-covering - inves
+27/11 10:31:03 INFO       (+0.4 r1.0 claude) Ethereum’s Seven-Week Wait Comes to an End, Glamsterdam Test on December 15th - Cryptonews.net
+27/11 10:31:03 INFO       (-0.3 r0.9 claude) Study Finds 42M Ether Exposed to Future Quantum Attacks - eWeek
+27/11 10:31:03 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

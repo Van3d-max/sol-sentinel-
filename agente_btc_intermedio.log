@@ -2126,3 +2126,10 @@
 27/11 09:31:05 INFO       (+0.3 r1.0 claude) Bitcoin defends June low as key support, Glassnode says - Crypto Briefing
 27/11 09:31:05 INFO       (+0.5 r0.9 claude) LIVE – Crypto News Today: Why Is Bitcoin Up? Gold and Wall Street Rally Fuel BTC Bounce - Yahoo Finance
 27/11 09:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 10:31:05 INFO    === btc_intermedio (BTC-EUR) ===
+27/11 10:31:05 INFO    Trend superiore (ONE_DAY): GIU
+27/11 10:31:05 INFO    Prezzo 56276.29 | medie 55555.84/54997.91 trend SU | notizie +0.03 su 81 (2 nuove, 2 da Claude) | 0.3s
+27/11 10:31:05 INFO       (+0.5 r0.9 claude) Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound
+27/11 10:31:05 INFO       (-0.5 r0.8 claude) Bitcoin price recovery at risk as stablecoin market cap declines 12% in 30 days - Crypto News
+27/11 10:31:05 INFO       (-0.5 r0.8 claude) JPMorgan Said Bitcoin Is "Capitulating" Due to Strategy’s Record-Low Ratio - Incrypted
+27/11 10:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
