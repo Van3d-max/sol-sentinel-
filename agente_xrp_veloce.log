@@ -6960,3 +6960,9 @@
 27/11 04:46:03 INFO       (-0.5 r1.0 claude) Ripple CEO Blames Major Tech IPOs and Liquidity Drain for XRP Price Weakness - Coinpaper
 27/11 04:46:03 INFO       (-0.1 r1.0 claude) XRP Holds Near $0.95 as $4 Million ETF Inflow Fails to Break Moving-Average Ceiling - BigGo Finance
 27/11 04:46:04 INFO    -> ATTENDI: obiettivo +1.01% sotto il minimo +2.20% (commissioni)
+27/11 05:01:16 INFO    === xrp_veloce (XRP-EUR) ===
+27/11 05:01:16 INFO    Prezzo 0.874 | medie 0.875467/0.869462 trend SU | notizie +0.02 su 41 (0 nuove, 0 da Claude) | 0.3s
+27/11 05:01:16 INFO       (+0.3 r0.4 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC extends tentative rebound, ETH and XRP climb on easing
+27/11 05:01:16 INFO       (-0.5 r1.0 claude) Ripple CEO Blames Major Tech IPOs and Liquidity Drain for XRP Price Weakness - Coinpaper
+27/11 05:01:16 INFO       (-0.1 r1.0 claude) XRP Holds Near $0.95 as $4 Million ETF Inflow Fails to Break Moving-Average Ceiling - BigGo Finance
+27/11 05:01:16 INFO    -> ATTENDI: obiettivo +0.99% sotto il minimo +2.20% (commissioni)
