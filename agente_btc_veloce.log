@@ -7342,3 +7342,9 @@
 27/11 12:01:20 INFO       (+0.5 r1.0 claude) Live news: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains
 27/11 12:01:20 INFO       (+0.4 r0.9 claude) BIT Asset Management Introduces Switzerland's First Spot Bitcoin ETF on SIX Swiss Exchange - markets.businessi
 27/11 12:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 12:15:48 INFO    === btc_veloce (BTC-EUR) ===
+27/11 12:15:48 INFO    Prezzo 56154.68 | medie 56191.97/56209.99 trend GIU | notizie +0.00 su 103 (11 nuove, 11 da Claude) | 0.2s
+27/11 12:15:48 INFO       (-0.5 r1.0 claude) Bitcoin’s Liquidity Problem: Who Will Buy the Dip? - Investing.com
+27/11 12:15:48 INFO       (+0.5 r1.0 claude) Live news: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains
+27/11 12:15:48 INFO       (-0.4 r0.9 claude) Crypto Market Outlook, 27 November 2026: Bitcoin Holds $61K After a Record ETF Outflow Month - Howl.Link
+27/11 12:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
