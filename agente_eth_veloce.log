@@ -7278,3 +7278,9 @@
 27/11 10:01:12 INFO       (-0.3 r0.9 claude) Study Finds 42M Ether Exposed to Future Quantum Attacks - eWeek
 27/11 10:01:12 INFO       (-0.4 r0.9 claude) BMNR Stock News: Bitmine Stops Buying Ethereum At 5% Supply Cap - Coinpedia
 27/11 10:01:12 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 10:15:45 INFO    === eth_veloce (ETH-EUR) ===
+27/11 10:15:45 INFO    Prezzo 1574.78 | medie 1577.79/1579.69 trend GIU | notizie -0.01 su 57 (1 nuove, 1 da Claude) | 0.2s
+27/11 10:15:45 INFO       (-0.5 r0.9 claude) Ethereum consolidates near yearly lows as bearish macro backdrop remains intact despite short-covering - inves
+27/11 10:15:45 INFO       (+0.4 r1.0 claude) Ethereum’s Seven-Week Wait Comes to an End, Glamsterdam Test on December 15th - Cryptonews.net
+27/11 10:15:45 INFO       (-0.3 r0.9 claude) Study Finds 42M Ether Exposed to Future Quantum Attacks - eWeek
+27/11 10:15:45 INFO    -> ATTENDI: trend 15 minuti non rialzista

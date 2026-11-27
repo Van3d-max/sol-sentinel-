@@ -15303,3 +15303,9 @@
 27/11 10:01:09 INFO    === veloce (SOL-EUR) ===
 27/11 10:01:09 INFO    Prezzo 67.0400 | medie 66.9056/66.6524 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.2s
 27/11 10:01:09 INFO    -> ATTENDI: obiettivo +1.18% sotto il minimo +2.20% (commissioni)
+27/11 10:15:43 INFO    === veloce (SOL-EUR) ===
+27/11 10:15:44 INFO    Prezzo 66.8500 | medie 66.9333/66.6881 trend SU | notizie +0.22 su 22 (1 nuove, 1 da Claude) | 0.2s
+27/11 10:15:44 INFO       (+0.4 r0.9 claude) SBI, SMFG Launch Solana Venture With Full Operations - CoinMarketCap
+27/11 10:15:44 INFO       (+0.3 r0.9 claude) Solana could hit $300B market cap if tokenized stock trading grows steadily, says Bitwise CIO. - Pluang
+27/11 10:15:44 INFO       (+0.3 r1.0 claude) Solana (SOL) rebounds to $72.66 amid improving derivatives but faces resistance above $78. - Pluang
+27/11 10:15:44 INFO    -> ATTENDI: obiettivo +1.14% sotto il minimo +2.20% (commissioni)

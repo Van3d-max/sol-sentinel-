@@ -7294,3 +7294,9 @@
 27/11 10:01:14 INFO       (-0.5 r0.8 claude) Bitcoin price recovery at risk as stablecoin market cap declines 12% in 30 days - Crypto News
 27/11 10:01:14 INFO       (+0.4 r0.8 claude) Bitcoin rises 2% as tech futures gain 3% and silver jumps 7% - CoinDesk
 27/11 10:01:14 INFO    -> ATTENDI: obiettivo +0.97% sotto il minimo +2.20% (commissioni)
+27/11 10:15:47 INFO    === btc_veloce (BTC-EUR) ===
+27/11 10:15:48 INFO    Prezzo 56190.08 | medie 56256.79/56207.90 trend SU | notizie +0.04 su 81 (5 nuove, 5 da Claude) | 0.2s
+27/11 10:15:48 INFO       (+0.5 r0.9 claude) Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound
+27/11 10:15:48 INFO       (-0.5 r0.8 claude) Bitcoin price recovery at risk as stablecoin market cap declines 12% in 30 days - Crypto News
+27/11 10:15:48 INFO       (+0.4 r0.8 claude) Bitcoin rises 2% as tech futures gain 3% and silver jumps 7% - CoinDesk
+27/11 10:15:48 INFO    -> ATTENDI: obiettivo +0.95% sotto il minimo +2.20% (commissioni)
