@@ -6908,3 +6908,9 @@
 27/11 02:31:07 INFO       (-0.2 r0.9 claude) XRP sellers could lose an extra $3,146 on a large trade if five accounts pull their buy orders
 27/11 02:31:07 INFO       (+0.3 r1.0 claude) Elon Musk’s Grok AI Predicts a Huge XRP Price Reversal: Could This Happen? - Cryptonews
 27/11 02:31:07 INFO    -> ATTENDI: obiettivo +1.11% sotto il minimo +2.20% (commissioni)
+27/11 02:45:45 INFO    === xrp_veloce (XRP-EUR) ===
+27/11 02:45:46 INFO    Prezzo 0.8741 | medie 0.8667/0.864314 trend SU | notizie -0.01 su 42 (1 nuove, 1 da Claude) | 0.3s
+27/11 02:45:46 INFO       (-0.5 r1.0 claude) Ripple CEO Blames Major Tech IPOs and Liquidity Drain for XRP Price Weakness - Coinpaper
+27/11 02:45:46 INFO       (-0.1 r1.0 claude) XRP Holds Near $0.95 as $4 Million ETF Inflow Fails to Break Moving-Average Ceiling - BigGo Finance
+27/11 02:45:46 INFO       (-0.2 r0.9 claude) XRP sellers could lose an extra $3,146 on a large trade if five accounts pull their buy orders
+27/11 02:45:46 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
