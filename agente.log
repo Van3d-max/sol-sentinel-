@@ -4062,3 +4062,9 @@
 27/11 19:31:01 INFO    === lenta (SOL-EUR) ===
 27/11 19:31:01 INFO    Prezzo 66.0600 | medie 65.1700/73.9927 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.1s
 27/11 19:31:01 INFO    -> ATTENDI: trend giornaliero non rialzista
+27/11 20:31:00 INFO    === lenta (SOL-EUR) ===
+27/11 20:31:00 INFO    Prezzo 65.9000 | medie 65.1700/73.9927 trend GIU | notizie +0.10 su 51 (0 nuove, 0 da Claude) | 0.1s
+27/11 20:31:00 INFO       (+0.5 r1.0 claude) Solana (SOL) rises 3.2% amid positive futures f... - Pluang
+27/11 20:31:00 INFO       (-0.4 r1.0 claude) Solana's proprietary AMMs drop to 31% of spot D... - Pluang
+27/11 20:31:00 INFO       (-0.4 r0.9 claude) Solana weekly forecast: Institutional outflows persist while volatility remains elevated - Traders Union
+27/11 20:31:00 INFO    -> ATTENDI: trend giornaliero non rialzista

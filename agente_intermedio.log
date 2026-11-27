@@ -2170,3 +2170,10 @@
 27/11 19:31:01 INFO    Trend superiore (ONE_DAY): GIU
 27/11 19:31:01 INFO    Prezzo 66.0600 | medie 66.0805/65.1426 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.4s
 27/11 19:31:01 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 20:31:00 INFO    === intermedio (SOL-EUR) ===
+27/11 20:31:00 INFO    Trend superiore (ONE_DAY): GIU
+27/11 20:31:00 INFO    Prezzo 65.9000 | medie 66.1365/65.1958 trend SU | notizie +0.07 su 31 (0 nuove, 0 da Claude) | 0.2s
+27/11 20:31:00 INFO       (+0.3 r0.8 claude) Insurance Giant Aon Tests Stablecoin Premium Payments on Solana - Kriptofoni
+27/11 20:31:00 INFO       (+0.2 r1.0 claude) Solana (SOL) price rises 2.43% in one hour, hitting $72.12 with $960K liquidations on major exchanges. - Pluan
+27/11 20:31:00 INFO       (-0.4 r1.0 claude) Solana's proprietary AMMs drop to 31% of spot D... - Pluang
+27/11 20:31:00 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
