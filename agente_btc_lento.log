@@ -1816,3 +1816,9 @@
 27/11 08:31:13 INFO       (-0.6 r0.9 claude) Bitcoin ETFs are bleeding cash and the Fed is unlikely to help
 27/11 08:31:13 INFO       (-0.5 r0.9 claude) Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over
 27/11 08:31:13 INFO    -> ATTENDI: trend giornaliero non rialzista
+27/11 09:31:05 INFO    === btc_lento (BTC-EUR) ===
+27/11 09:31:05 INFO    Prezzo 56241.57 | medie 55810.81/63074.60 trend GIU | notizie +0.01 su 130 (4 nuove, 4 da Claude) | 0.1s
+27/11 09:31:05 INFO       (+0.6 r1.0 claude) Bitcoin recovers to $61.5k; set for first positive week in 8 - Investing.com
+27/11 09:31:05 INFO       (+0.5 r1.0 claude) Bitcoin Breaks Above $62,000 - bloomingbit
+27/11 09:31:05 INFO       (+0.5 r0.9 claude) LIVE – Crypto News Today: Why Is Bitcoin Up? Gold and Wall Street Rally Fuel BTC Bounce - Yahoo Finance
+27/11 09:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista

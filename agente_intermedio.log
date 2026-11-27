@@ -2102,3 +2102,7 @@
 27/11 08:31:10 INFO    Trend superiore (ONE_DAY): GIU
 27/11 08:31:10 INFO    Prezzo 66.7200 | medie 65.2660/64.1722 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.4s
 27/11 08:31:10 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 09:31:01 INFO    === intermedio (SOL-EUR) ===
+27/11 09:31:02 INFO    Trend superiore (ONE_DAY): GIU
+27/11 09:31:02 INFO    Prezzo 67.1300 | medie 65.3805/64.2536 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
+27/11 09:31:02 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
