@@ -2049,3 +2049,10 @@
 27/11 00:30:56 INFO    Trend superiore (ONE_DAY): GIU
 27/11 00:30:56 INFO    Prezzo 64.8600 | medie 64.6995/63.7222 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 27/11 00:30:56 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 01:31:00 INFO    === intermedio (SOL-EUR) ===
+27/11 01:31:00 INFO    Trend superiore (ONE_DAY): GIU
+27/11 01:31:00 INFO    Prezzo 65.1200 | medie 64.7040/63.7456 trend SU | notizie +0.16 su 21 (1 nuove, 1 da Claude) | 0.4s
+27/11 01:31:00 INFO       (+0.7 r0.9 claude) Solana Reclaims $70 After a Major Deal With Japan’s $2.3 Trillion Banking Giants - Cryptonews.net
+27/11 01:31:00 INFO       (-0.6 r0.9 claude) Solana Nears Unwanted Milestone: 10 Down Months in One Year as ETF Outflows Reach $164 Million - BigGo Finance
+27/11 01:31:00 INFO       (+0.7 r0.9 claude) Solana Reclaims $70 After a Major Deal With Japan’s $2.3 Trillion Banking Giants - BeInCrypto
+27/11 01:31:00 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

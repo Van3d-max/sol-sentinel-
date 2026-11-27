@@ -2063,3 +2063,10 @@
 27/11 00:30:58 INFO       (+0.3 r0.9 claude) Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases
 27/11 00:30:58 INFO       (-0.2 r1.0 claude) Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery
 27/11 00:30:58 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 01:31:04 INFO    === btc_intermedio (BTC-EUR) ===
+27/11 01:31:05 INFO    Trend superiore (ONE_DAY): GIU
+27/11 01:31:05 INFO    Prezzo 55348.94 | medie 55251.80/54661.48 trend SU | notizie -0.07 su 104 (3 nuove, 3 da Claude) | 0.4s
+27/11 01:31:05 INFO       (+0.6 r0.9 claude) Bitcoin Price Rebounds as $16B in Shorts Face Liquidation Risk - Cryptonews.net
+27/11 01:31:05 INFO       (-0.5 r0.8 claude) Strategy's Market Value Falls to 0.88x Its Bitcoin Holdings — Lowest Premium on Record Signals 'Capitulation S
+27/11 01:31:05 INFO       (+0.5 r0.9 claude) US House Panel Advances Bitcoin Reserve Bill With 20-Year Holding Rule - Brave New Coin
+27/11 01:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

@@ -1768,3 +1768,9 @@
 27/11 00:30:59 INFO       (-0.6 r0.9 claude) Bitcoin ETFs are bleeding cash and the Fed is unlikely to help
 27/11 00:30:59 INFO       (-0.5 r0.9 claude) Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over
 27/11 00:30:59 INFO    -> ATTENDI: trend giornaliero non rialzista
+27/11 01:31:05 INFO    === btc_lento (BTC-EUR) ===
+27/11 01:31:05 INFO    Prezzo 55348.94 | medie 55810.81/63074.60 trend GIU | notizie -0.10 su 137 (3 nuove, 3 da Claude) | 0.2s
+27/11 01:31:05 INFO       (+0.6 r0.9 claude) Bitcoin Price Rebounds as $16B in Shorts Face Liquidation Risk - Cryptonews.net
+27/11 01:31:05 INFO       (+0.5 r0.9 claude) US House Panel Advances Bitcoin Reserve Bill With 20-Year Holding Rule - Brave New Coin
+27/11 01:31:05 INFO       (-0.6 r0.9 claude) Bitcoin Miners Just Hit Capitulation as BTC Falls $26K Below Production Cost - Coinpedia
+27/11 01:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista
