@@ -7138,3 +7138,9 @@
 27/11 03:31:03 INFO       (-0.4 r0.9 claude) Bitcoin’s recovery above $60,000 faces a threat from Japan while Wall Street sleeps - Cryptonews.net
 27/11 03:31:03 INFO       (+0.3 r0.8 claude) Tudor Investment Nearly Doubles IBIT Stake to $64.6 Million as Bitcoin ETF Bet Revives - BigGo Finance
 27/11 03:31:03 INFO    -> ATTENDI: notizie sotto la soglia (-0.01)
+27/11 03:45:45 INFO    === btc_veloce (BTC-EUR) ===
+27/11 03:45:45 INFO    Prezzo 55915.79 | medie 55781.96/55449.83 trend SU | notizie -0.02 su 104 (2 nuove, 2 da Claude) | 0.2s
+27/11 03:45:45 INFO       (+0.4 r0.9 claude) Bitcoin Reclaims $60,000 as Altcoins Rally; Monero Slides 10.8% - BigGo Finance
+27/11 03:45:45 INFO       (-0.3 r0.9 claude) ‘Sore Subject’ for the Thanksgiving Table: Peter Schiff Says Bitcoin Fall Leaves Holders With Little to Celebr
+27/11 03:45:45 INFO       (+0.5 r0.9 claude) Mike Howell: Bitcoin to Be Top Allocation Asset as Financial Liquidity Returns - TradingView
+27/11 03:45:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.02)
