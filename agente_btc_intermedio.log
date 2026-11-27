@@ -2098,3 +2098,10 @@
 27/11 05:31:03 INFO       (+0.4 r0.9 claude) Bitcoin Reclaims $60,000 as Altcoins Rally; Monero Slides 10.8% - BigGo Finance
 27/11 05:31:03 INFO       (-0.3 r0.9 claude) ‘Sore Subject’ for the Thanksgiving Table: Peter Schiff Says Bitcoin Fall Leaves Holders With Little to Celebr
 27/11 05:31:03 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 06:31:04 INFO    === btc_intermedio (BTC-EUR) ===
+27/11 06:31:05 INFO    Trend superiore (ONE_DAY): GIU
+27/11 06:31:05 INFO    Prezzo 56151.57 | medie 55375.39/54820.84 trend SU | notizie +0.03 su 94 (3 nuove, 3 da Claude) | 0.4s
+27/11 06:31:05 INFO       (+0.6 r1.0 claude) Bitcoin recovers to $61.5k; set for first positive week in 8 - Investing.com
+27/11 06:31:05 INFO       (+0.4 r0.9 claude) Billionaire Paul Tudor Jones Doubled His Bitcoin ETF Stake. It Is Still 83% Below Its Peak - CEOWORLD magazine
+27/11 06:31:05 INFO       (+0.4 r0.7 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC extends tentative rebound, ETH and XRP climb on easing
+27/11 06:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
