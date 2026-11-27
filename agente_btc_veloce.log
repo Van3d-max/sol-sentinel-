@@ -7546,3 +7546,9 @@
 27/11 20:31:04 INFO       (-0.7 r0.9 claude) Bitcoin ETFs lose $5.39B as crypto borrowers cut debt - Crypto News
 27/11 20:31:04 INFO       (+0.5 r0.9 claude) BTC Price Prediction: Whales Add Over 120,000 BTC - Bitcoin Foundation
 27/11 20:31:04 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 20:45:47 INFO    === btc_veloce (BTC-EUR) ===
+27/11 20:45:47 INFO    Prezzo 54669.96 | medie 54698.30/54740.73 trend GIU | notizie -0.11 su 113 (5 nuove, 5 da Claude) | 0.3s
+27/11 20:45:47 INFO       (-0.6 r1.0 claude) Bitcoin's recovery may take time as it approaches historic lows – CoinShares - FXStreet
+27/11 20:45:47 INFO       (-0.6 r1.0 claude) Bitcoin Price Falls as $183 Million in Liquidations Hit Ahead of $6.8 Billion Options Expiry - Benzinga
+27/11 20:45:47 INFO       (-0.7 r0.9 claude) Bitcoin in free fall, Anthropic takes off: The financial market goes against the trend - Cointribune
+27/11 20:45:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
