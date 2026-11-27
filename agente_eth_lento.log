@@ -1792,3 +1792,9 @@
 27/11 04:31:04 INFO       (-0.6 r0.9 claude) Ethereum price falls 29%: Can ETH reclaim $1,730? - Crypto News
 27/11 04:31:04 INFO       (+0.6 r1.0 claude) Abraxas Capital Buys $18.55 Million Worth of Ethereum, Withdraws 11,000 ETH From Binance - Kriptofoni
 27/11 04:31:04 INFO    -> ATTENDI: trend giornaliero non rialzista
+27/11 05:31:02 INFO    === eth_lento (ETH-EUR) ===
+27/11 05:31:02 INFO    Prezzo 1592.40 | medie 1563.97/1801.07 trend GIU | notizie +0.08 su 3 (0 nuove, 0 da Claude) | 0.1s
+27/11 05:31:02 INFO       (+0.3 r1.0 claude) Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know
+27/11 05:31:02 INFO       (-0.1 r1.0 claude) Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays
+27/11 05:31:02 INFO       (+0.0 r0.7 claude) Morning Minute: Ethereum Focuses on Security As AI Threats Rise
+27/11 05:31:02 INFO    -> ATTENDI: trend giornaliero non rialzista

@@ -2088,3 +2088,9 @@
 27/11 04:31:04 INFO       (+0.4 r0.4 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC extends tentative rebound, ETH and XRP climb on easing
 27/11 04:31:04 INFO       (+0.1 r0.9 claude) Ethereum Price Forecast: Ethlabs recommends proceeding with Glamsterdam - FXStreet
 27/11 04:31:04 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 05:31:01 INFO    === eth_intermedio (ETH-EUR) ===
+27/11 05:31:02 INFO    Trend superiore (ONE_DAY): GIU
+27/11 05:31:02 INFO    Prezzo 1592.40 | medie 1551.00/1534.89 trend SU | notizie +0.07 su 2 (0 nuove, 0 da Claude) | 0.3s
+27/11 05:31:02 INFO       (+0.3 r1.0 claude) Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know
+27/11 05:31:02 INFO       (-0.1 r1.0 claude) Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays
+27/11 05:31:02 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
