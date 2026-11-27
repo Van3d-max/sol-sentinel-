@@ -7552,3 +7552,9 @@
 27/11 20:45:47 INFO       (-0.6 r1.0 claude) Bitcoin Price Falls as $183 Million in Liquidations Hit Ahead of $6.8 Billion Options Expiry - Benzinga
 27/11 20:45:47 INFO       (-0.7 r0.9 claude) Bitcoin in free fall, Anthropic takes off: The financial market goes against the trend - Cointribune
 27/11 20:45:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 21:01:16 INFO    === btc_veloce (BTC-EUR) ===
+27/11 21:01:16 INFO    Prezzo 54685.58 | medie 54696.51/54725.59 trend GIU | notizie -0.06 su 25 (1 nuove, 1 da Claude) | 0.2s
+27/11 21:01:16 INFO       (-0.5 r1.0 claude) 4 Scary Bitcoin Charts That Suggest This Bear Market Is Different
+27/11 21:01:16 INFO       (-0.6 r0.9 claude) Bitcoin price drops below $59K as Anthropic joins tech stock rebound
+27/11 21:01:16 INFO       (+0.3 r1.0 claude) Bitcoin whales pile into BTC despite shrinking profit cushion
+27/11 21:01:16 INFO    -> ATTENDI: trend 15 minuti non rialzista
