@@ -2081,3 +2081,10 @@
 27/11 03:31:01 INFO       (-0.6 r0.9 claude) Ethereum price falls 29%: Can ETH reclaim $1,730? - Crypto News
 27/11 03:31:01 INFO       (-0.3 r0.6 claude) Did Ethereum Buying Pause Just Shift Bitmine Immersion Technologies' (BMNR) Investment Narrative? - Simply Wal
 27/11 03:31:01 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 04:31:04 INFO    === eth_intermedio (ETH-EUR) ===
+27/11 04:31:04 INFO    Trend superiore (ONE_DAY): GIU
+27/11 04:31:04 INFO    Prezzo 1575.70 | medie 1549.54/1533.50 trend SU | notizie +0.12 su 36 (2 nuove, 2 da Claude) | 0.4s
+27/11 04:31:04 INFO       (+0.3 r1.0 claude) Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know
+27/11 04:31:04 INFO       (+0.4 r0.4 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC extends tentative rebound, ETH and XRP climb on easing
+27/11 04:31:04 INFO       (+0.1 r0.9 claude) Ethereum Price Forecast: Ethlabs recommends proceeding with Glamsterdam - FXStreet
+27/11 04:31:04 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

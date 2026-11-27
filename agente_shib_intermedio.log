@@ -2015,3 +2015,10 @@
 27/11 03:31:05 INFO    Trend superiore (ONE_DAY): GIU
 27/11 03:31:05 INFO    Prezzo 3.36e-06 | medie 3.3155e-06/3.2538e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.2s
 27/11 03:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 04:31:10 INFO    === shib_intermedio (SHIB-EUR) ===
+27/11 04:31:10 INFO    Trend superiore (ONE_DAY): GIU
+27/11 04:31:10 INFO    Prezzo 3.35e-06 | medie 3.3165e-06/3.2558e-06 trend SU | notizie +0.05 su 9 (0 nuove, 0 da Claude) | 0.4s
+27/11 04:31:10 INFO       (+0.3 r0.9 claude) Shiba Inu launches privacy upgrade and new bloc... - Pluang
+27/11 04:31:10 INFO       (-0.5 r0.9 claude) Shiba Inu Hovers Near $0.00000365 as Crypto Outflows Thwart Any Rebound - BigGo Finance
+27/11 04:31:10 INFO       (+0.3 r0.9 claude) Shiba Inu Burn Transactions Near 22,000 as Daily Burn Rate Jumps 443% - BigGo Finance
+27/11 04:31:10 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
