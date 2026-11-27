@@ -7594,3 +7594,9 @@
 27/11 22:31:06 INFO       (-0.6 r0.9 claude) Bitcoin price drops below $59K as Anthropic joins tech stock rebound - Cryptonews.net
 27/11 22:31:06 INFO       (-0.6 r1.0 claude) Bitcoin's recovery may take time as it approaches historic lows – CoinShares - FXStreet
 27/11 22:31:06 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 22:45:45 INFO    === btc_veloce (BTC-EUR) ===
+27/11 22:45:46 INFO    Prezzo 54582.73 | medie 54625.57/54660.63 trend GIU | notizie -0.10 su 115 (1 nuove, 1 da Claude) | 0.3s
+27/11 22:45:46 INFO       (-0.5 r1.0 claude) Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Big
+27/11 22:45:46 INFO       (-0.6 r0.9 claude) Bitcoin price drops below $59K as Anthropic joins tech stock rebound - Cryptonews.net
+27/11 22:45:46 INFO       (-0.6 r1.0 claude) Bitcoin's recovery may take time as it approaches historic lows – CoinShares - FXStreet
+27/11 22:45:46 INFO    -> ATTENDI: trend 15 minuti non rialzista
