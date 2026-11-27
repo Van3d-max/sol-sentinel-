@@ -1852,3 +1852,9 @@
 27/11 14:31:07 INFO       (+0.4 r0.9 claude) Live updates: Bitcoin rebounds above $61,000 as AI stocks lead gains
 27/11 14:31:07 INFO       (-0.3 r0.9 claude) Galaxy Withdraws Call That Bitcoin’s Bear Market Ended in June
 27/11 14:31:07 INFO    -> ATTENDI: trend giornaliero non rialzista
+27/11 15:31:07 INFO    === btc_lento (BTC-EUR) ===
+27/11 15:31:07 INFO    Prezzo 54658.58 | medie 55810.81/63074.60 trend GIU | notizie +0.05 su 121 (5 nuove, 5 da Claude) | 0.1s
+27/11 15:31:07 INFO       (-0.7 r1.0 claude) Bitcoin drops below $59,000 as $213M in long positions liquidated - Crypto Briefing
+27/11 15:31:07 INFO       (-0.6 r1.0 claude) Bitcoin Falls Below $60,000 - bloomingbit
+27/11 15:31:07 INFO       (-0.7 r0.9 claude) Analyst Warns of $38,000 Bitcoin Crash as Trump Proposes Tariffs on 14 Trading Partners - CCN.com
+27/11 15:31:07 INFO    -> ATTENDI: trend giornaliero non rialzista

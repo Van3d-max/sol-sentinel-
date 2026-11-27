@@ -2130,3 +2130,10 @@
 27/11 14:31:09 INFO       (-0.5 r0.9 claude) XRP Investors Face a Major Warning as Binance Deposit Activity Hits a 7-Year High - CryptoPotato
 27/11 14:31:09 INFO       (-0.5 r1.0 claude) XRP Deposits on Binance Jump 91.4%, Most Lopsided Since 2019 as Token Tests $1 - BigGo Finance
 27/11 14:31:09 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 15:31:09 INFO    === xrp_intermedio (XRP-EUR) ===
+27/11 15:31:09 INFO    Trend superiore (ONE_DAY): GIU
+27/11 15:31:09 INFO    Prezzo 0.8647 | medie 0.876095/0.864998 trend SU | notizie +0.04 su 43 (2 nuove, 2 da Claude) | 0.3s
+27/11 15:31:09 INFO       (-0.4 r1.0 claude) Ripple to Unlock 1 Billion XRP on December 1: Could XRP Price Fall Further? - Coinpaper
+27/11 15:31:09 INFO       (-0.5 r0.9 claude) XRP Investors Face a Major Warning as Binance Deposit Activity Hits a 7-Year High - CryptoRank
+27/11 15:31:09 INFO       (+0.3 r0.9 claude) XRP Ledger Vault Amendment Clears Validator Hurdle, Countdown to Dec. 10 Activation Begins - BigGo Finance
+27/11 15:31:09 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
