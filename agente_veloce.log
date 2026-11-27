@@ -15588,3 +15588,9 @@
 27/11 23:01:13 INFO    === veloce (SOL-EUR) ===
 27/11 23:01:13 INFO    Prezzo 65.5200 | medie 65.5678/65.7214 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.2s
 27/11 23:01:13 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 23:15:47 INFO    === veloce (SOL-EUR) ===
+27/11 23:15:47 INFO    Prezzo 65.1100 | medie 65.5078/65.6933 trend GIU | notizie -0.02 su 38 (2 nuove, 2 da Claude) | 0.3s
+27/11 23:15:47 INFO       (-0.4 r1.0 claude) Solana (SOL) Suffers Its Worst Year So Far: Is More Pain Ahead? - CryptoRank
+27/11 23:15:47 INFO       (-0.4 r1.0 claude) Solana (SOL) Suffers Its Worst Year So Far: Is More Pain Ahead? - CryptoPotato
+27/11 23:15:47 INFO       (+0.3 r0.7 claude) Jupiter rolls out crypto basket feature to broaden portfolio access on Solana - Traders Union
+27/11 23:15:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
