@@ -7438,3 +7438,9 @@
 27/11 16:01:16 INFO       (-0.7 r1.0 claude) Why Is Bitcoin Crashing Today? Bitcoin Falls Below $59K After $7 Billion Options Expiry - Coinpaper
 27/11 16:01:16 INFO       (-0.7 r1.0 claude) Bitcoin drops below $59,000 as $213M in long positions liquidated - Crypto Briefing
 27/11 16:01:16 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 16:15:47 INFO    === btc_veloce (BTC-EUR) ===
+27/11 16:15:47 INFO    Prezzo 54803.45 | medie 54982.12/55634.54 trend GIU | notizie +0.01 su 103 (3 nuove, 3 da Claude) | 0.2s
+27/11 16:15:47 INFO       (-0.8 r1.0 claude) Bitcoin Suddenly Tanks Below $60K Again as Hourly Liquidations Near $200M - CryptoPotato
+27/11 16:15:47 INFO       (-0.6 r0.9 claude) Another $453 million exits bitcoin ETFs as November outflows stack up - Yahoo Finance
+27/11 16:15:47 INFO       (-0.6 r1.0 claude) Bitcoin Falls Below $60,000 - bloomingbit
+27/11 16:15:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
