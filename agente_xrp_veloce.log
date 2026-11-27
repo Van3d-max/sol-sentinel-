@@ -6942,3 +6942,9 @@
 27/11 04:01:12 INFO       (-0.2 r0.9 claude) XRP sellers could lose an extra $3,146 on a large trade if five accounts pull their buy orders
 27/11 04:01:12 INFO       (+0.1 r0.4 claude) Ripple is worth $90 a share to one fund and $300 to another, SEC filings show
 27/11 04:01:12 INFO    -> ATTENDI: notizie sotto la soglia (-0.07)
+27/11 04:15:45 INFO    === xrp_veloce (XRP-EUR) ===
+27/11 04:15:46 INFO    Prezzo 0.8743 | medie 0.874944/0.867138 trend SU | notizie -0.00 su 40 (0 nuove, 0 da Claude) | 0.2s
+27/11 04:15:46 INFO       (-0.5 r1.0 claude) Ripple CEO Blames Major Tech IPOs and Liquidity Drain for XRP Price Weakness - Coinpaper
+27/11 04:15:46 INFO       (-0.1 r1.0 claude) XRP Holds Near $0.95 as $4 Million ETF Inflow Fails to Break Moving-Average Ceiling - BigGo Finance
+27/11 04:15:46 INFO       (-0.2 r0.9 claude) XRP sellers could lose an extra $3,146 on a large trade if five accounts pull their buy orders
+27/11 04:15:46 INFO    -> ATTENDI: notizie sotto la soglia (-0.00)
