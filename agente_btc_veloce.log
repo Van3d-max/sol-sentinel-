@@ -7504,3 +7504,9 @@
 27/11 18:45:50 INFO       (-0.8 r1.0 claude) Bitcoin Sinks Below $59,000 as ETF Outflows Hit $5.39 Billion and 63% of Liquidations Are Longs - BigGo Financ
 27/11 18:45:50 INFO       (-0.6 r0.9 claude) Live updates: Bitcoin slips below $60,000 as Nvidia falls more than 2% - CoinDesk
 27/11 18:45:50 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 19:01:14 INFO    === btc_veloce (BTC-EUR) ===
+27/11 19:01:14 INFO    Prezzo 54745.94 | medie 54671.87/54898.20 trend GIU | notizie -0.06 su 112 (3 nuove, 3 da Claude) | 0.2s
+27/11 19:01:14 INFO       (-0.6 r1.0 claude) Bitcoin falls below $60,000 after Nvidia chips found in China - Protos | Informed crypto news
+27/11 19:01:14 INFO       (-0.6 r0.9 claude) Live updates: Bitcoin slips below $60,000 as Nvidia falls more than 2% - CoinDesk
+27/11 19:01:14 INFO       (-0.8 r1.0 claude) Bitcoin Sinks Below $59,000 as ETF Outflows Hit $5.39 Billion and 63% of Liquidations Are Longs - BigGo Financ
+27/11 19:01:14 INFO    -> ATTENDI: trend 15 minuti non rialzista
