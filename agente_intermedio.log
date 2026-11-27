@@ -2152,3 +2152,10 @@
 27/11 16:31:03 INFO       (+0.3 r1.0 claude) Solana Price Prediction: $70 Support Holds as Technical Rebound Signals Appear - FXEmpire
 27/11 16:31:03 INFO       (-0.4 r0.9 claude) Solana remains mostly rangebound as the negative macro backdrop limits the recovery. What's next? - investingL
 27/11 16:31:03 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 17:31:01 INFO    === intermedio (SOL-EUR) ===
+27/11 17:31:01 INFO    Trend superiore (ONE_DAY): GIU
+27/11 17:31:01 INFO    Prezzo 65.5200 | medie 65.9985/64.9818 trend SU | notizie +0.09 su 21 (0 nuove, 0 da Claude) | 0.4s
+27/11 17:31:01 INFO       (+0.3 r0.8 claude) Insurance Giant Aon Tests Stablecoin Premium Payments on Solana - Kriptofoni
+27/11 17:31:01 INFO       (-0.4 r0.9 claude) Solana weekly forecast: Institutional outflows persist while volatility remains elevated - Traders Union
+27/11 17:31:01 INFO       (+0.3 r1.0 claude) Solana Price Prediction: $70 Support Holds as Technical Rebound Signals Appear - FXEmpire
+27/11 17:31:01 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

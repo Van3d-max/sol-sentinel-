@@ -2097,3 +2097,7 @@
 27/11 16:31:13 INFO       (+0.3 r1.0 claude) Shiba Inu eyes $500M Christmas rally after 95% crash with bullish RSI signal. - Pluang
 27/11 16:31:13 INFO       (-0.4 r0.9 claude) Shiba Inu weekly forecast: Overbought Stochastic RSI raises risk of corrective pullback - Traders Union
 27/11 16:31:13 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 17:31:09 INFO    === shib_intermedio (SHIB-EUR) ===
+27/11 17:31:10 INFO    Trend superiore (ONE_DAY): GIU
+27/11 17:31:10 INFO    Prezzo 3.33e-06 | medie 3.348e-06/3.29e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
+27/11 17:31:10 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

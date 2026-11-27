@@ -1836,3 +1836,9 @@
 27/11 16:31:12 INFO    Prezzo 0.8661 | medie 0.85942/0.9717 trend GIU | notizie +0.07 su 1 (0 nuove, 0 da Claude) | 0.1s
 27/11 16:31:12 INFO       (+0.2 r0.8 claude) Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins
 27/11 16:31:12 INFO    -> ATTENDI: trend giornaliero non rialzista
+27/11 17:31:09 INFO    === xrp_lento (XRP-EUR) ===
+27/11 17:31:09 INFO    Prezzo 0.8654 | medie 0.85942/0.9717 trend GIU | notizie +0.06 su 66 (4 nuove, 4 da Claude) | 0.1s
+27/11 17:31:09 INFO       (+0.5 r1.0 claude) XRP Ledger Lending System Nears Key Deployment Milestone - Coinpedia
+27/11 17:31:09 INFO       (-0.5 r0.9 claude) XRP Investors Face a Major Warning as Binance Deposit Activity Hits a 7-Year High - CryptoRank
+27/11 17:31:09 INFO       (-0.5 r1.0 claude) XRP Deposits on Binance Jump 91.4%, Most Lopsided Since 2019 as Token Tests $1 - BigGo Finance
+27/11 17:31:09 INFO    -> ATTENDI: trend giornaliero non rialzista
