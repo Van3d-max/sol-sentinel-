@@ -2154,3 +2154,10 @@
 27/11 13:31:17 INFO       (-0.7 r1.0 claude) Key facts: BTCUSD Logs Seventh Weekly Loss; Bitcoin ETFs See Record November Outflows - TradingView
 27/11 13:31:17 INFO       (+0.5 r0.9 claude) Strategic Bitcoin Reserve Bill Advances To Full House With 20-Year Lock - Crowdfund Insider
 27/11 13:31:17 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 14:31:06 INFO    === btc_intermedio (BTC-EUR) ===
+27/11 14:31:07 INFO    Trend superiore (ONE_DAY): GIU
+27/11 14:31:07 INFO    Prezzo 55762.18 | medie 55751.76/55179.13 trend SU | notizie +0.02 su 20 (1 nuove, 1 da Claude) | 0.4s
+27/11 14:31:07 INFO       (+0.3 r0.8 claude) Bitcoin’s turbulent week has created a $16 billion opportunity for a short squeeze
+27/11 14:31:07 INFO       (-0.3 r0.9 claude) Galaxy Withdraws Call That Bitcoin’s Bear Market Ended in June
+27/11 14:31:07 INFO       (+0.4 r0.9 claude) Live updates: Bitcoin rebounds above $61,000 as AI stocks lead gains
+27/11 14:31:07 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
