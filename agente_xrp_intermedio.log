@@ -2183,3 +2183,10 @@
 27/11 22:31:08 INFO       (+0.4 r0.9 claude) 5 Billion XRP Withdrawn From Crypto Exchanges in 30 Days as Binance Leads Outflows - Kriptofoni
 27/11 22:31:08 INFO       (+0.4 r1.0 claude) XRP Ledger Tops 8.37 Million Accounts as ETF Inflows Hit $4.07 Million - BigGo Finance
 27/11 22:31:08 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 23:31:01 INFO    === xrp_intermedio (XRP-EUR) ===
+27/11 23:31:02 INFO    Trend superiore (ONE_DAY): GIU
+27/11 23:31:02 INFO    Prezzo 0.8647 | medie 0.87671/0.869986 trend SU | notizie +0.13 su 45 (0 nuove, 0 da Claude) | 0.3s
+27/11 23:31:02 INFO       (+0.6 r1.0 claude) XRP Price Prediction: Lending Protocol Approval Could Fuel XRP’s Relief Rally to $1.10 - FXEmpire
+27/11 23:31:02 INFO       (+0.4 r0.9 claude) 5 Billion XRP Withdrawn From Crypto Exchanges in 30 Days as Binance Leads Outflows - Kriptofoni
+27/11 23:31:02 INFO       (+0.4 r1.0 claude) XRP Ledger Tops 8.37 Million Accounts as ETF Inflows Hit $4.07 Million - BigGo Finance
+27/11 23:31:02 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
