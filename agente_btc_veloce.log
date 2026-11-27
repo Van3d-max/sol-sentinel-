@@ -7456,3 +7456,9 @@
 27/11 16:45:47 INFO       (-0.8 r1.0 claude) Bitcoin Suddenly Tanks Below $60K Again as Hourly Liquidations Near $200M - CryptoPotato
 27/11 16:45:47 INFO       (-0.6 r0.9 claude) Another $453 million exits bitcoin ETFs as November outflows stack up - Yahoo Finance
 27/11 16:45:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 17:01:20 INFO    === btc_veloce (BTC-EUR) ===
+27/11 17:01:20 INFO    Prezzo 54792.09 | medie 54722.49/55448.11 trend GIU | notizie -0.04 su 100 (5 nuove, 5 da Claude) | 0.2s
+27/11 17:01:20 INFO       (-0.8 r1.0 claude) Bitcoin Sinks Below $59,000 as ETF Outflows Hit $5.39 Billion and 63% of Liquidations Are Longs - BigGo Financ
+27/11 17:01:20 INFO       (-0.6 r0.9 claude) Bitcoin price drops below $59K as Anthropic joins tech stock rebound
+27/11 17:01:20 INFO       (-0.8 r1.0 claude) Bitcoin Suddenly Tanks Below $60K Again as Hourly Liquidations Near $200M - CryptoPotato
+27/11 17:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
