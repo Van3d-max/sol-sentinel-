@@ -7114,3 +7114,9 @@
 27/11 03:01:10 INFO       (-0.3 r0.6 claude) Did Ethereum Buying Pause Just Shift Bitmine Immersion Technologies' (BMNR) Investment Narrative? - Simply Wal
 27/11 03:01:10 INFO       (-0.4 r0.9 claude) Ethereum steadies with institutional ETF outflows and US policy uncertainty weighing on market sentiment - Tra
 27/11 03:01:10 INFO    -> ATTENDI: notizie sotto la soglia (-0.08)
+27/11 03:15:45 INFO    === eth_veloce (ETH-EUR) ===
+27/11 03:15:45 INFO    Prezzo 1571.99 | medie 1560.01/1549.69 trend SU | notizie -0.00 su 37 (2 nuove, 2 da Claude) | 0.3s
+27/11 03:15:45 INFO       (+0.1 r0.9 claude) Ethereum Price Forecast: Ethlabs recommends proceeding with Glamsterdam - FXStreet
+27/11 03:15:45 INFO       (-0.6 r0.9 claude) Ethereum price falls 29%: Can ETH reclaim $1,730? - Crypto News
+27/11 03:15:45 INFO       (-0.3 r0.6 claude) Did Ethereum Buying Pause Just Shift Bitmine Immersion Technologies' (BMNR) Investment Narrative? - Simply Wal
+27/11 03:15:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.00)
