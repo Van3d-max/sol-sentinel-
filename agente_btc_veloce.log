@@ -7414,3 +7414,9 @@
 27/11 15:01:24 INFO       (+0.6 r1.0 claude) Strategy buys 2,789 Bitcoin for fourth consecutive week - TradingView
 27/11 15:01:24 INFO       (+0.5 r1.0 claude) Bitcoin Bounces as Optimism Returns to Markets After Holiday - Bloomberg.com
 27/11 15:01:24 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 15:15:51 INFO    === btc_veloce (BTC-EUR) ===
+27/11 15:15:51 INFO    Prezzo 54499.92 | medie 55535.05/55896.72 trend GIU | notizie -0.00 su 115 (11 nuove, 11 da Claude) | 0.3s
+27/11 15:15:51 INFO       (-0.8 r1.0 claude) Bitcoin Suddenly Tanks Below $60K Again as Hourly Liquidations Near $200M - CryptoPotato
+27/11 15:15:51 INFO       (-0.6 r1.0 claude) Bitcoin Falls Below $60,000 - bloomingbit
+27/11 15:15:51 INFO       (-0.7 r0.9 claude) Analyst Warns of $38,000 Bitcoin Crash as Trump Proposes Tariffs on 14 Trading Partners - CCN.com
+27/11 15:15:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
