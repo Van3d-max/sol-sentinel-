@@ -7390,3 +7390,9 @@
 27/11 14:01:16 INFO       (-0.7 r1.0 claude) Key facts: BTCUSD Logs Seventh Weekly Loss; Bitcoin ETFs See Record November Outflows - TradingView
 27/11 14:01:16 INFO       (+0.5 r0.9 claude) Strategic Bitcoin Reserve Bill Advances To Full House With 20-Year Lock - Crowdfund Insider
 27/11 14:01:16 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 14:15:57 INFO    === btc_veloce (BTC-EUR) ===
+27/11 14:15:57 INFO    Prezzo 56063.99 | medie 56092.55/56157.81 trend GIU | notizie +0.05 su 96 (8 nuove, 8 da Claude) | 0.1s
+27/11 14:15:57 INFO       (-0.7 r0.9 claude) Analyst Warns of $38,000 Bitcoin Crash as Trump Proposes Tariffs on 14 Trading Partners - CCN.com
+27/11 14:15:57 INFO       (+0.6 r1.0 claude) Strategy buys 2,789 Bitcoin for fourth consecutive week - TradingView
+27/11 14:15:57 INFO       (-0.7 r1.0 claude) Key facts: BTCUSD Logs Seventh Weekly Loss; Bitcoin ETFs See Record November Outflows - TradingView
+27/11 14:15:57 INFO    -> ATTENDI: trend 15 minuti non rialzista
