@@ -7528,3 +7528,9 @@
 27/11 19:45:43 INFO       (-0.6 r1.0 claude) Bitcoin falls below $60,000 after Nvidia chips found in China - Protos | Informed crypto news
 27/11 19:45:43 INFO       (+0.5 r0.9 claude) Bitcoin Bounces as Optimism Returns to Markets After Holiday - Bloomberg
 27/11 19:45:43 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 20:01:14 INFO    === btc_veloce (BTC-EUR) ===
+27/11 20:01:15 INFO    Prezzo 54664.77 | medie 54732.71/54705.34 trend SU | notizie -0.06 su 115 (5 nuove, 5 da Claude) | 0.5s
+27/11 20:01:15 INFO       (-0.5 r1.0 claude) 4 Scary Bitcoin Charts That Suggest This Bear Market Is Different
+27/11 20:01:15 INFO       (-0.5 r1.0 claude) 4 Scary Bitcoin Charts That Suggest This Bear Market Is Different - Decrypt
+27/11 20:01:15 INFO       (+0.5 r1.0 claude) Bitcoin Whales Accumulate 121,000 BTC in Q4: Do They Expect a Reversal Next? - Benzinga
+27/11 20:01:15 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
