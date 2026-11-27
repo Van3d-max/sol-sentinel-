@@ -2210,3 +2210,10 @@
 27/11 21:31:07 INFO       (-0.6 r1.0 claude) Bitcoin's recovery may take time as it approaches historic lows – CoinShares - FXStreet
 27/11 21:31:07 INFO       (-0.6 r1.0 claude) Bitcoin Price Falls as $183 Million in Liquidations Hit Ahead of $6.8 Billion Options Expiry - Benzinga
 27/11 21:31:07 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 22:31:06 INFO    === btc_intermedio (BTC-EUR) ===
+27/11 22:31:06 INFO    Trend superiore (ONE_DAY): GIU
+27/11 22:31:06 INFO    Prezzo 54590.49 | medie 55507.87/55333.09 trend SU | notizie -0.10 su 105 (2 nuove, 2 da Claude) | 0.3s
+27/11 22:31:06 INFO       (-0.5 r1.0 claude) Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Big
+27/11 22:31:06 INFO       (-0.6 r0.9 claude) Bitcoin price drops below $59K as Anthropic joins tech stock rebound - Cryptonews.net
+27/11 22:31:06 INFO       (-0.6 r1.0 claude) Bitcoin's recovery may take time as it approaches historic lows – CoinShares - FXStreet
+27/11 22:31:06 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
