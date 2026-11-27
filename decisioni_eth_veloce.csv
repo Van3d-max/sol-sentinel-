@@ -2480,3 +2480,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-27T20:31:03+01:00;1528.59;1524.60;1527.60;giu;-0.081;73;1;1;1;no;attendi;trend 15 minuti non rialzista;Ethereum ETF Outflows Hit Record 643,000 ETH as Analyst Sentiment Cools - BigGo Finance;0.526
 2026-11-27T20:45:42+01:00;1529.20;1525.43;1525.53;giu;-0.083;74;1;1;1;no;attendi;trend 15 minuti non rialzista;Ethereum ETF Outflows Hit Record 643,000 ETH as Analyst Sentiment Cools - BigGo Finance;0.499
 2026-11-27T21:01:13+01:00;1525.00;1526.41;1524.77;su;-0.068;71;1;1;1;no;attendi;notizia shock: Ethereum ETF Outflows Hit Record 643,000 ETH as Analyst Sentiment Cools - BigGo ;Ethereum ETF Outflows Hit Record 643,000 ETH as Analyst Sentiment Cools - BigGo Finance;0.483
+2026-11-27T21:15:44+01:00;1524.40;1526.50;1525.53;su;-0.068;71;0;0;0;no;attendi;notizie sotto la soglia (-0.07);Ethereum ETF Outflows Hit Record 643,000 ETH as Analyst Sentiment Cools - BigGo Finance;0.467

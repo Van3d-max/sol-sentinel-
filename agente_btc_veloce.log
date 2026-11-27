@@ -7534,3 +7534,9 @@
 27/11 20:01:15 INFO       (-0.5 r1.0 claude) 4 Scary Bitcoin Charts That Suggest This Bear Market Is Different - Decrypt
 27/11 20:01:15 INFO       (+0.5 r1.0 claude) Bitcoin Whales Accumulate 121,000 BTC in Q4: Do They Expect a Reversal Next? - Benzinga
 27/11 20:01:15 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
+27/11 20:15:46 INFO    === btc_veloce (BTC-EUR) ===
+27/11 20:15:46 INFO    Prezzo 54576.05 | medie 54716.47/54733.66 trend GIU | notizie -0.10 su 105 (2 nuove, 2 da Claude) | 0.1s
+27/11 20:15:46 INFO       (-0.7 r0.9 claude) Bitcoin in free fall, Anthropic takes off: The financial market goes against the trend - Cointribune
+27/11 20:15:46 INFO       (-0.7 r0.9 claude) Bitcoin ETFs lose $5.39B as crypto borrowers cut debt - Crypto News
+27/11 20:15:46 INFO       (-0.5 r1.0 claude) 4 Scary Bitcoin Charts That Suggest This Bear Market Is Different
+27/11 20:15:46 INFO    -> ATTENDI: trend 15 minuti non rialzista
