@@ -2053,3 +2053,10 @@
 26/11 23:30:58 INFO       (-0.3 r0.6 claude) Did Ethereum Buying Pause Just Shift Bitmine Immersion Technologies' (BMNR) Investment Narrative? - Simply Wal
 26/11 23:30:58 INFO       (-0.4 r0.9 claude) Ethereum steadies with institutional ETF outflows and US policy uncertainty weighing on market sentiment - Tra
 26/11 23:30:58 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 00:30:57 INFO    === eth_intermedio (ETH-EUR) ===
+27/11 00:30:57 INFO    Trend superiore (ONE_DAY): GIU
+27/11 00:30:57 INFO    Prezzo 1541.54 | medie 1546.04/1530.82 trend SU | notizie -0.11 su 39 (0 nuove, 0 da Claude) | 0.3s
+27/11 00:30:57 INFO       (-0.6 r0.9 claude) Ethereum price falls 29%: Can ETH reclaim $1,730? - Crypto News
+27/11 00:30:57 INFO       (-0.3 r0.6 claude) Did Ethereum Buying Pause Just Shift Bitmine Immersion Technologies' (BMNR) Investment Narrative? - Simply Wal
+27/11 00:30:57 INFO       (-0.4 r0.9 claude) Ethereum steadies with institutional ETF outflows and US policy uncertainty weighing on market sentiment - Tra
+27/11 00:30:57 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

@@ -7060,3 +7060,9 @@
 27/11 00:15:44 INFO       (+0.5 r0.9 claude) US House Panel Advances Bitcoin Reserve Bill With 20-Year Holding Rule - Brave New Coin
 27/11 00:15:44 INFO       (-0.5 r0.8 claude) USDT supply suffers largest contraction since 2022 as Bitcoin struggles near $60K - FXStreet
 27/11 00:15:44 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 00:30:58 INFO    === btc_veloce (BTC-EUR) ===
+27/11 00:30:58 INFO    Prezzo 55181.31 | medie 55131.76/55243.86 trend GIU | notizie -0.09 su 19 (0 nuove, 0 da Claude) | 0.2s
+27/11 00:30:58 INFO       (-0.4 r1.0 claude) Bitcoin’s $60,000 recovery masks a growing threat that could push its price as low as $29,000
+27/11 00:30:58 INFO       (+0.3 r0.9 claude) Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases
+27/11 00:30:58 INFO       (-0.2 r1.0 claude) Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery
+27/11 00:30:58 INFO    -> ATTENDI: trend 15 minuti non rialzista
