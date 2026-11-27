@@ -2061,3 +2061,10 @@
 27/11 10:31:07 INFO    Trend superiore (ONE_DAY): GIU
 27/11 10:31:07 INFO    Prezzo 3.39e-06 | medie 3.333e-06/3.2694e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 27/11 10:31:07 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 11:31:08 INFO    === shib_intermedio (SHIB-EUR) ===
+27/11 11:31:09 INFO    Trend superiore (ONE_DAY): GIU
+27/11 11:31:09 INFO    Prezzo 3.39e-06 | medie 3.337e-06/3.2726e-06 trend SU | notizie -0.22 su 20 (1 nuove, 1 da Claude) | 0.2s
+27/11 11:31:09 INFO       (-0.4 r0.9 claude) Shiba Inu weekly forecast: Overbought Stochastic RSI raises risk of corrective pullback - Traders Union
+27/11 11:31:09 INFO       (-0.5 r0.9 claude) SHIB Bounces Likely to Fade Until Big-Cap Inflows Return, Analysts Warn - CryptoDaily
+27/11 11:31:09 INFO       (+0.3 r0.9 claude) Shiba Inu launches privacy upgrade and new bloc... - Pluang
+27/11 11:31:09 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

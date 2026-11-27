@@ -2129,3 +2129,10 @@
 27/11 10:31:03 INFO       (+0.4 r1.0 claude) Ethereum’s Seven-Week Wait Comes to an End, Glamsterdam Test on December 15th - Cryptonews.net
 27/11 10:31:03 INFO       (-0.3 r0.9 claude) Study Finds 42M Ether Exposed to Future Quantum Attacks - eWeek
 27/11 10:31:03 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 11:31:02 INFO    === eth_intermedio (ETH-EUR) ===
+27/11 11:31:02 INFO    Trend superiore (ONE_DAY): GIU
+27/11 11:31:02 INFO    Prezzo 1574.12 | medie 1560.01/1542.84 trend SU | notizie +0.00 su 64 (1 nuove, 1 da Claude) | 0.2s
+27/11 11:31:02 INFO       (-0.5 r0.9 claude) Ethereum consolidates near yearly lows as bearish macro backdrop remains intact despite short-covering - inves
+27/11 11:31:02 INFO       (-0.3 r0.9 claude) Ethereum Captured Just 5.6% of November's $13.9B RWA DEX Volume - CryptoRank
+27/11 11:31:02 INFO       (+0.4 r1.0 claude) Ethereum’s Seven-Week Wait Comes to an End, Glamsterdam Test on December 15th - Cryptonews.net
+27/11 11:31:02 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

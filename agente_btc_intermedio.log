@@ -2133,3 +2133,10 @@
 27/11 10:31:05 INFO       (-0.5 r0.8 claude) Bitcoin price recovery at risk as stablecoin market cap declines 12% in 30 days - Crypto News
 27/11 10:31:05 INFO       (-0.5 r0.8 claude) JPMorgan Said Bitcoin Is "Capitulating" Due to Strategy’s Record-Low Ratio - Incrypted
 27/11 10:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 11:31:05 INFO    === btc_intermedio (BTC-EUR) ===
+27/11 11:31:05 INFO    Trend superiore (ONE_DAY): GIU
+27/11 11:31:05 INFO    Prezzo 56235.21 | medie 55602.88/55036.69 trend SU | notizie +0.01 su 81 (9 nuove, 9 da Claude) | 0.2s
+27/11 11:31:05 INFO       (+0.5 r0.9 claude) Bitcoin price outlook: Sharp selloff gives way to Thanksgiving rebound - IG
+27/11 11:31:05 INFO       (+0.4 r1.0 claude) Bitcoin Price Taps $61K on Thanksgiving as Short Sellers Take a Beating - Cryptonews.net
+27/11 11:31:05 INFO       (+0.4 r0.9 claude) BIT Asset Management Introduces Switzerland's First Spot Bitcoin ETF on SIX Swiss Exchange - StreetInsider
+27/11 11:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
