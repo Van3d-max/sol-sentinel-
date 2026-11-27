@@ -1840,3 +1840,9 @@
 27/11 12:31:27 INFO       (+0.5 r0.9 claude) Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound
 27/11 12:31:27 INFO       (-0.3 r0.8 claude) Bitcoin miners are shutting down machines, but mining just got even harder
 27/11 12:31:27 INFO    -> ATTENDI: trend giornaliero non rialzista
+27/11 13:31:17 INFO    === btc_lento (BTC-EUR) ===
+27/11 13:31:17 INFO    Prezzo 56102.23 | medie 55810.81/63074.60 trend GIU | notizie -0.02 su 131 (7 nuove, 7 da Claude) | 0.1s
+27/11 13:31:17 INFO       (-0.7 r1.0 claude) Key facts: BTCUSD Logs Seventh Weekly Loss; Bitcoin ETFs See Record November Outflows - TradingView
+27/11 13:31:17 INFO       (-0.6 r1.0 claude) Bitcoin Heads for Worst November Since 2018, With Some Seeing Drop to $40,000 Range - bloomingbit
+27/11 13:31:17 INFO       (-0.5 r1.0 claude) Bitcoin’s EMA death cross is already in place as SMA cross looms - Crypto Briefing
+27/11 13:31:17 INFO    -> ATTENDI: trend giornaliero non rialzista

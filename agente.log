@@ -4023,3 +4023,9 @@
 27/11 12:31:11 INFO    === lenta (SOL-EUR) ===
 27/11 12:31:11 INFO    Prezzo 66.5200 | medie 65.1700/73.9927 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.1s
 27/11 12:31:11 INFO    -> ATTENDI: trend giornaliero non rialzista
+27/11 13:31:11 INFO    === lenta (SOL-EUR) ===
+27/11 13:31:11 INFO    Prezzo 66.8400 | medie 65.1700/73.9927 trend GIU | notizie +0.13 su 54 (0 nuove, 0 da Claude) | 0.1s
+27/11 13:31:11 INFO       (-0.4 r0.9 claude) Solana remains mostly rangebound as the negative macro backdrop limits the recovery. What's next? - investingL
+27/11 13:31:11 INFO       (+0.4 r0.9 claude) SBI, SMFG Launch Solana Venture With Full Operations - CoinMarketCap
+27/11 13:31:11 INFO       (+0.7 r0.9 claude) Solana Reclaims $70 After a Major Deal With Japan’s $2.3 Trillion Banking Giants - BeInCrypto
+27/11 13:31:11 INFO    -> ATTENDI: trend giornaliero non rialzista
