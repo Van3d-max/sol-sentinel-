@@ -2070,3 +2070,10 @@
 27/11 01:31:05 INFO       (-0.5 r0.8 claude) Strategy's Market Value Falls to 0.88x Its Bitcoin Holdings — Lowest Premium on Record Signals 'Capitulation S
 27/11 01:31:05 INFO       (+0.5 r0.9 claude) US House Panel Advances Bitcoin Reserve Bill With 20-Year Holding Rule - Brave New Coin
 27/11 01:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 02:31:04 INFO    === btc_intermedio (BTC-EUR) ===
+27/11 02:31:05 INFO    Trend superiore (ONE_DAY): GIU
+27/11 02:31:05 INFO    Prezzo 56150.23 | medie 55246.12/54677.15 trend SU | notizie -0.07 su 87 (1 nuove, 1 da Claude) | 0.3s
+27/11 02:31:05 INFO       (-0.4 r0.9 claude) Bitcoin’s recovery above $60,000 faces a threat from Japan while Wall Street sleeps - Cryptonews.net
+27/11 02:31:05 INFO       (+0.3 r0.7 claude) Bitcoin, Ethereum, XRP, Dogecoin Steady on Thanksgiving: Top Analyst Says BTC Rebound to $100,000 Will Re - Be
+27/11 02:31:05 INFO       (+0.5 r0.9 claude) US House Panel Advances Bitcoin Reserve Bill With 20-Year Holding Rule - Brave New Coin
+27/11 02:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
