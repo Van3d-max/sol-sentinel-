@@ -7336,3 +7336,9 @@
 27/11 11:45:51 INFO       (+0.5 r1.0 claude) Bitcoin bounces as crypto benefits from risk-on mood - MarketWatch
 27/11 11:45:51 INFO       (-0.5 r1.0 claude) Bitcoin’s Liquidity Problem: Who Will Buy the Dip? - Investing.com
 27/11 11:45:51 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 12:01:20 INFO    === btc_veloce (BTC-EUR) ===
+27/11 12:01:20 INFO    Prezzo 56122.79 | medie 56196.75/56210.89 trend GIU | notizie +0.03 su 102 (6 nuove, 6 da Claude) | 0.2s
+27/11 12:01:20 INFO       (-0.5 r1.0 claude) Bitcoin’s Liquidity Problem: Who Will Buy the Dip? - Investing.com
+27/11 12:01:20 INFO       (+0.5 r1.0 claude) Live news: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains
+27/11 12:01:20 INFO       (+0.4 r0.9 claude) BIT Asset Management Introduces Switzerland's First Spot Bitcoin ETF on SIX Swiss Exchange - markets.businessi
+27/11 12:01:20 INFO    -> ATTENDI: trend 15 minuti non rialzista
