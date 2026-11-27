@@ -7258,3 +7258,9 @@
 27/11 08:31:13 INFO       (+0.3 r0.9 claude) Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases
 27/11 08:31:13 INFO       (-0.2 r1.0 claude) Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery
 27/11 08:31:13 INFO    -> ATTENDI: notizie sotto la soglia (-0.03)
+27/11 08:45:46 INFO    === btc_veloce (BTC-EUR) ===
+27/11 08:45:46 INFO    Prezzo 56284.44 | medie 56208.37/56126.80 trend SU | notizie +0.04 su 79 (3 nuove, 3 da Claude) | 0.1s
+27/11 08:45:46 INFO       (+0.5 r0.9 claude) LIVE – Crypto News Today: Why Is Bitcoin Up? Gold and Wall Street Rally Fuel BTC Bounce - Yahoo Finance
+27/11 08:45:46 INFO       (+0.5 r0.9 claude) LIVE – Crypto News Today: Why Is Bitcoin Up? Gold and Wall Street Rally Fuel BTC Bounce - TradingView
+27/11 08:45:46 INFO       (+0.6 r1.0 claude) Bitcoin recovers to $61.5k; set for first positive week in 8 - Investing.com
+27/11 08:45:46 INFO    -> ATTENDI: obiettivo +1.09% sotto il minimo +2.20% (commissioni)
