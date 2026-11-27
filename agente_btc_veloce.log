@@ -7216,3 +7216,9 @@
 27/11 06:45:49 INFO       (-0.5 r0.9 claude) Is the Bitcoin Bear Market Repeating 2022? Key Gaps Remain - BeInCrypto
 27/11 06:45:49 INFO       (-0.3 r0.9 claude) Strategy in the Red on Bitcoin Despite Six Years of Accumulation - bloomingbit
 27/11 06:45:49 INFO    -> ATTENDI: notizie sotto la soglia (-0.03)
+27/11 07:01:22 INFO    === btc_veloce (BTC-EUR) ===
+27/11 07:01:22 INFO    Prezzo 56069.53 | medie 56152.88/55997.72 trend SU | notizie +0.02 su 92 (2 nuove, 2 da Claude) | 0.4s
+27/11 07:01:22 INFO       (+0.6 r1.0 claude) Bitcoin recovers to $61.5k; set for first positive week in 8 - Investing.com
+27/11 07:01:22 INFO       (+0.5 r1.0 claude) Bitcoin Breaks Above $62,000 - bloomingbit
+27/11 07:01:22 INFO       (-0.5 r0.9 claude) Is the Bitcoin Bear Market Repeating 2022? Key Gaps Remain - BeInCrypto
+27/11 07:01:22 INFO    -> ATTENDI: obiettivo +1.00% sotto il minimo +2.20% (commissioni)
