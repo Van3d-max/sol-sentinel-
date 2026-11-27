@@ -7558,3 +7558,9 @@
 27/11 21:01:16 INFO       (-0.6 r0.9 claude) Bitcoin price drops below $59K as Anthropic joins tech stock rebound
 27/11 21:01:16 INFO       (+0.3 r1.0 claude) Bitcoin whales pile into BTC despite shrinking profit cushion
 27/11 21:01:16 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 21:15:51 INFO    === btc_veloce (BTC-EUR) ===
+27/11 21:15:51 INFO    Prezzo 54691.28 | medie 54691.22/54714.88 trend GIU | notizie -0.08 su 108 (5 nuove, 5 da Claude) | 0.3s
+27/11 21:15:51 INFO       (-0.6 r1.0 claude) Bitcoin's recovery may take time as it approaches historic lows – CoinShares - FXStreet
+27/11 21:15:51 INFO       (-0.6 r1.0 claude) Bitcoin Price Falls as $183 Million in Liquidations Hit Ahead of $6.8 Billion Options Expiry - Benzinga
+27/11 21:15:51 INFO       (-0.7 r0.9 claude) Bitcoin in free fall, Anthropic takes off: The financial market goes against the trend - Cointribune
+27/11 21:15:51 INFO    -> ATTENDI: trend 15 minuti non rialzista

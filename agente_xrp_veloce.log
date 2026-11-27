@@ -7337,3 +7337,9 @@
 27/11 21:01:17 INFO       (-0.1 r0.9 claude) XRP holders face a choice between earning more yield and getting their tokens back
 27/11 21:01:17 INFO       (+0.2 r0.8 claude) Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins
 27/11 21:01:17 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
+27/11 21:15:53 INFO    === xrp_veloce (XRP-EUR) ===
+27/11 21:15:53 INFO    Prezzo 0.8677 | medie 0.8682/0.867052 trend SU | notizie +0.15 su 47 (1 nuove, 1 da Claude) | 0.3s
+27/11 21:15:53 INFO       (+0.6 r1.0 claude) XRP Price Prediction: Lending Protocol Approval Could Fuel XRP’s Relief Rally to $1.10 - FXEmpire
+27/11 21:15:53 INFO       (+0.4 r1.0 claude) XRP Ledger Tops 8.37 Million Accounts as ETF Inflows Hit $4.07 Million - BigGo Finance
+27/11 21:15:53 INFO       (+0.3 r0.9 claude) Ripple’s XRP Ledger Lending Plan One Vote Away From Approval as Stablecoin Market Hits $837M - Cryptonews.net
+27/11 21:15:53 INFO    -> ATTENDI: obiettivo +1.15% sotto il minimo +2.20% (commissioni)
