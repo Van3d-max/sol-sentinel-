@@ -2156,3 +2156,10 @@
 27/11 18:31:04 INFO       (+0.3 r0.9 claude) Ripple's XRP Ledger Could Soon Unlock $837M in Stablecoin Opportunities - TradingView
 27/11 18:31:04 INFO       (-0.4 r1.0 claude) Ripple to Unlock 1 Billion XRP on December 1: Could XRP Price Fall Further? - Coinpaper
 27/11 18:31:04 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 19:31:07 INFO    === xrp_intermedio (XRP-EUR) ===
+27/11 19:31:07 INFO    Trend superiore (ONE_DAY): GIU
+27/11 19:31:07 INFO    Prezzo 0.8698 | medie 0.87646/0.868606 trend SU | notizie +0.18 su 48 (3 nuove, 3 da Claude) | 0.3s
+27/11 19:31:07 INFO       (+0.6 r1.0 claude) XRP Price Prediction: Lending Protocol Approval Could Fuel XRP’s Relief Rally to $1.10 - FXEmpire
+27/11 19:31:07 INFO       (+0.4 r1.0 claude) XRP Ledger Tops 8.37 Million Accounts as ETF Inflows Hit $4.07 Million - BigGo Finance
+27/11 19:31:07 INFO       (+0.5 r1.0 claude) XRP Ledger Lending System Nears Key Deployment Milestone - Coinpedia
+27/11 19:31:07 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

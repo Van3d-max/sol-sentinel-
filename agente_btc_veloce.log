@@ -7516,3 +7516,9 @@
 27/11 19:15:52 INFO       (-0.6 r1.0 claude) Bitcoin falls below $60,000 after Nvidia chips found in China - Protos | Informed crypto news
 27/11 19:15:52 INFO       (+0.5 r1.0 claude) Bitcoin Bounces as Optimism Returns to Markets After Holiday - Bloomberg.com
 27/11 19:15:52 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 19:31:05 INFO    === btc_veloce (BTC-EUR) ===
+27/11 19:31:05 INFO    Prezzo 54798.67 | medie 54663.65/54769.94 trend GIU | notizie -0.06 su 101 (2 nuove, 2 da Claude) | 0.2s
+27/11 19:31:05 INFO       (-0.6 r1.0 claude) Bitcoin slips below $60K as traders watch $55K - Crypto News
+27/11 19:31:05 INFO       (-0.6 r1.0 claude) Bitcoin falls below $60,000 after Nvidia chips found in China - Protos | Informed crypto news
+27/11 19:31:05 INFO       (+0.5 r1.0 claude) Bitcoin Bounces as Optimism Returns to Markets After Holiday - Bloomberg.com
+27/11 19:31:05 INFO    -> ATTENDI: trend 15 minuti non rialzista

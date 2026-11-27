@@ -2189,3 +2189,10 @@
 27/11 18:31:03 INFO       (-0.6 r0.9 claude) Live updates: Bitcoin slips below $60,000 as Nvidia falls more than 2% - CoinDesk
 27/11 18:31:03 INFO       (-0.6 r1.0 claude) Bitcoin price drops below $59K as Anthropic joins tech stock rebound - TradingView
 27/11 18:31:03 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 19:31:05 INFO    === btc_intermedio (BTC-EUR) ===
+27/11 19:31:05 INFO    Trend superiore (ONE_DAY): GIU
+27/11 19:31:05 INFO    Prezzo 54798.67 | medie 55598.27/55314.34 trend SU | notizie -0.06 su 101 (2 nuove, 2 da Claude) | 0.3s
+27/11 19:31:05 INFO       (-0.6 r1.0 claude) Bitcoin slips below $60K as traders watch $55K - Crypto News
+27/11 19:31:05 INFO       (-0.6 r1.0 claude) Bitcoin falls below $60,000 after Nvidia chips found in China - Protos | Informed crypto news
+27/11 19:31:05 INFO       (+0.5 r1.0 claude) Bitcoin Bounces as Optimism Returns to Markets After Holiday - Bloomberg.com
+27/11 19:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

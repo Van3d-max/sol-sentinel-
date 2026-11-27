@@ -2185,3 +2185,10 @@
 27/11 18:31:01 INFO       (-0.7 r0.9 claude) Ethereum slides below $1,650 as ETF outflows top $523M - Crypto News
 27/11 18:31:01 INFO       (-0.5 r1.0 claude) Ethereum Price Analysis: Is ETH Heading Toward $1.5K After Another Rejection? - CryptoRank
 27/11 18:31:01 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 19:31:03 INFO    === eth_intermedio (ETH-EUR) ===
+27/11 19:31:03 INFO    Trend superiore (ONE_DAY): GIU
+27/11 19:31:03 INFO    Prezzo 1528.59 | medie 1557.70/1549.29 trend SU | notizie -0.08 su 73 (1 nuove, 1 da Claude) | 0.3s
+27/11 19:31:03 INFO       (-0.7 r0.9 claude) Ethereum ETF Outflows Hit Record 643,000 ETH as Analyst Sentiment Cools - BigGo Finance
+27/11 19:31:03 INFO       (-0.7 r0.9 claude) Ethereum slides below $1,650 as ETF outflows top $523M - Crypto News
+27/11 19:31:03 INFO       (-0.5 r1.0 claude) Ethereum Price Analysis: Is ETH Heading Toward $1.5K After Another Rejection? - CryptoRank
+27/11 19:31:03 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
