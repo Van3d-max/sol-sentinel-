@@ -2408,3 +2408,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-27T02:31:02+01:00;1549.82;1543.14;1546.48;giu;-0.124;38;1;1;0;no;attendi;trend 15 minuti non rialzista;Ethereum price falls 29%: Can ETH reclaim $1,730? - Crypto News;0.29
 2026-11-27T02:45:41+01:00;1548.58;1544.45;1546.32;giu;-0.122;36;0;0;0;no;attendi;trend 15 minuti non rialzista;Ethereum price falls 29%: Can ETH reclaim $1,730? - Crypto News;0.285
 2026-11-27T03:01:12+01:00;1553.88;1546.03;1546.20;giu;-0.105;34;0;0;0;no;attendi;trend 15 minuti non rialzista;Ethereum price falls 29%: Can ETH reclaim $1,730? - Crypto News;0.284
+2026-11-27T03:15:43+01:00;1561.32;1548.53;1546.62;su;-0.117;36;1;1;0;no;attendi;notizie sotto la soglia (-0.12);Ethereum price falls 29%: Can ETH reclaim $1,730? - Crypto News;0.346

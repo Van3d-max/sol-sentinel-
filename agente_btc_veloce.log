@@ -7102,3 +7102,9 @@
 27/11 02:01:13 INFO       (+0.5 r0.9 claude) US House Panel Advances Bitcoin Reserve Bill With 20-Year Holding Rule - Brave New Coin
 27/11 02:01:13 INFO       (-0.5 r0.8 claude) USDT supply suffers largest contraction since 2022 as Bitcoin struggles near $60K - FXStreet
 27/11 02:01:13 INFO    -> ATTENDI: notizie sotto la soglia (-0.10)
+27/11 02:15:44 INFO    === btc_veloce (BTC-EUR) ===
+27/11 02:15:44 INFO    Prezzo 55775.93 | medie 55342.72/55276.50 trend SU | notizie -0.06 su 86 (0 nuove, 0 da Claude) | 0.3s
+27/11 02:15:44 INFO       (+0.5 r0.9 claude) US House Panel Advances Bitcoin Reserve Bill With 20-Year Holding Rule - Brave New Coin
+27/11 02:15:44 INFO       (-0.5 r0.8 claude) USDT supply suffers largest contraction since 2022 as Bitcoin struggles near $60K - FXStreet
+27/11 02:15:44 INFO       (-0.5 r0.9 claude) Bitcoin Slide Pressures Miners to Sell Reserves to Cover Costs and Fund AI Pivots - Briefs Finance
+27/11 02:15:44 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
