@@ -2122,3 +2122,7 @@
 27/11 20:31:07 INFO       (+0.2 r1.0 claude) Shiba Inu (SHIB) jumps nearly 5% amid Thanksgiving rebound but stays far below all-time high. - Pluang
 27/11 20:31:07 INFO       (+0.2 r0.9 claude) Shiba Inu Gains Nearly 5% in Thanksgiving Rebound, Outpacing Bitcoin - www.tokenpost.com
 27/11 20:31:07 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 21:31:09 INFO    === shib_intermedio (SHIB-EUR) ===
+27/11 21:31:09 INFO    Trend superiore (ONE_DAY): GIU
+27/11 21:31:09 INFO    Prezzo 3.37e-06 | medie 3.3545e-06/3.3012e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
+27/11 21:31:09 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

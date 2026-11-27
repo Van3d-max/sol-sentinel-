@@ -2199,3 +2199,10 @@
 27/11 20:31:02 INFO       (-0.7 r0.9 claude) Ethereum slides below $1,650 as ETF outflows top $523M - Crypto News
 27/11 20:31:02 INFO       (+0.2 r1.0 claude) Ethereum Moves Glamsterdam Closer to Mainnet With a December 15 Hoodi Date - CryptoRank
 27/11 20:31:02 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 21:31:03 INFO    === eth_intermedio (ETH-EUR) ===
+27/11 21:31:04 INFO    Trend superiore (ONE_DAY): GIU
+27/11 21:31:04 INFO    Prezzo 1521.41 | medie 1555.76/1549.18 trend SU | notizie -0.04 su 74 (1 nuove, 1 da Claude) | 0.4s
+27/11 21:31:04 INFO       (-0.7 r0.9 claude) Ethereum ETF Outflows Hit Record 643,000 ETH as Analyst Sentiment Cools - BigGo Finance
+27/11 21:31:04 INFO       (-0.7 r0.9 claude) Ethereum slides below $1,650 as ETF outflows top $523M - Crypto News
+27/11 21:31:04 INFO       (+0.2 r1.0 claude) Ethereum Moves Glamsterdam Closer to Mainnet With a December 15 Hoodi Date - CryptoRank
+27/11 21:31:04 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
