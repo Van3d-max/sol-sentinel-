@@ -2105,3 +2105,10 @@
 27/11 06:31:05 INFO       (+0.4 r0.9 claude) Billionaire Paul Tudor Jones Doubled His Bitcoin ETF Stake. It Is Still 83% Below Its Peak - CEOWORLD magazine
 27/11 06:31:05 INFO       (+0.4 r0.7 claude) Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC extends tentative rebound, ETH and XRP climb on easing
 27/11 06:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 07:31:03 INFO    === btc_intermedio (BTC-EUR) ===
+27/11 07:31:04 INFO    Trend superiore (ONE_DAY): GIU
+27/11 07:31:04 INFO    Prezzo 56310.89 | medie 55428.49/54862.51 trend SU | notizie +0.04 su 94 (1 nuove, 1 da Claude) | 0.2s
+27/11 07:31:04 INFO       (+0.6 r1.0 claude) Bitcoin recovers to $61.5k; set for first positive week in 8 - Investing.com
+27/11 07:31:04 INFO       (+0.5 r1.0 claude) Bitcoin Breaks Above $62,000 - bloomingbit
+27/11 07:31:04 INFO       (+0.4 r0.8 claude) Bitcoin, Ether Rebound as Markets Stabilize - marketscreener.com
+27/11 07:31:04 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
