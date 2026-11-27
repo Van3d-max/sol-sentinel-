@@ -7444,3 +7444,9 @@
 27/11 16:15:47 INFO       (-0.6 r0.9 claude) Another $453 million exits bitcoin ETFs as November outflows stack up - Yahoo Finance
 27/11 16:15:47 INFO       (-0.6 r1.0 claude) Bitcoin Falls Below $60,000 - bloomingbit
 27/11 16:15:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 16:31:07 INFO    === btc_veloce (BTC-EUR) ===
+27/11 16:31:07 INFO    Prezzo 54883.50 | medie 54841.53/55571.12 trend GIU | notizie -0.05 su 115 (10 nuove, 10 da Claude) | 0.2s
+27/11 16:31:07 INFO       (-0.8 r1.0 claude) Bitcoin Sinks Below $59,000 as ETF Outflows Hit $5.39 Billion and 63% of Liquidations Are Longs - BigGo Financ
+27/11 16:31:07 INFO       (-0.7 r1.0 claude) Bitcoin Experiences Sudden Drop: Falls Below $59,000 - Cryptonews.net
+27/11 16:31:07 INFO       (-0.8 r1.0 claude) Bitcoin Suddenly Tanks Below $60K Again as Hourly Liquidations Near $200M - CryptoPotato
+27/11 16:31:07 INFO    -> ATTENDI: trend 15 minuti non rialzista

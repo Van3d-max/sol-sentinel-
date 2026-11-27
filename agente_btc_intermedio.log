@@ -2168,3 +2168,10 @@
 27/11 15:31:07 INFO       (-0.6 r1.0 claude) Bitcoin Falls Below $60,000 - bloomingbit
 27/11 15:31:07 INFO       (-0.7 r0.9 claude) Analyst Warns of $38,000 Bitcoin Crash as Trump Proposes Tariffs on 14 Trading Partners - CCN.com
 27/11 15:31:07 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 16:31:07 INFO    === btc_intermedio (BTC-EUR) ===
+27/11 16:31:07 INFO    Trend superiore (ONE_DAY): GIU
+27/11 16:31:07 INFO    Prezzo 54883.50 | medie 55679.13/55224.40 trend SU | notizie -0.05 su 115 (10 nuove, 10 da Claude) | 0.2s
+27/11 16:31:07 INFO       (-0.8 r1.0 claude) Bitcoin Sinks Below $59,000 as ETF Outflows Hit $5.39 Billion and 63% of Liquidations Are Longs - BigGo Financ
+27/11 16:31:07 INFO       (-0.7 r1.0 claude) Bitcoin Experiences Sudden Drop: Falls Below $59,000 - Cryptonews.net
+27/11 16:31:07 INFO       (-0.8 r1.0 claude) Bitcoin Suddenly Tanks Below $60K Again as Hourly Liquidations Near $200M - CryptoPotato
+27/11 16:31:07 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
