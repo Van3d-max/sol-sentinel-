@@ -1834,3 +1834,9 @@
 27/11 11:31:02 INFO       (+0.5 r1.0 claude) Ethereum price rises 3% as developers confirm December 15 test for Glamsterdam upgrade - Crypto News
 27/11 11:31:02 INFO       (+0.4 r1.0 claude) Ethereum’s Seven-Week Wait Comes to an End, Glamsterdam Test on December 15th - Cryptonews.net
 27/11 11:31:02 INFO    -> ATTENDI: trend giornaliero non rialzista
+27/11 12:31:19 INFO    === eth_lento (ETH-EUR) ===
+27/11 12:31:19 INFO    Prezzo 1567.02 | medie 1563.97/1801.07 trend GIU | notizie -0.03 su 6 (0 nuove, 0 da Claude) | 0.0s
+27/11 12:31:19 INFO       (+0.3 r1.0 claude) Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know
+27/11 12:31:19 INFO       (-0.2 r0.9 claude) Ethereum’s quantum defense plans could delay a major upgrade to stop transaction censorship
+27/11 12:31:19 INFO       (-0.1 r1.0 claude) Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade
+27/11 12:31:19 INFO    -> ATTENDI: trend giornaliero non rialzista

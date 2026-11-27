@@ -2140,3 +2140,10 @@
 27/11 11:31:05 INFO       (+0.4 r1.0 claude) Bitcoin Price Taps $61K on Thanksgiving as Short Sellers Take a Beating - Cryptonews.net
 27/11 11:31:05 INFO       (+0.4 r0.9 claude) BIT Asset Management Introduces Switzerland's First Spot Bitcoin ETF on SIX Swiss Exchange - StreetInsider
 27/11 11:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 12:31:27 INFO    === btc_intermedio (BTC-EUR) ===
+27/11 12:31:27 INFO    Trend superiore (ONE_DAY): GIU
+27/11 12:31:27 INFO    Prezzo 56072.64 | medie 55652.33/55081.69 trend SU | notizie +0.03 su 16 (1 nuove, 1 da Claude) | 0.2s
+27/11 12:31:27 INFO       (+0.5 r1.0 claude) Live news: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains
+27/11 12:31:27 INFO       (+0.5 r0.9 claude) Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound
+27/11 12:31:27 INFO       (-0.3 r0.8 claude) Bitcoin miners are shutting down machines, but mining just got even harder
+27/11 12:31:27 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

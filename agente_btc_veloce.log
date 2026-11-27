@@ -7348,3 +7348,9 @@
 27/11 12:15:48 INFO       (+0.5 r1.0 claude) Live news: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains
 27/11 12:15:48 INFO       (-0.4 r0.9 claude) Crypto Market Outlook, 27 November 2026: Bitcoin Holds $61K After a Record ETF Outflow Month - Howl.Link
 27/11 12:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
+27/11 12:31:27 INFO    === btc_veloce (BTC-EUR) ===
+27/11 12:31:27 INFO    Prezzo 56072.64 | medie 56177.44/56204.64 trend GIU | notizie +0.03 su 16 (1 nuove, 1 da Claude) | 0.2s
+27/11 12:31:27 INFO       (+0.5 r1.0 claude) Live news: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains
+27/11 12:31:27 INFO       (+0.5 r0.9 claude) Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound
+27/11 12:31:27 INFO       (-0.3 r0.8 claude) Bitcoin miners are shutting down machines, but mining just got even harder
+27/11 12:31:27 INFO    -> ATTENDI: trend 15 minuti non rialzista
