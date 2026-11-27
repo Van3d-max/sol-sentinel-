@@ -2011,3 +2011,7 @@
 27/11 02:31:08 INFO       (-0.6 r0.9 claude) Shiba Inu (SHIB) nears 2021 lows amid mixed mon... - Pluang
 27/11 02:31:08 INFO       (-0.5 r0.9 claude) Shiba Inu Hovers Near $0.00000365 as Crypto Outflows Thwart Any Rebound - BigGo Finance
 27/11 02:31:08 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 03:31:05 INFO    === shib_intermedio (SHIB-EUR) ===
+27/11 03:31:05 INFO    Trend superiore (ONE_DAY): GIU
+27/11 03:31:05 INFO    Prezzo 3.36e-06 | medie 3.3155e-06/3.2538e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.2s
+27/11 03:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

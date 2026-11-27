@@ -2077,3 +2077,10 @@
 27/11 02:31:05 INFO       (+0.3 r0.7 claude) Bitcoin, Ethereum, XRP, Dogecoin Steady on Thanksgiving: Top Analyst Says BTC Rebound to $100,000 Will Re - Be
 27/11 02:31:05 INFO       (+0.5 r0.9 claude) US House Panel Advances Bitcoin Reserve Bill With 20-Year Holding Rule - Brave New Coin
 27/11 02:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+27/11 03:31:03 INFO    === btc_intermedio (BTC-EUR) ===
+27/11 03:31:03 INFO    Trend superiore (ONE_DAY): GIU
+27/11 03:31:03 INFO    Prezzo 56093.44 | medie 55276.89/54705.63 trend SU | notizie -0.01 su 90 (3 nuove, 3 da Claude) | 0.3s
+27/11 03:31:03 INFO       (+0.5 r0.9 claude) Mike Howell: Bitcoin to Be Top Allocation Asset as Financial Liquidity Returns - TradingView
+27/11 03:31:03 INFO       (-0.4 r0.9 claude) Bitcoin’s recovery above $60,000 faces a threat from Japan while Wall Street sleeps - Cryptonews.net
+27/11 03:31:03 INFO       (+0.3 r0.8 claude) Tudor Investment Nearly Doubles IBIT Stake to $64.6 Million as Bitcoin ETF Bet Revives - BigGo Finance
+27/11 03:31:03 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
