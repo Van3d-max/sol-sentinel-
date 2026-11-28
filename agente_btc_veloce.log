@@ -7786,3 +7786,9 @@
 28/11 06:31:07 INFO       (-0.6 r1.0 claude) Bitcoin price forecast: High risk of further declines if $58,105 support fails - Traders Union
 28/11 06:31:07 INFO       (-0.7 r0.9 claude) US Spot Bitcoin ETFs Bleed for Eighth Straight Session; November Outflows Hit Record $5.78 Billion - BigGo Fin
 28/11 06:31:07 INFO    -> ATTENDI: trend 15 minuti non rialzista
+28/11 06:45:47 INFO    === btc_veloce (BTC-EUR) ===
+28/11 06:45:48 INFO    Prezzo 54731.54 | medie 54685.68/54783.28 trend GIU | notizie -0.29 su 97 (3 nuove, 3 da Claude) | 0.3s
+28/11 06:45:48 INFO       (-0.8 r1.0 claude) Bitcoin price today falls below $60k as whales buy dip, ETF outflows mount - Investing.com
+28/11 06:45:48 INFO       (-0.6 r1.0 claude) Bitcoin price forecast: High risk of further declines if $58,105 support fails - Traders Union
+28/11 06:45:48 INFO       (-0.7 r0.9 claude) US Spot Bitcoin ETFs Bleed for Eighth Straight Session; November Outflows Hit Record $5.78 Billion - BigGo Fin
+28/11 06:45:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
