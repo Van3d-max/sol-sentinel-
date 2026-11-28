@@ -2197,3 +2197,10 @@
 28/11 00:31:05 INFO       (+0.4 r0.9 claude) XRP Price Prediction: Lending Protocol Approval Could Fuel XRP’s Relief Rally to $1.10 - Yahoo Finance
 28/11 00:31:05 INFO       (+0.4 r1.0 claude) XRP Ledger Tops 8.37 Million Accounts as ETF Inflows Hit $4.07 Million - BigGo Finance
 28/11 00:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+28/11 01:31:05 INFO    === xrp_intermedio (XRP-EUR) ===
+28/11 01:31:05 INFO    Trend superiore (ONE_DAY): GIU
+28/11 01:31:05 INFO    Prezzo 0.8709 | medie 0.87601/0.870594 trend SU | notizie +0.17 su 46 (1 nuove, 1 da Claude) | 0.4s
+28/11 01:31:05 INFO       (+0.6 r1.0 claude) XRP Price Prediction: Lending Protocol Approval Could Fuel XRP’s Relief Rally to $1.10 - FXEmpire
+28/11 01:31:05 INFO       (+0.4 r0.9 claude) 5 Billion XRP Withdrawn From Crypto Exchanges in 30 Days as Binance Leads Outflows - Kriptofoni
+28/11 01:31:05 INFO       (+0.4 r1.0 claude) XRP Ledger Tops 8.37 Million Accounts as ETF Inflows Hit $4.07 Million - BigGo Finance
+28/11 01:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

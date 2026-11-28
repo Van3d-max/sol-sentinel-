@@ -2227,3 +2227,10 @@
 28/11 00:30:59 INFO       (-0.7 r0.9 claude) Ethereum ETF Outflows Hit Record 643,000 ETH as Analyst Sentiment Cools - BigGo Finance
 28/11 00:30:59 INFO       (+0.4 r1.0 claude) Ethereum Glamsterdam Upgrade Cleared For December 15 Test: Will ETH Rally Like After Pectra? - TalkMarkets - H
 28/11 00:30:59 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+28/11 01:31:01 INFO    === eth_intermedio (ETH-EUR) ===
+28/11 01:31:01 INFO    Trend superiore (ONE_DAY): GIU
+28/11 01:31:01 INFO    Prezzo 1524.43 | medie 1545.80/1547.75 trend GIU | notizie -0.03 su 72 (1 nuove, 1 da Claude) | 0.4s
+28/11 01:31:01 INFO       (-0.3 r0.9 claude) $100 in Ethereum's ICO Is Now $555,000, but Wall Street Keeps Selling ETH - Cryptonews.net
+28/11 01:31:01 INFO       (-0.7 r0.9 claude) Ethereum ETF Outflows Hit Record 643,000 ETH as Analyst Sentiment Cools - BigGo Finance
+28/11 01:31:01 INFO       (+0.4 r1.0 claude) Ethereum Glamsterdam Upgrade Cleared For December 15 Test: Will ETH Rally Like After Pectra? - TalkMarkets - H
+28/11 01:31:01 INFO    -> ATTENDI: trend orario non rialzista
