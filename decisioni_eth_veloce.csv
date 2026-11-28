@@ -2502,3 +2502,4 @@ data;prezzo;media_veloce;media_lenta;trend;punteggio_notizie;n_notizie;nuove;val
 2026-11-28T02:01:09+01:00;1517.18;1517.85;1519.65;giu;-0.049;71;0;0;0;no;attendi;trend 15 minuti non rialzista;$100 in Ethereum's ICO Is Now $555,000, but Wall Street Keeps Selling ETH - Cryptonews.net;0.279
 2026-11-28T02:15:45+01:00;1524.03;1518.83;1519.45;giu;-0.033;71;0;0;0;no;attendi;trend 15 minuti non rialzista;$100 in Ethereum's ICO Is Now $555,000, but Wall Street Keeps Selling ETH - Cryptonews.net;0.294
 2026-11-28T02:31:01+01:00;1524.43;1519.84;1519.43;su;-0.031;72;1;1;0;no;attendi;notizie sotto la soglia (-0.03);$100 in Ethereum's ICO Is Now $555,000, but Wall Street Keeps Selling ETH - Cryptonews.net;0.288
+2026-11-28T02:45:46+01:00;1524.93;1520.82;1519.52;su;-0.029;78;1;1;0;no;attendi;notizie sotto la soglia (-0.03);$100 in Ethereum's ICO Is Now $555,000, but Wall Street Keeps Selling ETH - Cryptonews.net;0.275
