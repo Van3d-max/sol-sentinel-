@@ -2014,3 +2014,9 @@
 28/11 17:31:06 INFO       (-0.5 r0.9 claude) Bitcoin Slips Below $60,000 As Wall Street Rally Fails To Lift Crypto - Forbes Middle East
 28/11 17:31:06 INFO       (-0.7 r1.0 claude) Bitcoin Price Crashes Below $60K Again: Why Is BTC Struggling to Sustain Its Recovery? - Coinpedia
 28/11 17:31:06 INFO    -> ATTENDI: trend giornaliero non rialzista
+28/11 18:31:20 INFO    === btc_lento (BTC-EUR) ===
+28/11 18:31:20 INFO    Prezzo 54327.83 | medie 55382.16/62470.39 trend GIU | notizie -0.10 su 24 (0 nuove, 0 da Claude) | 0.1s
+28/11 18:31:20 INFO       (-0.5 r0.9 claude) Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value
+28/11 18:31:20 INFO       (-0.5 r1.0 claude) 4 Scary Bitcoin Charts That Suggest This Bear Market Is Different
+28/11 18:31:20 INFO       (-0.1 r0.9 claude) What a 12-cent Bitcoin ETF option reveals about crash protection
+28/11 18:31:20 INFO    -> ATTENDI: trend giornaliero non rialzista

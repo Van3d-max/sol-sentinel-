@@ -8068,3 +8068,9 @@
 28/11 18:15:50 INFO       (-0.6 r1.0 claude) Bitcoin Price Prediction: BTC Risks a Drop to $50K as Whales Capitulated in November - FXEmpire
 28/11 18:15:50 INFO       (-0.6 r1.0 claude) Bitcoin Price Faces December Reckoning as Analysts Warn of More Losses - Bitcoin News
 28/11 18:15:50 INFO    -> ATTENDI: notizia shock: Bitcoin price is on pace for its worst month since 2022, down 23% - Opening Bell
+28/11 18:31:19 INFO    === btc_veloce (BTC-EUR) ===
+28/11 18:31:20 INFO    Prezzo 54327.83 | medie 54379.60/54281.11 trend SU | notizie -0.09 su 8 (0 nuove, 0 da Claude) | 0.3s
+28/11 18:31:20 INFO       (-0.5 r0.9 claude) Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value
+28/11 18:31:20 INFO       (-0.1 r0.9 claude) What a 12-cent Bitcoin ETF option reveals about crash protection
+28/11 18:31:20 INFO       (-0.5 r1.0 claude) 4 Scary Bitcoin Charts That Suggest This Bear Market Is Different
+28/11 18:31:20 INFO    -> ATTENDI: notizie sotto la soglia (-0.09)
