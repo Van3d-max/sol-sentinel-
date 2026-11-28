@@ -1996,3 +1996,9 @@
 28/11 14:31:09 INFO       (-0.5 r1.0 claude) 4 Scary Bitcoin Charts That Suggest This Bear Market Is Different
 28/11 14:31:09 INFO       (-0.6 r0.9 claude) Bitcoin price drops below $59K as Anthropic joins tech stock rebound
 28/11 14:31:09 INFO    -> ATTENDI: trend giornaliero non rialzista
+28/11 15:31:05 INFO    === btc_lento (BTC-EUR) ===
+28/11 15:31:05 INFO    Prezzo 54181.97 | medie 55382.16/62470.39 trend GIU | notizie -0.19 su 121 (2 nuove, 2 da Claude) | 0.1s
+28/11 15:31:05 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below $60,000 as $5.8 Billion Flees ETFs; December Rate Hike Looms as Key Variable - BigGo Fina
+28/11 15:31:05 INFO       (-0.7 r1.0 claude) Bitcoin Price Crashes Below $60K Again: Why Is BTC Struggling to Sustain Its Recovery? - Coinpedia
+28/11 15:31:05 INFO       (-0.7 r1.0 claude) Bitcoin price falls below $60,000 as whales buy dip, ETF outflows mount - Investing.com
+28/11 15:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista
