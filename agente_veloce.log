@@ -15609,3 +15609,9 @@
 28/11 00:01:11 INFO    === veloce (SOL-EUR) ===
 28/11 00:01:12 INFO    Prezzo 65.5000 | medie 65.3833/65.6524 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.2s
 28/11 00:01:12 INFO    -> ATTENDI: trend 15 minuti non rialzista
+28/11 00:15:47 INFO    === veloce (SOL-EUR) ===
+28/11 00:15:47 INFO    Prezzo 65.5900 | medie 65.3644/65.6438 trend GIU | notizie -0.04 su 40 (0 nuove, 0 da Claude) | 0.3s
+28/11 00:15:47 INFO       (-0.4 r1.0 claude) Solana (SOL) Suffers Its Worst Year So Far: Is More Pain Ahead? - CryptoRank
+28/11 00:15:47 INFO       (-0.4 r1.0 claude) Solana (SOL) Suffers Its Worst Year So Far: Is More Pain Ahead? - CryptoPotato
+28/11 00:15:47 INFO       (-0.2 r0.9 claude) Anza Urges Immediate Agave Upgrade on Solana Mainnet - The Defiant
+28/11 00:15:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
