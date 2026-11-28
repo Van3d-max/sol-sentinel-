@@ -7776,3 +7776,9 @@
 28/11 06:45:45 INFO       (-0.6 r0.9 claude) Ethereum Price Forecast: Selling pressure persists as exchange reserves rise by 516K ETH - www.tmgm.com
 28/11 06:45:45 INFO       (-0.3 r0.9 claude) Ethereum falls 4 percent as Charles Hoskinson collaboration news fails to reverse momentum - Traders Union
 28/11 06:45:45 INFO    -> ATTENDI: trend 15 minuti non rialzista
+28/11 07:01:16 INFO    === eth_veloce (ETH-EUR) ===
+28/11 07:01:16 INFO    Prezzo 1515.29 | medie 1515.73/1519.32 trend GIU | notizie -0.14 su 62 (3 nuove, 3 da Claude) | 0.3s
+28/11 07:01:16 INFO       (-0.5 r1.0 claude) Ethereum technical analysis: Bearish momentum persists as price trades near $1,603 support - Traders Union
+28/11 07:01:16 INFO       (-0.5 r1.0 claude) Ethereum Price Forecast: Selling pressure persists as exchange reserves rise by 516K ETH - FXStreet
+28/11 07:01:16 INFO       (-0.3 r0.9 claude) Ethereum falls 4 percent as Charles Hoskinson collaboration news fails to reverse momentum - Traders Union
+28/11 07:01:16 INFO    -> ATTENDI: trend 15 minuti non rialzista
