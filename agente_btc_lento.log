@@ -1906,3 +1906,9 @@
 27/11 23:31:01 INFO       (-0.7 r0.9 claude) Bitcoin in free fall, Anthropic takes off: The financial market goes against the trend - Cointribune
 27/11 23:31:01 INFO       (-0.6 r1.0 claude) Bitcoin's recovery may take time as it approaches historic lows – CoinShares - FXStreet
 27/11 23:31:01 INFO    -> ATTENDI: trend giornaliero non rialzista
+28/11 00:31:01 INFO    === btc_lento (BTC-EUR) ===
+28/11 00:31:01 INFO    Prezzo 54795.43 | medie 55382.16/62470.39 trend GIU | notizie -0.07 su 125 (1 nuove, 1 da Claude) | 0.1s
+28/11 00:31:01 INFO       (-0.6 r1.0 claude) Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Big
+28/11 00:31:01 INFO       (-0.7 r0.9 claude) Bitcoin in free fall, Anthropic takes off: The financial market goes against the trend - Cointribune
+28/11 00:31:01 INFO       (-0.6 r1.0 claude) Bitcoin's recovery may take time as it approaches historic lows – CoinShares - FXStreet
+28/11 00:31:01 INFO    -> ATTENDI: trend giornaliero non rialzista
