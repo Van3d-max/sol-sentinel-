@@ -7307,3 +7307,9 @@
 28/11 05:31:13 INFO    === shib_veloce (SHIB-EUR) ===
 28/11 05:31:13 INFO    Prezzo 3.33e-06 | medie 3.35889e-06/3.34429e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 28/11 05:31:13 INFO    -> ATTENDI: obiettivo +1.31% sotto il minimo +2.20% (commissioni)
+28/11 05:45:48 INFO    === shib_veloce (SHIB-EUR) ===
+28/11 05:45:48 INFO    Prezzo 3.33e-06 | medie 3.35889e-06/3.34429e-06 trend SU | notizie +0.32 su 7 (0 nuove, 0 da Claude) | 0.3s
+28/11 05:45:48 INFO       (+0.5 r1.0 claude) Shiba Inu on-chain activity jumps 42% as SHIB rebounds from 2026 low - BigGo Finance
+28/11 05:45:48 INFO       (+0.5 r1.0 claude) Shiba Inu price jumps 42% amid rising transacti... - Pluang
+28/11 05:45:48 INFO       (+0.4 r1.0 claude) Shiba Inu transactions jump 42% amid weaker tra... - Pluang
+28/11 05:45:48 INFO    -> ATTENDI: obiettivo +1.31% sotto il minimo +2.20% (commissioni)
