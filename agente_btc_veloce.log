@@ -7948,3 +7948,9 @@
 28/11 13:15:48 INFO       (-0.6 r0.8 claude) Bitcoin (BTC) sentiment is plumbing a new low for longtime digital asset investor - CoinDesk
 28/11 13:15:48 INFO       (-0.7 r1.0 claude) Bitcoin price falls below $60,000 as whales buy dip, ETF outflows mount - Investing.com
 28/11 13:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
+28/11 13:31:02 INFO    === btc_veloce (BTC-EUR) ===
+28/11 13:31:02 INFO    Prezzo 54233.67 | medie 54148.96/54271.44 trend GIU | notizie -0.27 su 15 (0 nuove, 0 da Claude) | 0.2s
+28/11 13:31:02 INFO       (-0.5 r0.9 claude) Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value
+28/11 13:31:02 INFO       (-0.5 r1.0 claude) 4 Scary Bitcoin Charts That Suggest This Bear Market Is Different
+28/11 13:31:02 INFO       (+0.1 r0.9 claude) Israeli bank lets customers buy Bitcoin but charges them 2% to get in and 2% to get out
+28/11 13:31:02 INFO    -> ATTENDI: trend 15 minuti non rialzista

@@ -2225,3 +2225,10 @@
 28/11 12:31:20 INFO    Trend superiore (ONE_DAY): GIU
 28/11 12:31:20 INFO    Prezzo 3.3e-06 | medie 3.337e-06/3.333e-06 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.4s
 28/11 12:31:20 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+28/11 13:31:05 INFO    === shib_intermedio (SHIB-EUR) ===
+28/11 13:31:06 INFO    Trend superiore (ONE_DAY): GIU
+28/11 13:31:06 INFO    Prezzo 3.28e-06 | medie 3.3315e-06/3.333e-06 trend GIU | notizie +0.26 su 14 (0 nuove, 0 da Claude) | 0.3s
+28/11 13:31:06 INFO       (+0.5 r1.0 claude) Shiba Inu Transaction Activity Jumps 42% as SHIB Rebounds From $0.0000034 - Hokanews
+28/11 13:31:06 INFO       (+0.2 r0.7 claude) Shiba Inu: Shibarium Gets Gaming Boost With Shiba Eternity Card Migration - U.Today
+28/11 13:31:06 INFO       (+0.1 r1.0 claude) Shiba Inu Transactions Rise 42% as SHIB Recovery Faces Key Resistance - Hokanews
+28/11 13:31:06 INFO    -> ATTENDI: trend orario non rialzista

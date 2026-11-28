@@ -2279,3 +2279,10 @@
 28/11 12:31:19 INFO    Prezzo 0.8609 | medie 0.86526/0.869736 trend GIU | notizie -0.00 su 1 (0 nuove, 0 da Claude) | 0.4s
 28/11 12:31:19 INFO       (-0.1 r0.9 claude) XRP holders face a choice between earning more yield and getting their tokens back
 28/11 12:31:19 INFO    -> ATTENDI: trend orario non rialzista
+28/11 13:31:04 INFO    === xrp_intermedio (XRP-EUR) ===
+28/11 13:31:05 INFO    Trend superiore (ONE_DAY): GIU
+28/11 13:31:05 INFO    Prezzo 0.8599 | medie 0.86493/0.869644 trend GIU | notizie -0.01 su 40 (2 nuove, 2 da Claude) | 0.3s
+28/11 13:31:05 INFO       (+0.3 r0.9 claude) XRP Ledger Lending Has Won Its Validator Vote: What Could XRP Holders Earn? - Yahoo Finance
+28/11 13:31:05 INFO       (+0.3 r0.9 claude) XRP Ledger Lending Has Won Its Validator Vote: What Could XRP Holders Earn? - 24/7 Wall St.
+28/11 13:31:05 INFO       (-0.3 r1.0 claude) XRP Open Interest Crashes 42% on Binance: Can Deleveraging Help Price Recover Above $1? - Coinpedia
+28/11 13:31:05 INFO    -> ATTENDI: trend orario non rialzista
