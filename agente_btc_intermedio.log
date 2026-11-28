@@ -2238,3 +2238,10 @@
 28/11 01:31:03 INFO       (-0.4 r0.9 claude) Veteran economist says Bitcoin holders have little to brag about this Thanksgiving - Yahoo Finance
 28/11 01:31:03 INFO       (-0.5 r1.0 claude) Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Big
 28/11 01:31:03 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+28/11 02:31:06 INFO    === btc_intermedio (BTC-EUR) ===
+28/11 02:31:06 INFO    Trend superiore (ONE_DAY): GIU
+28/11 02:31:06 INFO    Prezzo 54889.69 | medie 55268.50/55326.68 trend GIU | notizie -0.14 su 101 (2 nuove, 2 da Claude) | 0.2s
+28/11 02:31:06 INFO       (-0.9 r1.0 claude) Bitcoin Falls Below $60,000 Again; $228 Million Liquidated in a Single Hour, U.S. ETFs Post Record Monthly Out
+28/11 02:31:06 INFO       (-0.6 r1.0 claude) Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Big
+28/11 02:31:06 INFO       (-0.4 r0.9 claude) Veteran economist says Bitcoin holders have little to brag about this Thanksgiving - Yahoo Finance
+28/11 02:31:06 INFO    -> ATTENDI: trend orario non rialzista
