@@ -15960,3 +15960,9 @@
 28/11 15:01:11 INFO    === veloce (SOL-EUR) ===
 28/11 15:01:11 INFO    Prezzo 64.5400 | medie 64.5100/64.6814 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.2s
 28/11 15:01:11 INFO    -> ATTENDI: trend 15 minuti non rialzista
+28/11 15:15:45 INFO    === veloce (SOL-EUR) ===
+28/11 15:15:45 INFO    Prezzo 64.6800 | medie 64.4900/64.6657 trend GIU | notizie -0.27 su 26 (1 nuove, 1 da Claude) | 0.2s
+28/11 15:15:45 INFO       (-0.5 r1.0 claude) Solana (SOL) dips 2.59% amid mixed ETF inflows and trading below key moving averages - Pluang
+28/11 15:15:45 INFO       (-0.2 r0.9 claude) Is Solana a Good Investment After Falling 44% This Year? - 24/7 Wall St.
+28/11 15:15:45 INFO       (-0.5 r0.9 claude) Kyle Samani Unstakes 527,800 Solana; Some Tokens May Have Been Sold - bloomingbit
+28/11 15:15:45 INFO    -> ATTENDI: trend 15 minuti non rialzista
