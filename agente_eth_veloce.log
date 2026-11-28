@@ -7788,3 +7788,9 @@
 28/11 07:15:46 INFO       (-0.5 r1.0 claude) Ethereum Price Forecast: Selling pressure persists as exchange reserves rise by 516K ETH - FXStreet
 28/11 07:15:46 INFO       (-0.3 r0.9 claude) Ethereum falls 4 percent as Charles Hoskinson collaboration news fails to reverse momentum - Traders Union
 28/11 07:15:46 INFO    -> ATTENDI: trend 15 minuti non rialzista
+28/11 07:31:01 INFO    === eth_veloce (ETH-EUR) ===
+28/11 07:31:02 INFO    Prezzo 1514.24 | medie 1514.81/1518.06 trend GIU | notizie -0.18 su 62 (1 nuove, 1 da Claude) | 0.2s
+28/11 07:31:02 INFO       (-0.5 r1.0 claude) Ethereum technical analysis: Bearish momentum persists as price trades near $1,603 support - Traders Union
+28/11 07:31:02 INFO       (-0.4 r0.9 claude) Trump Crypto News: World Liberty Financial Sells $20 Million in Ethereum Assets, Data Shows - TradingView
+28/11 07:31:02 INFO       (-0.5 r1.0 claude) Ethereum Price Forecast: Selling pressure persists as exchange reserves rise by 516K ETH - FXStreet
+28/11 07:31:02 INFO    -> ATTENDI: trend 15 minuti non rialzista

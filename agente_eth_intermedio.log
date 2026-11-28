@@ -2269,3 +2269,10 @@
 28/11 06:31:04 INFO       (-0.6 r0.9 claude) Ethereum Price Forecast: Selling pressure persists as exchange reserves rise by 516K ETH - www.tmgm.com
 28/11 06:31:04 INFO       (+0.1 r0.9 claude) Ethereum sets December 15 Glamsterdam testnet launch despite gas concerns - www.tmgm.com
 28/11 06:31:04 INFO    -> ATTENDI: trend orario non rialzista
+28/11 07:31:02 INFO    === eth_intermedio (ETH-EUR) ===
+28/11 07:31:02 INFO    Trend superiore (ONE_DAY): GIU
+28/11 07:31:02 INFO    Prezzo 1514.24 | medie 1528.19/1544.44 trend GIU | notizie -0.18 su 62 (1 nuove, 1 da Claude) | 0.2s
+28/11 07:31:02 INFO       (-0.5 r1.0 claude) Ethereum technical analysis: Bearish momentum persists as price trades near $1,603 support - Traders Union
+28/11 07:31:02 INFO       (-0.4 r0.9 claude) Trump Crypto News: World Liberty Financial Sells $20 Million in Ethereum Assets, Data Shows - TradingView
+28/11 07:31:02 INFO       (-0.5 r1.0 claude) Ethereum Price Forecast: Selling pressure persists as exchange reserves rise by 516K ETH - FXStreet
+28/11 07:31:02 INFO    -> ATTENDI: trend orario non rialzista
