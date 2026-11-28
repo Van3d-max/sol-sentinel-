@@ -2297,3 +2297,10 @@
 28/11 10:31:06 INFO       (-0.5 r1.0 claude) Ethereum technical analysis: Bearish momentum persists as price trades near $1,603 support - Traders Union
 28/11 10:31:06 INFO       (-0.3 r0.9 claude) Why is Ethereum price down 4.8% today? - Traders Union
 28/11 10:31:06 INFO    -> ATTENDI: trend orario non rialzista
+28/11 11:31:07 INFO    === eth_intermedio (ETH-EUR) ===
+28/11 11:31:08 INFO    Trend superiore (ONE_DAY): GIU
+28/11 11:31:08 INFO    Prezzo 1504.94 | medie 1519.12/1541.92 trend GIU | notizie -0.18 su 51 (1 nuove, 1 da Claude) | 0.3s
+28/11 11:31:08 INFO       (-0.6 r0.9 claude) Ethereum sinks 4.49 percent despite Vitalik Buterin concern over centralization risks - Traders Union
+28/11 11:31:08 INFO       (-0.2 r0.9 claude) Vitalik Buterin warns against rushing Ethereum gas change that could break some contracts
+28/11 11:31:08 INFO       (-0.2 r0.9 claude) Vitalik Buterin warns against rushing Ethereum gas change that could break some contracts - CryptoSlate
+28/11 11:31:08 INFO    -> ATTENDI: trend orario non rialzista
