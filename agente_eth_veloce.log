@@ -8015,3 +8015,7 @@
 28/11 16:45:45 INFO       (-0.3 r1.0 claude) Vitalik Buterin Warns Against a Major Crypto Risk Before Ethereum Glamsterdam - Cointribune
 28/11 16:45:45 INFO       (+0.5 r0.6 claude) Bitcoin Surpasses $61,000, Driven by Renewed Demand for Digital Assets; Ethereum Rises 2.36% - صحيفة مال
 28/11 16:45:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.13)
+28/11 17:01:13 INFO    === eth_veloce (ETH-EUR) ===
+28/11 17:01:13 INFO    Prezzo 1513.40 | medie 1507.94/1506.49 trend SU | notizie -0.06 su 1 (0 nuove, 0 da Claude) | 0.1s
+28/11 17:01:13 INFO       (-0.2 r0.9 claude) Vitalik Buterin warns against rushing Ethereum gas change that could break some contracts
+28/11 17:01:13 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
