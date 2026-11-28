@@ -1960,3 +1960,9 @@
 28/11 08:31:04 INFO       (-0.7 r0.9 claude) Bitcoin falls 26% in a month as ETF outflows hit $5.78B - Crypto News
 28/11 08:31:04 INFO       (-0.7 r0.9 claude) US Spot Bitcoin ETFs Bleed for Eighth Straight Session; November Outflows Hit Record $5.78 Billion - BigGo Fin
 28/11 08:31:04 INFO    -> ATTENDI: trend giornaliero non rialzista
+28/11 09:31:05 INFO    === btc_lento (BTC-EUR) ===
+28/11 09:31:05 INFO    Prezzo 54532.00 | medie 55382.16/62470.39 trend GIU | notizie -0.14 su 111 (1 nuove, 1 da Claude) | 0.1s
+28/11 09:31:05 INFO       (-0.8 r1.0 claude) Bitcoin price today falls below $60k as whales buy dip, ETF outflows mount - Investing.com
+28/11 09:31:05 INFO       (-0.7 r0.9 claude) Bitcoin falls 26% in a month as ETF outflows hit $5.78B - Crypto News
+28/11 09:31:05 INFO       (-0.6 r0.9 claude) BlackRock Bitcoin ETF Loses $2.8 Billion in Eight Consecutive Trading Sessions - TradingView
+28/11 09:31:05 INFO    -> ATTENDI: trend giornaliero non rialzista
