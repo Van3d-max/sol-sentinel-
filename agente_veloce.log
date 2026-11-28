@@ -15819,3 +15819,9 @@
 28/11 09:01:13 INFO    === veloce (SOL-EUR) ===
 28/11 09:01:13 INFO    Prezzo 64.9300 | medie 65.0756/65.2105 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.2s
 28/11 09:01:13 INFO    -> ATTENDI: trend 15 minuti non rialzista
+28/11 09:15:48 INFO    === veloce (SOL-EUR) ===
+28/11 09:15:48 INFO    Prezzo 64.9200 | medie 65.0289/65.1810 trend GIU | notizie -0.13 su 22 (0 nuove, 0 da Claude) | 0.2s
+28/11 09:15:48 INFO       (-0.3 r0.9 claude) Japan's Enish to Sell 5,932 Solana, Withdraw SBI Crypto Fund Investment - bloomingbit
+28/11 09:15:48 INFO       (-0.3 r0.9 claude) U.S. spot Solana ETFs see $0.9M outflows, led b... - Pluang
+28/11 09:15:48 INFO       (-0.4 r1.0 claude) Solana (SOL) Suffers Its Worst Year So Far: Is More Pain Ahead? - CryptoRank
+28/11 09:15:48 INFO    -> ATTENDI: trend 15 minuti non rialzista
