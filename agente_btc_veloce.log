@@ -8056,3 +8056,9 @@
 28/11 17:45:46 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below $60,000 as $5.8 Billion Flees ETFs; December Rate Hike Looms as Key Variable - BigGo Fina
 28/11 17:45:46 INFO       (-0.5 r0.9 claude) Crypto News Today: Bitcoin Price Risks a $55K Breakdown, Ethereum Faces RSI Extremes, and XRP Defends $0.93 Su
 28/11 17:45:46 INFO    -> ATTENDI: notizie sotto la soglia (-0.20)
+28/11 18:01:13 INFO    === btc_veloce (BTC-EUR) ===
+28/11 18:01:13 INFO    Prezzo 54303.71 | medie 54394.86/54263.74 trend SU | notizie -0.09 su 9 (0 nuove, 0 da Claude) | 0.2s
+28/11 18:01:13 INFO       (-0.5 r0.9 claude) Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value
+28/11 18:01:13 INFO       (-0.1 r0.9 claude) What a 12-cent Bitcoin ETF option reveals about crash protection
+28/11 18:01:13 INFO       (-0.5 r1.0 claude) 4 Scary Bitcoin Charts That Suggest This Bear Market Is Different
+28/11 18:01:13 INFO    -> ATTENDI: notizie sotto la soglia (-0.09)
