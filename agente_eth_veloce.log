@@ -8009,3 +8009,9 @@
 28/11 16:31:03 INFO       (-0.3 r1.0 claude) Vitalik Buterin Warns Against a Major Crypto Risk Before Ethereum Glamsterdam - Cointribune
 28/11 16:31:03 INFO       (+0.5 r0.6 claude) Bitcoin Surpasses $61,000, Driven by Renewed Demand for Digital Assets; Ethereum Rises 2.36% - صحيفة مال
 28/11 16:31:03 INFO    -> ATTENDI: notizie sotto la soglia (-0.12)
+28/11 16:45:44 INFO    === eth_veloce (ETH-EUR) ===
+28/11 16:45:45 INFO    Prezzo 1508.50 | medie 1507.28/1506.12 trend SU | notizie -0.13 su 39 (0 nuove, 0 da Claude) | 0.3s
+28/11 16:45:45 INFO       (-0.3 r0.4 claude) Crypto News Today: Bitcoin Price Risks a $55K Breakdown, Ethereum Faces RSI Extremes, and XRP Defends $0.93 Su
+28/11 16:45:45 INFO       (-0.3 r1.0 claude) Vitalik Buterin Warns Against a Major Crypto Risk Before Ethereum Glamsterdam - Cointribune
+28/11 16:45:45 INFO       (+0.5 r0.6 claude) Bitcoin Surpasses $61,000, Driven by Renewed Demand for Digital Assets; Ethereum Rises 2.36% - صحيفة مال
+28/11 16:45:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.13)
