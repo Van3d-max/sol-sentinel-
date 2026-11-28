@@ -2332,3 +2332,10 @@
 28/11 15:31:02 INFO       (+0.5 r0.6 claude) Bitcoin Surpasses $61,000, Driven by Renewed Demand for Digital Assets; Ethereum Rises 2.36% - صحيفة مال
 28/11 15:31:02 INFO       (-0.4 r0.7 claude) Trump-Backed WLFI Falls 50% as World Liberty Dumps Ethereum at a $19M Loss - BeInCrypto
 28/11 15:31:02 INFO    -> ATTENDI: trend orario non rialzista
+28/11 16:31:03 INFO    === eth_intermedio (ETH-EUR) ===
+28/11 16:31:03 INFO    Trend superiore (ONE_DAY): GIU
+28/11 16:31:03 INFO    Prezzo 1505.79 | medie 1514.20/1537.65 trend GIU | notizie -0.12 su 41 (2 nuove, 2 da Claude) | 0.3s
+28/11 16:31:03 INFO       (-0.3 r0.4 claude) Crypto News Today: Bitcoin Price Risks a $55K Breakdown, Ethereum Faces RSI Extremes, and XRP Defends $0.93 Su
+28/11 16:31:03 INFO       (-0.3 r1.0 claude) Vitalik Buterin Warns Against a Major Crypto Risk Before Ethereum Glamsterdam - Cointribune
+28/11 16:31:03 INFO       (+0.5 r0.6 claude) Bitcoin Surpasses $61,000, Driven by Renewed Demand for Digital Assets; Ethereum Rises 2.36% - صحيفة مال
+28/11 16:31:03 INFO    -> ATTENDI: trend orario non rialzista
