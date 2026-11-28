@@ -1924,3 +1924,9 @@
 28/11 02:31:06 INFO       (-0.6 r1.0 claude) Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Big
 28/11 02:31:06 INFO       (-0.7 r0.9 claude) Bitcoin in free fall, Anthropic takes off: The financial market goes against the trend - Cointribune
 28/11 02:31:06 INFO    -> ATTENDI: trend giornaliero non rialzista
+28/11 03:31:04 INFO    === btc_lento (BTC-EUR) ===
+28/11 03:31:04 INFO    Prezzo 54738.28 | medie 55382.16/62470.39 trend GIU | notizie -0.10 su 130 (1 nuove, 1 da Claude) | 0.1s
+28/11 03:31:04 INFO       (-0.9 r1.0 claude) Bitcoin Falls Below $60,000 Again; $228 Million Liquidated in a Single Hour, U.S. ETFs Post Record Monthly Out
+28/11 03:31:04 INFO       (-0.8 r1.0 claude) Bitcoin Falls Below $60,000 as Placeholder’s Burniske Calls Crypto a ‘Black Friday’ Sale - bloomingbit
+28/11 03:31:04 INFO       (-0.6 r1.0 claude) Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Big
+28/11 03:31:04 INFO    -> ATTENDI: trend giornaliero non rialzista
