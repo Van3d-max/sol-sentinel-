@@ -7930,3 +7930,9 @@
 28/11 12:31:17 INFO       (-0.6 r0.9 claude) Keel Infrastructure sells entire Bitcoin treasury worth $192M - Crypto Briefing
 28/11 12:31:17 INFO       (+0.5 r0.9 claude) Bitcoin Surpasses $61,000, Driven by Renewed Demand for Digital Assets; Ethereum Rises 2.36% - صحيفة مال
 28/11 12:31:17 INFO    -> ATTENDI: trend 15 minuti non rialzista
+28/11 12:45:46 INFO    === btc_veloce (BTC-EUR) ===
+28/11 12:45:46 INFO    Prezzo 54135.93 | medie 54157.15/54342.98 trend GIU | notizie -0.18 su 98 (9 nuove, 9 da Claude) | 0.1s
+28/11 12:45:46 INFO       (-0.7 r1.0 claude) Bitcoin falls below $60,000 again - Gulf Today
+28/11 12:45:46 INFO       (-0.7 r1.0 claude) Bitcoin price falls below $60,000 as whales buy dip, ETF outflows mount - Investing.com
+28/11 12:45:46 INFO       (-0.5 r0.9 claude) Arthur Hayes Issues a Monday Warning for Bitcoin: “Selling Could Resume” - Cryptonews.net
+28/11 12:45:46 INFO    -> ATTENDI: trend 15 minuti non rialzista

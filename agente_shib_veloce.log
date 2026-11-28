@@ -7472,3 +7472,9 @@
 28/11 12:31:19 INFO    === shib_veloce (SHIB-EUR) ===
 28/11 12:31:19 INFO    Prezzo 3.3e-06 | medie 3.31e-06/3.33571e-06 trend GIU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.3s
 28/11 12:31:19 INFO    -> ATTENDI: trend 15 minuti non rialzista
+28/11 12:45:49 INFO    === shib_veloce (SHIB-EUR) ===
+28/11 12:45:49 INFO    Prezzo 3.3e-06 | medie 3.30667e-06/3.33429e-06 trend GIU | notizie +0.27 su 16 (2 nuove, 2 da Claude) | 0.2s
+28/11 12:45:49 INFO       (+0.5 r1.0 claude) Shiba Inu Transaction Activity Jumps 42% as SHIB Rebounds From $0.0000034 - Hokanews
+28/11 12:45:49 INFO       (+0.2 r0.7 claude) Shiba Inu: Shibarium Gets Gaming Boost With Shiba Eternity Card Migration - U.Today
+28/11 12:45:49 INFO       (+0.1 r1.0 claude) Shiba Inu Transactions Rise 42% as SHIB Recovery Faces Key Resistance - Hokanews
+28/11 12:45:49 INFO    -> ATTENDI: trend 15 minuti non rialzista

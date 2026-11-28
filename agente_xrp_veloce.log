@@ -7701,3 +7701,9 @@
 28/11 12:31:18 INFO    Prezzo 0.8609 | medie 0.858967/0.860005 trend GIU | notizie -0.00 su 1 (0 nuove, 0 da Claude) | 0.3s
 28/11 12:31:18 INFO       (-0.1 r0.9 claude) XRP holders face a choice between earning more yield and getting their tokens back
 28/11 12:31:18 INFO    -> ATTENDI: trend 15 minuti non rialzista
+28/11 12:45:47 INFO    === xrp_veloce (XRP-EUR) ===
+28/11 12:45:47 INFO    Prezzo 0.86 | medie 0.858878/0.859848 trend GIU | notizie -0.03 su 40 (1 nuove, 1 da Claude) | 0.1s
+28/11 12:45:47 INFO       (+0.3 r1.0 claude) Key facts: XRP lending countdown; ETF inflows return; 31.1B burn urged - TradingView
+28/11 12:45:47 INFO       (-0.3 r0.9 claude) Ripple’s RLUSD stablecoin hits record supply as XRP slips below $1 - Crypto Briefing
+28/11 12:45:47 INFO       (-0.3 r0.9 claude) Ripple’s stablecoin gains traction as XRP price falls below $1 - Crypto Briefing
+28/11 12:45:47 INFO    -> ATTENDI: trend 15 minuti non rialzista
