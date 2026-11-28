@@ -7918,3 +7918,9 @@
 28/11 12:01:21 INFO       (-0.6 r0.9 claude) BlackRock Bitcoin ETF Loses $2.8 Billion in Eight Consecutive Trading Sessions - TradingView
 28/11 12:01:21 INFO       (+0.4 r0.8 claude) Bitcoin: The second Russian bank opens its doors to BTC - Cointribune
 28/11 12:01:21 INFO    -> ATTENDI: trend 15 minuti non rialzista
+28/11 12:15:46 INFO    === btc_veloce (BTC-EUR) ===
+28/11 12:15:46 INFO    Prezzo 54191.92 | medie 54183.59/54381.55 trend GIU | notizie -0.14 su 84 (2 nuove, 2 da Claude) | 0.2s
+28/11 12:15:46 INFO       (-0.7 r1.0 claude) Bitcoin price falls below $60,000 as whales buy dip, ETF outflows mount - Investing.com
+28/11 12:15:46 INFO       (-0.6 r0.9 claude) Keel Infrastructure sells entire Bitcoin treasury worth $192M - Crypto Briefing
+28/11 12:15:46 INFO       (+0.5 r0.9 claude) Bitcoin Surpasses $61,000, Driven by Renewed Demand for Digital Assets; Ethereum Rises 2.36% - صحيفة مال
+28/11 12:15:46 INFO    -> ATTENDI: trend 15 minuti non rialzista
