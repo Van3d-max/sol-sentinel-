@@ -7738,3 +7738,9 @@
 28/11 04:31:06 INFO       (-0.8 r1.0 claude) Bitcoin Falls Below $60,000 as Placeholder’s Burniske Calls Crypto a ‘Black Friday’ Sale - bloomingbit
 28/11 04:31:06 INFO       (+0.3 r0.9 claude) VTB Enables Bitcoin Trading for Brokerage Clients - Briefs Finance
 28/11 04:31:06 INFO    -> ATTENDI: trend 15 minuti non rialzista
+28/11 04:45:52 INFO    === btc_veloce (BTC-EUR) ===
+28/11 04:45:52 INFO    Prezzo 54849.30 | medie 54808.52/54830.15 trend GIU | notizie -0.10 su 111 (2 nuove, 2 da Claude) | 0.3s
+28/11 04:45:52 INFO       (-0.9 r1.0 claude) Bitcoin Falls Below $60,000 Again; $228 Million Liquidated in a Single Hour, U.S. ETFs Post Record Monthly Out
+28/11 04:45:52 INFO       (-0.8 r1.0 claude) Bitcoin Falls Below $60,000 as Placeholder’s Burniske Calls Crypto a ‘Black Friday’ Sale - bloomingbit
+28/11 04:45:52 INFO       (+0.3 r1.0 claude) Short Liquidation Pressure 1.6 Times Longs as Bitcoin's $61,000 Level Draws Focus - bloomingbit
+28/11 04:45:52 INFO    -> ATTENDI: trend 15 minuti non rialzista
