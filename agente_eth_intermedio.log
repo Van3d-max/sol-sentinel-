@@ -2276,3 +2276,10 @@
 28/11 07:31:02 INFO       (-0.4 r0.9 claude) Trump Crypto News: World Liberty Financial Sells $20 Million in Ethereum Assets, Data Shows - TradingView
 28/11 07:31:02 INFO       (-0.5 r1.0 claude) Ethereum Price Forecast: Selling pressure persists as exchange reserves rise by 516K ETH - FXStreet
 28/11 07:31:02 INFO    -> ATTENDI: trend orario non rialzista
+28/11 08:31:00 INFO    === eth_intermedio (ETH-EUR) ===
+28/11 08:31:00 INFO    Trend superiore (ONE_DAY): GIU
+28/11 08:31:00 INFO    Prezzo 1513.31 | medie 1525.43/1543.88 trend GIU | notizie -0.23 su 60 (1 nuove, 1 da Claude) | 0.3s
+28/11 08:31:00 INFO       (-0.6 r0.9 claude) Ethereum sinks 4.49 percent despite Vitalik Buterin concern over centralization risks - Traders Union
+28/11 08:31:00 INFO       (-0.5 r1.0 claude) Ethereum technical analysis: Bearish momentum persists as price trades near $1,603 support - Traders Union
+28/11 08:31:00 INFO       (-0.4 r0.9 claude) Trump Crypto News: World Liberty Financial Sells $20 Million in Ethereum Assets, Data Shows - TradingView
+28/11 08:31:00 INFO    -> ATTENDI: trend orario non rialzista

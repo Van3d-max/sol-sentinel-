@@ -7828,3 +7828,9 @@
 28/11 08:15:55 INFO       (-0.8 r1.0 claude) Bitcoin price today falls below $60k as whales buy dip, ETF outflows mount - Investing.com
 28/11 08:15:55 INFO       (-0.6 r1.0 claude) Bitcoin price forecast: High risk of further declines if $58,105 support fails - Traders Union
 28/11 08:15:55 INFO    -> ATTENDI: trend 15 minuti non rialzista
+28/11 08:31:04 INFO    === btc_veloce (BTC-EUR) ===
+28/11 08:31:04 INFO    Prezzo 54550.95 | medie 54626.17/54685.57 trend GIU | notizie -0.17 su 97 (5 nuove, 5 da Claude) | 0.2s
+28/11 08:31:04 INFO       (-0.7 r0.9 claude) Bitcoin falls 26% in a month as ETF outflows hit $5.78B - Crypto News
+28/11 08:31:04 INFO       (-0.8 r1.0 claude) Bitcoin price today falls below $60k as whales buy dip, ETF outflows mount - Investing.com
+28/11 08:31:04 INFO       (-0.6 r1.0 claude) Bitcoin price forecast: High risk of further declines if $58,105 support fails - Traders Union
+28/11 08:31:04 INFO    -> ATTENDI: trend 15 minuti non rialzista
