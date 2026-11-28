@@ -8038,3 +8038,9 @@
 28/11 17:01:14 INFO       (-0.7 r1.0 claude) Bitcoin Price Crashes Below $60K Again: Why Is BTC Struggling to Sustain Its Recovery? - Coinpedia
 28/11 17:01:14 INFO       (-0.5 r1.0 claude) Bitcoin Fails to Break From Risk Assets, Weakening Its Investment Appeal - bloomingbit
 28/11 17:01:14 INFO    -> ATTENDI: notizia shock: Bitcoin Breaks Below $60,000 as $5.8 Billion Flees ETFs; December Rate Hike Loom
+28/11 17:15:46 INFO    === btc_veloce (BTC-EUR) ===
+28/11 17:15:46 INFO    Prezzo 54519.40 | medie 54360.60/54239.03 trend SU | notizie -0.20 su 74 (2 nuove, 2 da Claude) | 0.2s
+28/11 17:15:46 INFO       (-0.5 r0.9 claude) Bitcoin Slips Below $60,000 As Wall Street Rally Fails To Lift Crypto - Forbes Middle East
+28/11 17:15:46 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below $60,000 as $5.8 Billion Flees ETFs; December Rate Hike Looms as Key Variable - BigGo Fina
+28/11 17:15:46 INFO       (-0.7 r1.0 claude) Bitcoin Price Crashes Below $60K Again: Why Is BTC Struggling to Sustain Its Recovery? - Coinpedia
+28/11 17:15:46 INFO    -> ATTENDI: notizie sotto la soglia (-0.20)

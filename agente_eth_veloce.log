@@ -8019,3 +8019,9 @@
 28/11 17:01:13 INFO    Prezzo 1513.40 | medie 1507.94/1506.49 trend SU | notizie -0.06 su 1 (0 nuove, 0 da Claude) | 0.1s
 28/11 17:01:13 INFO       (-0.2 r0.9 claude) Vitalik Buterin warns against rushing Ethereum gas change that could break some contracts
 28/11 17:01:13 INFO    -> ATTENDI: notizie sotto la soglia (-0.06)
+28/11 17:15:45 INFO    === eth_veloce (ETH-EUR) ===
+28/11 17:15:45 INFO    Prezzo 1513.92 | medie 1508.47/1506.75 trend SU | notizie -0.18 su 41 (2 nuove, 2 da Claude) | 0.2s
+28/11 17:15:45 INFO       (-0.6 r1.0 claude) Extended outflows from US spot ETFs may deepen price vulnerability for Ethereum holders - Traders Union
+28/11 17:15:45 INFO       (-0.3 r0.4 claude) Crypto News Today: Bitcoin Price Risks a $55K Breakdown, Ethereum Faces RSI Extremes, and XRP Defends $0.93 Su
+28/11 17:15:45 INFO       (-0.3 r1.0 claude) Vitalik Buterin Warns Against a Major Crypto Risk Before Ethereum Glamsterdam - Cointribune
+28/11 17:15:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.18)
