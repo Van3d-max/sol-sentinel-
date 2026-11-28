@@ -8031,3 +8031,9 @@
 28/11 17:31:04 INFO       (-0.3 r0.4 claude) Crypto News Today: Bitcoin Price Risks a $55K Breakdown, Ethereum Faces RSI Extremes, and XRP Defends $0.93 Su
 28/11 17:31:04 INFO       (-0.3 r1.0 claude) Vitalik Buterin Warns Against a Major Crypto Risk Before Ethereum Glamsterdam - Cointribune
 28/11 17:31:04 INFO    -> ATTENDI: notizie sotto la soglia (-0.20)
+28/11 17:45:44 INFO    === eth_veloce (ETH-EUR) ===
+28/11 17:45:45 INFO    Prezzo 1504.55 | medie 1508.50/1506.64 trend SU | notizie -0.21 su 42 (1 nuove, 1 da Claude) | 0.3s
+28/11 17:45:45 INFO       (-0.6 r1.0 claude) Extended outflows from US spot ETFs may deepen price vulnerability for Ethereum holders - Traders Union
+28/11 17:45:45 INFO       (-0.4 r0.9 claude) Ethereum drops 45% in 2026 amid institutional s... - Pluang
+28/11 17:45:45 INFO       (-0.3 r0.4 claude) Crypto News Today: Bitcoin Price Risks a $55K Breakdown, Ethereum Faces RSI Extremes, and XRP Defends $0.93 Su
+28/11 17:45:45 INFO    -> ATTENDI: notizie sotto la soglia (-0.21)
