@@ -2343,3 +2343,10 @@
 28/11 16:31:05 INFO       (-0.7 r1.0 claude) Bitcoin Price Crashes Below $60K Again: Why Is BTC Struggling to Sustain Its Recovery? - Coinpedia
 28/11 16:31:05 INFO       (-0.5 r1.0 claude) Bitcoin Fails to Break From Risk Assets, Weakening Its Investment Appeal - bloomingbit
 28/11 16:31:05 INFO    -> ATTENDI: trend orario non rialzista
+28/11 17:31:06 INFO    === btc_intermedio (BTC-EUR) ===
+28/11 17:31:06 INFO    Trend superiore (ONE_DAY): GIU
+28/11 17:31:06 INFO    Prezzo 54392.02 | medie 54523.94/55068.52 trend GIU | notizie -0.21 su 74 (1 nuove, 1 da Claude) | 0.2s
+28/11 17:31:06 INFO       (-0.5 r0.9 claude) Bitcoin Slips Below $60,000 As Wall Street Rally Fails To Lift Crypto - Forbes Middle East
+28/11 17:31:06 INFO       (-0.8 r1.0 claude) Bitcoin Breaks Below $60,000 as $5.8 Billion Flees ETFs; December Rate Hike Looms as Key Variable - BigGo Fina
+28/11 17:31:06 INFO       (-0.7 r1.0 claude) Bitcoin Price Crashes Below $60K Again: Why Is BTC Struggling to Sustain Its Recovery? - Coinpedia
+28/11 17:31:06 INFO    -> ATTENDI: trend orario non rialzista
