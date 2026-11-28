@@ -1978,3 +1978,9 @@
 28/11 11:31:09 INFO       (-0.6 r0.9 claude) Bitcoin price drops below $59K as Anthropic joins tech stock rebound
 28/11 11:31:09 INFO       (+0.5 r0.8 claude) Russia’s VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test
 28/11 11:31:09 INFO    -> ATTENDI: trend giornaliero non rialzista
+28/11 12:31:17 INFO    === btc_lento (BTC-EUR) ===
+28/11 12:31:18 INFO    Prezzo 54217.29 | medie 55382.16/62470.39 trend GIU | notizie -0.12 su 104 (0 nuove, 0 da Claude) | 0.2s
+28/11 12:31:18 INFO       (-0.7 r1.0 claude) Bitcoin price falls below $60,000 as whales buy dip, ETF outflows mount - Investing.com
+28/11 12:31:18 INFO       (-0.6 r0.9 claude) Keel Infrastructure sells entire Bitcoin treasury worth $192M - Crypto Briefing
+28/11 12:31:18 INFO       (+0.5 r0.9 claude) Bitcoin Surpasses $61,000, Driven by Renewed Demand for Digital Assets; Ethereum Rises 2.36% - صحيفة مال
+28/11 12:31:18 INFO    -> ATTENDI: trend giornaliero non rialzista

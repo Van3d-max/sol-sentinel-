@@ -7908,3 +7908,9 @@
 28/11 12:15:44 INFO       (-0.6 r0.9 claude) Ethereum sinks 4.49 percent despite Vitalik Buterin concern over centralization risks - Traders Union
 28/11 12:15:44 INFO       (-0.2 r0.9 claude) Vitalik Buterin warns against rushing Ethereum gas change that could break some contracts
 28/11 12:15:44 INFO    -> ATTENDI: trend 15 minuti non rialzista
+28/11 12:31:16 INFO    === eth_veloce (ETH-EUR) ===
+28/11 12:31:16 INFO    Prezzo 1509.35 | medie 1507.21/1509.66 trend GIU | notizie -0.13 su 51 (3 nuove, 3 da Claude) | 0.3s
+28/11 12:31:16 INFO       (-0.3 r1.0 claude) Vitalik Buterin Warns Against a Major Crypto Risk Before Ethereum Glamsterdam - Cointribune
+28/11 12:31:16 INFO       (+0.5 r0.6 claude) Bitcoin Surpasses $61,000, Driven by Renewed Demand for Digital Assets; Ethereum Rises 2.36% - صحيفة مال
+28/11 12:31:16 INFO       (-0.4 r0.7 claude) Trump-Backed WLFI Falls 50% as World Liberty Dumps Ethereum at a $19M Loss - BeInCrypto
+28/11 12:31:16 INFO    -> ATTENDI: trend 15 minuti non rialzista
