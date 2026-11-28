@@ -7906,3 +7906,9 @@
 28/11 11:31:08 INFO       (+0.1 r0.9 claude) Israeli bank lets customers buy Bitcoin but charges them 2% to get in and 2% to get out
 28/11 11:31:08 INFO       (-0.6 r0.9 claude) Bitcoin price drops below $59K as Anthropic joins tech stock rebound
 28/11 11:31:08 INFO    -> ATTENDI: trend 15 minuti non rialzista
+28/11 11:45:46 INFO    === btc_veloce (BTC-EUR) ===
+28/11 11:45:46 INFO    Prezzo 54109.07 | medie 54242.80/54428.37 trend GIU | notizie -0.13 su 103 (3 nuove, 3 da Claude) | 0.2s
+28/11 11:45:46 INFO       (-0.6 r0.9 claude) Keel Infrastructure sells entire Bitcoin treasury worth $192M - Crypto Briefing
+28/11 11:45:46 INFO       (-0.6 r0.9 claude) BlackRock Bitcoin ETF Loses $2.8 Billion in Eight Consecutive Trading Sessions - TradingView
+28/11 11:45:46 INFO       (+0.4 r0.8 claude) Bitcoin: The second Russian bank opens its doors to BTC - Cointribune
+28/11 11:45:46 INFO    -> ATTENDI: trend 15 minuti non rialzista
