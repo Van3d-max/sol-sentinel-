@@ -2266,3 +2266,10 @@
 28/11 05:31:10 INFO       (-0.8 r1.0 claude) Bitcoin Falls Below $60,000 as Placeholder’s Burniske Calls Crypto a ‘Black Friday’ Sale - bloomingbit
 28/11 05:31:10 INFO       (+0.3 r1.0 claude) Short Liquidation Pressure 1.6 Times Longs as Bitcoin's $61,000 Level Draws Focus - bloomingbit
 28/11 05:31:10 INFO    -> ATTENDI: trend orario non rialzista
+28/11 06:31:07 INFO    === btc_intermedio (BTC-EUR) ===
+28/11 06:31:07 INFO    Trend superiore (ONE_DAY): GIU
+28/11 06:31:07 INFO    Prezzo 54697.92 | medie 54987.85/55283.07 trend GIU | notizie -0.26 su 113 (6 nuove, 6 da Claude) | 0.3s
+28/11 06:31:07 INFO       (-0.8 r1.0 claude) Bitcoin price today falls below $60k as whales buy dip, ETF outflows mount - Investing.com
+28/11 06:31:07 INFO       (-0.6 r1.0 claude) Bitcoin price forecast: High risk of further declines if $58,105 support fails - Traders Union
+28/11 06:31:07 INFO       (-0.7 r0.9 claude) US Spot Bitcoin ETFs Bleed for Eighth Straight Session; November Outflows Hit Record $5.78 Billion - BigGo Fin
+28/11 06:31:07 INFO    -> ATTENDI: trend orario non rialzista

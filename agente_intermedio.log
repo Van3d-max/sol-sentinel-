@@ -2237,3 +2237,10 @@
 28/11 05:31:06 INFO    Trend superiore (ONE_DAY): GIU
 28/11 05:31:06 INFO    Prezzo 65.2700 | medie 65.9115/65.4336 trend SU | notizie +0.00 su 0 (0 nuove, 0 da Claude) | 0.4s
 28/11 05:31:06 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)
+28/11 06:31:01 INFO    === intermedio (SOL-EUR) ===
+28/11 06:31:01 INFO    Trend superiore (ONE_DAY): GIU
+28/11 06:31:01 INFO    Prezzo 65.3400 | medie 65.8140/65.4418 trend SU | notizie -0.08 su 27 (0 nuove, 0 da Claude) | 0.4s
+28/11 06:31:01 INFO       (-0.3 r0.9 claude) U.S. spot Solana ETFs see $0.9M outflows, led b... - Pluang
+28/11 06:31:01 INFO       (-0.4 r1.0 claude) Solana (SOL) Suffers Its Worst Year So Far: Is More Pain Ahead? - CryptoRank
+28/11 06:31:01 INFO       (-0.4 r1.0 claude) Solana (SOL) Suffers Its Worst Year So Far: Is More Pain Ahead? - CryptoPotato
+28/11 06:31:01 INFO    -> ATTENDI: trend giornaliero non rialzista (filtro superiore)

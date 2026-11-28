@@ -2262,3 +2262,10 @@
 28/11 05:31:08 INFO       (+0.3 r0.5 claude) Aave V4 USDC deposits hit a record $107.4 million on Ethereum Core Hub - Crypto Briefing
 28/11 05:31:08 INFO       (+0.2 r0.6 claude) Bullish expands equity tokenization services to Aptos and Ethereum - Crypto Briefing
 28/11 05:31:08 INFO    -> ATTENDI: trend orario non rialzista
+28/11 06:31:03 INFO    === eth_intermedio (ETH-EUR) ===
+28/11 06:31:04 INFO    Trend superiore (ONE_DAY): GIU
+28/11 06:31:04 INFO    Prezzo 1517.06 | medie 1531.23/1545.15 trend GIU | notizie -0.16 su 68 (4 nuove, 4 da Claude) | 0.4s
+28/11 06:31:04 INFO       (-0.5 r1.0 claude) Ethereum technical analysis: Bearish momentum persists as price trades near $1,603 support - Traders Union
+28/11 06:31:04 INFO       (-0.6 r0.9 claude) Ethereum Price Forecast: Selling pressure persists as exchange reserves rise by 516K ETH - www.tmgm.com
+28/11 06:31:04 INFO       (+0.1 r0.9 claude) Ethereum sets December 15 Glamsterdam testnet launch despite gas concerns - www.tmgm.com
+28/11 06:31:04 INFO    -> ATTENDI: trend orario non rialzista
